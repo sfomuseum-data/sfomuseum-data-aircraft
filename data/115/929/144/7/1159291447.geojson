@@ -1,0 +1,78 @@
+{
+  "id": 1159291447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36619,46.956906,8.36619,46.956906",
+    "geom:latitude":46.956906,
+    "geom:longitude":8.36619,
+    "iso:country":"CH",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":950,
+    "sfomuseum:aircraft_model":"PC-7",
+    "sfomuseum:aircraft_name":"Pilatus PC-7 Turbo-Trainer",
+    "sfomuseum:aircraft_variant":"Turbo-Trainer",
+    "sfomuseum:manufacturer_id":1159294151,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        85682315,
+        102191581,
+        404328413,
+        85633051,
+        101853915,
+        102062973,
+        1159294151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q688148",
+        "wk:page":"Pilatus PC-7",
+        "wk:pageid":850199
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CH",
+    "wof:geomhash":"5fffd7070a7aee8f2adf7679c6a94e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062973,
+            "enterprise_id":1159294151,
+            "instrument_id":1159291447,
+            "localadmin_id":404328413,
+            "locality_id":101853915,
+            "region_id":85682315
+        }
+    ],
+    "wof:id":1159291447,
+    "wof:lastmodified":1544814282,
+    "wof:name":"Pilatus PC-7 Turbo-Trainer",
+    "wof:parent_id":101853915,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294151
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36619,
+    46.956906,
+    8.36619,
+    46.956906
+],
+  "geometry": {"coordinates":[8.36619,46.956906],"type":"Point"}
+}

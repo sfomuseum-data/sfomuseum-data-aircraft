@@ -1,0 +1,76 @@
+{
+  "id": 1159292779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.188027,35.014256,-118.188027,35.014256",
+    "geom:latitude":35.014256,
+    "geom:longitude":-118.188027,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1565,
+    "sfomuseum:aircraft_model":"Model 311",
+    "sfomuseum:aircraft_name":"Scaled Composites Model 311 Virgin Atlantic GlobalFlyer",
+    "sfomuseum:aircraft_variant":"Virgin Atlantic GlobalFlyer",
+    "sfomuseum:manufacturer_id":1159294243,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q1309410"
+    ],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85927903,
+        102081727,
+        1159294243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1500715",
+        "wk:page":"Virgin Atlantic GlobalFlyer",
+        "wk:pageid":653054
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"922ee845547745f94fdc543eb2795591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081727,
+            "enterprise_id":1159294243,
+            "instrument_id":1159292779,
+            "locality_id":85927903,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1159292779,
+    "wof:lastmodified":1544814284,
+    "wof:name":"Scaled Composites Model 311 Virgin Atlantic GlobalFlyer",
+    "wof:parent_id":85927903,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294243
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.188027,
+    35.014256,
+    -118.188027,
+    35.014256
+],
+  "geometry": {"coordinates":[-118.18802700000001,35.014256],"type":"Point"}
+}

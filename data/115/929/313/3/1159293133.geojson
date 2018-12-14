@@ -1,0 +1,76 @@
+{
+  "id": 1159293133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.442033,52.287696,13.442033,52.287696",
+    "geom:latitude":52.287696,
+    "geom:longitude":13.442033,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1742,
+    "sfomuseum:aircraft_model":"B\u00fc 133 Jungmeister",
+    "sfomuseum:aircraft_name":"B\u00fccker B\u00fc 133 Jungmeister",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293665,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        85682553,
+        102191581,
+        85633111,
+        101819585,
+        102063911,
+        1159293665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q31536",
+        "wk:page":"B\u00fccker B\u00fc 133",
+        "wk:pageid":9854990
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DE",
+    "wof:geomhash":"855c27af28b3fd843245a729b4521113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063911,
+            "enterprise_id":1159293665,
+            "instrument_id":1159293133,
+            "locality_id":101819585,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":1159293133,
+    "wof:lastmodified":1544814284,
+    "wof:name":"B\u00fccker B\u00fc 133 Jungmeister",
+    "wof:parent_id":101819585,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293665
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.442033,
+    52.287696,
+    13.442033,
+    52.287696
+],
+  "geometry": {"coordinates":[13.442033,52.287696],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1159293461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1898,
+    "sfomuseum:aircraft_model":"D-1",
+    "sfomuseum:aircraft_name":"Davis D-1",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159294263,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q11436"
+    ],
+    "wof:belongsto":[
+        1159294263,
+        1
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5241878",
+        "wk:page":"Davis D-1",
+        "wk:pageid":30933123
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":1,
+            "enterprise_id":1159294263,
+            "instrument_id":1159293461
+        }
+    ],
+    "wof:id":1159293461,
+    "wof:lastmodified":1544814284,
+    "wof:name":"Davis D-1",
+    "wof:parent_id":1,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294263
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

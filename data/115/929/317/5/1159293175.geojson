@@ -1,0 +1,68 @@
+{
+  "id": 1159293175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1767,
+    "sfomuseum:aircraft_model":"S.30",
+    "sfomuseum:aircraft_name":"Short S.30 Empire",
+    "sfomuseum:aircraft_variant":"Empire",
+    "sfomuseum:manufacturer_id":1159293623,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q1153376"
+    ],
+    "wof:belongsto":[
+        1159293623,
+        1
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1371974",
+        "wk:page":"Short Empire",
+        "wk:pageid":534977
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":1,
+            "enterprise_id":1159293623,
+            "instrument_id":1159293175
+        }
+    ],
+    "wof:id":1159293175,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Short S.30 Empire",
+    "wof:parent_id":1,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293623
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

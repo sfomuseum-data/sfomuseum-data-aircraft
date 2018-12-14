@@ -1,0 +1,68 @@
+{
+  "id": 1159292369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.784359,32.736212,-96.784359,32.736212",
+    "geom:latitude":32.736212,
+    "geom:longitude":-96.784359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1371,
+    "sfomuseum:aircraft_model":"F6U",
+    "sfomuseum:aircraft_name":"Vought F6U",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293877,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101724385,
+        102080647,
+        1159293877
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"f012fb7b7510b39caedf6f278c119b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080647,
+            "enterprise_id":1159293877,
+            "instrument_id":1159292369,
+            "locality_id":101724385,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1159292369,
+    "wof:lastmodified":1544814280,
+    "wof:name":"Vought F6U",
+    "wof:parent_id":101724385,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293877
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.784359,
+    32.736212,
+    -96.784359,
+    32.736212
+],
+  "geometry": {"coordinates":[-96.78435899999999,32.736212],"type":"Point"}
+}

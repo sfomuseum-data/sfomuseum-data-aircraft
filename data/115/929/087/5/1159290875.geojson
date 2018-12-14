@@ -1,0 +1,72 @@
+{
+  "id": 1159290875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
+    "geom:latitude":52.418788,
+    "geom:longitude":-1.247349,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":692,
+    "sfomuseum:aircraft_model":"",
+    "sfomuseum:aircraft_name":"Hawker Siddeley Harrier",
+    "sfomuseum:aircraft_variant":"Harrier",
+    "sfomuseum:manufacturer_id":1159294003,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        1159294003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q725313",
+        "wk:page":"Hawker Siddeley Harrier",
+        "wk:pageid":14314
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "empire_id":136253055,
+            "enterprise_id":1159294003,
+            "instrument_id":1159290875
+        }
+    ],
+    "wof:id":1159290875,
+    "wof:lastmodified":1544814284,
+    "wof:name":"Hawker Siddeley Harrier",
+    "wof:parent_id":85633159,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294003
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.247349,
+    52.418788,
+    -1.247349,
+    52.418788
+],
+  "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
+}

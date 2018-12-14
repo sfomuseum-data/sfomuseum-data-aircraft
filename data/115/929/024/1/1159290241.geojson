@@ -1,0 +1,78 @@
+{
+  "id": 1159290241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.985586,39.98072,-82.985586,39.98072",
+    "geom:latitude":39.98072,
+    "geom:longitude":-82.985586,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":397,
+    "sfomuseum:aircraft_model":"",
+    "sfomuseum:aircraft_name":"Culver Dart",
+    "sfomuseum:aircraft_variant":"Dart",
+    "sfomuseum:manufacturer_id":1159294145,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q11436"
+    ],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        404524625,
+        85633793,
+        101712381,
+        102080969,
+        1159294145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5193727",
+        "wk:page":"Culver Dart",
+        "wk:pageid":11789378
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"c81f4f7ee7979b8a457fa00513a2521d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "enterprise_id":1159294145,
+            "instrument_id":1159290241,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":1159290241,
+    "wof:lastmodified":1544814282,
+    "wof:name":"Culver Dart",
+    "wof:parent_id":101712381,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294145
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.985586,
+    39.98072,
+    -82.985586,
+    39.98072
+],
+  "geometry": {"coordinates":[-82.985586,39.98072],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1159292389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude":39.715956,
+    "geom:longitude":-96.999668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1380,
+    "sfomuseum:aircraft_model":"S-4C",
+    "sfomuseum:aircraft_name":"Thomas-Morse S-4C Scout",
+    "sfomuseum:aircraft_variant":"Scout",
+    "sfomuseum:manufacturer_id":1159294343,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q216916"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057,
+        1159294343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2421869",
+        "wk:page":"Thomas-Morse S-4",
+        "wk:pageid":16837867
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "enterprise_id":1159294343,
+            "instrument_id":1159292389
+        }
+    ],
+    "wof:id":1159292389,
+    "wof:lastmodified":1544814283,
+    "wof:name":"Thomas-Morse S-4C Scout",
+    "wof:parent_id":85633793,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294343
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.999668,
+    39.715956,
+    -96.999668,
+    39.715956
+],
+  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1159290651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.249092,12.194274,-68.249092,12.194274",
+    "geom:latitude":12.194274,
+    "geom:longitude":-68.249092,
+    "iso:country":"AN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":593,
+    "sfomuseum:aircraft_model":"F.28-3000",
+    "sfomuseum:aircraft_name":"Fokker F.28-3000 Fellowship",
+    "sfomuseum:aircraft_variant":"Fellowship",
+    "sfomuseum:manufacturer_id":1159293619,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        1159293619,
+        85632727
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"AN",
+    "wof:geomhash":"178d0dc0063b73c0470e0c966fb194e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632727,
+            "enterprise_id":1159293619,
+            "instrument_id":1159290651
+        }
+    ],
+    "wof:id":1159290651,
+    "wof:lastmodified":1544814280,
+    "wof:name":"Fokker F.28-3000 Fellowship",
+    "wof:parent_id":85632727,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293619
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.249092,
+    12.194274,
+    -68.249092,
+    12.194274
+],
+  "geometry": {"coordinates":[-68.249092,12.194274],"type":"Point"}
+}

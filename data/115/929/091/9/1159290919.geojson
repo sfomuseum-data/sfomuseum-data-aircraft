@@ -1,0 +1,62 @@
+{
+  "id": 1159290919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.464618,40.09095,-3.464618,40.09095",
+    "geom:latitude":40.09095,
+    "geom:longitude":-3.464618,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":712,
+    "sfomuseum:aircraft_model":"HA-200",
+    "sfomuseum:aircraft_name":"Hispano Aviaci\u00f3n HA-200",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159294001,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        102191581,
+        1159294001,
+        85633129
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"ES",
+    "wof:geomhash":"92f8bed2128be1c9d197ed975c7975d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "enterprise_id":1159294001,
+            "instrument_id":1159290919
+        }
+    ],
+    "wof:id":1159290919,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Hispano Aviaci\u00f3n HA-200",
+    "wof:parent_id":85633129,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294001
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.464618,
+    40.09095,
+    -3.464618,
+    40.09095
+],
+  "geometry": {"coordinates":[-3.464618,40.09095],"type":"Point"}
+}

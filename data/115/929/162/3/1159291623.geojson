@@ -1,0 +1,60 @@
+{
+  "id": 1159291623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1029,
+    "sfomuseum:aircraft_model":"S.45A",
+    "sfomuseum:aircraft_name":"Short S.45A Solent",
+    "sfomuseum:aircraft_variant":"Solent",
+    "sfomuseum:manufacturer_id":1159293623,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        1159293623,
+        1
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":1,
+            "enterprise_id":1159293623,
+            "instrument_id":1159291623
+        }
+    ],
+    "wof:id":1159291623,
+    "wof:lastmodified":1544814284,
+    "wof:name":"Short S.45A Solent",
+    "wof:parent_id":1,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293623
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

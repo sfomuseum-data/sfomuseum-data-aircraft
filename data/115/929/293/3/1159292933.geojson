@@ -1,0 +1,78 @@
+{
+  "id": 1159292933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.833687,45.818949,8.833687,45.818949",
+    "geom:latitude":45.818949,
+    "geom:longitude":8.833687,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1644,
+    "sfomuseum:aircraft_model":"M.C.94",
+    "sfomuseum:aircraft_name":"Macchi M.C.94",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293739,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q1153376"
+    ],
+    "wof:belongsto":[
+        85685231,
+        102191581,
+        404467909,
+        85633253,
+        404227497,
+        101752729,
+        1159293739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3841997",
+        "wk:page":"Macchi M.C.94",
+        "wk:pageid":16335936
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"IT",
+    "wof:geomhash":"6b4e4581678495ede61cb64621987686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "enterprise_id":1159293739,
+            "instrument_id":1159292933,
+            "localadmin_id":404467909,
+            "locality_id":101752729,
+            "macroregion_id":404227497,
+            "region_id":85685231
+        }
+    ],
+    "wof:id":1159292933,
+    "wof:lastmodified":1544814284,
+    "wof:name":"Macchi M.C.94",
+    "wof:parent_id":101752729,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293739
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.833687,
+    45.818949,
+    8.833687,
+    45.818949
+],
+  "geometry": {"coordinates":[8.833687,45.818949],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1159291483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":966,
+    "sfomuseum:aircraft_model":"S-2A",
+    "sfomuseum:aircraft_name":"Pitts S-2A Special",
+    "sfomuseum:aircraft_variant":"Special",
+    "sfomuseum:manufacturer_id":1159293595,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q11436"
+    ],
+    "wof:belongsto":[
+        1159293595,
+        1
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1262007",
+        "wk:page":"Pitts Special",
+        "wk:pageid":1026824
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":1,
+            "enterprise_id":1159293595,
+            "instrument_id":1159291483
+        }
+    ],
+    "wof:id":1159291483,
+    "wof:lastmodified":1544814278,
+    "wof:name":"Pitts S-2A Special",
+    "wof:parent_id":1,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293595
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

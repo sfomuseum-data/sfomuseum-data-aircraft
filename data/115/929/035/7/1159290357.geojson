@@ -1,0 +1,72 @@
+{
+  "id": 1159290357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.549047,46.698481,2.549047,46.698481",
+    "geom:latitude":46.698481,
+    "geom:longitude":2.549047,
+    "iso:country":"FR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":457,
+    "sfomuseum:aircraft_model":"D.500",
+    "sfomuseum:aircraft_name":"Dewoitine D.500",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293715,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        1159293715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2502130",
+        "wk:page":"Dewoitine D.500",
+        "wk:pageid":452355
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FR",
+    "wof:geomhash":"0f1e966ff020c6c01f3634368df829a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "enterprise_id":1159293715,
+            "instrument_id":1159290357
+        }
+    ],
+    "wof:id":1159290357,
+    "wof:lastmodified":1544814278,
+    "wof:name":"Dewoitine D.500",
+    "wof:parent_id":85633147,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293715
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.549047,
+    46.698481,
+    2.549047,
+    46.698481
+],
+  "geometry": {"coordinates":[2.549047,46.698481],"type":"Point"}
+}

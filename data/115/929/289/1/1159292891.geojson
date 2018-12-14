@@ -1,0 +1,66 @@
+{
+  "id": 1159292891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.375817,49.734736,13.375817,49.734736",
+    "geom:latitude":49.734736,
+    "geom:longitude":13.375817,
+    "iso:country":"CZ",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1625,
+    "sfomuseum:aircraft_model":"D1",
+    "sfomuseum:aircraft_name":"Skoda D1",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159294125,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85682433,
+        102191581,
+        85633105,
+        101748111,
+        1159294125
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CZ",
+    "wof:geomhash":"d0dace42a910209ee4618e626c344a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "enterprise_id":1159294125,
+            "instrument_id":1159292891,
+            "locality_id":101748111,
+            "region_id":85682433
+        }
+    ],
+    "wof:id":1159292891,
+    "wof:lastmodified":1544814284,
+    "wof:name":"Skoda D1",
+    "wof:parent_id":101748111,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294125
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.375817,
+    49.734736,
+    13.375817,
+    49.734736
+],
+  "geometry": {"coordinates":[13.375817,49.734736],"type":"Point"}
+}

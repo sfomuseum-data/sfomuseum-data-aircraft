@@ -1,0 +1,60 @@
+{
+  "id": 1159290527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":538,
+    "sfomuseum:aircraft_model":"Taube",
+    "sfomuseum:aircraft_name":"Etrich Taube Dove",
+    "sfomuseum:aircraft_variant":"Dove",
+    "sfomuseum:manufacturer_id":1159293865,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        1159293865,
+        1
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":1,
+            "enterprise_id":1159293865,
+            "instrument_id":1159290527
+        }
+    ],
+    "wof:id":1159290527,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Etrich Taube Dove",
+    "wof:parent_id":1,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293865
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1159292117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.384858,58.33747,-112.384858,58.33747",
+    "geom:latitude":58.33747,
+    "geom:longitude":-112.384858,
+    "iso:country":"CA",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1251,
+    "sfomuseum:aircraft_model":"Ambassador",
+    "sfomuseum:aircraft_name":"Airspeed Ambassador",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293667,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q210932"
+    ],
+    "wof:belongsto":[
+        102191575,
+        1159293667,
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q409195",
+        "wk:page":"Airspeed Ambassador",
+        "wk:pageid":217678
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"CA",
+    "wof:geomhash":"c11fee8226d88a3e72215450c879868c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "enterprise_id":1159293667,
+            "instrument_id":1159292117
+        }
+    ],
+    "wof:id":1159292117,
+    "wof:lastmodified":1544814283,
+    "wof:name":"Airspeed Ambassador",
+    "wof:parent_id":85633041,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293667
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.384858,
+    58.33747,
+    -112.384858,
+    58.33747
+],
+  "geometry": {"coordinates":[-112.38485799999999,58.33747],"type":"Point"}
+}

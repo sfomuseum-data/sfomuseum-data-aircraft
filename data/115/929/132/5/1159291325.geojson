@@ -1,0 +1,72 @@
+{
+  "id": 1159291325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.393288,35.675099,139.393288,35.675099",
+    "geom:latitude":35.675099,
+    "geom:longitude":139.393288,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":893,
+    "sfomuseum:aircraft_model":"A6M",
+    "sfomuseum:aircraft_name":"Mitsubishi A6M Zero",
+    "sfomuseum:aircraft_variant":"Zero",
+    "sfomuseum:manufacturer_id":1159294053,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        85672817,
+        102191569,
+        85632429,
+        1159294053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q40156",
+        "wk:page":"Mitsubishi A6M Zero",
+        "wk:pageid":19623
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"JP",
+    "wof:geomhash":"8c7d27e8b8c2f9da82569e7d9c1fbb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "enterprise_id":1159294053,
+            "instrument_id":1159291325,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1159291325,
+    "wof:lastmodified":1544814280,
+    "wof:name":"Mitsubishi A6M Zero",
+    "wof:parent_id":85672817,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294053
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.393288,
+    35.675099,
+    139.393288,
+    35.675099
+],
+  "geometry": {"coordinates":[139.39328800000001,35.675099],"type":"Point"}
+}

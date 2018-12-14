@@ -1,0 +1,72 @@
+{
+  "id": 1159292029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude":39.715956,
+    "geom:longitude":-96.999668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1210,
+    "sfomuseum:aircraft_model":"XNBL-1",
+    "sfomuseum:aircraft_name":"Witteman-Lewis XNBL-1",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293679,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15126161"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057,
+        1159293679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4020584",
+        "wk:page":"Witteman-Lewis XNBL-1",
+        "wk:pageid":5865733
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "enterprise_id":1159293679,
+            "instrument_id":1159292029
+        }
+    ],
+    "wof:id":1159292029,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Witteman-Lewis XNBL-1",
+    "wof:parent_id":85633793,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293679
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.999668,
+    39.715956,
+    -96.999668,
+    39.715956
+],
+  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+}

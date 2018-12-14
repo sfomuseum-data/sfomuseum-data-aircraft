@@ -1,0 +1,68 @@
+{
+  "id": 1159292503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.25703,34.05513,-118.25703,34.05513",
+    "geom:latitude":34.05513,
+    "geom:longitude":-118.25703,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1433,
+    "sfomuseum:aircraft_model":"RB-45C",
+    "sfomuseum:aircraft_name":"North American Aviation RB-45C Tornado",
+    "sfomuseum:aircraft_variant":"Tornado",
+    "sfomuseum:manufacturer_id":1159293761,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85923517,
+        102086957,
+        1159293761
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"2196c5789f776f4bf2d9c7983408b4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "enterprise_id":1159293761,
+            "instrument_id":1159292503,
+            "locality_id":85923517,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1159292503,
+    "wof:lastmodified":1544814281,
+    "wof:name":"North American Aviation RB-45C Tornado",
+    "wof:parent_id":85923517,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293761
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.25703,
+    34.05513,
+    -118.25703,
+    34.05513
+],
+  "geometry": {"coordinates":[-118.25703,34.05513],"type":"Point"}
+}

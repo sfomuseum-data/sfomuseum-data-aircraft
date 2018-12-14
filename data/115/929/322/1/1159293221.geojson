@@ -1,0 +1,76 @@
+{
+  "id": 1159293221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40732,52.52045,13.40732,52.52045",
+    "geom:latitude":52.52045,
+    "geom:longitude":13.40732,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1788,
+    "sfomuseum:aircraft_model":"Ro V",
+    "sfomuseum:aircraft_name":"Rohrbach Ro V Rocco",
+    "sfomuseum:aircraft_variant":"Rocco",
+    "sfomuseum:manufacturer_id":1159293937,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q1153376"
+    ],
+    "wof:belongsto":[
+        85682499,
+        102191581,
+        85633111,
+        101748799,
+        102063945,
+        1159293937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3439766",
+        "wk:page":"Rohrbach Ro V Rocco",
+        "wk:pageid":18189656
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DE",
+    "wof:geomhash":"ac14d8562fe0f4ca7df35e6452c33de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063945,
+            "enterprise_id":1159293937,
+            "instrument_id":1159293221,
+            "locality_id":101748799,
+            "region_id":85682499
+        }
+    ],
+    "wof:id":1159293221,
+    "wof:lastmodified":1544814280,
+    "wof:name":"Rohrbach Ro V Rocco",
+    "wof:parent_id":101748799,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293937
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40732,
+    52.52045,
+    13.40732,
+    52.52045
+],
+  "geometry": {"coordinates":[13.40732,52.52045],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1159290591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47572,51.309934,9.47572,51.309934",
+    "geom:latitude":51.309934,
+    "geom:longitude":9.47572,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":566,
+    "sfomuseum:aircraft_model":"Fi 156",
+    "sfomuseum:aircraft_name":"Fieseler Fi 156 Storch",
+    "sfomuseum:aircraft_variant":"Storch",
+    "sfomuseum:manufacturer_id":1159293713,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        85682531,
+        102191581,
+        404227551,
+        85633111,
+        101748659,
+        102063755,
+        1159293713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q156894",
+        "wk:page":"Fieseler Fi 156",
+        "wk:pageid":176773
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DE",
+    "wof:geomhash":"274328d08b1fef533856cdc7fabae24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063755,
+            "enterprise_id":1159293713,
+            "instrument_id":1159290591,
+            "locality_id":101748659,
+            "macrocounty_id":404227551,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":1159290591,
+    "wof:lastmodified":1544814283,
+    "wof:name":"Fieseler Fi 156 Storch",
+    "wof:parent_id":101748659,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293713
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47572,
+    51.309934,
+    9.47572,
+    51.309934
+],
+  "geometry": {"coordinates":[9.47572,51.309934],"type":"Point"}
+}

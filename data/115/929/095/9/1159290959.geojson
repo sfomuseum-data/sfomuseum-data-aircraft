@@ -1,0 +1,78 @@
+{
+  "id": 1159290959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.615561,55.741469,37.615561,55.741469",
+    "geom:latitude":55.741469,
+    "geom:longitude":37.615561,
+    "iso:country":"RU",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":730,
+    "sfomuseum:aircraft_model":"Il-62",
+    "sfomuseum:aircraft_name":"Ilyushin Il-62",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159294129,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056995"
+    ],
+    "wof:belongsto":[
+        85688085,
+        102191581,
+        85632685,
+        102003033,
+        1108736095,
+        1159294129,
+        874393555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q182575",
+        "wk:page":"Ilyushin Il-62",
+        "wk:pageid":229856
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"RU",
+    "wof:geomhash":"4778b341d66222d8a3fffbe5929a7523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108736095,
+            "empire_id":874393555,
+            "enterprise_id":1159294129,
+            "instrument_id":1159290959,
+            "locality_id":102003033,
+            "region_id":85688085
+        }
+    ],
+    "wof:id":1159290959,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Ilyushin Il-62",
+    "wof:parent_id":102003033,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294129
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.615561,
+    55.741469,
+    37.615561,
+    55.741469
+],
+  "geometry": {"coordinates":[37.615561,55.741469],"type":"Point"}
+}

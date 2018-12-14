@@ -1,0 +1,74 @@
+{
+  "id": 1159290839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.286901,51.391982,-0.286901,51.391982",
+    "geom:latitude":51.391982,
+    "geom:longitude":-0.286901,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":676,
+    "sfomuseum:aircraft_model":"",
+    "sfomuseum:aircraft_name":"Hawker Hurricane",
+    "sfomuseum:aircraft_variant":"Hurricane",
+    "sfomuseum:manufacturer_id":1159293913,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        85684387,
+        102191581,
+        85633159,
+        404227469,
+        1159293913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q194251",
+        "wk:page":"Hawker Hurricane",
+        "wk:pageid":57970
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"67c0e259100b24c2d824fc1d2a354c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "enterprise_id":1159293913,
+            "instrument_id":1159290839,
+            "macroregion_id":404227469,
+            "region_id":85684387
+        }
+    ],
+    "wof:id":1159290839,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Hawker Hurricane",
+    "wof:parent_id":85684387,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293913
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.286901,
+    51.391982,
+    -0.286901,
+    51.391982
+],
+  "geometry": {"coordinates":[-0.286901,51.391982],"type":"Point"}
+}

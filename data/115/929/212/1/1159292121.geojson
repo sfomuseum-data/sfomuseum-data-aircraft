@@ -1,0 +1,76 @@
+{
+  "id": 1159292121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.59583,10.24694,-67.59583,10.24694",
+    "geom:latitude":10.24694,
+    "geom:longitude":-67.59583,
+    "iso:country":"VE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1253,
+    "sfomuseum:aircraft_model":"D.Va",
+    "sfomuseum:aircraft_name":"Albatros D.Va",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293773,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056995"
+    ],
+    "wof:belongsto":[
+        85680525,
+        102191577,
+        85632317,
+        421181395,
+        421171995,
+        1159293773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q576667",
+        "wk:page":"Albatros D.V",
+        "wk:pageid":3440420
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"VE",
+    "wof:geomhash":"52bfa7979048e1cbea529bcb8f637fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421171995,
+            "enterprise_id":1159293773,
+            "instrument_id":1159292121,
+            "locality_id":421181395,
+            "region_id":85680525
+        }
+    ],
+    "wof:id":1159292121,
+    "wof:lastmodified":1544814281,
+    "wof:name":"Albatros D.Va",
+    "wof:parent_id":421181395,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293773
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.59583,
+    10.24694,
+    -67.59583,
+    10.24694
+],
+  "geometry": {"coordinates":[-67.59583000000001,10.24694],"type":"Point"}
+}

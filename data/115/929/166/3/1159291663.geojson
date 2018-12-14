@@ -1,0 +1,65 @@
+{
+  "id": 1159291663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude":39.715956,
+    "geom:longitude":-96.999668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1047,
+    "sfomuseum:aircraft_model":"S-40",
+    "sfomuseum:aircraft_name":"Sikorsky (USA) S-40 Southern Clipper",
+    "sfomuseum:aircraft_variant":"Southern Clipper",
+    "sfomuseum:manufacturer_id":1159293917,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057,
+        1159293917
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "empire_id":136253057,
+            "enterprise_id":1159293917,
+            "instrument_id":1159291663
+        }
+    ],
+    "wof:id":1159291663,
+    "wof:lastmodified":1544814283,
+    "wof:name":"Sikorsky (USA) S-40 Southern Clipper",
+    "wof:parent_id":85633793,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293917,
+        1159291657
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.999668,
+    39.715956,
+    -96.999668,
+    39.715956
+],
+  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+}

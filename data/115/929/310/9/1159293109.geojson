@@ -1,0 +1,74 @@
+{
+  "id": 1159293109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.384788,48.910939,2.384788,48.910939",
+    "geom:latitude":48.910939,
+    "geom:longitude":2.384788,
+    "iso:country":"FR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1731,
+    "sfomuseum:aircraft_model":"620",
+    "sfomuseum:aircraft_name":"Potez 620",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293803,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85683475,
+        102191581,
+        404228189,
+        1159321961,
+        85633147,
+        404227465,
+        101749071,
+        102071949,
+        1159293803
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FR",
+    "wof:geomhash":"a8d12a0930c7eb883471de09070b4ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071949,
+            "enterprise_id":1159293803,
+            "instrument_id":1159293109,
+            "localadmin_id":1159321961,
+            "locality_id":101749071,
+            "macrocounty_id":404228189,
+            "macroregion_id":404227465,
+            "region_id":85683475
+        }
+    ],
+    "wof:id":1159293109,
+    "wof:lastmodified":1544814283,
+    "wof:name":"Potez 620",
+    "wof:parent_id":101749071,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293803
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.384788,
+    48.910939,
+    2.384788,
+    48.910939
+],
+  "geometry": {"coordinates":[2.384788,48.910939],"type":"Point"}
+}

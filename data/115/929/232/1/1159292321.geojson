@@ -1,0 +1,70 @@
+{
+  "id": 1159292321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.859225,-23.236577,-45.859225,-23.236577",
+    "geom:latitude":-23.236577,
+    "geom:longitude":-45.859225,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1349,
+    "sfomuseum:aircraft_model":"RJ145",
+    "sfomuseum:aircraft_name":"Embraer RJ145 Rheintalflug",
+    "sfomuseum:aircraft_variant":"Rheintalflug",
+    "sfomuseum:manufacturer_id":1159294367,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404567239,
+        85633009,
+        101965823,
+        102062245,
+        1159294367
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"BR",
+    "wof:geomhash":"87d0fabc08e9163f37f05484551a84a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062245,
+            "enterprise_id":1159294367,
+            "instrument_id":1159292321,
+            "localadmin_id":404567239,
+            "locality_id":101965823,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":1159292321,
+    "wof:lastmodified":1544814282,
+    "wof:name":"Embraer RJ145 Rheintalflug",
+    "wof:parent_id":101965823,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294367
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -45.859225,
+    -23.236577,
+    -45.859225,
+    -23.236577
+],
+  "geometry": {"coordinates":[-45.859225,-23.236577],"type":"Point"}
+}

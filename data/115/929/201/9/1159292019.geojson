@@ -1,0 +1,70 @@
+{
+  "id": 1159292019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.637901,50.94172,-2.637901,50.94172",
+    "geom:latitude":50.94172,
+    "geom:longitude":-2.637901,
+    "iso:country":"GB",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1206,
+    "sfomuseum:aircraft_model":"",
+    "sfomuseum:aircraft_name":"Westland Wessex",
+    "sfomuseum:aircraft_variant":"Wessex",
+    "sfomuseum:manufacturer_id":1159293845,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85684013,
+        102191581,
+        404434131,
+        85633159,
+        404227469,
+        101852529,
+        1159293845
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"GB",
+    "wof:geomhash":"e2ba438be7f52acc8120440bc5b8733f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "enterprise_id":1159293845,
+            "instrument_id":1159292019,
+            "localadmin_id":404434131,
+            "locality_id":101852529,
+            "macroregion_id":404227469,
+            "region_id":85684013
+        }
+    ],
+    "wof:id":1159292019,
+    "wof:lastmodified":1544814283,
+    "wof:name":"Westland Wessex",
+    "wof:parent_id":101852529,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293845
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.637901,
+    50.94172,
+    -2.637901,
+    50.94172
+],
+  "geometry": {"coordinates":[-2.637901,50.94172],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1159290525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.927843,38.96325,-76.927843,38.96325",
+    "geom:latitude":38.96325,
+    "geom:longitude":-76.927843,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":537,
+    "sfomuseum:aircraft_model":"",
+    "sfomuseum:aircraft_name":"Erco Ercoupe 415",
+    "sfomuseum:aircraft_variant":"Ercoupe 415",
+    "sfomuseum:manufacturer_id":1159293943,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949293,
+        102082191,
+        1159293943
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"e992c8e077b49dee2afa87f1ccc1311e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "enterprise_id":1159293943,
+            "instrument_id":1159290525,
+            "locality_id":85949293,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":1159290525,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Erco Ercoupe 415",
+    "wof:parent_id":85949293,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293943
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.927843,
+    38.96325,
+    -76.927843,
+    38.96325
+],
+  "geometry": {"coordinates":[-76.927843,38.96325],"type":"Point"}
+}

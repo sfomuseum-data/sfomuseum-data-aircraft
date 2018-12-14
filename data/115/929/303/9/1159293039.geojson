@@ -1,0 +1,63 @@
+{
+  "id": 1159293039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"XN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1695,
+    "sfomuseum:aircraft_model":"25",
+    "sfomuseum:aircraft_name":"Potez  25",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q11436"
+    ],
+    "wof:belongsto":[
+        1
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1513705",
+        "wk:page":"Potez 25",
+        "wk:pageid":9385377
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"XN",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":1,
+            "instrument_id":1159293039
+        }
+    ],
+    "wof:id":1159293039,
+    "wof:lastmodified":1544814278,
+    "wof:name":"Potez  25",
+    "wof:parent_id":-1,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "wtf:brand_id":1159294213
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

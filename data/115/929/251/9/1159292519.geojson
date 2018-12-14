@@ -1,0 +1,78 @@
+{
+  "id": 1159292519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.485889,40.751775,-73.485889,40.751775",
+    "geom:latitude":40.751775,
+    "geom:longitude":-73.485889,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1441,
+    "sfomuseum:aircraft_model":"F6F",
+    "sfomuseum:aircraft_name":"Grumman F6F Hellcat",
+    "sfomuseum:aircraft_variant":"Hellcat",
+    "sfomuseum:manufacturer_id":1159293563,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q15056993"
+    ],
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        404521475,
+        85633793,
+        85979165,
+        102082371,
+        1159293563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q465903",
+        "wk:page":"Grumman F6F Hellcat",
+        "wk:pageid":532448
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"d0f02ff7247f6651d20282150c808959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082371,
+            "enterprise_id":1159293563,
+            "instrument_id":1159292519,
+            "localadmin_id":404521475,
+            "locality_id":85979165,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1159292519,
+    "wof:lastmodified":1544814281,
+    "wof:name":"Grumman F6F Hellcat",
+    "wof:parent_id":85979165,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293563
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.485889,
+    40.751775,
+    -73.485889,
+    40.751775
+],
+  "geometry": {"coordinates":[-73.485889,40.751775],"type":"Point"}
+}

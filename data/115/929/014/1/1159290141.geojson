@@ -1,0 +1,70 @@
+{
+  "id": 1159290141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.170685,45.473702,9.170685,45.473702",
+    "geom:latitude":45.473702,
+    "geom:longitude":9.170685,
+    "iso:country":"IT",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":350,
+    "sfomuseum:aircraft_model":"CA-60",
+    "sfomuseum:aircraft_name":"Caproni CA-60",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159294359,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85685243,
+        102191581,
+        404468459,
+        85633253,
+        404227497,
+        101752703,
+        1159294359
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"IT",
+    "wof:geomhash":"8e23adaece5f54fb1febe1de020a39d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "enterprise_id":1159294359,
+            "instrument_id":1159290141,
+            "localadmin_id":404468459,
+            "locality_id":101752703,
+            "macroregion_id":404227497,
+            "region_id":85685243
+        }
+    ],
+    "wof:id":1159290141,
+    "wof:lastmodified":1544814281,
+    "wof:name":"Caproni CA-60",
+    "wof:parent_id":101752703,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159294359
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.170685,
+    45.473702,
+    9.170685,
+    45.473702
+],
+  "geometry": {"coordinates":[9.170685,45.473702],"type":"Point"}
+}

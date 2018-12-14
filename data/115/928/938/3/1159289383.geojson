@@ -1,0 +1,78 @@
+{
+  "id": 1159289383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.342865,48.858705,2.342865,48.858705",
+    "geom:latitude":48.858705,
+    "geom:longitude":2.342865,
+    "iso:country":"FR",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":13,
+    "sfomuseum:aircraft_model":"SN 601",
+    "sfomuseum:aircraft_name":"A\u00e9rospatiale SN 601 Corvette",
+    "sfomuseum:aircraft_variant":"Corvette",
+    "sfomuseum:manufacturer_id":1159293785,
+    "sfomuseum:placetype":"aircraft",
+    "wd:instance_of":[
+        "Q11436"
+    ],
+    "wof:belongsto":[
+        85683497,
+        102191581,
+        1159322569,
+        85633147,
+        404227465,
+        101751119,
+        1159293785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q753147",
+        "wk:page":"A\u00e9rospatiale Corvette",
+        "wk:pageid":10213179
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"FR",
+    "wof:geomhash":"f18598ac3fb6aeba7a3b0cf798abd973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "enterprise_id":1159293785,
+            "instrument_id":1159289383,
+            "localadmin_id":1159322569,
+            "locality_id":101751119,
+            "macroregion_id":404227465,
+            "region_id":85683497
+        }
+    ],
+    "wof:id":1159289383,
+    "wof:lastmodified":1544814277,
+    "wof:name":"A\u00e9rospatiale SN 601 Corvette",
+    "wof:parent_id":101751119,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293785
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.342865,
+    48.858705,
+    2.342865,
+    48.858705
+],
+  "geometry": {"coordinates":[2.342865,48.858705],"type":"Point"}
+}

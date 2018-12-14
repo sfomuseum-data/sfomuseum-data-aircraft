@@ -1,0 +1,71 @@
+{
+  "id": 1159289981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.331537,47.673455,-122.331537,47.673455",
+    "geom:latitude":47.673455,
+    "geom:longitude":-122.331537,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":279,
+    "sfomuseum:aircraft_model":"777",
+    "sfomuseum:aircraft_name":"Boeing 777 Prototype",
+    "sfomuseum:aircraft_variant":"Prototype",
+    "sfomuseum:instance_of":1159289979,
+    "sfomuseum:manufacturer_id":1159293593,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        1159293593
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:coterminous":1159289979,
+    "wof:country":"US",
+    "wof:geomhash":"edbb74d99b044b4b44a64e901c4475a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "enterprise_id":1159293593,
+            "instrument_id":1159289981,
+            "locality_id":101730401,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":1159289981,
+    "wof:lastmodified":1544814277,
+    "wof:name":"Boeing 777 Prototype",
+    "wof:parent_id":101730401,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293593,
+        1159289979
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.331537,
+    47.673455,
+    -122.331537,
+    47.673455
+],
+  "geometry": {"coordinates":[-122.331537,47.673455],"type":"Point"}
+}

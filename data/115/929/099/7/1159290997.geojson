@@ -1,0 +1,70 @@
+{
+  "id": 1159290997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.852746,40.102869,-74.852746,40.102869",
+    "geom:latitude":40.102869,
+    "geom:longitude":-74.852746,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":748,
+    "sfomuseum:aircraft_model":"XBK-1",
+    "sfomuseum:aircraft_name":"Kaiser-Fleetwings XBK-1",
+    "sfomuseum:aircraft_variant":"",
+    "sfomuseum:manufacturer_id":1159293683,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85688481,
+        102191575,
+        404484799,
+        85633793,
+        101716861,
+        102080987,
+        1159293683
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"US",
+    "wof:geomhash":"cb2ad8ed9ef30511072f62405a473f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "enterprise_id":1159293683,
+            "instrument_id":1159290997,
+            "localadmin_id":404484799,
+            "locality_id":101716861,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":1159290997,
+    "wof:lastmodified":1544814278,
+    "wof:name":"Kaiser-Fleetwings XBK-1",
+    "wof:parent_id":101716861,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293683
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.852746,
+    40.102869,
+    -74.852746,
+    40.102869
+],
+  "geometry": {"coordinates":[-74.852746,40.102869],"type":"Point"}
+}

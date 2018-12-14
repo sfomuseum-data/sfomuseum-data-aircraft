@@ -1,0 +1,70 @@
+{
+  "id": 1159292693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.896842,48.369338,10.896842,48.369338",
+    "geom:latitude":48.369338,
+    "geom:longitude":10.896842,
+    "iso:country":"DE",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1520,
+    "sfomuseum:aircraft_model":"V-35",
+    "sfomuseum:aircraft_name":"Beechcraft V-35 Bonanza",
+    "sfomuseum:aircraft_variant":"Bonanza",
+    "sfomuseum:manufacturer_id":1159293847,
+    "sfomuseum:placetype":"aircraft",
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        404227547,
+        85633111,
+        101748481,
+        102063283,
+        1159293847
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"DE",
+    "wof:geomhash":"0780d18d53ed321be172a2eb6df37fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063283,
+            "enterprise_id":1159293847,
+            "instrument_id":1159292693,
+            "locality_id":101748481,
+            "macrocounty_id":404227547,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1159292693,
+    "wof:lastmodified":1544814279,
+    "wof:name":"Beechcraft V-35 Bonanza",
+    "wof:parent_id":101748481,
+    "wof:placetype":"instrument",
+    "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159293847
+    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.896842,
+    48.369338,
+    10.896842,
+    48.369338
+],
+  "geometry": {"coordinates":[10.896842,48.369338],"type":"Point"}
+}
