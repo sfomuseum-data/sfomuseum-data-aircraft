@@ -17,6 +17,9 @@
     "sfomuseum:aircraft_model":"A300",
     "sfomuseum:aircraft_name":"Airbus A300",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:hashtags":[
+        "a300"
+    ],
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -30,9 +33,9 @@
         85633147,
         1108826387,
         101748953,
+        136253037,
         102071607,
-        1159293829,
-        136253037
+        1159293829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1159289389,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1551921002,
     "wof:name":"Airbus A300",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

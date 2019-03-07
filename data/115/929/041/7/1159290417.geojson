@@ -16,6 +16,9 @@
     "sfomuseum:aircraft_model":"DC-3",
     "sfomuseum:aircraft_name":"Douglas DC-3",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:hashtags":[
+        "dc3"
+    ],
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1159290417,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1551921002,
     "wof:name":"Douglas DC-3",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

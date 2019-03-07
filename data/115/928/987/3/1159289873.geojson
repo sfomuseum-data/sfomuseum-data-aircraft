@@ -17,6 +17,15 @@
     "sfomuseum:aircraft_model":"747",
     "sfomuseum:aircraft_name":"Boeing 747",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:hashtags":[
+        "747s",
+        "747sp",
+        "747sunday",
+        "b747",
+        "ua747",
+        "ua747farewell",
+        "ua747farewellflight"
+    ],
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1159289873,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1551921002,
     "wof:name":"Boeing 747",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

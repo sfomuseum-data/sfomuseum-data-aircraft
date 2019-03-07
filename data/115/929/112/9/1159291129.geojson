@@ -17,6 +17,9 @@
     "sfomuseum:aircraft_model":"L-1011",
     "sfomuseum:aircraft_name":"Lockheed L-1011 TriStar",
     "sfomuseum:aircraft_variant":"TriStar",
+    "sfomuseum:hashtags":[
+        "l1011"
+    ],
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1159291129,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1551921002,
     "wof:name":"Lockheed L-1011 TriStar",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

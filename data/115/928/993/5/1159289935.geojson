@@ -17,6 +17,9 @@
     "sfomuseum:aircraft_model":"757",
     "sfomuseum:aircraft_name":"Boeing 757",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:hashtags":[
+        "boeing757"
+    ],
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1159289935,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1551921002,
     "wof:name":"Boeing 757",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

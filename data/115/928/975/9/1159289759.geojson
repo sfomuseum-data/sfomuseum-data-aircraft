@@ -17,6 +17,10 @@
     "sfomuseum:aircraft_model":"727",
     "sfomuseum:aircraft_name":"Boeing 727",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:hashtags":[
+        "727finalflight",
+        "b727"
+    ],
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1159289759,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1551921002,
     "wof:name":"Boeing 727",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",
