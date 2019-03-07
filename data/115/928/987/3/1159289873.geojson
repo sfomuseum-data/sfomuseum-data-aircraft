@@ -24,7 +24,8 @@
         "b747",
         "ua747",
         "ua747farewell",
-        "ua747farewellflight"
+        "ua747farewellflight",
+        "cathay747"
     ],
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159289873,
-    "wof:lastmodified":1551921002,
+    "wof:lastmodified":1551989466,
     "wof:name":"Boeing 747",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

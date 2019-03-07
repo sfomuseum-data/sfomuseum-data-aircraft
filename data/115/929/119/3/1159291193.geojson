@@ -16,6 +16,9 @@
     "sfomuseum:aircraft_model":"M-130",
     "sfomuseum:aircraft_name":"Martin M-130 China Clipper",
     "sfomuseum:aircraft_variant":"China Clipper",
+    "sfomuseum:hashtags":[
+        "chinaclipper"
+    ],
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +37,7 @@
         }
     ],
     "wof:id":1159291193,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1551989463,
     "wof:name":"Martin M-130 China Clipper",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",
