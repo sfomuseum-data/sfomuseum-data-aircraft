@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B74S",
         "wd:id":"Q2421517",
         "wk:page":"Boeing 747SP",
         "wk:pageid":7048559
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289931,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1556583932,
     "wof:name":"Boeing 747SP",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

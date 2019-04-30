@@ -12,4 +12,5 @@ This data is published under the [Community Data License Agreement – Permissiv
 
 ## See also
 
-* https://millsfield.sfomuseum.org/
+* https://millsfield.sfomuseum.org/airlines/
+* https://www.icao.int/publications/DOC8643/Pages/Search.aspx

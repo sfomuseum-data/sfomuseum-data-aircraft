@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B736",
         "wd:id":"Q1084919",
         "wk:page":"Boeing 737 Next Generation",
         "wk:pageid":17670854
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289867,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1556583931,
     "wof:name":"Boeing 737-600",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

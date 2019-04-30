@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B732",
         "wd:id":"Q6387",
         "wk:page":"Boeing 737",
         "wk:pageid":149697
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289827,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1556583931,
     "wof:name":"Boeing 737-200",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

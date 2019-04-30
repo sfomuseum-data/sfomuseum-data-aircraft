@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B721",
         "wd:id":"Q6409",
         "wk:page":"Boeing 727",
         "wk:pageid":91030
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289777,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1556583931,
     "wof:name":"Boeing 727-100",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

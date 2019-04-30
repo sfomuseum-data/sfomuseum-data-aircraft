@@ -31,12 +31,13 @@
         85633147,
         1108826387,
         101748953,
+        136253037,
         102071607,
-        1159293829,
-        136253037
+        1159293829
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"A342",
         "wd:id":"Q6481",
         "wk:page":"Airbus A340",
         "wk:pageid":164936
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159289427,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1556583931,
     "wof:name":"Airbus A340-200",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

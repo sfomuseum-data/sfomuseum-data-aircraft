@@ -33,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B762",
         "wd:id":"Q6423",
         "wk:page":"Boeing 767",
         "wk:pageid":4165
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289953,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1556583932,
     "wof:name":"Boeing 767-200",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",
