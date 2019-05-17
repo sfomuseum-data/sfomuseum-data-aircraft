@@ -2,6 +2,8 @@
   "id": 1377564293,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2015-01-01",
+    "date:inception_upper":"2015-12-31",
     "edtf:cessation":"open",
     "edtf:inception":"2015~",
     "geom:area":0.0,
@@ -20,6 +22,7 @@
     "sfomuseum:instance_of":1159292087,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -31,13 +34,13 @@
         85633147,
         1108826387,
         101748953,
+        136253037,
         102071607,
-        1159293829,
-        136253037
+        1159293829
     ],
     "wof:breaches":[],
     "wof:concordances":{
-	"icao:designator":"A359",
+        "icao:designator":"A359",
         "wd:id":"Q6484",
         "wk:page":"Airbus_A350_XWB"
     },
@@ -45,7 +48,7 @@
         "wof:hierarchy",
         "wof:parent_id"
     ],
-    "wof:coterminous":1159289435,
+    "wof:coterminous":1159292087,
     "wof:country":"FR",
     "wof:geomhash":"82b186aac2b5862decc2c12d01c07d05",
     "wof:hierarchy":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1377564293,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1558052958,
     "wof:name":"Airbus A350-900",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",
