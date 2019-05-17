@@ -67,14 +67,14 @@
         }
     ],
     "wof:id":1377564293,
-    "wof:lastmodified":1558052958,
+    "wof:lastmodified":1558053901,
     "wof:name":"Airbus A350-900",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",
     "wof:repo":"sfomuseum-data-aircraft",
     "wof:subordinate_of":[
-        1159293829,
-        1159289435
+        1159292087,
+        1159293829
     ],
     "wof:superseded_by":[],
     "wof:supersedes":[],

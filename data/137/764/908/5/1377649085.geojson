@@ -7,6 +7,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2015~",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.382665,43.634465,1.382665,43.634465",
     "geom:latitude":43.634465,
     "geom:longitude":1.382665,
@@ -61,11 +62,15 @@
         }
     ],
     "wof:id":1377649085,
-    "wof:lastmodified":1558053013,
+    "wof:lastmodified":1558053906,
     "wof:name":"Airbus A350-1000",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",
     "wof:repo":"sfomuseum-data-aircraft",
+    "wof:subordinate_of":[
+        1159292087,
+        1159293829
+    ],
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
