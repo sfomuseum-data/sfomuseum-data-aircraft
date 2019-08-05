@@ -13,10 +13,11 @@
     "mz:is_approximate":1,
     "mz:is_current":-1,
     "sfomuseum:aircraft_id":"-1",
-    "sfomuseum:is_sfo":0,
     "sfomuseum:instance_of":1159289949,
+    "sfomuseum:is_sfo":0,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -25,13 +26,12 @@
         102191575,
         85633793,
         101730401,
-        102086191,
-        1159293593
+        102086191
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "icao:designator":"B764",
-        "wd:id":"Q6423",
+        "wd:id":"Q6423"
     },
     "wof:country":"US",
     "wof:created":1565031361,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1394298249,
-    "wof:lastmodified":1565031361,
+    "wof:lastmodified":1565031670,
     "wof:name":"Boeing 767-400",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",
@@ -55,7 +55,7 @@
     "wof:subordinate_of":[
         1159293593,
         1159289949
-    ],    
+    ],
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
