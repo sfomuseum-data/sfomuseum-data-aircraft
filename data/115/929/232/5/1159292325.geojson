@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:manufacturer_id":1159294367,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -33,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"E190",
         "wd:id":"Q3495319",
         "wk:page":"Embraer E-Jet family",
         "wk:pageid":879946
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1159292325,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1581623157,
     "wof:name":"Embraer 190",
     "wof:parent_id":101965823,
     "wof:placetype":"instrument",

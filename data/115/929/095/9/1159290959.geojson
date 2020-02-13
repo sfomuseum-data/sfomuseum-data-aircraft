@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:manufacturer_id":1159294129,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056995"
     ],
@@ -27,12 +28,13 @@
         102191581,
         85632685,
         102003033,
+        874393555,
         1108736095,
-        1159294129,
-        874393555
+        1159294129
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"IL62",
         "wd:id":"Q182575",
         "wk:page":"Ilyushin Il-62",
         "wk:pageid":229856
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1159290959,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1581623435,
     "wof:name":"Ilyushin Il-62",
     "wof:parent_id":102003033,
     "wof:placetype":"instrument",

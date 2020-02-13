@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant":"Condor",
     "sfomuseum:manufacturer_id":1159293813,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056995"
     ],
@@ -32,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"A124",
         "wd:id":"Q193487",
         "wk:page":"Antonov An-124 Ruslan",
         "wk:pageid":435406
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":1159289479,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1581618469,
     "wof:name":"Antonov An-124 Condor",
     "wof:parent_id":101752489,
     "wof:placetype":"instrument",

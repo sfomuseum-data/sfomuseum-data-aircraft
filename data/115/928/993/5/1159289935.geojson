@@ -22,6 +22,7 @@
     ],
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -35,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B757",
         "wd:id":"Q6418",
         "wk:page":"Boeing 757",
         "wk:pageid":151995
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1159289935,
-    "wof:lastmodified":1551989463,
+    "wof:lastmodified":1581619974,
     "wof:name":"Boeing 757",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

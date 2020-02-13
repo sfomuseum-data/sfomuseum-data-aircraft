@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -32,6 +33,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B767",
         "wd:id":"Q6423",
         "wk:page":"Boeing 767",
         "wk:pageid":4165
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":1159289949,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1581620074,
     "wof:name":"Boeing 767",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

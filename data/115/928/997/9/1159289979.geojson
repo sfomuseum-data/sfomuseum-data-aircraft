@@ -23,6 +23,7 @@
     ],
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -36,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B777",
         "wd:id":"Q6425",
         "wk:page":"Boeing 777",
         "wk:pageid":89260
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1159289979,
-    "wof:lastmodified":1551989462,
+    "wof:lastmodified":1581620172,
     "wof:name":"Boeing 777",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

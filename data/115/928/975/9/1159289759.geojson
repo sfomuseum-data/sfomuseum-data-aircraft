@@ -23,6 +23,7 @@
     ],
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -36,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"B727",
         "wd:id":"Q6409",
         "wk:page":"Boeing 727",
         "wk:pageid":91030
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1159289759,
-    "wof:lastmodified":1551989462,
+    "wof:lastmodified":1581619515,
     "wof:name":"Boeing 727",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

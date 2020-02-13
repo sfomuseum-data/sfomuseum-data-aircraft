@@ -9,7 +9,7 @@
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
-    "iso:country":"XN",
+    "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "sfomuseum:aircraft_id":498,
@@ -17,14 +17,22 @@
     "sfomuseum:aircraft_name":"Douglas DC-8",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
     "wof:belongsto":[
-        1
+        1159293297,
+        85688637,
+        102191575,
+        85633793,
+        85923817,
+        102086957,
+        1159290395
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"DC8",
         "wd:id":"Q223315",
         "wk:page":"Douglas DC-8",
         "wk:pageid":186219
@@ -33,18 +41,22 @@
         "wof:hierarchy",
         "wof:parent_id"
     ],
-    "wof:country":"XN",
+    "wof:country":"US",
     "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
-            "country_id":1,
-            "instrument_id":1159290443
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "instrument_id":1159293297,
+            "locality_id":85923817,
+            "region_id":85688637
         }
     ],
     "wof:id":1159290443,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1581621896,
     "wof:name":"Douglas DC-8",
-    "wof:parent_id":-1,
+    "wof:parent_id":1159290395,
     "wof:placetype":"instrument",
     "wof:repo":"sfomuseum-data-aircraft",
     "wof:subordinate_of":[],

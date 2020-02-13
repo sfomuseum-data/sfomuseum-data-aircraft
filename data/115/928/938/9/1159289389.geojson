@@ -22,6 +22,7 @@
     ],
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -39,6 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"A300",
         "wd:id":"Q6437",
         "wk:page":"Airbus A300",
         "wk:pageid":2524
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1159289389,
-    "wof:lastmodified":1551989462,
+    "wof:lastmodified":1581618516,
     "wof:name":"Airbus A300",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

@@ -22,6 +22,7 @@
     ],
     "sfomuseum:manufacturer_id":1159293561,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -36,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"DC10",
         "wd:id":"Q208075",
         "wk:page":"McDonnell Douglas DC-10",
         "wk:pageid":150296
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1159291259,
-    "wof:lastmodified":1551989463,
+    "wof:lastmodified":1581618319,
     "wof:name":"McDonnell Douglas DC-10",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

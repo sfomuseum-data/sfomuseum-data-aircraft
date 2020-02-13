@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -30,12 +31,13 @@
         85633147,
         1108826387,
         101748953,
+        136253037,
         102071607,
-        1159293829,
-        136253037
+        1159293829
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"A340",
         "wd:id":"Q6481",
         "wk:page":"Airbus A340",
         "wk:pageid":164936
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1159289425,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1581619394,
     "wof:name":"Airbus A340",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

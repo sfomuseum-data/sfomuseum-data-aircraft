@@ -22,6 +22,7 @@
     ],
     "sfomuseum:manufacturer_id":1159293561,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -36,6 +37,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"MD11",
         "wd:id":"Q62161",
         "wk:page":"McDonnell Douglas MD-11",
         "wk:pageid":382371
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1159291281,
-    "wof:lastmodified":1551989464,
+    "wof:lastmodified":1581622828,
     "wof:name":"McDonnell Douglas MD-11",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

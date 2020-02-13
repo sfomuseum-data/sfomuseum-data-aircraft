@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:manufacturer_id":1159293561,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -33,6 +34,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"MD90",
         "wd:id":"Q862615",
         "wk:page":"McDonnell Douglas MD-90",
         "wk:pageid":187748
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1159291299,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1581623097,
     "wof:name":"McDonnell Douglas MD-90",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",
