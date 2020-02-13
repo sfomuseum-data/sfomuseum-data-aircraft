@@ -2,8 +2,10 @@
   "id": 1528104575,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2017",
     "geom:area":0.0,
     "geom:bbox":"-122.331537,47.673455,-122.331537,47.673455",
     "geom:latitude":47.673455,
@@ -11,9 +13,10 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sfomuseum:aircraft_id":-1,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wof:belongsto":[
         85688623,
         102191575,
@@ -27,6 +30,7 @@
         "icao:designator":"B38M",
         "wd:id":"Q139289"
     },
+    "wof:coterminous":1159289819,
     "wof:country":"US",
     "wof:created":1581626017,
     "wof:geomhash":"edbb74d99b044b4b44a64e901c4475a3",
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1528104575,
-    "wof:lastmodified":1581626017,
+    "wof:lastmodified":1581626337,
     "wof:name":"Boeing 737-MAX 8",
     "wof:parent_id":1159293593,
     "wof:placetype":"instrument",
