@@ -19,11 +19,16 @@
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:manufacturer_id":1159294105,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wof:belongsto":[
         1159294105,
         1
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "icao:designator":"J328",
+        "wd:id":"Q7451362"
+    },
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":1159290543,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1581624909,
     "wof:name":"Fairchild 328JET",
     "wof:parent_id":1,
     "wof:placetype":"instrument",
