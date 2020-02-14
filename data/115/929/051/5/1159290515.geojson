@@ -2,8 +2,10 @@
   "id": 1159290515,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1985-01-01",
+    "date:inception_upper":"1985-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1985",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-45.859225,-23.236577,-45.859225,-23.236577",
@@ -12,13 +14,14 @@
     "iso:country":"BR",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sfomuseum:aircraft_id":532,
     "sfomuseum:aircraft_model":"EMB-120",
     "sfomuseum:aircraft_name":"Embraer EMB-120 Brasilia",
     "sfomuseum:aircraft_variant":"Brasilia",
     "sfomuseum:manufacturer_id":1159294367,
     "sfomuseum:placetype":"aircraft",
+    "src:geom":"unknown",
     "wd:instance_of":[
         "Q15056993"
     ],
@@ -33,6 +36,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "icao:designator":"E120",
         "wd:id":"Q1163407",
         "wk:page":"Embraer EMB 120 Brasilia",
         "wk:pageid":1546672
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1159290515,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1581701555,
     "wof:name":"Embraer EMB-120 Brasilia",
     "wof:parent_id":101965823,
     "wof:placetype":"instrument",
