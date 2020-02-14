@@ -1,5 +1,20 @@
 #!/usr/bin/env python
 
+"""
+for example:
+
+> cat new.csv 
+code,parent_id,qid,name
+B38M,1159293593,Q139289,Boeing 737-MAX 8
+B39M,1159293593,Q139289,Boeing 737-MAX 9
+B773,1159293593,Q6425,Boeing 777-300
+BA11,1159294331,Q6504,British Aerospace BAC-111
+BCS1,1159293829,Q426074,Airbus A220-100
+CRJ2,1159293567,Q891786,Bombardier CRJ200
+CRJ7,1159293567,Q962677,Bombardier CRJ700 series
+E550,1159294367,Q64361995,Embraer Legacy 500
+"""
+
 import mapzen.whosonfirst.utils
 import mapzen.whosonfirst.export
 
