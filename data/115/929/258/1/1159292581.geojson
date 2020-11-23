@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"S-1",
     "sfomuseum:aircraft_name":"Lockheed S-1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292581,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164576,
     "wof:name":"Lockheed S-1",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

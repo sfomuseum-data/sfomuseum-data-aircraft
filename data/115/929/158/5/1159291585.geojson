@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"D.IV",
     "sfomuseum:aircraft_name":"Sch\u00fctte-Lanz D.IV",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294229,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291585,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164574,
     "wof:name":"Sch\u00fctte-Lanz D.IV",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

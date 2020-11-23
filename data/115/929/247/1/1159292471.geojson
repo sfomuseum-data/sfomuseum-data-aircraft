@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F-10",
     "sfomuseum:aircraft_name":"Fokker F-10 Super Trimotor",
     "sfomuseum:aircraft_variant":"Super Trimotor",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159292471,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164576,
     "wof:name":"Fokker F-10 Super Trimotor",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Eagle II",
     "sfomuseum:aircraft_name":"Christen Eagle II",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294021,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293183,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164579,
     "wof:name":"Christen Eagle II",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

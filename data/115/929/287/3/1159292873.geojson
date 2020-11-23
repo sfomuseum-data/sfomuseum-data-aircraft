@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"282",
     "sfomuseum:aircraft_name":"Wibault 282",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293927,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159292873,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164577,
     "wof:name":"Wibault 282",
     "wof:parent_id":101749067,
     "wof:placetype":"instrument",

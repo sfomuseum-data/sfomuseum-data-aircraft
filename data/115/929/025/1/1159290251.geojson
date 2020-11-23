@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Curtiss Falcon",
     "sfomuseum:aircraft_variant":"Falcon",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290251,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164571,
     "wof:name":"Curtiss Falcon",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

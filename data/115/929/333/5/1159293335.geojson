@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"F5D",
     "sfomuseum:aircraft_name":"Douglas F5D Skylancer",
     "sfomuseum:aircraft_variant":"Skylancer",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159293335,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas F5D Skylancer",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

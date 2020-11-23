@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Merkur",
     "sfomuseum:aircraft_name":"Dornier Merkur",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294011,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292931,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Dornier Merkur",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"737",
     "sfomuseum:aircraft_name":"Boeing 737",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":14,
     "sfomuseum:hashtags":[
         "737max",
         "boeing737"
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159289819,
-    "wof:lastmodified":1551989463,
+    "wof:lastmodified":1606164570,
     "wof:name":"Boeing 737",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"14-9",
     "sfomuseum:aircraft_name":"Bellanca 14-9 Cruisair",
     "sfomuseum:aircraft_variant":"Cruisair",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294087,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293405,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164580,
     "wof:name":"Bellanca 14-9 Cruisair",
     "wof:parent_id":85953541,
     "wof:placetype":"instrument",

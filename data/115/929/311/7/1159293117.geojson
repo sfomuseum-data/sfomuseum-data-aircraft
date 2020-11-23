@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"K-12 Firebird",
     "sfomuseum:aircraft_name":"Kalinin K-12 Firebird",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293817,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293117,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164578,
     "wof:name":"Kalinin K-12 Firebird",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Baby Bullet",
     "sfomuseum:aircraft_name":"Heath Baby Bullet",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293965,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293019,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164578,
     "wof:name":"Heath Baby Bullet",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

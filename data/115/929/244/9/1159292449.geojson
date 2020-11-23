@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"MFI-15",
     "sfomuseum:aircraft_name":"Saab MFI-15 Safari",
     "sfomuseum:aircraft_variant":"Safari",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293893,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292449,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164576,
     "wof:name":"Saab MFI-15 Safari",
     "wof:parent_id":101752307,
     "wof:placetype":"instrument",

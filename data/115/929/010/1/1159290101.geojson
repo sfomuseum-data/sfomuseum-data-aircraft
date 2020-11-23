@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"British Aerospace Jetstream 41",
     "sfomuseum:aircraft_variant":"Jetstream 41",
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:manufacturer_id":1159294331,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290101,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164571,
     "wof:name":"British Aerospace Jetstream 41",
     "wof:parent_id":101750357,
     "wof:placetype":"instrument",

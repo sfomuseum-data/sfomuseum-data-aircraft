@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F-104F",
     "sfomuseum:aircraft_name":"Lockheed F-104F Starfighter",
     "sfomuseum:aircraft_variant":"Starfighter",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291091,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164573,
     "wof:name":"Lockheed F-104F Starfighter",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

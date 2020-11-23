@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Globe Swift GC-1B",
     "sfomuseum:aircraft_variant":"Swift GC-1B",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293821,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159290715,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164572,
     "wof:name":"Globe Swift GC-1B",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-8-20",
     "sfomuseum:aircraft_name":"Douglas DC-8-20",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290447,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164572,
     "wof:name":"Douglas DC-8-20",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

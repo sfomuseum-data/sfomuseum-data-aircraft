@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"360 (SD3-60)",
     "sfomuseum:aircraft_name":"Shorts 360 (SD3-60)",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294345,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291633,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164574,
     "wof:name":"Shorts 360 (SD3-60)",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

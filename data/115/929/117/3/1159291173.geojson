@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"PA-1",
     "sfomuseum:aircraft_name":"Loening PA-1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293653,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191575,
+        1159293653,
         85633793,
-        136253057,
-        1159293653
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159291173,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164573,
     "wof:name":"Loening PA-1",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

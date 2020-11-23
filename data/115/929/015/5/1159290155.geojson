@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"210",
     "sfomuseum:aircraft_name":"Cessna 210 Centurion",
     "sfomuseum:aircraft_variant":"Centurion",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294115,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290155,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164571,
     "wof:name":"Cessna 210 Centurion",
     "wof:parent_id":85945871,
     "wof:placetype":"instrument",

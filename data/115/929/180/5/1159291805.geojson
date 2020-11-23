@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"SM-8A",
     "sfomuseum:aircraft_name":"Stinson SM-8A Junior",
     "sfomuseum:aircraft_variant":"Junior",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293557,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291805,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Stinson SM-8A Junior",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

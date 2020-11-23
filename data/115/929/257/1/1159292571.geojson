@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"XP-38",
     "sfomuseum:aircraft_name":"Lockheed XP-38 Lightning",
     "sfomuseum:aircraft_variant":"Lightning",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159292571,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164576,
     "wof:name":"Lockheed XP-38 Lightning",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

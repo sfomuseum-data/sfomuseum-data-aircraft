@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"C-124",
     "sfomuseum:aircraft_name":"Douglas C-124 Globemaster II",
     "sfomuseum:aircraft_variant":"Globemaster II",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159293319,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas C-124 Globemaster II",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

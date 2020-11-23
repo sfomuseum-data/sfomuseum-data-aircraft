@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Model 5",
     "sfomuseum:aircraft_name":"Breese-Wilde Model 5",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293975,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293023,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164578,
     "wof:name":"Breese-Wilde Model 5",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

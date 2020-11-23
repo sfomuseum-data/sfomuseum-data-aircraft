@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"M-2",
     "sfomuseum:aircraft_name":"Stearman M-2 Speedmail",
     "sfomuseum:aircraft_variant":"Speedmail",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294161,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191575,
+        1159294161,
         85633793,
-        136253057,
-        1159294161
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159291787,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164575,
     "wof:name":"Stearman M-2 Speedmail",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

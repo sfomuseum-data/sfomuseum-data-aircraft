@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"A4D",
     "sfomuseum:aircraft_name":"Douglas A4D Skyhawk",
     "sfomuseum:aircraft_variant":"Skyhawk",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293331,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas A4D Skyhawk",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

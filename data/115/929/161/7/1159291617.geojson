@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"S.21",
     "sfomuseum:aircraft_name":"Short S.21 \"Maia\" (Mayo Composite, Top Component)",
     "sfomuseum:aircraft_variant":"\"Maia\" (Mayo Composite, Top Component)",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293623,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291617,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164574,
     "wof:name":"Short S.21 \"Maia\" (Mayo Composite, Top Component)",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

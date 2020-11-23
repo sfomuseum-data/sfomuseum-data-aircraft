@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"P-12E",
     "sfomuseum:aircraft_name":"Boeing P-12E",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159290017,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164571,
     "wof:name":"Boeing P-12E",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

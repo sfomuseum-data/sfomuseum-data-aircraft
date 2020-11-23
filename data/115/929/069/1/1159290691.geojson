@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"8-AT",
     "sfomuseum:aircraft_name":"Ford 8-AT",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290691,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164572,
     "wof:name":"Ford 8-AT",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

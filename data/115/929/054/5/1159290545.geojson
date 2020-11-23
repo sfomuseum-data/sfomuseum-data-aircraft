@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"A-10",
     "sfomuseum:aircraft_name":"Fairchild A-10 Thunderbolt II",
     "sfomuseum:aircraft_variant":"Thunderbolt II",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294105,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159290545,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fairchild A-10 Thunderbolt II",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

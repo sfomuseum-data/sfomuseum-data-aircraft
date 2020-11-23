@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"283T-12",
     "sfomuseum:aircraft_name":"Wibault Penhoet 283T-12",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293999,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159292917,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164577,
     "wof:name":"Wibault Penhoet 283T-12",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

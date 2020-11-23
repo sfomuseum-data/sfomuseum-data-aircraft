@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"T-18C",
     "sfomuseum:aircraft_name":"Thorp T-18C",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293967,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291885,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164575,
     "wof:name":"Thorp T-18C",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

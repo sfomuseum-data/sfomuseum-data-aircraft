@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"C-47",
     "sfomuseum:aircraft_name":"Douglas C-47 Skytrain",
     "sfomuseum:aircraft_variant":"Skytrain",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290409,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164572,
     "wof:name":"Douglas C-47 Skytrain",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"O-46",
     "sfomuseum:aircraft_name":"Douglas O-46",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q11436"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293471,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas O-46",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

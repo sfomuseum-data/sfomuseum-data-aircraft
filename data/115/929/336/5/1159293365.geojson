@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"CP-50",
     "sfomuseum:aircraft_name":"Porterfield CP-50 Collegiate",
     "sfomuseum:aircraft_variant":"Collegiate",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294307,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159294307,
         85633793,
-        136253057,
-        1159294307
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293365,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164580,
     "wof:name":"Porterfield CP-50 Collegiate",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

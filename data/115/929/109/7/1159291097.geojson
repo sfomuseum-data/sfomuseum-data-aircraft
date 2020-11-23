@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"L-049G",
     "sfomuseum:aircraft_name":"Lockheed L-049G Super G Constellation",
     "sfomuseum:aircraft_variant":"Super G Constellation",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291097,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164573,
     "wof:name":"Lockheed L-049G Super G Constellation",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

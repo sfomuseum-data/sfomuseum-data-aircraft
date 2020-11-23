@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"MFI-17",
     "sfomuseum:aircraft_name":"Saab MFI-17 Supporter",
     "sfomuseum:aircraft_variant":"Supporter",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293893,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292447,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164576,
     "wof:name":"Saab MFI-17 Supporter",
     "wof:parent_id":101752307,
     "wof:placetype":"instrument",

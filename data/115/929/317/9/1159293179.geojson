@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"LAT 522",
     "sfomuseum:aircraft_name":"Lat\u00e9co\u00e8re LAT 522",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293827,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -27,9 +28,9 @@
         85633147,
         1108826387,
         101750691,
+        136253037,
         102072513,
-        1159293827,
-        136253037
+        1159293827
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159293179,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164579,
     "wof:name":"Lat\u00e9co\u00e8re LAT 522",
     "wof:parent_id":101750691,
     "wof:placetype":"instrument",

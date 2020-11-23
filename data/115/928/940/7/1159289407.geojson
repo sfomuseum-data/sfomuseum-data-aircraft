@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"A319",
     "sfomuseum:aircraft_name":"Airbus A319",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":11,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159289407,
-    "wof:lastmodified":1556583931,
+    "wof:lastmodified":1606164569,
     "wof:name":"Airbus A319",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

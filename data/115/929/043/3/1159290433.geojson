@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC6BF",
     "sfomuseum:aircraft_name":"Douglas DC6BF",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159290433,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164572,
     "wof:name":"Douglas DC6BF",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

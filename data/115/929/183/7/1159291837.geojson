@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Supermarine Spitfire F.Mk.21",
     "sfomuseum:aircraft_variant":"Spitfire F.Mk.21",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294325,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159294325,
         85633159,
-        136253055,
-        1159294325
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291837,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164575,
     "wof:name":"Supermarine Spitfire F.Mk.21",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

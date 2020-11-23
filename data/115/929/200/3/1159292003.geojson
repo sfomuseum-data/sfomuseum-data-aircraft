@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"10-T",
     "sfomuseum:aircraft_name":"Waco 10-T Taperwing",
     "sfomuseum:aircraft_variant":"Taperwing",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293607,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293607,
         85633793,
-        136253057,
-        1159293607
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292003,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164575,
     "wof:name":"Waco 10-T Taperwing",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

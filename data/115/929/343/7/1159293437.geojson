@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"205/206/207",
     "sfomuseum:aircraft_name":"Cessna 205/206/207 Stationair",
     "sfomuseum:aircraft_variant":"Stationair",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294115,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293437,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164580,
     "wof:name":"Cessna 205/206/207 Stationair",
     "wof:parent_id":85945871,
     "wof:placetype":"instrument",

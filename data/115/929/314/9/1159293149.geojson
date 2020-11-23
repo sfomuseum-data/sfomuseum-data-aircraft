@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"ARE",
     "sfomuseum:aircraft_name":"Waco ARE",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293607,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293607,
         85633793,
-        136253057,
-        1159293607
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293149,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164578,
     "wof:name":"Waco ARE",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

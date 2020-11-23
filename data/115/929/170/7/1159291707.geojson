@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"S-43",
     "sfomuseum:aircraft_name":"Sikorsky (USA) S-43 Amphibion (Baby Clipper)",
     "sfomuseum:aircraft_variant":"Amphibion (Baby Clipper)",
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:manufacturer_id":1159293917,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293917,
         85633793,
-        136253057,
-        1159293917
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291707,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164575,
     "wof:name":"Sikorsky (USA) S-43 Amphibion (Baby Clipper)",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Ford Tri-Motor",
     "sfomuseum:aircraft_variant":"Tri-Motor",
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292297,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164576,
     "wof:name":"Ford Tri-Motor",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"190",
     "sfomuseum:aircraft_name":"Embraer 190",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294367,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159292325,
-    "wof:lastmodified":1581623157,
+    "wof:lastmodified":1606164576,
     "wof:name":"Embraer 190",
     "wof:parent_id":101965823,
     "wof:placetype":"instrument",

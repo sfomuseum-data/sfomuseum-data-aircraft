@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"C.19 Mk IV",
     "sfomuseum:aircraft_name":"Cierva C.19 Mk IV",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294267,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159294267,
         85633159,
-        136253055,
-        1159294267
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292597,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164577,
     "wof:name":"Cierva C.19 Mk IV",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

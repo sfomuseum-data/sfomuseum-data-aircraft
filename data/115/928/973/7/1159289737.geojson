@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"707C",
     "sfomuseum:aircraft_name":"Boeing 707C",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:instance_of":1159289653,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159289737,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164570,
     "wof:name":"Boeing 707C",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

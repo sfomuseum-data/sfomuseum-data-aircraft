@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"C-47",
     "sfomuseum:aircraft_name":"de Havilland C-47 Dakota",
     "sfomuseum:aircraft_variant":"Dakota",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293995,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159290305,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164571,
     "wof:name":"de Havilland C-47 Dakota",
     "wof:parent_id":85684331,
     "wof:placetype":"instrument",

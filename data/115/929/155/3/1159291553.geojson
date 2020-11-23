@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"SF 2",
     "sfomuseum:aircraft_name":"Sablatnig SF 2",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294123,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159291553,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164574,
     "wof:name":"Sablatnig SF 2",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

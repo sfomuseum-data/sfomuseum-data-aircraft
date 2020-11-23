@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Nihon YS-11",
     "sfomuseum:aircraft_name":"NAMCO (Nihon Aircraft Manufacturing Corporation) Nihon YS-11",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294139,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159292965,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"NAMCO (Nihon Aircraft Manufacturing Corporation) Nihon YS-11",
     "wof:parent_id":85632429,
     "wof:placetype":"instrument",

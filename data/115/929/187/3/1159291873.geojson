@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Technoflug Piccolo B",
     "sfomuseum:aircraft_variant":"Piccolo B",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294237,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291873,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164575,
     "wof:name":"Technoflug Piccolo B",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

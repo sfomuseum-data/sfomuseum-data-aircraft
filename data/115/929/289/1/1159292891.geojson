@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"D1",
     "sfomuseum:aircraft_name":"Skoda D1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294125,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159292891,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Skoda D1",
     "wof:parent_id":101748111,
     "wof:placetype":"instrument",

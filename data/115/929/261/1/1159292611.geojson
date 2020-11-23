@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"S.25",
     "sfomuseum:aircraft_name":"Short S.25 Sandringham",
     "sfomuseum:aircraft_variant":"Sandringham",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293623,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292611,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164577,
     "wof:name":"Short S.25 Sandringham",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

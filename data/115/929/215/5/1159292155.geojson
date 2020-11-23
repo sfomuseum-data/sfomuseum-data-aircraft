@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"A17F",
     "sfomuseum:aircraft_name":"Beech A17F Staggerwing",
     "sfomuseum:aircraft_variant":"Staggerwing",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293909,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159292155,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164575,
     "wof:name":"Beech A17F Staggerwing",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"G 23",
     "sfomuseum:aircraft_name":"Junkers G 23 Generalfieldmarchall von Hinderburg",
     "sfomuseum:aircraft_variant":"Generalfieldmarchall von Hinderburg",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294171,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292787,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164577,
     "wof:name":"Junkers G 23 Generalfieldmarchall von Hinderburg",
     "wof:parent_id":101748765,
     "wof:placetype":"instrument",

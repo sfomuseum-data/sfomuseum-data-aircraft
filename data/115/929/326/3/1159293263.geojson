@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"DHA-3",
     "sfomuseum:aircraft_name":"de Havilland DHA-3 Drover",
     "sfomuseum:aircraft_variant":"Drover",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293995,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159293263,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164579,
     "wof:name":"de Havilland DHA-3 Drover",
     "wof:parent_id":85684331,
     "wof:placetype":"instrument",

@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Percival Gull",
     "sfomuseum:aircraft_variant":"Gull",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q627537"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291433,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164574,
     "wof:name":"Percival Gull",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

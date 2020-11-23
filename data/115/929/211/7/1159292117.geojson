@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Ambassador",
     "sfomuseum:aircraft_name":"Airspeed Ambassador",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293667,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292117,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Airspeed Ambassador",
     "wof:parent_id":85633041,
     "wof:placetype":"instrument",

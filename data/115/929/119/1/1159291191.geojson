@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"M-130",
     "sfomuseum:aircraft_name":"Martin M-130",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":114,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q1153376"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291191,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164573,
     "wof:name":"Martin M-130",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

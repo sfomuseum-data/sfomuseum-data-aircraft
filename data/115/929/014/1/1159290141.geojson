@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"CA-60",
     "sfomuseum:aircraft_name":"Caproni CA-60",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294359,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159290141,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164571,
     "wof:name":"Caproni CA-60",
     "wof:parent_id":101752703,
     "wof:placetype":"instrument",

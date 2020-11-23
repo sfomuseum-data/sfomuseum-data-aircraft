@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"PA-42",
     "sfomuseum:aircraft_name":"Piper PA-42 Cheyenne",
     "sfomuseum:aircraft_variant":"Cheyenne",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294133,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1159291461,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164574,
     "wof:name":"Piper PA-42 Cheyenne",
     "wof:parent_id":102527921,
     "wof:placetype":"instrument",

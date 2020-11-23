@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"H-1",
     "sfomuseum:aircraft_name":"Hughes H-1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293963,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159293185,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164579,
     "wof:name":"Hughes H-1",
     "wof:parent_id":85923649,
     "wof:placetype":"instrument",

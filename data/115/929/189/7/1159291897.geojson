@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"T-S140",
     "sfomuseum:aircraft_name":"Timm T-S140",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293723,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291897,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164575,
     "wof:name":"Timm T-S140",
     "wof:parent_id":85923615,
     "wof:placetype":"instrument",

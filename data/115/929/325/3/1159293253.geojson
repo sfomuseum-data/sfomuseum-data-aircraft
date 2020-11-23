@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"BN-2A-III",
     "sfomuseum:aircraft_name":"Britten-Norman BN-2A-III Trislander",
     "sfomuseum:aircraft_variant":"Trislander",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294295,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293253,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164579,
     "wof:name":"Britten-Norman BN-2A-III Trislander",
     "wof:parent_id":101852317,
     "wof:placetype":"instrument",

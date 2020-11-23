@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Fleetster20",
     "sfomuseum:aircraft_name":"Consolidated  Fleetster20",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293703,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159292823,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164577,
     "wof:name":"Consolidated  Fleetster20",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"HA-100",
     "sfomuseum:aircraft_name":"Hispano Aviaci\u00f3n HA-100",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294001,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159290917,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164573,
     "wof:name":"Hispano Aviaci\u00f3n HA-100",
     "wof:parent_id":85633129,
     "wof:placetype":"instrument",

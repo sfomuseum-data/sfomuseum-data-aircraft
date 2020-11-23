@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-8",
     "sfomuseum:aircraft_name":"Douglas DC-8",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":47,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159290443,
-    "wof:lastmodified":1581621896,
+    "wof:lastmodified":1606164572,
     "wof:name":"Douglas DC-8",
     "wof:parent_id":1159290395,
     "wof:placetype":"instrument",

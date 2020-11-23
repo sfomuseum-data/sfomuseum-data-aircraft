@@ -17,16 +17,17 @@
     "sfomuseum:aircraft_model":"MU-2",
     "sfomuseum:aircraft_name":"Mitsubishi MU-2",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294053,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q11436"
     ],
     "wof:belongsto":[
-        85672817,
         102191569,
+        1159294053,
         85632429,
-        1159294053
+        85672817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159291327,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164574,
     "wof:name":"Mitsubishi MU-2",
     "wof:parent_id":85672817,
     "wof:placetype":"instrument",

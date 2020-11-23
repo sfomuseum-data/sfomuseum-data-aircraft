@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F.32",
     "sfomuseum:aircraft_name":"Fokker F.32",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159290655,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fokker F.32",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

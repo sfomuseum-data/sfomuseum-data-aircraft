@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"MD-11",
     "sfomuseum:aircraft_name":"McDonnell Douglas MD-11",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":9,
     "sfomuseum:hashtags":[
         "md11"
     ],
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159291281,
-    "wof:lastmodified":1581622828,
+    "wof:lastmodified":1606164574,
     "wof:name":"McDonnell Douglas MD-11",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

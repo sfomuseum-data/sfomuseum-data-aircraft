@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Airspeed Oxford",
     "sfomuseum:aircraft_variant":"Oxford",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293667,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159289447,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164569,
     "wof:name":"Airspeed Oxford",
     "wof:parent_id":85633041,
     "wof:placetype":"instrument",

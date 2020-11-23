@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"D.XII",
     "sfomuseum:aircraft_name":"Pfalz D.XII",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293597,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159291441,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164574,
     "wof:name":"Pfalz D.XII",
     "wof:parent_id":101748531,
     "wof:placetype":"instrument",

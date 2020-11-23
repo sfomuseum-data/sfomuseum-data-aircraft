@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"D-1",
     "sfomuseum:aircraft_name":"Transland D-1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293635,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291905,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164575,
     "wof:name":"Transland D-1",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

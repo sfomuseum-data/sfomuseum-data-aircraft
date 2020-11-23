@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"PT-17",
     "sfomuseum:aircraft_name":"Stearman PT-17 Kaydet",
     "sfomuseum:aircraft_variant":"Kaydet",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294161,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191575,
+        1159294161,
         85633793,
-        136253057,
-        1159294161
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159291789,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164575,
     "wof:name":"Stearman PT-17 Kaydet",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

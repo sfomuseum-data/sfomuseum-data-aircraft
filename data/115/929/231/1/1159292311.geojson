@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"FB-1",
     "sfomuseum:aircraft_name":"Fairey FB-1 Gyrodyne",
     "sfomuseum:aircraft_variant":"Gyrodyne",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293873,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159292311,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164576,
     "wof:name":"Fairey FB-1 Gyrodyne",
     "wof:parent_id":85788025,
     "wof:placetype":"instrument",

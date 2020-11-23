@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"747SP",
     "sfomuseum:aircraft_name":"Boeing 747SP",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":10,
     "sfomuseum:instance_of":1159289873,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159289931,
-    "wof:lastmodified":1556583932,
+    "wof:lastmodified":1606164570,
     "wof:name":"Boeing 747SP",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

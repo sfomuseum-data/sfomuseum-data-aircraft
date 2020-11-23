@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"R4D-5L",
     "sfomuseum:aircraft_name":"Douglas R4D-5L Skytrain",
     "sfomuseum:aircraft_variant":"Skytrain",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159292765,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164577,
     "wof:name":"Douglas R4D-5L Skytrain",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

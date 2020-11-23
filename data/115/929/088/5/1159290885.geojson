@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Hawker Siddeley Harrier T.2A",
     "sfomuseum:aircraft_variant":"Harrier T.2A",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294003,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159294003,
         85633159,
-        136253055,
-        1159294003
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290885,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164573,
     "wof:name":"Hawker Siddeley Harrier T.2A",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

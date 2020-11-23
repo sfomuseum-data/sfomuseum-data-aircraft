@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"G3M2",
     "sfomuseum:aircraft_name":"Mitsubishi G3M2 Nippon",
     "sfomuseum:aircraft_variant":"Nippon",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294053,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
-        85672817,
         102191569,
+        1159294053,
         85632429,
-        1159294053
+        85672817
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292783,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164577,
     "wof:name":"Mitsubishi G3M2 Nippon",
     "wof:parent_id":85672817,
     "wof:placetype":"instrument",

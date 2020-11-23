@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"BT-13",
     "sfomuseum:aircraft_name":"Vultee BT-13",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294177,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159291999,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164575,
     "wof:name":"Vultee BT-13",
     "wof:parent_id":85923637,
     "wof:placetype":"instrument",

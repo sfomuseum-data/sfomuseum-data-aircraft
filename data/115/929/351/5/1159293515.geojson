@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F8F",
     "sfomuseum:aircraft_name":"Grumman F8F Bearcat",
     "sfomuseum:aircraft_variant":"Bearcat",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293563,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159293515,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164581,
     "wof:name":"Grumman F8F Bearcat",
     "wof:parent_id":85979165,
     "wof:placetype":"instrument",

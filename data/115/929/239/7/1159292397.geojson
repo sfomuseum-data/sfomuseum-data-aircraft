@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"6-F",
     "sfomuseum:aircraft_name":"Stearman 6-F Cloudboy",
     "sfomuseum:aircraft_variant":"Cloudboy",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294161,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159294161,
         85633793,
-        136253057,
-        1159294161
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292397,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164576,
     "wof:name":"Stearman 6-F Cloudboy",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Regional Jet (RJ)",
     "sfomuseum:aircraft_name":"Canadair Regional Jet (RJ)",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294259,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159290137,
-    "wof:lastmodified":1556583932,
+    "wof:lastmodified":1606164571,
     "wof:name":"Canadair Regional Jet (RJ)",
     "wof:parent_id":101736545,
     "wof:placetype":"instrument",

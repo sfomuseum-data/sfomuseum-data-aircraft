@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"6R",
     "sfomuseum:aircraft_name":"Sud Aviation 6R Caravelle",
     "sfomuseum:aircraft_variant":"Caravelle",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294251,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -27,9 +28,9 @@
         85633147,
         1108826387,
         101750691,
+        136253037,
         102072513,
-        1159294251,
-        136253037
+        1159294251
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159291821,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164575,
     "wof:name":"Sud Aviation 6R Caravelle",
     "wof:parent_id":101750691,
     "wof:placetype":"instrument",

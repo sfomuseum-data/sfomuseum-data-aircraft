@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"DC-10-30ER",
     "sfomuseum:aircraft_name":"McDonnell Douglas DC-10-30ER",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293561,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159291273,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164574,
     "wof:name":"McDonnell Douglas DC-10-30ER",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

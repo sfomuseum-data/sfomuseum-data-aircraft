@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Westland Lysander",
     "sfomuseum:aircraft_variant":"Lysander",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293845,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159292017,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Westland Lysander",
     "wof:parent_id":101852529,
     "wof:placetype":"instrument",

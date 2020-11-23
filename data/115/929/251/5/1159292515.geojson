@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Granville Brothers Gee Bee",
     "sfomuseum:aircraft_variant":"Gee Bee",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293599,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292515,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164576,
     "wof:name":"Granville Brothers Gee Bee",
     "wof:parent_id":85950393,
     "wof:placetype":"instrument",

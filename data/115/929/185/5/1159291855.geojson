@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"S.6",
     "sfomuseum:aircraft_name":"Supermarine S.6",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294325,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191581,
+        1159294325,
         85633159,
-        136253055,
-        1159294325
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159291855,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Supermarine S.6",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

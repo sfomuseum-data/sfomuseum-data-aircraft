@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"230",
     "sfomuseum:aircraft_name":"American Eagle 230 Eaglet",
     "sfomuseum:aircraft_variant":"Eaglet",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294163,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159289459,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164569,
     "wof:name":"American Eagle 230 Eaglet",
     "wof:parent_id":101724443,
     "wof:placetype":"instrument",

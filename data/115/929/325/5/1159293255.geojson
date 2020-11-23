@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Airship",
     "sfomuseum:aircraft_name":"Zeppelin Airship",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294155,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159293255,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164579,
     "wof:name":"Zeppelin Airship",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F4F-3",
     "sfomuseum:aircraft_name":"Grumman F4F-3 Wildcat",
     "sfomuseum:aircraft_variant":"Wildcat",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293563,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159290773,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164572,
     "wof:name":"Grumman F4F-3 Wildcat",
     "wof:parent_id":85979165,
     "wof:placetype":"instrument",

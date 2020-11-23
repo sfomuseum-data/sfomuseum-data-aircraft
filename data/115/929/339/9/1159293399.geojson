@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"Model 234",
     "sfomuseum:aircraft_name":"Boeing Vertol Model 234 Chinook",
     "sfomuseum:aircraft_variant":"Chinook",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293729,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293729,
         85633793,
-        136253057,
-        1159293729
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293399,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164580,
     "wof:name":"Boeing Vertol Model 234 Chinook",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

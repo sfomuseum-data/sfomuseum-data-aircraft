@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"MD-80",
     "sfomuseum:aircraft_name":"McDonnell Douglas MD-80",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":26,
     "sfomuseum:hashtags":[
         "md80s"
     ],
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159291285,
-    "wof:lastmodified":1581622884,
+    "wof:lastmodified":1606164574,
     "wof:name":"McDonnell Douglas MD-80",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

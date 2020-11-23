@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Dash 8",
     "sfomuseum:aircraft_name":"Bombardier Dash 8 Q400",
     "sfomuseum:aircraft_variant":"Q400",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293567,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159293291,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164579,
     "wof:name":"Bombardier Dash 8 Q400",
     "wof:parent_id":101736545,
     "wof:placetype":"instrument",

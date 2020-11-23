@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"DC-10",
     "sfomuseum:aircraft_name":"McDonnell Douglas DC-10",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":18,
     "sfomuseum:hashtags":[
         "dc10"
     ],
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159291259,
-    "wof:lastmodified":1581618319,
+    "wof:lastmodified":1606164574,
     "wof:name":"McDonnell Douglas DC-10",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

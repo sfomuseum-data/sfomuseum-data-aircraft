@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Long Range Monoplane",
     "sfomuseum:aircraft_name":"Fairey Long Range Monoplane",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293873,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159292923,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164577,
     "wof:name":"Fairey Long Range Monoplane",
     "wof:parent_id":85788025,
     "wof:placetype":"instrument",

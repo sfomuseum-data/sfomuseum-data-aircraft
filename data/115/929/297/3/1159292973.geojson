@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DST (Douglas Sleeper Transport)",
     "sfomuseum:aircraft_name":"Douglas DST (Douglas Sleeper Transport)",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159292973,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164578,
     "wof:name":"Douglas DST (Douglas Sleeper Transport)",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

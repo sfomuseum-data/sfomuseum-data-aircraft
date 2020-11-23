@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Ro VIII",
     "sfomuseum:aircraft_name":"Rohrbach Ro VIII Roland",
     "sfomuseum:aircraft_variant":"Roland",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293937,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159293217,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164579,
     "wof:name":"Rohrbach Ro VIII Roland",
     "wof:parent_id":101748799,
     "wof:placetype":"instrument",

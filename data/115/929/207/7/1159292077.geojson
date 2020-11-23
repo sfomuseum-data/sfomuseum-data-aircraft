@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-7CF",
     "sfomuseum:aircraft_name":"Douglas DC-7CF",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292077,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164575,
     "wof:name":"Douglas DC-7CF",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"RC-3",
     "sfomuseum:aircraft_name":"Republic RC-3 Seabee",
     "sfomuseum:aircraft_variant":"Seabee",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293549,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292465,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164576,
     "wof:name":"Republic RC-3 Seabee",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

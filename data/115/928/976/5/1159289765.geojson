@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"727-22C",
     "sfomuseum:aircraft_name":"Boeing 727-22C",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:instance_of":1159289759,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289765,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164570,
     "wof:name":"Boeing 727-22C",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

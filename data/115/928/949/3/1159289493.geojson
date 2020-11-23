@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"72",
     "sfomuseum:aircraft_name":"ATR 72",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293891,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -30,9 +31,9 @@
         85633147,
         1108826387,
         101750691,
+        136253037,
         102072513,
-        1159293891,
-        136253037
+        1159293891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159289493,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164569,
     "wof:name":"ATR 72",
     "wof:parent_id":101750691,
     "wof:placetype":"instrument",

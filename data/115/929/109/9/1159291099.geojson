@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"L-049H",
     "sfomuseum:aircraft_name":"Lockheed L-049H Super H Constellation",
     "sfomuseum:aircraft_variant":"Super H Constellation",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291099,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164573,
     "wof:name":"Lockheed L-049H Super H Constellation",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

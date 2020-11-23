@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"S-4C",
     "sfomuseum:aircraft_name":"Thomas-Morse S-4C Scout",
     "sfomuseum:aircraft_variant":"Scout",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294343,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191575,
+        1159294343,
         85633793,
-        136253057,
-        1159294343
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159292389,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164576,
     "wof:name":"Thomas-Morse S-4C Scout",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

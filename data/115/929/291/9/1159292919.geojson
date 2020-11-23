@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Si 204A",
     "sfomuseum:aircraft_name":"Siebel Si 204A",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294223,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159292919,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164577,
     "wof:name":"Siebel Si 204A",
     "wof:parent_id":101748705,
     "wof:placetype":"instrument",

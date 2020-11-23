@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"A300-600R",
     "sfomuseum:aircraft_name":"Airbus A300-600R",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:instance_of":1159289389,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159289391,
-    "wof:lastmodified":1581618633,
+    "wof:lastmodified":1606164569,
     "wof:name":"Airbus A300-600R",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

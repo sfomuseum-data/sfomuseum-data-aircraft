@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"1900",
     "sfomuseum:aircraft_name":"Beech 1900",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293909,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159289555,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164569,
     "wof:name":"Beech 1900",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Bf-109 E",
     "sfomuseum:aircraft_name":"Messerschmitt Bf-109 E Emil",
     "sfomuseum:aircraft_variant":"Emil",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293731,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159291311,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164574,
     "wof:name":"Messerschmitt Bf-109 E Emil",
     "wof:parent_id":101748561,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"ANT-20",
     "sfomuseum:aircraft_name":"Tupolev ANT-20 Maksim Gorkii",
     "sfomuseum:aircraft_variant":"Maksim Gorkii",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294153,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -24,9 +25,9 @@
         102191581,
         85632685,
         102003033,
+        874393555,
         1108736095,
-        1159294153,
-        874393555
+        1159294153
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159291923,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164575,
     "wof:name":"Tupolev ANT-20 Maksim Gorkii",
     "wof:parent_id":102003033,
     "wof:placetype":"instrument",

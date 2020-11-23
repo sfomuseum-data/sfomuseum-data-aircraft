@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"DHC",
     "sfomuseum:aircraft_name":"de Havilland (Canada) DHC",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293743,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159293743,
         85633159,
-        136253055,
-        1159293743
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292629,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164577,
     "wof:name":"de Havilland (Canada) DHC",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

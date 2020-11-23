@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"ERJ",
     "sfomuseum:aircraft_name":"Embraer ERJ",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294367,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159292327,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164576,
     "wof:name":"Embraer ERJ",
     "wof:parent_id":101965823,
     "wof:placetype":"instrument",

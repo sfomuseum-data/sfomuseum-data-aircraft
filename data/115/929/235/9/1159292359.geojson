@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Christen Industries Eagle",
     "sfomuseum:aircraft_variant":"Eagle",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293673,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293673,
         85633793,
-        136253057,
-        1159293673
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292359,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164576,
     "wof:name":"Christen Industries Eagle",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

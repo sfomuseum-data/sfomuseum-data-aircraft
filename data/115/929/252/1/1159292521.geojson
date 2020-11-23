@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F7F",
     "sfomuseum:aircraft_name":"Grumman F7F Tigercat",
     "sfomuseum:aircraft_variant":"Tigercat",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293563,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292521,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164576,
     "wof:name":"Grumman F7F Tigercat",
     "wof:parent_id":85979165,
     "wof:placetype":"instrument",

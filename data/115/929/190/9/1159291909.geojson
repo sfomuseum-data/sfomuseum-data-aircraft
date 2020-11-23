@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"5000",
     "sfomuseum:aircraft_name":"Travel Air 5000",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293671,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293671,
         85633793,
-        136253057,
-        1159293671
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291909,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164575,
     "wof:name":"Travel Air 5000",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

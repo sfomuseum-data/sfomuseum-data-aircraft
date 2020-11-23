@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"A380",
     "sfomuseum:aircraft_name":"Airbus A380",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":7,
     "sfomuseum:hashtags":[
         "a380",
         "iflya380"
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159289435,
-    "wof:lastmodified":1551989463,
+    "wof:lastmodified":1606164569,
     "wof:name":"Airbus A380",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

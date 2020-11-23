@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F11C",
     "sfomuseum:aircraft_name":"Curtiss F11C Goshawk",
     "sfomuseum:aircraft_variant":"Goshawk",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290267,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164571,
     "wof:name":"Curtiss F11C Goshawk",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"B\u00fc 131A",
     "sfomuseum:aircraft_name":"B\u00fccker B\u00fc 131A Jungmann",
     "sfomuseum:aircraft_variant":"Jungmann",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293665,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292733,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"B\u00fccker B\u00fc 131A Jungmann",
     "wof:parent_id":101819585,
     "wof:placetype":"instrument",

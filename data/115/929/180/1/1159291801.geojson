@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"SM-1",
     "sfomuseum:aircraft_name":"Stinson SM-1 Detroiter",
     "sfomuseum:aircraft_variant":"Detroiter",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293557,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291801,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Stinson SM-1 Detroiter",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

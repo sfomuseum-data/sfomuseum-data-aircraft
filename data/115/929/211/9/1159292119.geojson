@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"C.III",
     "sfomuseum:aircraft_name":"Albatros C.III",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293773,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159292119,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Albatros C.III",
     "wof:parent_id":421181395,
     "wof:placetype":"instrument",

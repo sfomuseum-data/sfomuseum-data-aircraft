@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F.VIIA-3m",
     "sfomuseum:aircraft_name":"Fokker F.VIIA-3m",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159290665,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fokker F.VIIA-3m",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

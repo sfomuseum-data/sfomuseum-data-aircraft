@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"614 ",
     "sfomuseum:aircraft_name":"Fokker VFW 614 ",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294217,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159292729,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164577,
     "wof:name":"Fokker VFW 614 ",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

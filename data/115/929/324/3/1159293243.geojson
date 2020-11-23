@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Bu 181",
     "sfomuseum:aircraft_name":"Buker Bu 181 Bestmann",
     "sfomuseum:aircraft_variant":"Bestmann",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294027,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293243,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164579,
     "wof:name":"Buker Bu 181 Bestmann",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

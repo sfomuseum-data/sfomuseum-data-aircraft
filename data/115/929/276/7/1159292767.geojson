@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"W-33",
     "sfomuseum:aircraft_name":"Junkers W-33 Bremen",
     "sfomuseum:aircraft_variant":"Bremen",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159294171,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292767,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164577,
     "wof:name":"Junkers W-33 Bremen",
     "wof:parent_id":101748765,
     "wof:placetype":"instrument",

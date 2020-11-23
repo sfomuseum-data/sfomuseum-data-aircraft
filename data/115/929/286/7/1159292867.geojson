@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"94 Kamikaze",
     "sfomuseum:aircraft_name":"Mitsubishi 94 Kamikaze",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294053,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
-        85672817,
         102191569,
+        1159294053,
         85632429,
-        1159294053
+        85672817
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292867,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164577,
     "wof:name":"Mitsubishi 94 Kamikaze",
     "wof:parent_id":85672817,
     "wof:placetype":"instrument",

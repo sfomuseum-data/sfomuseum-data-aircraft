@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"340",
     "sfomuseum:aircraft_name":"Convair 340 Convair-Liner",
     "sfomuseum:aircraft_variant":"Convair-Liner",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293605,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159290199,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164571,
     "wof:name":"Convair 340 Convair-Liner",
     "wof:parent_id":85922227,
     "wof:placetype":"instrument",

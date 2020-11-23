@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"B-29",
     "sfomuseum:aircraft_name":"Boeing B-29 Superfortress",
     "sfomuseum:aircraft_variant":"Superfortress",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159290005,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164571,
     "wof:name":"Boeing B-29 Superfortress",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

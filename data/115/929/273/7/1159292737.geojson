@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"Loening O-1A",
     "sfomuseum:aircraft_name":"U.S. Army Air Corps Loening O-1A Flying Shoehorn",
     "sfomuseum:aircraft_variant":"Flying Shoehorn",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294199,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159294199,
         85633793,
-        136253057,
-        1159294199
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292737,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"U.S. Army Air Corps Loening O-1A Flying Shoehorn",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

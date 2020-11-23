@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"UC-7",
     "sfomuseum:aircraft_name":"Waco UC-7",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293607,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293607,
         85633793,
-        136253057,
-        1159293607
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292681,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164577,
     "wof:name":"Waco UC-7",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

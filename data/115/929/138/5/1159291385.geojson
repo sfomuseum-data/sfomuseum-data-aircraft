@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"NA-96",
     "sfomuseum:aircraft_name":"North American Aviation NA-96",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293761,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291385,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164574,
     "wof:name":"North American Aviation NA-96",
     "wof:parent_id":85923517,
     "wof:placetype":"instrument",

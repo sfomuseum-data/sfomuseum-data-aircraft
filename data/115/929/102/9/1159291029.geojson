@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"L 21",
     "sfomuseum:aircraft_name":"Klemm L 21",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294301,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159291029,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164573,
     "wof:name":"Klemm L 21",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

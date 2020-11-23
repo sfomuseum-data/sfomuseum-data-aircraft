@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"D-558-1",
     "sfomuseum:aircraft_name":"Douglas D-558-1 Skystreak",
     "sfomuseum:aircraft_variant":"Skystreak",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q11436"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293337,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas D-558-1 Skystreak",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

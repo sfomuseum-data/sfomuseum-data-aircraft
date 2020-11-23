@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_model":"A330",
     "sfomuseum:aircraft_name":"Airbus A330",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:hashtags":[
         "a330neo",
         "a330neoff"
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1159289419,
-    "wof:lastmodified":1581705262,
+    "wof:lastmodified":1606164569,
     "wof:name":"Airbus A330",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

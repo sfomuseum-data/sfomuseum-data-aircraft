@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"JM",
     "sfomuseum:aircraft_name":"Germania JM",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293831,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
-        85682499,
         102191581,
+        1159293831,
         85633111,
-        1159293831
+        85682499
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290709,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164572,
     "wof:name":"Germania JM",
     "wof:parent_id":85682499,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"An-8",
     "sfomuseum:aircraft_name":"Antonov An-8",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293813,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159289467,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164569,
     "wof:name":"Antonov An-8",
     "wof:parent_id":101752489,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"XBTK-1",
     "sfomuseum:aircraft_name":"Kaiser-Fleetwings XBTK-1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293683,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159291001,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164573,
     "wof:name":"Kaiser-Fleetwings XBTK-1",
     "wof:parent_id":101716861,
     "wof:placetype":"instrument",

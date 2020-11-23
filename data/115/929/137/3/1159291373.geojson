@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"B-45C",
     "sfomuseum:aircraft_name":"North American Aviation B-45C Tornado",
     "sfomuseum:aircraft_variant":"Tornado",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293761,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291373,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164574,
     "wof:name":"North American Aviation B-45C Tornado",
     "wof:parent_id":85923517,
     "wof:placetype":"instrument",

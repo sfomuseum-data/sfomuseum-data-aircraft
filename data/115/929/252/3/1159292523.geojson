@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"J2F",
     "sfomuseum:aircraft_name":"Grumman J2F Duck",
     "sfomuseum:aircraft_variant":"Duck",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293563,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159292523,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164576,
     "wof:name":"Grumman J2F Duck",
     "wof:parent_id":85979165,
     "wof:placetype":"instrument",

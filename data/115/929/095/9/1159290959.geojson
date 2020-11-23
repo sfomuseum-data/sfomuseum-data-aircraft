@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Il-62",
     "sfomuseum:aircraft_name":"Ilyushin Il-62",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159294129,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159290959,
-    "wof:lastmodified":1581623435,
+    "wof:lastmodified":1606164573,
     "wof:name":"Ilyushin Il-62",
     "wof:parent_id":102003033,
     "wof:placetype":"instrument",

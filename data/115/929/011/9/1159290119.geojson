@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"B\u00fc 133A",
     "sfomuseum:aircraft_name":"B\u00fccker B\u00fc 133A Jungmeister",
     "sfomuseum:aircraft_variant":"Jungmeister",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293665,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159290119,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164571,
     "wof:name":"B\u00fccker B\u00fc 133A Jungmeister",
     "wof:parent_id":101819585,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"G 38",
     "sfomuseum:aircraft_name":"Junkers G 38",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294171,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159293107,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164578,
     "wof:name":"Junkers G 38",
     "wof:parent_id":101748765,
     "wof:placetype":"instrument",

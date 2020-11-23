@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"HM. 14",
     "sfomuseum:aircraft_name":"Mignet HM. 14 Pou du Ciel",
     "sfomuseum:aircraft_variant":"Pou du Ciel",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294169,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293205,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164579,
     "wof:name":"Mignet HM. 14 Pou du Ciel",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

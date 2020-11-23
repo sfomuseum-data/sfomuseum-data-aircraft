@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"An-14",
     "sfomuseum:aircraft_name":"Antonov An-14",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293813,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292753,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Antonov An-14",
     "wof:parent_id":101752489,
     "wof:placetype":"instrument",

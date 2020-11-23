@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"21",
     "sfomuseum:aircraft_name":"Santos-Dumont 21 Demoiselle",
     "sfomuseum:aircraft_variant":"Demoiselle",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293935,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291569,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164574,
     "wof:name":"Santos-Dumont 21 Demoiselle",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

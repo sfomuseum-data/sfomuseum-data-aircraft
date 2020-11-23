@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-9",
     "sfomuseum:aircraft_name":"Douglas DC-9",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":19,
     "sfomuseum:hashtags":[
         "dc9"
     ],
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159291223,
-    "wof:lastmodified":1581622024,
+    "wof:lastmodified":1606164573,
     "wof:name":"Douglas DC-9",
     "wof:parent_id":1159290395,
     "wof:placetype":"instrument",

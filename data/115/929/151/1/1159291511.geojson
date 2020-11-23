@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"B.E.2e",
     "sfomuseum:aircraft_name":"Royal Aircraft Factory (RAF) B.E.2e",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293587,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159293587,
         85633159,
-        136253055,
-        1159293587
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291511,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164574,
     "wof:name":"Royal Aircraft Factory (RAF) B.E.2e",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

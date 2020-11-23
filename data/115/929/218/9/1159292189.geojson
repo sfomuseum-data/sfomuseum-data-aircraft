@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"B-37",
     "sfomuseum:aircraft_name":"Blackburn B-37 Firebrand",
     "sfomuseum:aircraft_variant":"Firebrand",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294057,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191581,
+        1159294057,
         85633159,
-        136253055,
-        1159294057
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159292189,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164576,
     "wof:name":"Blackburn B-37 Firebrand",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

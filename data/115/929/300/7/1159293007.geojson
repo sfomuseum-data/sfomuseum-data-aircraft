@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Do B Merkur I",
     "sfomuseum:aircraft_name":"Dornier Do B Merkur I",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294011,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293007,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164578,
     "wof:name":"Dornier Do B Merkur I",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

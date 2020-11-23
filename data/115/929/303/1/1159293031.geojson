@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"W 33b",
     "sfomuseum:aircraft_name":"Junkers W 33b",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294171,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293031,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164578,
     "wof:name":"Junkers W 33b",
     "wof:parent_id":101748765,
     "wof:placetype":"instrument",

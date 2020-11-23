@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Hartinen",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293589,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159290827,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164573,
     "wof:name":"Hartinen",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

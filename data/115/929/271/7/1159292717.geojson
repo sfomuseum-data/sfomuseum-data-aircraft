@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"E-4/20",
     "sfomuseum:aircraft_name":"Zeppelin-Staaken E-4/20",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294241,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292717,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164577,
     "wof:name":"Zeppelin-Staaken E-4/20",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

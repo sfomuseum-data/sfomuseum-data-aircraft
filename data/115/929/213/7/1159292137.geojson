@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"706",
     "sfomuseum:aircraft_name":"Avro 706 Ashton",
     "sfomuseum:aircraft_variant":"Ashton",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293981,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159293981,
         85633159,
-        136253055,
-        1159293981
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292137,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164575,
     "wof:name":"Avro 706 Ashton",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

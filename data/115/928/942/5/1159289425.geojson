@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"A340",
     "sfomuseum:aircraft_name":"Airbus A340",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1159289425,
-    "wof:lastmodified":1581619394,
+    "wof:lastmodified":1606164569,
     "wof:name":"Airbus A340",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

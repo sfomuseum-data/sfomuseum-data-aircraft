@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"504",
     "sfomuseum:aircraft_name":"Avro 504",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293981,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191581,
+        1159293981,
         85633159,
-        136253055,
-        1159293981
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159289501,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164569,
     "wof:name":"Avro 504",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

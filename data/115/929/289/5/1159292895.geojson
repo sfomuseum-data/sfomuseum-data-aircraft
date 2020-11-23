@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F.60",
     "sfomuseum:aircraft_name":"Farman F.60 Goliath",
     "sfomuseum:aircraft_variant":"Goliath",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293691,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159292895,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Farman F.60 Goliath",
     "wof:parent_id":101753455,
     "wof:placetype":"instrument",

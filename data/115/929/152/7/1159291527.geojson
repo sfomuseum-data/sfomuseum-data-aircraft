@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"76",
     "sfomuseum:aircraft_name":"Rutan 76 Voyager",
     "sfomuseum:aircraft_variant":"Voyager",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294245,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291527,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164574,
     "wof:name":"Rutan 76 Voyager",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

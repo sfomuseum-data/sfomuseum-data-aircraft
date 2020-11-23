@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"British Aircraft Mfg Swallow",
     "sfomuseum:aircraft_variant":"Swallow",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293923,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159290109,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164571,
     "wof:name":"British Aircraft Mfg Swallow",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

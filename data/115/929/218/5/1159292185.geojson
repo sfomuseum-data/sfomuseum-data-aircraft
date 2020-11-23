@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"YFM",
     "sfomuseum:aircraft_name":"Bell YFM Airacuda",
     "sfomuseum:aircraft_variant":"Airacuda",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294321,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159292185,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164576,
     "wof:name":"Bell YFM Airacuda",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

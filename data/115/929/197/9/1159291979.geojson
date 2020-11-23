@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Vickers Wellington",
     "sfomuseum:aircraft_variant":"Wellington",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293777,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159291979,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164575,
     "wof:name":"Vickers Wellington",
     "wof:parent_id":101872343,
     "wof:placetype":"instrument",

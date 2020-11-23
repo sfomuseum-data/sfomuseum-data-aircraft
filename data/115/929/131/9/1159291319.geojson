@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"MiG-25",
     "sfomuseum:aircraft_name":"MiG MiG-25 Foxbat",
     "sfomuseum:aircraft_variant":"Foxbat",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293747,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -24,9 +25,9 @@
         102191581,
         85632685,
         102003033,
+        874393555,
         1108736095,
-        1159293747,
-        874393555
+        1159293747
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159291319,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164574,
     "wof:name":"MiG MiG-25 Foxbat",
     "wof:parent_id":102003033,
     "wof:placetype":"instrument",

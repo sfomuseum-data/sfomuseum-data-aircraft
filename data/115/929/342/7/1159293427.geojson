@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Model A",
     "sfomuseum:aircraft_name":"Cessna Model A",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294115,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159293427,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164580,
     "wof:name":"Cessna Model A",
     "wof:parent_id":85945871,
     "wof:placetype":"instrument",

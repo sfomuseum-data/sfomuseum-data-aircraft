@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"V.101",
     "sfomuseum:aircraft_name":"LFG Roland V.101",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294277,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159291051,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164573,
     "wof:name":"LFG Roland V.101",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

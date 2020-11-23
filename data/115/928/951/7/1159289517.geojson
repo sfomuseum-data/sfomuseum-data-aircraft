@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"CF-100",
     "sfomuseum:aircraft_name":"Avro (Canada) CF-100 Canuck",
     "sfomuseum:aircraft_variant":"Canuck",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294107,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159294107,
         85633793,
-        136253057,
-        1159294107
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159289517,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164569,
     "wof:name":"Avro (Canada) CF-100 Canuck",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

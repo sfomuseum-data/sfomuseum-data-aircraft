@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"H18",
     "sfomuseum:aircraft_name":"Beech H18",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293909,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159292161,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164576,
     "wof:name":"Beech H18",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

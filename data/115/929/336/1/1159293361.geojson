@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"O-58",
     "sfomuseum:aircraft_name":"Aeronca O-58",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293617,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159293361,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164580,
     "wof:name":"Aeronca O-58",
     "wof:parent_id":101712653,
     "wof:placetype":"instrument",

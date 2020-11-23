@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"M.35a",
     "sfomuseum:aircraft_name":"Messerschmitt M.35a",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293731,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292679,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Messerschmitt M.35a",
     "wof:parent_id":101748561,
     "wof:placetype":"instrument",

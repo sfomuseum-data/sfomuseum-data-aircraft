@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"UH-1D",
     "sfomuseum:aircraft_name":"Dornier UH-1D",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294011,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159290393,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164572,
     "wof:name":"Dornier UH-1D",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

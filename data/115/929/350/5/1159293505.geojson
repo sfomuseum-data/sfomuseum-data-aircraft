@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"2-AT",
     "sfomuseum:aircraft_name":"Stout 2-AT Pullman",
     "sfomuseum:aircraft_variant":"Pullman",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294209,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191575,
+        1159294209,
         85633793,
-        136253057,
-        1159294209
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159293505,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164581,
     "wof:name":"Stout 2-AT Pullman",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

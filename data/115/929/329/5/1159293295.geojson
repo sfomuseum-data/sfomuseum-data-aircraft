@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Mercure",
     "sfomuseum:aircraft_name":"Dassault Mercure",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293997,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159293295,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164579,
     "wof:name":"Dassault Mercure",
     "wof:parent_id":101751119,
     "wof:placetype":"instrument",

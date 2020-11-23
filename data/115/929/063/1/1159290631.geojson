@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"E.III",
     "sfomuseum:aircraft_name":"Fokker E.III",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159290631,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fokker E.III",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Hydravion",
     "sfomuseum:aircraft_name":"Fabre Hydravion",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293953,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293535,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164581,
     "wof:name":"Fabre Hydravion",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"K-5",
     "sfomuseum:aircraft_name":"Kreutzer K-5 Air Coach",
     "sfomuseum:aircraft_variant":"Air Coach",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294271,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291033,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164573,
     "wof:name":"Kreutzer K-5 Air Coach",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

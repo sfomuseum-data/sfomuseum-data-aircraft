@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"PBY-5A",
     "sfomuseum:aircraft_name":"Consolidated PBY-5A Catalina",
     "sfomuseum:aircraft_variant":"Catalina",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159294323,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292375,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164576,
     "wof:name":"Consolidated PBY-5A Catalina",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

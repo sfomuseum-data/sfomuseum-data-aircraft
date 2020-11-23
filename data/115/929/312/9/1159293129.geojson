@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"D.H.86",
     "sfomuseum:aircraft_name":"de Havilland D.H.86",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293995,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159293129,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164578,
     "wof:name":"de Havilland D.H.86",
     "wof:parent_id":85684331,
     "wof:placetype":"instrument",

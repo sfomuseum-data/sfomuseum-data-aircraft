@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Hawker Hurricane Mk.II",
     "sfomuseum:aircraft_variant":"Hurricane Mk.II",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293913,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159290843,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164573,
     "wof:name":"Hawker Hurricane Mk.II",
     "wof:parent_id":85684387,
     "wof:placetype":"instrument",

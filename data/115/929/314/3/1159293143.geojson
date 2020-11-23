@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-4E",
     "sfomuseum:aircraft_name":"Douglas DC-4E",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15126161"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293143,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164578,
     "wof:name":"Douglas DC-4E",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

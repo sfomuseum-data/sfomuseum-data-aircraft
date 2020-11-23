@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Delta 1",
     "sfomuseum:aircraft_name":"Northrop Delta 1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294075,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292701,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Northrop Delta 1",
     "wof:parent_id":85923599,
     "wof:placetype":"instrument",

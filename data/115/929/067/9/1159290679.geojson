@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Folkerts Speed King",
     "sfomuseum:aircraft_variant":"Speed King",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293799,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159290679,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164572,
     "wof:name":"Folkerts Speed King",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

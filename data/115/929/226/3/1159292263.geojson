@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"YO-3",
     "sfomuseum:aircraft_name":"Lockheed YO-3 Q-Star",
     "sfomuseum:aircraft_variant":"Q-Star",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292263,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164576,
     "wof:name":"Lockheed YO-3 Q-Star",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

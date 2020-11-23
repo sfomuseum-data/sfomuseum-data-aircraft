@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Vickers Viscount 810",
     "sfomuseum:aircraft_variant":"Viscount 810",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293777,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159291977,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164575,
     "wof:name":"Vickers Viscount 810",
     "wof:parent_id":101872343,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"V.20",
     "sfomuseum:aircraft_name":"LFG Roland V.20 Arkona",
     "sfomuseum:aircraft_variant":"Arkona",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294277,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159291049,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164573,
     "wof:name":"LFG Roland V.20 Arkona",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

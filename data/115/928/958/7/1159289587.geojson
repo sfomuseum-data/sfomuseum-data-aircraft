@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Blackburn Skua MK.II",
     "sfomuseum:aircraft_variant":"Skua MK.II",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294057,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159294057,
         85633159,
-        136253055,
-        1159294057
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159289587,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164570,
     "wof:name":"Blackburn Skua MK.II",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

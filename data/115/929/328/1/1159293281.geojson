@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"70",
     "sfomuseum:aircraft_name":"Fokker 70",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159293281,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164579,
     "wof:name":"Fokker 70",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

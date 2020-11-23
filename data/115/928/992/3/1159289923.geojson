@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"747B",
     "sfomuseum:aircraft_name":"Boeing 747B",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:instance_of":1159289873,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159289923,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164570,
     "wof:name":"Boeing 747B",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

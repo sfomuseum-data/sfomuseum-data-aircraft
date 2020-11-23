@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_model":"EMB-120",
     "sfomuseum:aircraft_name":"Embraer EMB-120 Brasilia",
     "sfomuseum:aircraft_variant":"Brasilia",
+    "sfomuseum:count_objects_public":5,
     "sfomuseum:manufacturer_id":1159294367,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159290515,
-    "wof:lastmodified":1581701555,
+    "wof:lastmodified":1606164572,
     "wof:name":"Embraer EMB-120 Brasilia",
     "wof:parent_id":101965823,
     "wof:placetype":"instrument",

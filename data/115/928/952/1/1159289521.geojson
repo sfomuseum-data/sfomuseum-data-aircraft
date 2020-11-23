@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"One-Eleven 201AC",
     "sfomuseum:aircraft_name":"BAC One-Eleven 201AC",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293741,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159289521,
-    "wof:lastmodified":1544814277,
+    "wof:lastmodified":1606164569,
     "wof:name":"BAC One-Eleven 201AC",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

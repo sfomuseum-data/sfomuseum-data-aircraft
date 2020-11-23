@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"P-61",
     "sfomuseum:aircraft_name":"Northrop P-61 Black Widow",
     "sfomuseum:aircraft_variant":"Black Widow",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159294075,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159291419,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164574,
     "wof:name":"Northrop P-61 Black Widow",
     "wof:parent_id":85923599,
     "wof:placetype":"instrument",

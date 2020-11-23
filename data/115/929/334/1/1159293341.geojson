@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"A-26 (B-26)",
     "sfomuseum:aircraft_name":"Douglas A-26 (B-26) Invader",
     "sfomuseum:aircraft_variant":"Invader",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159293341,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas A-26 (B-26) Invader",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

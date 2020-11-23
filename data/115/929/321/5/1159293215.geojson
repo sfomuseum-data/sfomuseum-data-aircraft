@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"787-9",
     "sfomuseum:aircraft_name":"Boeing 787-9",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:instance_of":1159292849,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159293215,
-    "wof:lastmodified":1556583932,
+    "wof:lastmodified":1606164579,
     "wof:name":"Boeing 787-9",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

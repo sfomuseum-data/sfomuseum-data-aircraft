@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"MD-90",
     "sfomuseum:aircraft_name":"McDonnell Douglas MD-90",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:manufacturer_id":1159293561,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159291299,
-    "wof:lastmodified":1581623097,
+    "wof:lastmodified":1606164574,
     "wof:name":"McDonnell Douglas MD-90",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

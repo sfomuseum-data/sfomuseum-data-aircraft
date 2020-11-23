@@ -17,16 +17,17 @@
     "sfomuseum:aircraft_model":"A6M",
     "sfomuseum:aircraft_name":"Mitsubishi A6M Zero",
     "sfomuseum:aircraft_variant":"Zero",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294053,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
     ],
     "wof:belongsto":[
-        85672817,
         102191569,
+        1159294053,
         85632429,
-        1159294053
+        85672817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159291325,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164574,
     "wof:name":"Mitsubishi A6M Zero",
     "wof:parent_id":85672817,
     "wof:placetype":"instrument",

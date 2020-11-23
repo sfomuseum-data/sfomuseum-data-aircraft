@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Douglas Dolphin",
     "sfomuseum:aircraft_variant":"Dolphin",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q1153376"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290397,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164572,
     "wof:name":"Douglas Dolphin",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"5bis",
     "sfomuseum:aircraft_name":"RWD 5bis",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293647,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159292677,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"RWD 5bis",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

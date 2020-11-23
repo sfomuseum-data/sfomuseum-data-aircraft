@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"377",
     "sfomuseum:aircraft_name":"Boeing 377 Stratocruiser \u201cClipper Southern Cross\u201d",
     "sfomuseum:aircraft_variant":"Stratocruiser \u201cClipper Southern Cross\u201d",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292073,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164575,
     "wof:name":"Boeing 377 Stratocruiser \u201cClipper Southern Cross\u201d",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

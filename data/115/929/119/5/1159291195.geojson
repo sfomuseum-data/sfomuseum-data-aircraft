@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"M-130",
     "sfomuseum:aircraft_name":"Martin M-130 Hawaii Clipper",
     "sfomuseum:aircraft_variant":"Hawaii Clipper",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159291195,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164573,
     "wof:name":"Martin M-130 Hawaii Clipper",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

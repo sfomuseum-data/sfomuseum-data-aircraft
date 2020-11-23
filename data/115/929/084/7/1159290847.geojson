@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Hawker Osprey Mk.I",
     "sfomuseum:aircraft_variant":"Osprey Mk.I",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293913,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159290847,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164573,
     "wof:name":"Hawker Osprey Mk.I",
     "wof:parent_id":85684387,
     "wof:placetype":"instrument",

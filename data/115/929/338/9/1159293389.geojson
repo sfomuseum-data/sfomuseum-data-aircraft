@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Model 200",
     "sfomuseum:aircraft_name":"Boeing Model 200 Monomail",
     "sfomuseum:aircraft_variant":"Monomail",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293389,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164580,
     "wof:name":"Boeing Model 200 Monomail",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"XIV",
     "sfomuseum:aircraft_name":"Benoist XIV",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293781,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293533,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164581,
     "wof:name":"Benoist XIV",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

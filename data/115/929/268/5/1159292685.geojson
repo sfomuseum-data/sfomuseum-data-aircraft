@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"PA-18",
     "sfomuseum:aircraft_name":"Piper PA-18 Super Cub",
     "sfomuseum:aircraft_variant":"Super Cub",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294133,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1159292685,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164577,
     "wof:name":"Piper PA-18 Super Cub",
     "wof:parent_id":102527921,
     "wof:placetype":"instrument",

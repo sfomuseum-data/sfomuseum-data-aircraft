@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F-5L",
     "sfomuseum:aircraft_name":"Curtiss F-5L",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290265,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164571,
     "wof:name":"Curtiss F-5L",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

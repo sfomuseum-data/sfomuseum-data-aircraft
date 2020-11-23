@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F.223.4",
     "sfomuseum:aircraft_name":"Farman F.223.4",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293691,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159293147,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164578,
     "wof:name":"Farman F.223.4",
     "wof:parent_id":101753455,
     "wof:placetype":"instrument",

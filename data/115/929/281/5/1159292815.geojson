@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-8-73",
     "sfomuseum:aircraft_name":"Douglas DC-8-73",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292815,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164577,
     "wof:name":"Douglas DC-8-73",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

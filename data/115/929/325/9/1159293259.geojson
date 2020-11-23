@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"SE.161",
     "sfomuseum:aircraft_name":"SNCASE SE.161 Languedoc",
     "sfomuseum:aircraft_variant":"Languedoc",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294137,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -30,9 +31,9 @@
         85633147,
         1108826387,
         101750691,
+        136253037,
         102072513,
-        1159294137,
-        136253037
+        1159294137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159293259,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164579,
     "wof:name":"SNCASE SE.161 Languedoc",
     "wof:parent_id":101750691,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"DH-4",
     "sfomuseum:aircraft_name":"de Havilland DH-4",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293995,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1159290307,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164571,
     "wof:name":"de Havilland DH-4",
     "wof:parent_id":85684331,
     "wof:placetype":"instrument",

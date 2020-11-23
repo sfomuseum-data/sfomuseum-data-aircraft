@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"2-AT",
     "sfomuseum:aircraft_name":"Ford 2-AT",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056995"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292299,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164576,
     "wof:name":"Ford 2-AT",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

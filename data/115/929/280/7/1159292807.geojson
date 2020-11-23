@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"3-CT-4",
     "sfomuseum:aircraft_name":"Bach Aircraft 3-CT-4 Air Yacht",
     "sfomuseum:aircraft_variant":"Air Yacht",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293839,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293839,
         85633793,
-        136253057,
-        1159293839
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292807,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164577,
     "wof:name":"Bach Aircraft 3-CT-4 Air Yacht",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

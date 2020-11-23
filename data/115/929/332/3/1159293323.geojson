@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"X-3",
     "sfomuseum:aircraft_name":"Douglas X-3 Stiletto",
     "sfomuseum:aircraft_variant":"Stiletto",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056995"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293323,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas X-3 Stiletto",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"500",
     "sfomuseum:aircraft_name":"Aero Commander 500",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293903,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159292095,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164575,
     "wof:name":"Aero Commander 500",
     "wof:parent_id":85923649,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"K5Y",
     "sfomuseum:aircraft_name":"Yokosuka K5Y Willow",
     "sfomuseum:aircraft_variant":"Willow",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294135,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159292057,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164575,
     "wof:name":"Yokosuka K5Y Willow",
     "wof:parent_id":85632429,
     "wof:placetype":"instrument",

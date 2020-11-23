@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"DH-89M",
     "sfomuseum:aircraft_name":"de Havilland DH-89M Dragon Rapide",
     "sfomuseum:aircraft_variant":"Dragon Rapide",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293995,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159290319,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164571,
     "wof:name":"de Havilland DH-89M Dragon Rapide",
     "wof:parent_id":85684331,
     "wof:placetype":"instrument",

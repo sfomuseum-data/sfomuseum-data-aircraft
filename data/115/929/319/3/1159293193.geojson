@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"C-102",
     "sfomuseum:aircraft_name":"Avro (Canada) C-102 Jetliner",
     "sfomuseum:aircraft_variant":"Jetliner",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294107,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159294107,
         85633793,
-        136253057,
-        1159294107
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293193,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164579,
     "wof:name":"Avro (Canada) C-102 Jetliner",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

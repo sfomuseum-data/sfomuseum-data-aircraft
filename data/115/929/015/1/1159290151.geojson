@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"182",
     "sfomuseum:aircraft_name":"Cessna 182 Skylane",
     "sfomuseum:aircraft_variant":"Skylane",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294115,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290151,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164571,
     "wof:name":"Cessna 182 Skylane",
     "wof:parent_id":85945871,
     "wof:placetype":"instrument",

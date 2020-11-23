@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"PW-8",
     "sfomuseum:aircraft_name":"Curtiss PW-8",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159293539,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164581,
     "wof:name":"Curtiss PW-8",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

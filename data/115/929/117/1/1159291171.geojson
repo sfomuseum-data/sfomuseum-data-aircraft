@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"OA-1A",
     "sfomuseum:aircraft_name":"Loening OA-1A",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293653,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293653,
         85633793,
-        136253057,
-        1159293653
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291171,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164573,
     "wof:name":"Loening OA-1A",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

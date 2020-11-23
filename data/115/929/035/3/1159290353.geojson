@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Deperdussin Monocoque",
     "sfomuseum:aircraft_variant":"Monocoque",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294031,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191581,
+        1159294031,
         85633147,
-        136253037,
-        1159294031
+        136253037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159290353,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164571,
     "wof:name":"Deperdussin Monocoque",
     "wof:parent_id":85633147,
     "wof:placetype":"instrument",

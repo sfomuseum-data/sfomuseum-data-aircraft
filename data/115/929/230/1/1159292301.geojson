@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"5-AT-C",
     "sfomuseum:aircraft_name":"Ford 5-AT-C Tri-Motor",
     "sfomuseum:aircraft_variant":"Tri-Motor",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292301,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164576,
     "wof:name":"Ford 5-AT-C Tri-Motor",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

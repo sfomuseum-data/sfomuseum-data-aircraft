@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Hawker Siddeley Harrier GR.3",
     "sfomuseum:aircraft_variant":"Harrier GR.3",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294003,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191581,
+        1159294003,
         85633159,
-        136253055,
-        1159294003
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159290881,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164573,
     "wof:name":"Hawker Siddeley Harrier GR.3",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

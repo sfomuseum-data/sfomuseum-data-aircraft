@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"DH-86",
     "sfomuseum:aircraft_name":"de Havilland DH-86 Express",
     "sfomuseum:aircraft_variant":"Express",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293995,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1159289357,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164569,
     "wof:name":"de Havilland DH-86 Express",
     "wof:parent_id":85684331,
     "wof:placetype":"instrument",

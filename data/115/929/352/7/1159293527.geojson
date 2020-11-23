@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"R-3",
     "sfomuseum:aircraft_name":"Verville-Sperry R-3",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294327,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293527,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164581,
     "wof:name":"Verville-Sperry R-3",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

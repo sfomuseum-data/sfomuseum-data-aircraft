@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"P-40",
     "sfomuseum:aircraft_name":"Curtiss P-40 Tomahawk",
     "sfomuseum:aircraft_variant":"Tomahawk",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292347,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164576,
     "wof:name":"Curtiss P-40 Tomahawk",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

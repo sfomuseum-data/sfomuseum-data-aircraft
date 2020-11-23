@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"D.I",
     "sfomuseum:aircraft_name":"Albatros D.I",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293773,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159292125,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164575,
     "wof:name":"Albatros D.I",
     "wof:parent_id":421181395,
     "wof:placetype":"instrument",

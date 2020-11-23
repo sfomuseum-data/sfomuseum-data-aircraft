@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"He 70 G-1",
     "sfomuseum:aircraft_name":"Heinkel He 70 G-1 Blitz",
     "sfomuseum:aircraft_variant":"Blitz",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294047,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292739,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Heinkel He 70 G-1 Blitz",
     "wof:parent_id":101748865,
     "wof:placetype":"instrument",

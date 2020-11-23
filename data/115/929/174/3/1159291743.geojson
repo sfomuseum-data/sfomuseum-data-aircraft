@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"XIII",
     "sfomuseum:aircraft_name":"SPAD XIII",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159294039,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191581,
+        1159294039,
         85633147,
-        136253037,
-        1159294039
+        136253037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159291743,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"SPAD XIII",
     "wof:parent_id":85633147,
     "wof:placetype":"instrument",

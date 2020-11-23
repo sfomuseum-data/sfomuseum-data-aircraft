@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"One-Eleven",
     "sfomuseum:aircraft_name":"BAC One-Eleven",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:manufacturer_id":1159293741,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159289519,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164569,
     "wof:name":"BAC One-Eleven",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

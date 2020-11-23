@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Boulton Paul Defiant MK.I",
     "sfomuseum:aircraft_variant":"Defiant MK.I",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294051,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159290049,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164571,
     "wof:name":"Boulton Paul Defiant MK.I",
     "wof:parent_id":101750483,
     "wof:placetype":"instrument",

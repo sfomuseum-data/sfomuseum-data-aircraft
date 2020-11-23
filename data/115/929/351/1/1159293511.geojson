@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F3F",
     "sfomuseum:aircraft_name":"Grumman F3F",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293563,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159293511,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164581,
     "wof:name":"Grumman F3F",
     "wof:parent_id":85979165,
     "wof:placetype":"instrument",

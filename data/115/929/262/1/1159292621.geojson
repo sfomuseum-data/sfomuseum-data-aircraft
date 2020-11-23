@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"R3C-2 Racer",
     "sfomuseum:aircraft_name":"Curtiss R3C-2 Racer",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159292621,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164577,
     "wof:name":"Curtiss R3C-2 Racer",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

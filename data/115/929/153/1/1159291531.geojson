@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Ryan Monoplane",
     "sfomuseum:aircraft_variant":"Monoplane",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293855,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291531,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164574,
     "wof:name":"Ryan Monoplane",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

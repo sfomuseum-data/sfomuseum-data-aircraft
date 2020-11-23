@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"E-4",
     "sfomuseum:aircraft_name":"Sparmann E-4",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294157,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291747,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Sparmann E-4",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

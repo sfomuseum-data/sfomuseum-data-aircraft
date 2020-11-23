@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F-4",
     "sfomuseum:aircraft_name":"McDonnell F-4 Phantom II",
     "sfomuseum:aircraft_variant":"Phantom II",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293823,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159291211,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164573,
     "wof:name":"McDonnell F-4 Phantom II",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

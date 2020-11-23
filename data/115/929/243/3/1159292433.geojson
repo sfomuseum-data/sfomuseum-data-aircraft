@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"C-82",
     "sfomuseum:aircraft_name":"Fairchild C-82",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294105,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292433,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164576,
     "wof:name":"Fairchild C-82",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

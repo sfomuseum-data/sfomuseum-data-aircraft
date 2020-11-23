@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"Vega Gull",
     "sfomuseum:aircraft_name":"Pervical Vega Gull Messenger",
     "sfomuseum:aircraft_variant":"Messenger",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159292683,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164577,
     "wof:name":"Pervical Vega Gull Messenger",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

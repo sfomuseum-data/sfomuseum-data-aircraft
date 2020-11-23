@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F.IV/T.2",
     "sfomuseum:aircraft_name":"Fokker F.IV/T.2",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159290673,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fokker F.IV/T.2",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

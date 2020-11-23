@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Brunner-Winkle",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294101,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159294101,
         85633793,
-        136253057,
-        1159294101
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290113,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164571,
     "wof:name":"Brunner-Winkle",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

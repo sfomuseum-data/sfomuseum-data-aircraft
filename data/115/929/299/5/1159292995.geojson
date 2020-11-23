@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"Golden Flyer",
     "sfomuseum:aircraft_name":"Curtiss-Herring Golden Flyer",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294339,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159294339,
         85633793,
-        136253057,
-        1159294339
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292995,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164578,
     "wof:name":"Curtiss-Herring Golden Flyer",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

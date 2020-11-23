@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"H.P.R.7",
     "sfomuseum:aircraft_name":"Handley Page H.P.R.7 Dart Herald",
     "sfomuseum:aircraft_variant":"Dart Herald",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294127,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159292719,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164577,
     "wof:name":"Handley Page H.P.R.7 Dart Herald",
     "wof:parent_id":85786881,
     "wof:placetype":"instrument",

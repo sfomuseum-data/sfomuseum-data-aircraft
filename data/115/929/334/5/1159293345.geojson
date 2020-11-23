@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"A-3",
     "sfomuseum:aircraft_name":"Douglas A-3 Skywarrior",
     "sfomuseum:aircraft_variant":"Skywarrior",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293345,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas A-3 Skywarrior",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

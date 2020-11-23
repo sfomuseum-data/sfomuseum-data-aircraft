@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"40A",
     "sfomuseum:aircraft_name":"Boeing 40A",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159289603,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164570,
     "wof:name":"Boeing 40A",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

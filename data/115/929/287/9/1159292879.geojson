@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"TriMotor 4-ATB",
     "sfomuseum:aircraft_name":"Ford TriMotor 4-ATB Byrd South Pole",
     "sfomuseum:aircraft_variant":"Byrd South Pole",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":1159292879,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164577,
     "wof:name":"Ford TriMotor 4-ATB Byrd South Pole",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

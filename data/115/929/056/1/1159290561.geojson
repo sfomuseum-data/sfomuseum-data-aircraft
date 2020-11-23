@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"FH-227B",
     "sfomuseum:aircraft_name":"Fairchild FH-227B",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294105,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159290561,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fairchild FH-227B",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

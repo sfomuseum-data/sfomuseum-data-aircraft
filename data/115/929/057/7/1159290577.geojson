@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Fairey Swordfish Floatplane",
     "sfomuseum:aircraft_variant":"Swordfish Floatplane",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293873,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159290577,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fairey Swordfish Floatplane",
     "wof:parent_id":85788025,
     "wof:placetype":"instrument",

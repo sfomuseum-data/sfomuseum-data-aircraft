@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"XC-123",
     "sfomuseum:aircraft_name":"Chase XC-123",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056995"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290163,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164571,
     "wof:name":"Chase XC-123",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

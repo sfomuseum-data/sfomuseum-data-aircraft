@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"A300",
     "sfomuseum:aircraft_name":"Airbus A300",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":27,
     "sfomuseum:hashtags":[
         "a300"
     ],
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159289389,
-    "wof:lastmodified":1581618516,
+    "wof:lastmodified":1606164569,
     "wof:name":"Airbus A300",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

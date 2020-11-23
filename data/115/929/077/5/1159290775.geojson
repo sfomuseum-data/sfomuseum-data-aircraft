@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"G-21",
     "sfomuseum:aircraft_name":"Grumman G-21 Goose",
     "sfomuseum:aircraft_variant":"Goose",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293563,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290775,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164572,
     "wof:name":"Grumman G-21 Goose",
     "wof:parent_id":85979165,
     "wof:placetype":"instrument",

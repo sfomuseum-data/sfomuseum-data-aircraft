@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"777",
     "sfomuseum:aircraft_name":"Boeing 777",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":4,
     "sfomuseum:hashtags":[
         "777x",
         "b777"
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1159289979,
-    "wof:lastmodified":1581620172,
+    "wof:lastmodified":1606164571,
     "wof:name":"Boeing 777",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

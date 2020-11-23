@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"75",
     "sfomuseum:aircraft_name":"Aeromarine 75",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293955,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289369,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164569,
     "wof:name":"Aeromarine 75",
     "wof:parent_id":85975431,
     "wof:placetype":"instrument",

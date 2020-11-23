@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"SE 210",
     "sfomuseum:aircraft_name":"Sud Aviation SE 210 Caravelle",
     "sfomuseum:aircraft_variant":"Caravelle",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294251,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -30,9 +31,9 @@
         85633147,
         1108826387,
         101750691,
+        136253037,
         102072513,
-        1159294251,
-        136253037
+        1159294251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1159291829,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164575,
     "wof:name":"Sud Aviation SE 210 Caravelle",
     "wof:parent_id":101750691,
     "wof:placetype":"instrument",

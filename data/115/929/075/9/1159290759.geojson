@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Y",
     "sfomuseum:aircraft_name":"Granville Brothers Y Senior Sportster",
     "sfomuseum:aircraft_variant":"Senior Sportster",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293599,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159290759,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164572,
     "wof:name":"Granville Brothers Y Senior Sportster",
     "wof:parent_id":85950393,
     "wof:placetype":"instrument",

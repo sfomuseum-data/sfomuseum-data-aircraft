@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Fleet",
     "sfomuseum:aircraft_name":"Consolidated Fleet Trainer",
     "sfomuseum:aircraft_variant":"Trainer",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294323,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293457,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164580,
     "wof:name":"Consolidated Fleet Trainer",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

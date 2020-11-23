@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"C-2A",
     "sfomuseum:aircraft_name":"Fokker C-2A",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159293035,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164578,
     "wof:name":"Fokker C-2A",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

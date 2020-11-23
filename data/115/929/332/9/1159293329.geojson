@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"C-133",
     "sfomuseum:aircraft_name":"Douglas C-133 Cargomaster",
     "sfomuseum:aircraft_variant":"Cargomaster",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056995"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293329,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas C-133 Cargomaster",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

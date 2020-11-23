@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Model 89",
     "sfomuseum:aircraft_name":"Boeing  Model 89 (XF4B-1)",
     "sfomuseum:aircraft_variant":"(XF4B-1)",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293401,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164580,
     "wof:name":"Boeing  Model 89 (XF4B-1)",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

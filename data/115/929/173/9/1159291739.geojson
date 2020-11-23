@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Sopwith Triplane",
     "sfomuseum:aircraft_variant":"Triplane",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293547,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159291739,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164575,
     "wof:name":"Sopwith Triplane",
     "wof:parent_id":85788611,
     "wof:placetype":"instrument",

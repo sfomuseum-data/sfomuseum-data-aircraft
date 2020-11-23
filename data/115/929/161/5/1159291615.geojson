@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"S.20",
     "sfomuseum:aircraft_name":"Short S.20 \"Mercury\" (Mayo Composite, Bottom Component)",
     "sfomuseum:aircraft_variant":"\"Mercury\" (Mayo Composite, Bottom Component)",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293623,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291615,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164574,
     "wof:name":"Short S.20 \"Mercury\" (Mayo Composite, Bottom Component)",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"ERJ-135",
     "sfomuseum:aircraft_name":"Embraer ERJ-135",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":3,
     "sfomuseum:manufacturer_id":1159294367,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159290519,
-    "wof:lastmodified":1581623196,
+    "wof:lastmodified":1606164572,
     "wof:name":"Embraer ERJ-135",
     "wof:parent_id":101965823,
     "wof:placetype":"instrument",

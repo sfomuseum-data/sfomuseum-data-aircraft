@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":" KhAI-1",
     "sfomuseum:aircraft_name":"Kharkov  KhAI-1",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294215,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293065,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164578,
     "wof:name":"Kharkov  KhAI-1",
     "wof:parent_id":85633805,
     "wof:placetype":"instrument",

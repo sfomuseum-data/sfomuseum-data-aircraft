@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"T-45A",
     "sfomuseum:aircraft_name":"McDonnell Douglas T-45A Goshawk",
     "sfomuseum:aircraft_variant":"Goshawk",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293561,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159291301,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164574,
     "wof:name":"McDonnell Douglas T-45A Goshawk",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

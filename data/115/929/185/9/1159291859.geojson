@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Swallow Mailplane C-6",
     "sfomuseum:aircraft_variant":"Mailplane C-6",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159294265,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291859,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164575,
     "wof:name":"Swallow Mailplane C-6",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

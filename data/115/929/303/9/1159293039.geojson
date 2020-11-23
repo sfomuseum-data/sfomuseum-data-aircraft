@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"25",
     "sfomuseum:aircraft_name":"Potez  25",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q11436"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293039,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164578,
     "wof:name":"Potez  25",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

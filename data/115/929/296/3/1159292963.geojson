@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"PA-31-350",
     "sfomuseum:aircraft_name":"Piper PA-31-350 Chieftain",
     "sfomuseum:aircraft_variant":"Chieftain",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294133,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1159292963,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164577,
     "wof:name":"Piper PA-31-350 Chieftain",
     "wof:parent_id":102527921,
     "wof:placetype":"instrument",

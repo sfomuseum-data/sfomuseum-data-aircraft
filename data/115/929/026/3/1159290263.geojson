@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F2C",
     "sfomuseum:aircraft_name":"Curtiss F2C",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159290263,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164571,
     "wof:name":"Curtiss F2C",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

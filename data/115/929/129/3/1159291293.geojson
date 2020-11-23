@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"MD-83",
     "sfomuseum:aircraft_name":"McDonnell Douglas MD-83",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293561,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159291293,
-    "wof:lastmodified":1581622990,
+    "wof:lastmodified":1606164574,
     "wof:name":"McDonnell Douglas MD-83",
     "wof:parent_id":85971343,
     "wof:placetype":"instrument",

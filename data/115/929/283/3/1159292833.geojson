@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":" JRM Mars",
     "sfomuseum:aircraft_name":"Martin  JRM Mars",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q1153376"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292833,
-    "wof:lastmodified":1544814280,
+    "wof:lastmodified":1606164577,
     "wof:name":"Martin  JRM Mars",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

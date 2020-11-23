@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Huff-Daland Duster",
     "sfomuseum:aircraft_variant":"Duster",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293809,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293809,
         85633793,
-        136253057,
-        1159293809
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292273,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164576,
     "wof:name":"Huff-Daland Duster",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

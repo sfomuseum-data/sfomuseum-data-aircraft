@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-8",
     "sfomuseum:aircraft_name":"Douglas DC-8 Series 60",
     "sfomuseum:aircraft_variant":"Series 60",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293297,
-    "wof:lastmodified":1581621742,
+    "wof:lastmodified":1606164579,
     "wof:name":"Douglas DC-8 Series 60",
     "wof:parent_id":1159290395,
     "wof:placetype":"instrument",

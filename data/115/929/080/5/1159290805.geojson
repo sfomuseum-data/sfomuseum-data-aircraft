@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Handley Page Heyford",
     "sfomuseum:aircraft_variant":"Heyford",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294127,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159290805,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164572,
     "wof:name":"Handley Page Heyford",
     "wof:parent_id":85786881,
     "wof:placetype":"instrument",

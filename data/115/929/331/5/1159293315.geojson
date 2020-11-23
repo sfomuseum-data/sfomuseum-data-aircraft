@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"C-118",
     "sfomuseum:aircraft_name":"Douglas C-118 Liftmaster",
     "sfomuseum:aircraft_variant":"Liftmaster",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293315,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164579,
     "wof:name":"Douglas C-118 Liftmaster",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"787",
     "sfomuseum:aircraft_name":"Boeing 787 Dreamliner",
     "sfomuseum:aircraft_variant":"Dreamliner",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:hashtags":[
         "dreamliner",
         "klmdreamliner"
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159289995,
-    "wof:lastmodified":1556583932,
+    "wof:lastmodified":1606164571,
     "wof:name":"Boeing 787 Dreamliner",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

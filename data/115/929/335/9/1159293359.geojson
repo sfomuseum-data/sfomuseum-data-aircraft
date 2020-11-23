@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"11AC",
     "sfomuseum:aircraft_name":"Aeronca 11AC Chief",
     "sfomuseum:aircraft_variant":"Chief",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293617,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159293359,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164580,
     "wof:name":"Aeronca 11AC Chief",
     "wof:parent_id":101712653,
     "wof:placetype":"instrument",

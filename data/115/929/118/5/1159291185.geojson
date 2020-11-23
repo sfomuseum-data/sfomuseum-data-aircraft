@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"4-0-4",
     "sfomuseum:aircraft_name":"Martin 4-0-4",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":4,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q11436"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291185,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164573,
     "wof:name":"Martin 4-0-4",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

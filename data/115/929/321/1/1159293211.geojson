@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"XF-12",
     "sfomuseum:aircraft_name":"Republic XF-12 Rainbow",
     "sfomuseum:aircraft_variant":"Rainbow",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293549,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159293211,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164579,
     "wof:name":"Republic XF-12 Rainbow",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

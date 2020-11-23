@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"A-20",
     "sfomuseum:aircraft_name":"Douglas A-20 Havoc",
     "sfomuseum:aircraft_variant":"Havoc",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159293463,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164580,
     "wof:name":"Douglas A-20 Havoc",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

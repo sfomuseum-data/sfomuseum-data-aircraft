@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"DHC-6",
     "sfomuseum:aircraft_name":"de Havilland (Canada) DHC-6 Twin Otter",
     "sfomuseum:aircraft_variant":"Twin Otter",
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:manufacturer_id":1159293743,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191581,
+        1159293743,
         85633159,
-        136253055,
-        1159293743
+        136253055
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290339,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164571,
     "wof:name":"de Havilland (Canada) DHC-6 Twin Otter",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

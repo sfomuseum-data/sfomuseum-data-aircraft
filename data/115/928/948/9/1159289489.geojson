@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Arrow",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":2,
     "sfomuseum:manufacturer_id":1159293815,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293815,
         85633793,
-        136253057,
-        1159293815
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159289489,
-    "wof:lastmodified":1544814276,
+    "wof:lastmodified":1606164569,
     "wof:name":"Arrow",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

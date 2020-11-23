@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"367-80",
     "sfomuseum:aircraft_name":"Boeing 367-80",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293593,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159292797,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164577,
     "wof:name":"Boeing 367-80",
     "wof:parent_id":101730401,
     "wof:placetype":"instrument",

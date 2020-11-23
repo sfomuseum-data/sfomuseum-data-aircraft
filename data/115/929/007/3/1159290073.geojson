@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Bristol Bulldog",
     "sfomuseum:aircraft_variant":"Bulldog",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294175,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191581,
+        1159294175,
         85633159,
-        136253055,
-        1159294175
+        136253055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159290073,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164571,
     "wof:name":"Bristol Bulldog",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

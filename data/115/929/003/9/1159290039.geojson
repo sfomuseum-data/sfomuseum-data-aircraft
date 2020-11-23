@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"H-46",
     "sfomuseum:aircraft_name":"Boeing-Vertol H-46 Sea Knight",
     "sfomuseum:aircraft_variant":"Sea Knight",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293859,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -24,9 +25,9 @@
     ],
     "wof:belongsto":[
         102191575,
+        1159293859,
         85633793,
-        136253057,
-        1159293859
+        136253057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1159290039,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164571,
     "wof:name":"Boeing-Vertol H-46 Sea Knight",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

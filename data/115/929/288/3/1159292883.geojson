@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Vimy",
     "sfomuseum:aircraft_name":"Vickers Vimy",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":1,
     "sfomuseum:manufacturer_id":1159293777,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159292883,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164577,
     "wof:name":"Vickers Vimy",
     "wof:parent_id":101872343,
     "wof:placetype":"instrument",

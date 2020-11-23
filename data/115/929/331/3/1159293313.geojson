@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"HP.81",
     "sfomuseum:aircraft_name":"Handley Page HP.81 Hermes",
     "sfomuseum:aircraft_variant":"Hermes",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294127,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159293313,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164579,
     "wof:name":"Handley Page HP.81 Hermes",
     "wof:parent_id":85786881,
     "wof:placetype":"instrument",

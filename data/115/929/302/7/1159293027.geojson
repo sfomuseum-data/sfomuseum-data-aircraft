@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Crusader",
     "sfomuseum:aircraft_name":"Short-Bristow Crusader",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293727,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293027,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164578,
     "wof:name":"Short-Bristow Crusader",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

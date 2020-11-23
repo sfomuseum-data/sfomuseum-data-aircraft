@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Ki-61",
     "sfomuseum:aircraft_name":"Kawasaki Ki-61 Hein",
     "sfomuseum:aircraft_variant":"Hein",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293769,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159291007,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164573,
     "wof:name":"Kawasaki Ki-61 Hein",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

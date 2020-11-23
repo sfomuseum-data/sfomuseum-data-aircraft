@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Handley Page Dart Herald 214 G-ATIG",
     "sfomuseum:aircraft_variant":"Dart Herald 214 G-ATIG",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294127,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159290795,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164572,
     "wof:name":"Handley Page Dart Herald 214 G-ATIG",
     "wof:parent_id":85786881,
     "wof:placetype":"instrument",

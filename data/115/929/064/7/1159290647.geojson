@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F.27-500",
     "sfomuseum:aircraft_name":"Fokker F.27-500 Long Friendship",
     "sfomuseum:aircraft_variant":"Long Friendship",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159290647,
-    "wof:lastmodified":1544814284,
+    "wof:lastmodified":1606164572,
     "wof:name":"Fokker F.27-500 Long Friendship",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

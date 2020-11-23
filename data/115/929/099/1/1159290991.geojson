@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Ju 52/3m",
     "sfomuseum:aircraft_name":"Junkers Ju 52/3m",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294171,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159290991,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164573,
     "wof:name":"Junkers Ju 52/3m",
     "wof:parent_id":101748765,
     "wof:placetype":"instrument",

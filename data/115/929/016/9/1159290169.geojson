@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"CA-12",
     "sfomuseum:aircraft_name":"Commonwealth CA-12 Boomerang",
     "sfomuseum:aircraft_variant":"Boomerang",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293641,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159290169,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164571,
     "wof:name":"Commonwealth CA-12 Boomerang",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

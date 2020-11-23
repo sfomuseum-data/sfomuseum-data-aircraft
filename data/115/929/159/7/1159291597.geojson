@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"",
     "sfomuseum:aircraft_name":"Scottish Aviation Jetstream T1",
     "sfomuseum:aircraft_variant":"Jetstream T1",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293835,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159291597,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164574,
     "wof:name":"Scottish Aviation Jetstream T1",
     "wof:parent_id":1126022253,
     "wof:placetype":"instrument",

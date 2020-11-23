@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"DC-9-30",
     "sfomuseum:aircraft_name":"Douglas DC-9-30",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159291239,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164573,
     "wof:name":"Douglas DC-9-30",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

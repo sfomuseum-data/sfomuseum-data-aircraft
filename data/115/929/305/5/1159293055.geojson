@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"HE 12",
     "sfomuseum:aircraft_name":"Heinkel HE 12",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294047,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159293055,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164578,
     "wof:name":"Heinkel HE 12",
     "wof:parent_id":101748865,
     "wof:placetype":"instrument",

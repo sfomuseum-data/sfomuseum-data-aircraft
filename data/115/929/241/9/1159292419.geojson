@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Aeroplane",
     "sfomuseum:aircraft_name":"Herring Aeroplane",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293991,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -38,7 +39,7 @@
         }
     ],
     "wof:id":1159292419,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164576,
     "wof:name":"Herring Aeroplane",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

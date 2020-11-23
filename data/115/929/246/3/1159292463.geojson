@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F-84G",
     "sfomuseum:aircraft_name":"Republic F-84G Thunderjet",
     "sfomuseum:aircraft_variant":"Thunderjet",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293549,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159292463,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164576,
     "wof:name":"Republic F-84G Thunderjet",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"RWD-6",
     "sfomuseum:aircraft_name":"Warsaw University of Technology RWD-6",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293977,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293063,
-    "wof:lastmodified":1544814278,
+    "wof:lastmodified":1606164578,
     "wof:name":"Warsaw University of Technology RWD-6",
     "wof:parent_id":101752777,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"F.27",
     "sfomuseum:aircraft_name":"Fokker F.27 Jan Moll",
     "sfomuseum:aircraft_variant":"Jan Moll",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159292713,
-    "wof:lastmodified":1544814281,
+    "wof:lastmodified":1606164577,
     "wof:name":"Fokker F.27 Jan Moll",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

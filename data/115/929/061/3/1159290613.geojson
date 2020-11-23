@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"Fw-190A-3",
     "sfomuseum:aircraft_name":"Focke-Wulf Fw-190A-3",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159294117,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -40,7 +41,7 @@
         }
     ],
     "wof:id":1159290613,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164572,
     "wof:name":"Focke-Wulf Fw-190A-3",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

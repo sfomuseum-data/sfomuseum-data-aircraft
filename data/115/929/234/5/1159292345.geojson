@@ -16,6 +16,7 @@
     "sfomuseum:aircraft_model":"C-212",
     "sfomuseum:aircraft_name":"CASA C-212",
     "sfomuseum:aircraft_variant":"",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159292345,
-    "wof:lastmodified":1544814283,
+    "wof:lastmodified":1606164576,
     "wof:name":"CASA C-212",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

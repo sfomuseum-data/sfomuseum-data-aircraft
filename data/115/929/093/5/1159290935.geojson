@@ -17,13 +17,14 @@
     "sfomuseum:aircraft_model":"LB-1",
     "sfomuseum:aircraft_name":"Huff-Daland LB-1 Pegasus",
     "sfomuseum:aircraft_variant":"Pegasus",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293809,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         102191575,
+        1159293809,
         85633793,
-        136253057,
-        1159293809
+        136253057
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":1159290935,
-    "wof:lastmodified":1544814282,
+    "wof:lastmodified":1606164573,
     "wof:name":"Huff-Daland LB-1 Pegasus",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

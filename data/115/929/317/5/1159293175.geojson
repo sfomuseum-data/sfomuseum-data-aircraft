@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"S.30",
     "sfomuseum:aircraft_name":"Short S.30 Empire",
     "sfomuseum:aircraft_variant":"Empire",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293623,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1159293175,
-    "wof:lastmodified":1544814279,
+    "wof:lastmodified":1606164579,
     "wof:name":"Short S.30 Empire",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_model":"An-124",
     "sfomuseum:aircraft_name":"Antonov An-124 Condor",
     "sfomuseum:aircraft_variant":"Condor",
+    "sfomuseum:count_objects_public":0,
     "sfomuseum:manufacturer_id":1159293813,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1159289479,
-    "wof:lastmodified":1581618469,
+    "wof:lastmodified":1606164569,
     "wof:name":"Antonov An-124 Condor",
     "wof:parent_id":101752489,
     "wof:placetype":"instrument",
