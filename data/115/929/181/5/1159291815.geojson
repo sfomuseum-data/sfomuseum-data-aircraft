@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Sturtevant S-4 Seaplane",
     "sfomuseum:aircraft_variant":"Seaplane",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293983,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159291815,
-    "wof:lastmodified":1606164575,
+    "wof:lastmodified":1606835777,
     "wof:name":"Sturtevant S-4 Seaplane",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

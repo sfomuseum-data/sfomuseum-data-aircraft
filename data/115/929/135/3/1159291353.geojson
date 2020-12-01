@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Nieuport 17",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294179,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1159291353,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835775,
     "wof:name":"Nieuport 17",
     "wof:parent_id":101751133,
     "wof:placetype":"instrument",

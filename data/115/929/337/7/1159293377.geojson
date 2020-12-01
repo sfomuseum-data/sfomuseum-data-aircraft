@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Aero Spacelines Super Guppy",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294207,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159293377,
-    "wof:lastmodified":1606164580,
+    "wof:lastmodified":1606835784,
     "wof:name":"Aero Spacelines Super Guppy",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

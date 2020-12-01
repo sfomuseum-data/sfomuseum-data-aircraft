@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Northrop Gamma 2D",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294075,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159291407,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835775,
     "wof:name":"Northrop Gamma 2D",
     "wof:parent_id":85923599,
     "wof:placetype":"instrument",

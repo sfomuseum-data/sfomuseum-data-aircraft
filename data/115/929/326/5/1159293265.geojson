@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Fokker F.XII",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159293265,
-    "wof:lastmodified":1606164579,
+    "wof:lastmodified":1606835783,
     "wof:name":"Fokker F.XII",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

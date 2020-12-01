@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Potez 620",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293803,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159293109,
-    "wof:lastmodified":1606164578,
+    "wof:lastmodified":1606835781,
     "wof:name":"Potez 620",
     "wof:parent_id":101749071,
     "wof:placetype":"instrument",

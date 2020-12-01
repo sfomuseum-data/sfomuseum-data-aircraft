@@ -21,6 +21,7 @@
     "sfomuseum:hashtags":[
         "a321neo"
     ],
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1159289411,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835768,
     "wof:name":"Airbus A321",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

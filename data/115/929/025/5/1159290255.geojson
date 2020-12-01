@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Curtiss 18-T Wasp",
     "sfomuseum:aircraft_variant":"Wasp",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293889,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159290255,
-    "wof:lastmodified":1606164571,
+    "wof:lastmodified":1606835771,
     "wof:name":"Curtiss 18-T Wasp",
     "wof:parent_id":85978023,
     "wof:placetype":"instrument",

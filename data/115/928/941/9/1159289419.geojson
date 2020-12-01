@@ -24,6 +24,7 @@
         "a330neo",
         "a330neoff"
     ],
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
     "src:geom":"unknown",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1159289419,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835768,
     "wof:name":"Airbus A330",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

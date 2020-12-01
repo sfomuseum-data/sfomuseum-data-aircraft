@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Humphreys MG-2",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293787,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159292071,
-    "wof:lastmodified":1606164575,
+    "wof:lastmodified":1606835778,
     "wof:name":"Humphreys MG-2",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

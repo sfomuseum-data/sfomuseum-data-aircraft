@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Aerial Service Mercury Senior",
     "sfomuseum:aircraft_variant":"Mercury Senior",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293901,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159289363,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835768,
     "wof:name":"Aerial Service Mercury Senior",
     "wof:parent_id":85978643,
     "wof:placetype":"instrument",

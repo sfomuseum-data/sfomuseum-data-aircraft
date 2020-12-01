@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Stinson/Convair L-13 Grasshopper",
     "sfomuseum:aircraft_variant":"Grasshopper",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294089,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159293455,
-    "wof:lastmodified":1606164580,
+    "wof:lastmodified":1606835784,
     "wof:name":"Stinson/Convair L-13 Grasshopper",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

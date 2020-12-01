@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Sopwith Camel F.1",
     "sfomuseum:aircraft_variant":"Camel F.1",
     "sfomuseum:count_objects_public":1,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293547,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159291735,
-    "wof:lastmodified":1606164575,
+    "wof:lastmodified":1606835776,
     "wof:name":"Sopwith Camel F.1",
     "wof:parent_id":85788611,
     "wof:placetype":"instrument",

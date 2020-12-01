@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Lockheed L-1649A Constellation",
     "sfomuseum:aircraft_variant":"Constellation",
     "sfomuseum:count_objects_public":2,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293697,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159293287,
-    "wof:lastmodified":1606164579,
+    "wof:lastmodified":1606835783,
     "wof:name":"Lockheed L-1649A Constellation",
     "wof:parent_id":85923691,
     "wof:placetype":"instrument",

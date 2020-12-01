@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Potez 62-1 Alycon",
     "sfomuseum:aircraft_variant":"Alycon",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293803,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159292899,
-    "wof:lastmodified":1606164577,
+    "wof:lastmodified":1606835780,
     "wof:name":"Potez 62-1 Alycon",
     "wof:parent_id":101749071,
     "wof:placetype":"instrument",

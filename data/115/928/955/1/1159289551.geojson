@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Beech King Air",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293909,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159289551,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835769,
     "wof:name":"Beech King Air",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Culver Dart",
     "sfomuseum:aircraft_variant":"Dart",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294145,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159290241,
-    "wof:lastmodified":1606164571,
+    "wof:lastmodified":1606835771,
     "wof:name":"Culver Dart",
     "wof:parent_id":101712381,
     "wof:placetype":"instrument",

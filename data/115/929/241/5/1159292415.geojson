@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Sopwith Pup",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293547,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1159292415,
-    "wof:lastmodified":1606164576,
+    "wof:lastmodified":1606835779,
     "wof:name":"Sopwith Pup",
     "wof:parent_id":85788611,
     "wof:placetype":"instrument",

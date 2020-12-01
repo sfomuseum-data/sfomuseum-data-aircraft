@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Beech 18S",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293909,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159292147,
-    "wof:lastmodified":1606164575,
+    "wof:lastmodified":1606835778,
     "wof:name":"Beech 18S",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

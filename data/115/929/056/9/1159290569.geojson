@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Fairey Firefly",
     "sfomuseum:aircraft_variant":"Firefly",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293873,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159290569,
-    "wof:lastmodified":1606164572,
+    "wof:lastmodified":1606835772,
     "wof:name":"Fairey Firefly",
     "wof:parent_id":85788025,
     "wof:placetype":"instrument",

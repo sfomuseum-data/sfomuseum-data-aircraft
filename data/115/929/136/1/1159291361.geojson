@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Nihon Aeroplane YS-11A-500",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293687,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159291361,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835775,
     "wof:name":"Nihon Aeroplane YS-11A-500",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

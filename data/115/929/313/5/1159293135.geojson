@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Siebel Fh 104 Hallore",
     "sfomuseum:aircraft_variant":"Hallore",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294223,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1159293135,
-    "wof:lastmodified":1606164578,
+    "wof:lastmodified":1606835781,
     "wof:name":"Siebel Fh 104 Hallore",
     "wof:parent_id":101748705,
     "wof:placetype":"instrument",

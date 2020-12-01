@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Cessna C-34/145/165 Airmaster",
     "sfomuseum:aircraft_variant":"Airmaster",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294115,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1159293409,
-    "wof:lastmodified":1606164580,
+    "wof:lastmodified":1606835784,
     "wof:name":"Cessna C-34/145/165 Airmaster",
     "wof:parent_id":85945871,
     "wof:placetype":"instrument",

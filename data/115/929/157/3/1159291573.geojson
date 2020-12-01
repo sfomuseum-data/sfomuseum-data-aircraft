@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Saunders-Roe SR.45 Princess",
     "sfomuseum:aircraft_variant":"Princess",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293651,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159291573,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835776,
     "wof:name":"Saunders-Roe SR.45 Princess",
     "wof:parent_id":101852313,
     "wof:placetype":"instrument",

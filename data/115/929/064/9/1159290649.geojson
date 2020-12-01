@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Fokker F.28 Fellowship",
     "sfomuseum:aircraft_variant":"Fellowship",
     "sfomuseum:count_objects_public":3,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293619,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1159290649,
-    "wof:lastmodified":1606164572,
+    "wof:lastmodified":1606835772,
     "wof:name":"Fokker F.28 Fellowship",
     "wof:parent_id":85632727,
     "wof:placetype":"instrument",

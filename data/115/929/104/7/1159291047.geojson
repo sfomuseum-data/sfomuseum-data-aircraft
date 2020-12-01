@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"LFG Roland V.13",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294277,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159291047,
-    "wof:lastmodified":1606164573,
+    "wof:lastmodified":1606835774,
     "wof:name":"LFG Roland V.13",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

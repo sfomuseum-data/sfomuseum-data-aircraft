@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":5,
     "sfomuseum:instance_of":1159289419,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1159289423,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835768,
     "wof:name":"Airbus A330-300",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

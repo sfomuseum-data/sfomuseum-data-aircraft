@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Avro 748",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293981,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159289515,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835768,
     "wof:name":"Avro 748",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

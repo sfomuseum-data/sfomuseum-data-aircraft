@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Bakeng Duce",
     "sfomuseum:aircraft_variant":"Duce",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294317,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159289537,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835769,
     "wof:name":"Bakeng Duce",
     "wof:parent_id":85633793,
     "wof:placetype":"instrument",

@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Hamburger Flugzeugbau HFB-320 Hansa Jet",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293649,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":1159292757,
-    "wof:lastmodified":1606164577,
+    "wof:lastmodified":1606835780,
     "wof:name":"Hamburger Flugzeugbau HFB-320 Hansa Jet",
     "wof:parent_id":85633111,
     "wof:placetype":"instrument",

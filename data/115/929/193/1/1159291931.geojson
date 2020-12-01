@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Tupolev Tu-134",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294153,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159291931,
-    "wof:lastmodified":1606164575,
+    "wof:lastmodified":1606835777,
     "wof:name":"Tupolev Tu-134",
     "wof:parent_id":102003033,
     "wof:placetype":"instrument",

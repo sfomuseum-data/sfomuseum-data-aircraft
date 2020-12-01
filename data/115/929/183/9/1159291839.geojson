@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Supermarine Spitfire Mk.I",
     "sfomuseum:aircraft_variant":"Spitfire Mk.I",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294325,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159291839,
-    "wof:lastmodified":1606164575,
+    "wof:lastmodified":1606835777,
     "wof:name":"Supermarine Spitfire Mk.I",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Handley Page Hampden",
     "sfomuseum:aircraft_variant":"Hampden",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294127,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1159290799,
-    "wof:lastmodified":1606164572,
+    "wof:lastmodified":1606835773,
     "wof:name":"Handley Page Hampden",
     "wof:parent_id":85786881,
     "wof:placetype":"instrument",

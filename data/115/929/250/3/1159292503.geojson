@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"North American Aviation RB-45C Tornado",
     "sfomuseum:aircraft_variant":"Tornado",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293761,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159292503,
-    "wof:lastmodified":1606164576,
+    "wof:lastmodified":1606835779,
     "wof:name":"North American Aviation RB-45C Tornado",
     "wof:parent_id":85923517,
     "wof:placetype":"instrument",

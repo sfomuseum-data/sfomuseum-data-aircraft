@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_name":"Douglas SBD Dauntless",
     "sfomuseum:aircraft_variant":"Dauntless",
     "sfomuseum:count_objects_public":1,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159290501,
-    "wof:lastmodified":1606164572,
+    "wof:lastmodified":1606835772,
     "wof:name":"Douglas SBD Dauntless",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

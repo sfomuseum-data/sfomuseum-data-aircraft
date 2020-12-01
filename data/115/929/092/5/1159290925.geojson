@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Horton Wingless",
     "sfomuseum:aircraft_variant":"Wingless",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294085,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":1159290925,
-    "wof:lastmodified":1606164573,
+    "wof:lastmodified":1606835773,
     "wof:name":"Horton Wingless",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_name":"Douglas DC-9-14",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
         "Q15056993"
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159291235,
-    "wof:lastmodified":1606164573,
+    "wof:lastmodified":1606835775,
     "wof:name":"Douglas DC-9-14",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

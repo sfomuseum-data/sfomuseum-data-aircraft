@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Bristol Type 170 Mk. 34 Superfreighter",
     "sfomuseum:aircraft_variant":"Superfreighter",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294175,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159292875,
-    "wof:lastmodified":1606164577,
+    "wof:lastmodified":1606835780,
     "wof:name":"Bristol Type 170 Mk. 34 Superfreighter",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Polikarpov I-16",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":1,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293625,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159291487,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835775,
     "wof:name":"Polikarpov I-16",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

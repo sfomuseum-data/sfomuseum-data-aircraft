@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Pitts S-2A Special",
     "sfomuseum:aircraft_variant":"Special",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293595,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1159291483,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835775,
     "wof:name":"Pitts S-2A Special",
     "wof:parent_id":1,
     "wof:placetype":"instrument",

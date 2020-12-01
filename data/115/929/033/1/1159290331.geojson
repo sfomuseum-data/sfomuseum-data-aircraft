@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"de Havilland D.H.106 Comet Mk.4B",
     "sfomuseum:aircraft_variant":"Comet Mk.4B",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293995,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1159290331,
-    "wof:lastmodified":1606164571,
+    "wof:lastmodified":1606835771,
     "wof:name":"de Havilland D.H.106 Comet Mk.4B",
     "wof:parent_id":85684331,
     "wof:placetype":"instrument",

@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Mureaux 117 R2",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294283,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159291347,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835775,
     "wof:name":"Mureaux 117 R2",
     "wof:parent_id":85633147,
     "wof:placetype":"instrument",

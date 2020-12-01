@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Salmson 5",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293601,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159291561,
-    "wof:lastmodified":1606164574,
+    "wof:lastmodified":1606835776,
     "wof:name":"Salmson 5",
     "wof:parent_id":101749067,
     "wof:placetype":"instrument",

@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Airbus A320",
     "sfomuseum:aircraft_variant":"",
     "sfomuseum:count_objects_public":19,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159293829,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1159289409,
-    "wof:lastmodified":1606164569,
+    "wof:lastmodified":1606835768,
     "wof:name":"Airbus A320",
     "wof:parent_id":101748953,
     "wof:placetype":"instrument",

@@ -17,6 +17,7 @@
     "sfomuseum:aircraft_name":"Martin M-156 Russian Clipper",
     "sfomuseum:aircraft_variant":"Russian Clipper",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
         1
@@ -35,7 +36,7 @@
         }
     ],
     "wof:id":1159291201,
-    "wof:lastmodified":1606164573,
+    "wof:lastmodified":1606835774,
     "wof:name":"Martin M-156 Russian Clipper",
     "wof:parent_id":-1,
     "wof:placetype":"instrument",

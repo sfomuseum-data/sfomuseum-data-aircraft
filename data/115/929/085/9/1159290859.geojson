@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Hawker Siddeley Buccaneer",
     "sfomuseum:aircraft_variant":"Buccaneer",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294003,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1159290859,
-    "wof:lastmodified":1606164573,
+    "wof:lastmodified":1606835773,
     "wof:name":"Hawker Siddeley Buccaneer",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",

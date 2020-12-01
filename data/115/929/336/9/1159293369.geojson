@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Bellanca Viking",
     "sfomuseum:aircraft_variant":"Viking",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294087,
     "sfomuseum:placetype":"aircraft",
     "wd:instance_of":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1159293369,
-    "wof:lastmodified":1606164580,
+    "wof:lastmodified":1606835784,
     "wof:name":"Bellanca Viking",
     "wof:parent_id":85953541,
     "wof:placetype":"instrument",

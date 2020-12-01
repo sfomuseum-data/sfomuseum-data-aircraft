@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_name":"Hawker Siddeley HS.121 Trident 1E",
     "sfomuseum:aircraft_variant":"Trident 1E",
     "sfomuseum:count_objects_public":0,
+    "sfomuseum:is_sfo":1,
     "sfomuseum:manufacturer_id":1159294003,
     "sfomuseum:placetype":"aircraft",
     "wof:belongsto":[
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1159290897,
-    "wof:lastmodified":1606164573,
+    "wof:lastmodified":1606835773,
     "wof:name":"Hawker Siddeley HS.121 Trident 1E",
     "wof:parent_id":85633159,
     "wof:placetype":"instrument",
