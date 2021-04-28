@@ -49,10 +49,10 @@
     "wof:geomhash": "f3c332c642d6892ed43d268890da3a24",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290805,
         "borough_id": 1158857267,
         "continent_id": 102191581,
         "country_id": 85633159,
-        "custom_id": 1159290805,
         "enterprise_id": 1159294127,
         "instrument_id": 1159290805,
         "locality_id": 101750367,
@@ -62,10 +62,11 @@
       }
     ],
     "wof:id": 1159290805,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Handley Page Heyford",
     "wof:parent_id": 85786881,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294127

@@ -48,10 +48,10 @@
     "wof:geomhash": "77b92bb1f54d010df3fac86740be0cba",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292981,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
-        "custom_id": 1159292981,
         "enterprise_id": 1159293697,
         "instrument_id": 1159292981,
         "locality_id": 85923691,
@@ -59,10 +59,11 @@
       }
     ],
     "wof:id": 1159292981,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Lockheed Constellation",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293697

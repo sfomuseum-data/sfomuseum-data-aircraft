@@ -36,17 +36,18 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159289557,
         "country_id": 1,
-        "custom_id": 1159289557,
         "enterprise_id": 1159293909,
         "instrument_id": 1159289557
       }
     ],
     "wof:id": 1159289557,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Beech 1900C",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293909,

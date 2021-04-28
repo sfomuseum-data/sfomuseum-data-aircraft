@@ -40,10 +40,10 @@
     "wof:geomhash": "ac971058eea33226b04a55cbb0537115",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292633,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063851,
-        "custom_id": 1159292633,
         "enterprise_id": 1159294171,
         "instrument_id": 1159292633,
         "locality_id": 101748765,
@@ -51,10 +51,11 @@
       }
     ],
     "wof:id": 1159292633,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Junkers Ju 52/3 Manfred von Richthofen",
     "wof:parent_id": 101748765,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294171,

@@ -48,10 +48,10 @@
     "wof:geomhash": "b8544774ef19986341b5bcd9832a21f9",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292919,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063785,
-        "custom_id": 1159292919,
         "enterprise_id": 1159294223,
         "instrument_id": 1159292919,
         "locality_id": 101748705,
@@ -59,10 +59,11 @@
       }
     ],
     "wof:id": 1159292919,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Siebel Si 204A",
     "wof:parent_id": 101748705,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294223

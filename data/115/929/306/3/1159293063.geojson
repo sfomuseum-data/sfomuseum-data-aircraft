@@ -40,10 +40,10 @@
     "wof:geomhash": "526fce7c97dabdb6872a6baddc7df834",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159293063,
         "continent_id": 102191581,
         "country_id": 85633723,
         "county_id": 102079951,
-        "custom_id": 1159293063,
         "enterprise_id": 1159293977,
         "instrument_id": 1159293063,
         "locality_id": 101752777,
@@ -51,10 +51,11 @@
       }
     ],
     "wof:id": 1159293063,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Warsaw University of Technology RWD-6",
     "wof:parent_id": 101752777,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293977

@@ -41,9 +41,9 @@
     "wof:geomhash": "34c59f19049121e23f1c302eff566028",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290103,
         "continent_id": 102191581,
         "country_id": 85633159,
-        "custom_id": 1159290103,
         "enterprise_id": 1159294331,
         "instrument_id": 1159290103,
         "localadmin_id": 404440045,
@@ -53,10 +53,11 @@
       }
     ],
     "wof:id": 1159290103,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636966,
     "wof:name": "British Aerospace Jetstream Super 31",
     "wof:parent_id": 101750357,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294331

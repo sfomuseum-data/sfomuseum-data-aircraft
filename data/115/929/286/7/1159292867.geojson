@@ -38,19 +38,20 @@
     "wof:geomhash": "8c7d27e8b8c2f9da82569e7d9c1fbb7e",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292867,
         "continent_id": 102191569,
         "country_id": 85632429,
-        "custom_id": 1159292867,
         "enterprise_id": 1159294053,
         "instrument_id": 1159292867,
         "region_id": 85672817
       }
     ],
     "wof:id": 1159292867,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Mitsubishi 94 Kamikaze",
     "wof:parent_id": 85672817,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294053

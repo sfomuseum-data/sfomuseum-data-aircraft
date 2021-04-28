@@ -37,18 +37,19 @@
     "wof:geomhash": "1431db437ee4eaea351c74ff946cf50f",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159291349,
         "continent_id": 102191569,
         "country_id": 85632429,
-        "custom_id": 1159291349,
         "enterprise_id": 1159294007,
         "instrument_id": 1159291349
       }
     ],
     "wof:id": 1159291349,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Nakajima Ki-43 Hayabusa Oscar",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294007

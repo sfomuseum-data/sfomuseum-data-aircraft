@@ -47,9 +47,9 @@
     "wof:geomhash": "67c0e259100b24c2d824fc1d2a354c6d",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290833,
         "continent_id": 102191581,
         "country_id": 85633159,
-        "custom_id": 1159290833,
         "enterprise_id": 1159293913,
         "instrument_id": 1159290833,
         "macroregion_id": 404227469,
@@ -57,10 +57,11 @@
       }
     ],
     "wof:id": 1159290833,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Hawker Hart",
     "wof:parent_id": 85684387,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293913

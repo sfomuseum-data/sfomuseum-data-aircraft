@@ -40,10 +40,10 @@
     "wof:geomhash": "2196c5789f776f4bf2d9c7983408b4bb",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159291381,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
-        "custom_id": 1159291381,
         "enterprise_id": 1159293761,
         "instrument_id": 1159291381,
         "locality_id": 85923517,
@@ -51,10 +51,11 @@
       }
     ],
     "wof:id": 1159291381,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "North American Aviation NA-76 Harvard II",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293761

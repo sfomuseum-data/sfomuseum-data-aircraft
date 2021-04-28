@@ -48,10 +48,10 @@
     "wof:geomhash": "24d33787baf93dec1cadc8a13c75fd86",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292861,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
-        "custom_id": 1159292861,
         "enterprise_id": 1159294177,
         "instrument_id": 1159292861,
         "locality_id": 85923637,
@@ -59,10 +59,11 @@
       }
     ],
     "wof:id": 1159292861,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Vultee V-1A",
     "wof:parent_id": 85923637,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294177

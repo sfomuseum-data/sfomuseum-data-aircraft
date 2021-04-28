@@ -41,16 +41,17 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290487,
         "country_id": 1,
-        "custom_id": 1159290487,
         "instrument_id": 1159290487
       }
     ],
     "wof:id": 1159290487,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Douglas DC-8 Series 50",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159290443

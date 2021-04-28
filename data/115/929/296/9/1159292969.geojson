@@ -40,9 +40,9 @@
     "wof:geomhash": "556494fc494b2879fdb1e1ff525fca96",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292969,
         "continent_id": 102191581,
         "country_id": 85633159,
-        "custom_id": 1159292969,
         "enterprise_id": 1159293777,
         "instrument_id": 1159292969,
         "localadmin_id": 404450105,
@@ -51,10 +51,11 @@
       }
     ],
     "wof:id": 1159292969,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Vickers VC2 Viscount 806",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293777

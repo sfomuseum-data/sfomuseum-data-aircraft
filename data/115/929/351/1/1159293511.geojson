@@ -49,10 +49,10 @@
     "wof:geomhash": "d0f02ff7247f6651d20282150c808959",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159293511,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082371,
-        "custom_id": 1159293511,
         "enterprise_id": 1159293563,
         "instrument_id": 1159293511,
         "localadmin_id": 404521475,
@@ -61,10 +61,11 @@
       }
     ],
     "wof:id": 1159293511,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636968,
     "wof:name": "Grumman F3F",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293563

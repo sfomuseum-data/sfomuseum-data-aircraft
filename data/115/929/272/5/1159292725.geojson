@@ -38,19 +38,20 @@
     "wof:geomhash": "3d2af4a89e1d55e1d68276122807ee9b",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292725,
         "continent_id": 102191581,
         "country_id": 85633159,
-        "custom_id": 1159292725,
         "empire_id": 136253055,
         "enterprise_id": 1159293743,
         "instrument_id": 1159292725
       }
     ],
     "wof:id": 1159292725,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636967,
     "wof:name": "de Havilland (Canada) DHC-3 Otter",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293743,

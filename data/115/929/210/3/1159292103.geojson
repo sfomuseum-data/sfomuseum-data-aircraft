@@ -40,10 +40,10 @@
     "wof:geomhash": "664f88b14ad16859d63058e202f92f12",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292103,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
-        "custom_id": 1159292103,
         "enterprise_id": 1159293903,
         "instrument_id": 1159292103,
         "locality_id": 85923649,
@@ -51,10 +51,11 @@
       }
     ],
     "wof:id": 1159292103,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Aero Commander 720 Alti Cruiser",
     "wof:parent_id": 85923649,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293903

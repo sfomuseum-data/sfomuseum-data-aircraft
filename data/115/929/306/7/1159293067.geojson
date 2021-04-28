@@ -37,18 +37,19 @@
     "wof:geomhash": "db40a1f34da2d9464fdbffa6b9d2bb14",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159293067,
         "continent_id": 102191581,
         "country_id": 85633723,
-        "custom_id": 1159293067,
         "enterprise_id": 1159293643,
         "instrument_id": 1159293067
       }
     ],
     "wof:id": 1159293067,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636966,
     "wof:name": "DWL (Doświadczalne Warsztaty Lotnicze) RWD-5",
     "wof:parent_id": 85633723,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293643

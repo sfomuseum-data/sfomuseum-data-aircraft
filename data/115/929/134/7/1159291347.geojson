@@ -38,19 +38,20 @@
     "wof:geomhash": "0f1e966ff020c6c01f3634368df829a2",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159291347,
         "continent_id": 102191581,
         "country_id": 85633147,
-        "custom_id": 1159291347,
         "empire_id": 136253037,
         "enterprise_id": 1159294283,
         "instrument_id": 1159291347
       }
     ],
     "wof:id": 1159291347,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Mureaux 117 R2",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294283

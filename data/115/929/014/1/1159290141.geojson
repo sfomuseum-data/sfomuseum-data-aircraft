@@ -41,9 +41,9 @@
     "wof:geomhash": "8e23adaece5f54fb1febe1de020a39d7",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290141,
         "continent_id": 102191581,
         "country_id": 85633253,
-        "custom_id": 1159290141,
         "enterprise_id": 1159294359,
         "instrument_id": 1159290141,
         "localadmin_id": 404468459,
@@ -53,10 +53,11 @@
       }
     ],
     "wof:id": 1159290141,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Caproni CA-60",
     "wof:parent_id": 101752703,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294359

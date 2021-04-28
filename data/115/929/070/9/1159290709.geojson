@@ -38,19 +38,20 @@
     "wof:geomhash": "0424af1806911dc8152e6ff41049ba00",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290709,
         "continent_id": 102191581,
         "country_id": 85633111,
-        "custom_id": 1159290709,
         "enterprise_id": 1159293831,
         "instrument_id": 1159290709,
         "region_id": 85682499
       }
     ],
     "wof:id": 1159290709,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Germania JM",
     "wof:parent_id": 85682499,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293831

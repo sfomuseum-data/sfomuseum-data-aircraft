@@ -47,9 +47,9 @@
     "wof:geomhash": "df7d590d5bf72a0d030d291f04fccf1f",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290521,
         "continent_id": 102191581,
         "country_id": 85633159,
-        "custom_id": 1159290521,
         "enterprise_id": 1159294205,
         "instrument_id": 1159290521,
         "macroregion_id": 404227469,
@@ -57,10 +57,11 @@
       }
     ],
     "wof:id": 1159290521,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636967,
     "wof:name": "English Electric Canberra",
     "wof:parent_id": 85683853,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294205

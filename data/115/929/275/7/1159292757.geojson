@@ -37,18 +37,19 @@
     "wof:geomhash": "2405f23b99b9767895cd5c5991257042",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292757,
         "continent_id": 102191581,
         "country_id": 85633111,
-        "custom_id": 1159292757,
         "enterprise_id": 1159293649,
         "instrument_id": 1159292757
       }
     ],
     "wof:id": 1159292757,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Hamburger Flugzeugbau HFB-320 Hansa Jet",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293649

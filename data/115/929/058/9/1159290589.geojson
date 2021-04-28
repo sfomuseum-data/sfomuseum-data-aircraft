@@ -49,9 +49,9 @@
     "wof:geomhash": "3c9a68c7ce9b5c50ab9665cda96be302",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290589,
         "continent_id": 102191581,
         "country_id": 85633253,
-        "custom_id": 1159290589,
         "enterprise_id": 1159294013,
         "instrument_id": 1159290589,
         "localadmin_id": 404457355,
@@ -61,10 +61,11 @@
       }
     ],
     "wof:id": 1159290589,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Fiat G.91",
     "wof:parent_id": 101752697,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294013

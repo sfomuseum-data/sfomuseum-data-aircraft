@@ -44,18 +44,19 @@
     "wof:geomhash": "178d0dc0063b73c0470e0c966fb194e8",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290633,
         "continent_id": -1,
         "country_id": 85632727,
-        "custom_id": 1159290633,
         "enterprise_id": 1159293619,
         "instrument_id": 1159290633
       }
     ],
     "wof:id": 1159290633,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Fokker F-10",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293619

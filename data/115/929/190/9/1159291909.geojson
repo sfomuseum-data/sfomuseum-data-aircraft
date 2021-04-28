@@ -38,19 +38,20 @@
     "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159291909,
         "continent_id": 102191575,
         "country_id": 85633793,
-        "custom_id": 1159291909,
         "empire_id": 136253057,
         "enterprise_id": 1159293671,
         "instrument_id": 1159291909
       }
     ],
     "wof:id": 1159291909,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Travel Air 5000",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293671

@@ -37,18 +37,19 @@
     "wof:geomhash": "9610a5ed65888826ef082d43f5c9c14d",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159293113,
         "continent_id": 102191581,
         "country_id": 85633171,
-        "custom_id": 1159293113,
         "enterprise_id": 1159294029,
         "instrument_id": 1159293113
       }
     ],
     "wof:id": 1159293113,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Spartan  Executive 7W",
     "wof:parent_id": 85633171,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294029

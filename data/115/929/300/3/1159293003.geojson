@@ -37,18 +37,19 @@
     "wof:geomhash": "c11fee8226d88a3e72215450c879868c",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159293003,
         "continent_id": 102191575,
         "country_id": 85633041,
-        "custom_id": 1159293003,
         "enterprise_id": 1159294061,
         "instrument_id": 1159293003
       }
     ],
     "wof:id": 1159293003,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Avro Roe Triplane I Bull’s Eye",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294061

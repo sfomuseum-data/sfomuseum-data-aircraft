@@ -36,17 +36,18 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290375,
         "country_id": 1,
-        "custom_id": 1159290375,
         "enterprise_id": 1159294011,
         "instrument_id": 1159290375
       }
     ],
     "wof:id": 1159290375,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Dornier DO 22",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294011

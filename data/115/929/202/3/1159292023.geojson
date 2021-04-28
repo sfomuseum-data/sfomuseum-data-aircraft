@@ -41,9 +41,9 @@
     "wof:geomhash": "e2ba438be7f52acc8120440bc5b8733f",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292023,
         "continent_id": 102191581,
         "country_id": 85633159,
-        "custom_id": 1159292023,
         "enterprise_id": 1159293845,
         "instrument_id": 1159292023,
         "localadmin_id": 404434131,
@@ -53,10 +53,11 @@
       }
     ],
     "wof:id": 1159292023,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Westland 30-100",
     "wof:parent_id": 101852529,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293845

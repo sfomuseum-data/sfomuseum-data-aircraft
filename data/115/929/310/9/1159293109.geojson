@@ -43,10 +43,10 @@
     "wof:geomhash": "a8d12a0930c7eb883471de09070b4ff2",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159293109,
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071949,
-        "custom_id": 1159293109,
         "enterprise_id": 1159293803,
         "instrument_id": 1159293109,
         "localadmin_id": 1159321961,
@@ -57,10 +57,11 @@
       }
     ],
     "wof:id": 1159293109,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Potez 620",
     "wof:parent_id": 101749071,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293803

@@ -49,9 +49,9 @@
     "wof:geomhash": "30b8735697f686e69aaf4506685a5fea",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159291579,
         "continent_id": 102191581,
         "country_id": 85633253,
-        "custom_id": 1159291579,
         "enterprise_id": 1159293973,
         "instrument_id": 1159291579,
         "localadmin_id": 404467881,
@@ -61,10 +61,11 @@
       }
     ],
     "wof:id": 1159291579,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Savoia-Marchetti S.55X",
     "wof:parent_id": 101830197,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293973

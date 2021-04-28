@@ -40,10 +40,10 @@
     "wof:geomhash": "f012fb7b7510b39caedf6f278c119b7a",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292371,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080647,
-        "custom_id": 1159292371,
         "enterprise_id": 1159293877,
         "instrument_id": 1159292371,
         "locality_id": 101724385,
@@ -51,10 +51,11 @@
       }
     ],
     "wof:id": 1159292371,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Vought F7U",
     "wof:parent_id": 101724385,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293877

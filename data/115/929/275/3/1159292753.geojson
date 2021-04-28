@@ -40,10 +40,10 @@
     "wof:geomhash": "201153d1056d54eec2f8d4066a227620",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292753,
         "continent_id": 102191581,
         "country_id": 85633805,
         "county_id": 1108730705,
-        "custom_id": 1159292753,
         "enterprise_id": 1159293813,
         "instrument_id": 1159292753,
         "locality_id": 101752489,
@@ -51,10 +51,11 @@
       }
     ],
     "wof:id": 1159292753,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Antonov An-14",
     "wof:parent_id": 101752489,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293813

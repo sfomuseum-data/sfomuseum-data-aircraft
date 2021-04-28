@@ -48,10 +48,10 @@
     "wof:geomhash": "922ee845547745f94fdc543eb2795591",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292779,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081727,
-        "custom_id": 1159292779,
         "enterprise_id": 1159294243,
         "instrument_id": 1159292779,
         "locality_id": 85927903,
@@ -59,10 +59,11 @@
       }
     ],
     "wof:id": 1159292779,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Scaled Composites Model 311 Virgin Atlantic GlobalFlyer",
     "wof:parent_id": 85927903,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294243

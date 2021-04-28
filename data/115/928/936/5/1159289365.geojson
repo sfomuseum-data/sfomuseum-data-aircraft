@@ -48,10 +48,10 @@
     "wof:geomhash": "664f88b14ad16859d63058e202f92f12",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159289365,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
-        "custom_id": 1159289365,
         "enterprise_id": 1159293903,
         "instrument_id": 1159289365,
         "locality_id": 85923649,
@@ -59,10 +59,11 @@
       }
     ],
     "wof:id": 1159289365,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636965,
     "wof:name": "Aero Commander 1121  Jet Commander",
     "wof:parent_id": 85923649,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293903

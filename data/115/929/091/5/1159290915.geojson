@@ -41,10 +41,10 @@
     "wof:geomhash": "274328d08b1fef533856cdc7fabae24b",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290915,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063755,
-        "custom_id": 1159290915,
         "enterprise_id": 1159293721,
         "instrument_id": 1159290915,
         "locality_id": 101748659,
@@ -53,10 +53,11 @@
       }
     ],
     "wof:id": 1159290915,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Henschel Hs 123A",
     "wof:parent_id": 101748659,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293721

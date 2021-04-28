@@ -52,10 +52,10 @@
     "wof:geomhash": "5c90d77257c97de225d14690a626f53f",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290817,
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102068457,
-        "custom_id": 1159290817,
         "empire_id": 136253037,
         "enterprise_id": 1159294049,
         "instrument_id": 1159290817,
@@ -67,10 +67,11 @@
       }
     ],
     "wof:id": 1159290817,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Hanriot HD.4",
     "wof:parent_id": 101750089,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294049

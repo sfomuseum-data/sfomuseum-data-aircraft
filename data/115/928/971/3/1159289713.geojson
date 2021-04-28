@@ -50,10 +50,10 @@
     "wof:geomhash": "edbb74d99b044b4b44a64e901c4475a3",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159289713,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086191,
-        "custom_id": 1159289713,
         "enterprise_id": 1159293593,
         "instrument_id": 1159289713,
         "locality_id": 101730401,
@@ -61,10 +61,11 @@
       }
     ],
     "wof:id": 1159289713,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Boeing 707-331C",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293593,

@@ -41,10 +41,10 @@
     "wof:geomhash": "84b2ba4ca999a99038456f5f0c3f524e",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159290757,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084627,
-        "custom_id": 1159290757,
         "enterprise_id": 1159293599,
         "instrument_id": 1159290757,
         "localadmin_id": 404476369,
@@ -53,10 +53,11 @@
       }
     ],
     "wof:id": 1159290757,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Granville Brothers R-1 Super Sportster",
     "wof:parent_id": 85950393,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293599

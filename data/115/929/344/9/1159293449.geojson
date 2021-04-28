@@ -49,10 +49,10 @@
     "wof:geomhash": "a56d0efa8892118a8e63e0fd6d5e14d8",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159293449,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084203,
-        "custom_id": 1159293449,
         "enterprise_id": 1159294115,
         "instrument_id": 1159293449,
         "localadmin_id": 404504929,
@@ -61,10 +61,11 @@
       }
     ],
     "wof:id": 1159293449,
-    "wof:lastmodified": 1619636929,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Cessna 177 Cardinal",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294115

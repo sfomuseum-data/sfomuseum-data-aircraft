@@ -49,10 +49,10 @@
     "wof:geomhash": "6f1f5e1cc66a97f59fd894363cbfd57e",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159291427,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063307,
-        "custom_id": 1159291427,
         "enterprise_id": 1159293767,
         "instrument_id": 1159291427,
         "locality_id": 101785519,
@@ -61,10 +61,11 @@
       }
     ],
     "wof:id": 1159291427,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Panavia Tornado",
     "wof:parent_id": 101785519,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293767

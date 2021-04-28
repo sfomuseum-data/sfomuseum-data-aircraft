@@ -48,10 +48,10 @@
     "wof:geomhash": "52bfa7979048e1cbea529bcb8f637fce",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292125,
         "continent_id": 102191577,
         "country_id": 85632317,
         "county_id": 421171995,
-        "custom_id": 1159292125,
         "enterprise_id": 1159293773,
         "instrument_id": 1159292125,
         "locality_id": 421181395,
@@ -59,10 +59,11 @@
       }
     ],
     "wof:id": 1159292125,
-    "wof:lastmodified": 1619636928,
+    "wof:lastmodified": 1619636966,
     "wof:name": "Albatros D.I",
     "wof:parent_id": 421181395,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293773

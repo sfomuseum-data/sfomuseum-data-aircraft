@@ -41,10 +41,10 @@
     "wof:geomhash": "0780d18d53ed321be172a2eb6df37fe6",
     "wof:hierarchy": [
       {
+        "aircraft_id": 1159292693,
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063283,
-        "custom_id": 1159292693,
         "enterprise_id": 1159293847,
         "instrument_id": 1159292693,
         "locality_id": 101748481,
@@ -53,10 +53,11 @@
       }
     ],
     "wof:id": 1159292693,
-    "wof:lastmodified": 1619636930,
+    "wof:lastmodified": 1619636967,
     "wof:name": "Beechcraft V-35 Bonanza",
     "wof:parent_id": 101748481,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293847
