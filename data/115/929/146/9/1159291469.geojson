@@ -2,73 +2,75 @@
   "id": 1159291469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
-    "geom:latitude":52.418788,
-    "geom:longitude":-1.247349,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":959,
-    "sfomuseum:aircraft_model":"PA-5",
-    "sfomuseum:aircraft_name":"Pitcairn PA-5 Mailwing",
-    "sfomuseum:aircraft_variant":"Mailwing",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293661,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056995"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.247349,52.418788,-1.247349,52.418788",
+    "geom:latitude": 52.418788,
+    "geom:longitude": -1.247349,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 959,
+    "sfomuseum:aircraft_model": "PA-5",
+    "sfomuseum:aircraft_name": "Pitcairn PA-5 Mailwing",
+    "sfomuseum:aircraft_variant": "Mailwing",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293661,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056995"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159293661,
-        85633159,
-        136253055
+    "wof:belongsto": [
+      102191581,
+      1159293661,
+      85633159,
+      136253055
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q2533014",
-        "wk:page":"Pitcairn Mailwing",
-        "wk:pageid":9482675
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q2533014",
+      "wk:page": "Pitcairn Mailwing",
+      "wk:pageid": 9482675
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "empire_id":136253055,
-            "enterprise_id":1159293661,
-            "instrument_id":1159291469
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636891,
+    "wof:geomhash": "3d2af4a89e1d55e1d68276122807ee9b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "empire_id": 136253055,
+        "enterprise_id": 1159293661,
+        "instrument_id": 1159291469
+      }
     ],
-    "wof:id":1159291469,
-    "wof:lastmodified":1606835775,
-    "wof:name":"Pitcairn PA-5 Mailwing",
-    "wof:parent_id":85633159,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293661
+    "wof:id": 1159291469,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Pitcairn PA-5 Mailwing",
+    "wof:parent_id": 85633159,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293661
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -1.247349,
     52.418788,
     -1.247349,
     52.418788
-],
+  ],
   "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
 }

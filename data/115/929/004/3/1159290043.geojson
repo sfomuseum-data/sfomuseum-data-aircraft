@@ -2,77 +2,79 @@
   "id": 1159290043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.587778,45.508889,-73.587778,45.508889",
-    "geom:latitude":45.508889,
-    "geom:longitude":-73.587778,
-    "iso:country":"CA",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":307,
-    "sfomuseum:aircraft_model":"CRJ",
-    "sfomuseum:aircraft_name":"Bombardier CRJ",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":13,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293567,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.587778,45.508889,-73.587778,45.508889",
+    "geom:latitude": 45.508889,
+    "geom:longitude": -73.587778,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 307,
+    "sfomuseum:aircraft_model": "CRJ",
+    "sfomuseum:aircraft_name": "Bombardier CRJ",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 13,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293567,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        136251273,
-        102191575,
-        85633041,
-        101736545,
-        890458661,
-        1159293567
+    "wof:belongsto": [
+      136251273,
+      102191575,
+      85633041,
+      101736545,
+      890458661,
+      1159293567
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q8109781",
-        "wk:page":"Bombardier CRJ",
-        "wk:pageid":571963
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q8109781",
+      "wk:page": "Bombardier CRJ",
+      "wk:pageid": 571963
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"CA",
-    "wof:geomhash":"ccd9ead0a96326b857bc04c1a54cb602",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890458661,
-            "enterprise_id":1159293567,
-            "instrument_id":1159290043,
-            "locality_id":101736545,
-            "region_id":136251273
-        }
+    "wof:country": "CA",
+    "wof:created": 1619636890,
+    "wof:geomhash": "ccd9ead0a96326b857bc04c1a54cb602",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890458661,
+        "enterprise_id": 1159293567,
+        "instrument_id": 1159290043,
+        "locality_id": 101736545,
+        "region_id": 136251273
+      }
     ],
-    "wof:id":1159290043,
-    "wof:lastmodified":1606835770,
-    "wof:name":"Bombardier CRJ",
-    "wof:parent_id":101736545,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293567
+    "wof:id": 1159290043,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Bombardier CRJ",
+    "wof:parent_id": 101736545,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293567
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.587778,
     45.508889,
     -73.587778,
     45.508889
-],
+  ],
   "geometry": {"coordinates":[-73.587778,45.508889],"type":"Point"}
 }

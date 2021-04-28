@@ -2,77 +2,79 @@
   "id": 1159292883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.21349,54.109117,-3.21349,54.109117",
-    "geom:latitude":54.109117,
-    "geom:longitude":-3.21349,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1622,
-    "sfomuseum:aircraft_model":"Vimy",
-    "sfomuseum:aircraft_name":"Vickers Vimy",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293777,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.213490,54.109117,-3.213490,54.109117",
+    "geom:latitude": 54.109117,
+    "geom:longitude": -3.21349,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1622,
+    "sfomuseum:aircraft_model": "Vimy",
+    "sfomuseum:aircraft_name": "Vickers Vimy",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293777,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85683641,
-        102191581,
-        404450105,
-        85633159,
-        101872343,
-        1159293777
+    "wof:belongsto": [
+      85683641,
+      102191581,
+      404450105,
+      85633159,
+      101872343,
+      1159293777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q855385",
-        "wk:page":"Vickers Vimy",
-        "wk:pageid":422837
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q855385",
+      "wk:page": "Vickers Vimy",
+      "wk:pageid": 422837
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"556494fc494b2879fdb1e1ff525fca96",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159293777,
-            "instrument_id":1159292883,
-            "localadmin_id":404450105,
-            "locality_id":101872343,
-            "region_id":85683641
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636889,
+    "wof:geomhash": "556494fc494b2879fdb1e1ff525fca96",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293777,
+        "instrument_id": 1159292883,
+        "localadmin_id": 404450105,
+        "locality_id": 101872343,
+        "region_id": 85683641
+      }
     ],
-    "wof:id":1159292883,
-    "wof:lastmodified":1606835780,
-    "wof:name":"Vickers Vimy",
-    "wof:parent_id":101872343,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293777
+    "wof:id": 1159292883,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Vickers Vimy",
+    "wof:parent_id": 101872343,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293777
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -3.21349,
     54.109117,
     -3.21349,
     54.109117
-],
+  ],
   "geometry": {"coordinates":[-3.21349,54.109117],"type":"Point"}
 }

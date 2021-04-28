@@ -2,79 +2,81 @@
   "id": 1159289363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-77.223446,42.408366,-77.223446,42.408366",
-    "geom:latitude":42.408366,
-    "geom:longitude":-77.223446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":3,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"Aerial Service Mercury Senior",
-    "sfomuseum:aircraft_variant":"Mercury Senior",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293901,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q11436"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-77.223446,42.408366,-77.223446,42.408366",
+    "geom:latitude": 42.408366,
+    "geom:longitude": -77.223446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 3,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "Aerial Service Mercury Senior",
+    "sfomuseum:aircraft_variant": "Mercury Senior",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293901,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q11436"
     ],
-    "wof:belongsto":[
-        85688543,
-        102191575,
-        404522501,
-        85633793,
-        85978643,
-        102083115,
-        1159293901
+    "wof:belongsto": [
+      85688543,
+      102191575,
+      404522501,
+      85633793,
+      85978643,
+      102083115,
+      1159293901
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q30687565",
-        "wk:page":"Aerial Service Mercury Senior",
-        "wk:pageid":53890960
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q30687565",
+      "wk:page": "Aerial Service Mercury Senior",
+      "wk:pageid": 53890960
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"b993e3fc5d1b440691595fd4fc370a1d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083115,
-            "enterprise_id":1159293901,
-            "instrument_id":1159289363,
-            "localadmin_id":404522501,
-            "locality_id":85978643,
-            "region_id":85688543
-        }
+    "wof:country": "US",
+    "wof:created": 1619636889,
+    "wof:geomhash": "b993e3fc5d1b440691595fd4fc370a1d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083115,
+        "enterprise_id": 1159293901,
+        "instrument_id": 1159289363,
+        "localadmin_id": 404522501,
+        "locality_id": 85978643,
+        "region_id": 85688543
+      }
     ],
-    "wof:id":1159289363,
-    "wof:lastmodified":1606835768,
-    "wof:name":"Aerial Service Mercury Senior",
-    "wof:parent_id":85978643,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293901
+    "wof:id": 1159289363,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Aerial Service Mercury Senior",
+    "wof:parent_id": 85978643,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293901
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -77.223446,
     42.408366,
     -77.223446,
     42.408366
-],
+  ],
   "geometry": {"coordinates":[-77.223446,42.408366],"type":"Point"}
 }

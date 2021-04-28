@@ -2,77 +2,79 @@
   "id": 1159290703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-77.176065,38.886493,-77.176065,38.886493",
-    "geom:latitude":38.886493,
-    "geom:longitude":-77.176065,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":616,
-    "sfomuseum:aircraft_model":"F-111",
-    "sfomuseum:aircraft_name":"General Dynamics F-111",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293911,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-77.176065,38.886493,-77.176065,38.886493",
+    "geom:latitude": 38.886493,
+    "geom:longitude": -77.176065,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 616,
+    "sfomuseum:aircraft_model": "F-111",
+    "sfomuseum:aircraft_name": "General Dynamics F-111",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293911,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85688747,
-        102191575,
-        85633793,
-        101728685,
-        102081047,
-        1159293911
+    "wof:belongsto": [
+      85688747,
+      102191575,
+      85633793,
+      101728685,
+      102081047,
+      1159293911
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q270990",
-        "wk:page":"General Dynamics F-111 Aardvark",
-        "wk:pageid":202894
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q270990",
+      "wk:page": "General Dynamics F-111 Aardvark",
+      "wk:pageid": 202894
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"626fb263a89f46f88baf7f7261cf26a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081047,
-            "enterprise_id":1159293911,
-            "instrument_id":1159290703,
-            "locality_id":101728685,
-            "region_id":85688747
-        }
+    "wof:country": "US",
+    "wof:created": 1619636890,
+    "wof:geomhash": "626fb263a89f46f88baf7f7261cf26a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081047,
+        "enterprise_id": 1159293911,
+        "instrument_id": 1159290703,
+        "locality_id": 101728685,
+        "region_id": 85688747
+      }
     ],
-    "wof:id":1159290703,
-    "wof:lastmodified":1606835772,
-    "wof:name":"General Dynamics F-111",
-    "wof:parent_id":101728685,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293911
+    "wof:id": 1159290703,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "General Dynamics F-111",
+    "wof:parent_id": 101728685,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293911
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -77.176065,
     38.886493,
     -77.176065,
     38.886493
-],
-  "geometry": {"coordinates":[-77.17606499999999,38.886493],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-77.176065,38.886493],"type":"Point"}
 }

@@ -2,79 +2,81 @@
   "id": 1159291427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"11.750298,48.327097,11.750298,48.327097",
-    "geom:latitude":48.327097,
-    "geom:longitude":11.750298,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":941,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"Panavia Tornado",
-    "sfomuseum:aircraft_variant":"Tornado",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293767,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "11.750298,48.327097,11.750298,48.327097",
+    "geom:latitude": 48.327097,
+    "geom:longitude": 11.750298,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 941,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "Panavia Tornado",
+    "sfomuseum:aircraft_variant": "Tornado",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293767,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85682571,
-        102191581,
-        404227567,
-        85633111,
-        101785519,
-        102063307,
-        1159293767
+    "wof:belongsto": [
+      85682571,
+      102191581,
+      404227567,
+      85633111,
+      101785519,
+      102063307,
+      1159293767
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q152200",
-        "wk:page":"Panavia Tornado",
-        "wk:pageid":168682
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q152200",
+      "wk:page": "Panavia Tornado",
+      "wk:pageid": 168682
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"6f1f5e1cc66a97f59fd894363cbfd57e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063307,
-            "enterprise_id":1159293767,
-            "instrument_id":1159291427,
-            "locality_id":101785519,
-            "macrocounty_id":404227567,
-            "region_id":85682571
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636891,
+    "wof:geomhash": "6f1f5e1cc66a97f59fd894363cbfd57e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063307,
+        "enterprise_id": 1159293767,
+        "instrument_id": 1159291427,
+        "locality_id": 101785519,
+        "macrocounty_id": 404227567,
+        "region_id": 85682571
+      }
     ],
-    "wof:id":1159291427,
-    "wof:lastmodified":1606835775,
-    "wof:name":"Panavia Tornado",
-    "wof:parent_id":101785519,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293767
+    "wof:id": 1159291427,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Panavia Tornado",
+    "wof:parent_id": 101785519,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293767
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     11.750298,
     48.327097,
     11.750298,
     48.327097
-],
+  ],
   "geometry": {"coordinates":[11.750298,48.327097],"type":"Point"}
 }

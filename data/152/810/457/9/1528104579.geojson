@@ -2,64 +2,64 @@
   "id": 1528104579,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1995-01-01",
-    "date:inception_upper":"1995-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1995",
-    "geom:area":0.0,
-    "geom:bbox":"-122.331537,47.673455,-122.331537,47.673455",
-    "geom:latitude":47.673455,
-    "geom:longitude":-122.331537,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:aircraft_id":-1,
-    "sfomuseum:placetype":"aircraft",
-    "src:geom":"unknown",
-    "wof:belongsto":[
-        85688623,
-        102191575,
-        85633793,
-        101730401,
-        102086191,
-        1159293593
+    "date:inception_lower": "1995-01-01",
+    "date:inception_upper": "1995-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1995",
+    "geom:area": 0,
+    "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
+    "geom:latitude": 47.673455,
+    "geom:longitude": -122.331537,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": -1,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688623,
+      102191575,
+      85633793,
+      101730401,
+      102086191,
+      1159293593
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "icao:designator":"B773",
-        "wd:id":"Q6425"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "icao:designator": "B773",
+      "wd:id": "Q6425"
     },
-    "wof:coterminous":1159289979,
-    "wof:country":"US",
-    "wof:created":1581626020,
-    "wof:geomhash":"edbb74d99b044b4b44a64e901c4475a3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "enterprise_id":1159293593,
-            "instrument_id":1528104579,
-            "locality_id":101730401,
-            "region_id":85688623
-        }
+    "wof:coterminous": 1159289979,
+    "wof:country": "US",
+    "wof:created": 1581626020,
+    "wof:geomhash": "edbb74d99b044b4b44a64e901c4475a3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "enterprise_id": 1159293593,
+        "instrument_id": 1528104579,
+        "locality_id": 101730401,
+        "region_id": 85688623
+      }
     ],
-    "wof:id":1528104579,
-    "wof:lastmodified":1581626305,
-    "wof:name":"Boeing 777-300",
-    "wof:parent_id":1159293593,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1528104579,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Boeing 777-300",
+    "wof:parent_id": 1159293593,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.331537,
     47.673455,
     -122.331537,
     47.673455
-],
+  ],
   "geometry": {"coordinates":[-122.331537,47.673455],"type":"Point"}
 }

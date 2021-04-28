@@ -2,84 +2,84 @@
   "id": 1393786509,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2017-10-19",
-    "date:inception_upper":"2017-10-19",
-    "edtf:cessation":"open",
-    "edtf:inception":"2017-10-19",
-    "geom:area":0.0,
-    "geom:bbox":"1.382665,43.634465,1.382665,43.634465",
-    "geom:latitude":43.634465,
-    "geom:longitude":1.382665,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "name:eng_x_variant":[
-        "Airbus A330-900 neo"
+    "date:inception_lower": "2017-10-19",
+    "date:inception_upper": "2017-10-19",
+    "edtf:cessation": "..",
+    "edtf:inception": "2017-10-19",
+    "geom:area": 0,
+    "geom:bbox": "1.382665,43.634465,1.382665,43.634465",
+    "geom:latitude": 43.634465,
+    "geom:longitude": 1.382665,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "name:eng_x_variant": [
+      "Airbus A330-900 neo"
     ],
-    "sfomuseum:aircraft_id":"-1",
-    "sfomuseum:instance_of":1159289419,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:manufacturer_id":"1159293829",
-    "sfomuseum:placetype":"aircraft",
-    "src:geom":"unknown",
-    "wd:instance_of":[
-        "Q210932"
+    "sfomuseum:aircraft_id": "-1",
+    "sfomuseum:instance_of": 1159289419,
+    "sfomuseum:is_sfo": 0,
+    "sfomuseum:manufacturer_id": "1159293829",
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q210932"
     ],
-    "wof:belongsto":[
-        85683397,
-        102191581,
-        404228067,
-        404421307,
-        85633147,
-        1108826387,
-        101748953,
-        136253037,
-        102071607
+    "wof:belongsto": [
+      85683397,
+      102191581,
+      404228067,
+      404421307,
+      85633147,
+      1108826387,
+      101748953,
+      136253037,
+      102071607
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "icao:designator":"A339",
-        "wd:id":"Q18084618",
-        "wk:page":"Airbus_A330neo"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "icao:designator": "A339",
+      "wd:id": "Q18084618",
+      "wk:page": "Airbus_A330neo"
     },
-    "wof:coterminous":1159289419,
-    "wof:country":"FR",
-    "wof:created":1559666437,
-    "wof:geomhash":"82b186aac2b5862decc2c12d01c07d05",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102071607,
-            "empire_id":136253037,
-            "instrument_id":1393786509,
-            "localadmin_id":404421307,
-            "locality_id":101748953,
-            "macrocounty_id":404228067,
-            "macroregion_id":1108826387,
-            "region_id":85683397
-        }
+    "wof:coterminous": 1159289419,
+    "wof:country": "FR",
+    "wof:created": 1559666437,
+    "wof:geomhash": "82b186aac2b5862decc2c12d01c07d05",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102071607,
+        "empire_id": 136253037,
+        "instrument_id": 1393786509,
+        "localadmin_id": 404421307,
+        "locality_id": 101748953,
+        "macrocounty_id": 404228067,
+        "macroregion_id": 1108826387,
+        "region_id": 85683397
+      }
     ],
-    "wof:id":1393786509,
-    "wof:lastmodified":1559666676,
-    "wof:name":"Airbus A330-900",
-    "wof:parent_id":101748953,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293829,
-        1159289419
+    "wof:id": 1393786509,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Airbus A330-900",
+    "wof:parent_id": 101748953,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293829,
+      1159289419
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     1.382665,
     43.634465,
     1.382665,
     43.634465
-],
+  ],
   "geometry": {"coordinates":[1.382665,43.634465],"type":"Point"}
 }

@@ -2,79 +2,81 @@
   "id": 1159290589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.652514,45.059405,7.652514,45.059405",
-    "geom:latitude":45.059405,
-    "geom:longitude":7.652514,
-    "iso:country":"IT",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":565,
-    "sfomuseum:aircraft_model":"G.91",
-    "sfomuseum:aircraft_name":"Fiat G.91",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294013,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "7.652514,45.059405,7.652514,45.059405",
+    "geom:latitude": 45.059405,
+    "geom:longitude": 7.652514,
+    "iso:country": "IT",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 565,
+    "sfomuseum:aircraft_model": "G.91",
+    "sfomuseum:aircraft_name": "Fiat G.91",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294013,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85685169,
-        102191581,
-        404457355,
-        85633253,
-        404227493,
-        101752697,
-        1159294013
+    "wof:belongsto": [
+      85685169,
+      102191581,
+      404457355,
+      85633253,
+      404227493,
+      101752697,
+      1159294013
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q324744",
-        "wk:page":"Fiat G.91",
-        "wk:pageid":491386
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q324744",
+      "wk:page": "Fiat G.91",
+      "wk:pageid": 491386
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"IT",
-    "wof:geomhash":"3c9a68c7ce9b5c50ab9665cda96be302",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633253,
-            "enterprise_id":1159294013,
-            "instrument_id":1159290589,
-            "localadmin_id":404457355,
-            "locality_id":101752697,
-            "macroregion_id":404227493,
-            "region_id":85685169
-        }
+    "wof:country": "IT",
+    "wof:created": 1619636890,
+    "wof:geomhash": "3c9a68c7ce9b5c50ab9665cda96be302",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633253,
+        "enterprise_id": 1159294013,
+        "instrument_id": 1159290589,
+        "localadmin_id": 404457355,
+        "locality_id": 101752697,
+        "macroregion_id": 404227493,
+        "region_id": 85685169
+      }
     ],
-    "wof:id":1159290589,
-    "wof:lastmodified":1606835772,
-    "wof:name":"Fiat G.91",
-    "wof:parent_id":101752697,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294013
+    "wof:id": 1159290589,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Fiat G.91",
+    "wof:parent_id": 101752697,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294013
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     7.652514,
     45.059405,
     7.652514,
     45.059405
-],
+  ],
   "geometry": {"coordinates":[7.652514,45.059405],"type":"Point"}
 }

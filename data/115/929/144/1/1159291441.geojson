@@ -2,77 +2,79 @@
   "id": 1159291441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.437615,49.319469,8.437615,49.319469",
-    "geom:latitude":49.319469,
-    "geom:longitude":8.437615,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":947,
-    "sfomuseum:aircraft_model":"D.XII",
-    "sfomuseum:aircraft_name":"Pfalz D.XII",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293597,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056995"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "8.437615,49.319469,8.437615,49.319469",
+    "geom:latitude": 49.319469,
+    "geom:longitude": 8.437615,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 947,
+    "sfomuseum:aircraft_model": "D.XII",
+    "sfomuseum:aircraft_name": "Pfalz D.XII",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293597,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056995"
     ],
-    "wof:belongsto":[
-        85682491,
-        102191581,
-        85633111,
-        101748531,
-        102063419,
-        1159293597
+    "wof:belongsto": [
+      85682491,
+      102191581,
+      85633111,
+      101748531,
+      102063419,
+      1159293597
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q634420",
-        "wk:page":"Pfalz D.XII",
-        "wk:pageid":5763983
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q634420",
+      "wk:page": "Pfalz D.XII",
+      "wk:pageid": 5763983
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"fdd81e9a72cc8fb75eed8be8246cc1ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063419,
-            "enterprise_id":1159293597,
-            "instrument_id":1159291441,
-            "locality_id":101748531,
-            "region_id":85682491
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636891,
+    "wof:geomhash": "fdd81e9a72cc8fb75eed8be8246cc1ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063419,
+        "enterprise_id": 1159293597,
+        "instrument_id": 1159291441,
+        "locality_id": 101748531,
+        "region_id": 85682491
+      }
     ],
-    "wof:id":1159291441,
-    "wof:lastmodified":1606835775,
-    "wof:name":"Pfalz D.XII",
-    "wof:parent_id":101748531,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293597
+    "wof:id": 1159291441,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Pfalz D.XII",
+    "wof:parent_id": 101748531,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293597
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     8.437615,
     49.319469,
     8.437615,
     49.319469
-],
+  ],
   "geometry": {"coordinates":[8.437615,49.319469],"type":"Point"}
 }

@@ -2,70 +2,71 @@
   "id": 1159289461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-97.33181,32.729442,-97.33181,32.729442",
-    "geom:latitude":32.729442,
-    "geom:longitude":-97.33181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":48,
-    "sfomuseum:aircraft_model":"A",
-    "sfomuseum:aircraft_name":"American Eagle A",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294163,
-    "sfomuseum:placetype":"aircraft",
-    "src:geom":"unknown",
-    "wof:belongsto":[
-        85688753,
-        102191575,
-        85633793,
-        101724443,
-        102083201,
-        1159286017
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-97.331810,32.729442,-97.331810,32.729442",
+    "geom:latitude": 32.729442,
+    "geom:longitude": -97.33181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 48,
+    "sfomuseum:aircraft_model": "A",
+    "sfomuseum:aircraft_name": "American Eagle A",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294163,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688753,
+      102191575,
+      85633793,
+      101724443,
+      102083201,
+      1159286017
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"7c05b537c1f21c76500bea5f0e3b8279",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083201,
-            "enterprise_id":1159286017,
-            "instrument_id":1159289461,
-            "locality_id":101724443,
-            "region_id":85688753
-        }
+    "wof:country": "US",
+    "wof:created": 1619636890,
+    "wof:geomhash": "7c05b537c1f21c76500bea5f0e3b8279",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083201,
+        "enterprise_id": 1159286017,
+        "instrument_id": 1159289461,
+        "locality_id": 101724443,
+        "region_id": 85688753
+      }
     ],
-    "wof:id":1159289461,
-    "wof:lastmodified":1606835768,
-    "wof:name":"American Eagle A",
-    "wof:parent_id":101724443,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1360702463
+    "wof:id": 1159289461,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "American Eagle A",
+    "wof:parent_id": 101724443,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1360702463
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -97.33181,
     32.729442,
     -97.33181,
     32.729442
-],
+  ],
   "geometry": {"coordinates":[-97.33181,32.729442],"type":"Point"}
 }

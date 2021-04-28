@@ -2,81 +2,83 @@
   "id": 1159292401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"4.431101,51.199993,4.431101,51.199993",
-    "geom:latitude":51.199993,
-    "geom:longitude":4.431101,
-    "iso:country":"BE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1386,
-    "sfomuseum:aircraft_model":"SV.4",
-    "sfomuseum:aircraft_name":"Stampe et Vertongen SV.4",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294357,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056995"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "4.431101,51.199993,4.431101,51.199993",
+    "geom:latitude": 51.199993,
+    "geom:longitude": 4.431101,
+    "iso:country": "BE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1386,
+    "sfomuseum:aircraft_model": "SV.4",
+    "sfomuseum:aircraft_name": "Stampe et Vertongen SV.4",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294357,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056995"
     ],
-    "wof:belongsto":[
-        85681715,
-        102191581,
-        1108830423,
-        85632997,
-        404227357,
-        101748099,
-        102050005,
-        1159294357
+    "wof:belongsto": [
+      85681715,
+      102191581,
+      1108830423,
+      85632997,
+      404227357,
+      101748099,
+      102050005,
+      1159294357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q617774",
-        "wk:page":"Stampe-Vertongen SV.4",
-        "wk:pageid":9880063
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q617774",
+      "wk:page": "Stampe-Vertongen SV.4",
+      "wk:pageid": 9880063
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"BE",
-    "wof:geomhash":"8bbea826eef096cbb4a8c3568b780a89",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85632997,
-            "county_id":102050005,
-            "enterprise_id":1159294357,
-            "instrument_id":1159292401,
-            "localadmin_id":1108830423,
-            "locality_id":101748099,
-            "macroregion_id":404227357,
-            "region_id":85681715
-        }
+    "wof:country": "BE",
+    "wof:created": 1619636891,
+    "wof:geomhash": "8bbea826eef096cbb4a8c3568b780a89",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632997,
+        "county_id": 102050005,
+        "enterprise_id": 1159294357,
+        "instrument_id": 1159292401,
+        "localadmin_id": 1108830423,
+        "locality_id": 101748099,
+        "macroregion_id": 404227357,
+        "region_id": 85681715
+      }
     ],
-    "wof:id":1159292401,
-    "wof:lastmodified":1606835779,
-    "wof:name":"Stampe et Vertongen SV.4",
-    "wof:parent_id":101748099,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294357
+    "wof:id": 1159292401,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Stampe et Vertongen SV.4",
+    "wof:parent_id": 101748099,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294357
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     4.431101,
     51.199993,
     4.431101,
     51.199993
-],
+  ],
   "geometry": {"coordinates":[4.431101,51.199993],"type":"Point"}
 }

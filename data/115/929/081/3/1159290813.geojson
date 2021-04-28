@@ -2,85 +2,87 @@
   "id": 1159290813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"4.055149,49.283172,4.055149,49.283172",
-    "geom:latitude":49.283172,
-    "geom:longitude":4.055149,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":665,
-    "sfomuseum:aircraft_model":"HD.2",
-    "sfomuseum:aircraft_name":"Hanriot HD.2",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294049,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q3119075"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "4.055149,49.283172,4.055149,49.283172",
+    "geom:latitude": 49.283172,
+    "geom:longitude": 4.055149,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 665,
+    "sfomuseum:aircraft_model": "HD.2",
+    "sfomuseum:aircraft_name": "Hanriot HD.2",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294049,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q3119075"
     ],
-    "wof:belongsto":[
-        85683405,
-        102191581,
-        404228107,
-        1159322541,
-        85633147,
-        1108826391,
-        101750089,
-        136253037,
-        102068457,
-        1159294049
+    "wof:belongsto": [
+      85683405,
+      102191581,
+      404228107,
+      1159322541,
+      85633147,
+      1108826391,
+      101750089,
+      136253037,
+      102068457,
+      1159294049
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q3126896",
-        "wk:page":"Hanriot HD.2",
-        "wk:pageid":16966257
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q3126896",
+      "wk:page": "Hanriot HD.2",
+      "wk:pageid": 16966257
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"5c90d77257c97de225d14690a626f53f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102068457,
-            "empire_id":136253037,
-            "enterprise_id":1159294049,
-            "instrument_id":1159290813,
-            "localadmin_id":1159322541,
-            "locality_id":101750089,
-            "macrocounty_id":404228107,
-            "macroregion_id":1108826391,
-            "region_id":85683405
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636891,
+    "wof:geomhash": "5c90d77257c97de225d14690a626f53f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102068457,
+        "empire_id": 136253037,
+        "enterprise_id": 1159294049,
+        "instrument_id": 1159290813,
+        "localadmin_id": 1159322541,
+        "locality_id": 101750089,
+        "macrocounty_id": 404228107,
+        "macroregion_id": 1108826391,
+        "region_id": 85683405
+      }
     ],
-    "wof:id":1159290813,
-    "wof:lastmodified":1606835773,
-    "wof:name":"Hanriot HD.2",
-    "wof:parent_id":101750089,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294049
+    "wof:id": 1159290813,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Hanriot HD.2",
+    "wof:parent_id": 101750089,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294049
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     4.055149,
     49.283172,
     4.055149,
     49.283172
-],
+  ],
   "geometry": {"coordinates":[4.055149,49.283172],"type":"Point"}
 }

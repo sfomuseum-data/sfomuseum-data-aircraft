@@ -2,65 +2,67 @@
   "id": 1159290709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"13.407003,52.524961,13.407003,52.524961",
-    "geom:latitude":52.524961,
-    "geom:longitude":13.407003,
-    "iso:country":"DE",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":619,
-    "sfomuseum:aircraft_model":"JM",
-    "sfomuseum:aircraft_name":"Germania JM",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293831,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        102191581,
-        1159293831,
-        85633111,
-        85682499
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "13.407003,52.524961,13.407003,52.524961",
+    "geom:latitude": 52.524961,
+    "geom:longitude": 13.407003,
+    "iso:country": "DE",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 619,
+    "sfomuseum:aircraft_model": "JM",
+    "sfomuseum:aircraft_name": "Germania JM",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293831,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102191581,
+      1159293831,
+      85633111,
+      85682499
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"DE",
-    "wof:geomhash":"0424af1806911dc8152e6ff41049ba00",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633111,
-            "enterprise_id":1159293831,
-            "instrument_id":1159290709,
-            "region_id":85682499
-        }
+    "wof:country": "DE",
+    "wof:created": 1619636890,
+    "wof:geomhash": "0424af1806911dc8152e6ff41049ba00",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "enterprise_id": 1159293831,
+        "instrument_id": 1159290709,
+        "region_id": 85682499
+      }
     ],
-    "wof:id":1159290709,
-    "wof:lastmodified":1606835772,
-    "wof:name":"Germania JM",
-    "wof:parent_id":85682499,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293831
+    "wof:id": 1159290709,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Germania JM",
+    "wof:parent_id": 85682499,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293831
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     13.407003,
     52.524961,
     13.407003,
     52.524961
-],
+  ],
   "geometry": {"coordinates":[13.407003,52.524961],"type":"Point"}
 }

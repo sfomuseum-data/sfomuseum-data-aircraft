@@ -2,79 +2,81 @@
   "id": 1159293523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.73009,41.82649,-72.73009,41.82649",
-    "geom:latitude":41.82649,
-    "geom:longitude":-72.73009,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1926,
-    "sfomuseum:aircraft_model":"K-16",
-    "sfomuseum:aircraft_name":"Kaman K-16",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293945,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q11436"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.730090,41.826490,-72.730090,41.826490",
+    "geom:latitude": 41.82649,
+    "geom:longitude": -72.73009,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1926,
+    "sfomuseum:aircraft_model": "K-16",
+    "sfomuseum:aircraft_name": "Kaman K-16",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293945,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q11436"
     ],
-    "wof:belongsto":[
-        85688629,
-        102191575,
-        404495871,
-        85633793,
-        1125956861,
-        102085381,
-        1159293945
+    "wof:belongsto": [
+      85688629,
+      102191575,
+      404495871,
+      85633793,
+      1125956861,
+      102085381,
+      1159293945
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q48843202",
-        "wk:page":"Kaman K-16B",
-        "wk:pageid":55945969
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q48843202",
+      "wk:page": "Kaman K-16B",
+      "wk:pageid": 55945969
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"d6fc550f8c1d3e5a5896113dbc0022be",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085381,
-            "enterprise_id":1159293945,
-            "instrument_id":1159293523,
-            "localadmin_id":404495871,
-            "locality_id":1125956861,
-            "region_id":85688629
-        }
+    "wof:country": "US",
+    "wof:created": 1619636890,
+    "wof:geomhash": "d6fc550f8c1d3e5a5896113dbc0022be",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085381,
+        "enterprise_id": 1159293945,
+        "instrument_id": 1159293523,
+        "localadmin_id": 404495871,
+        "locality_id": 1125956861,
+        "region_id": 85688629
+      }
     ],
-    "wof:id":1159293523,
-    "wof:lastmodified":1606835784,
-    "wof:name":"Kaman K-16",
-    "wof:parent_id":1125956861,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293945
+    "wof:id": 1159293523,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Kaman K-16",
+    "wof:parent_id": 1125956861,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293945
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.73009,
     41.82649,
     -72.73009,
     41.82649
-],
+  ],
   "geometry": {"coordinates":[-72.73009,41.82649],"type":"Point"}
 }

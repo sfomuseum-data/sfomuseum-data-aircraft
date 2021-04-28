@@ -2,75 +2,77 @@
   "id": 1159293147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.104872,48.750889,2.104872,48.750889",
-    "geom:latitude":48.750889,
-    "geom:longitude":2.104872,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1752,
-    "sfomuseum:aircraft_model":"F.223.4",
-    "sfomuseum:aircraft_name":"Farman F.223.4",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293691,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85683367,
-        102191581,
-        404228265,
-        404413665,
-        85633147,
-        404227465,
-        101753455,
-        102069753,
-        1159293691
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.104872,48.750889,2.104872,48.750889",
+    "geom:latitude": 48.750889,
+    "geom:longitude": 2.104872,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1752,
+    "sfomuseum:aircraft_model": "F.223.4",
+    "sfomuseum:aircraft_name": "Farman F.223.4",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293691,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85683367,
+      102191581,
+      404228265,
+      404413665,
+      85633147,
+      404227465,
+      101753455,
+      102069753,
+      1159293691
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"1c5364f53e3cc57c85276d4feab01211",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102069753,
-            "enterprise_id":1159293691,
-            "instrument_id":1159293147,
-            "localadmin_id":404413665,
-            "locality_id":101753455,
-            "macrocounty_id":404228265,
-            "macroregion_id":404227465,
-            "region_id":85683367
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636889,
+    "wof:geomhash": "1c5364f53e3cc57c85276d4feab01211",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102069753,
+        "enterprise_id": 1159293691,
+        "instrument_id": 1159293147,
+        "localadmin_id": 404413665,
+        "locality_id": 101753455,
+        "macrocounty_id": 404228265,
+        "macroregion_id": 404227465,
+        "region_id": 85683367
+      }
     ],
-    "wof:id":1159293147,
-    "wof:lastmodified":1606835781,
-    "wof:name":"Farman F.223.4",
-    "wof:parent_id":101753455,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293691
+    "wof:id": 1159293147,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Farman F.223.4",
+    "wof:parent_id": 101753455,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293691
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.104872,
     48.750889,
     2.104872,
     48.750889
-],
+  ],
   "geometry": {"coordinates":[2.104872,48.750889],"type":"Point"}
 }

@@ -2,78 +2,80 @@
   "id": 1159292567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.322584,34.185797,-118.322584,34.185797",
-    "geom:latitude":34.185797,
-    "geom:longitude":-118.322584,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1462,
-    "sfomuseum:aircraft_model":"12",
-    "sfomuseum:aircraft_name":"Lockheed 12 Electra Junior",
-    "sfomuseum:aircraft_variant":"Electra Junior",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293697,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.322584,34.185797,-118.322584,34.185797",
+    "geom:latitude": 34.185797,
+    "geom:longitude": -118.322584,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1462,
+    "sfomuseum:aircraft_model": "12",
+    "sfomuseum:aircraft_name": "Lockheed 12 Electra Junior",
+    "sfomuseum:aircraft_variant": "Electra Junior",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293697,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923691,
-        102086957,
-        1159293697
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923691,
+      102086957,
+      1159293697
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q1867613",
-        "wk:page":"Lockheed Model 12 Electra Junior",
-        "wk:pageid":2036514
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q1867613",
+      "wk:page": "Lockheed Model 12 Electra Junior",
+      "wk:pageid": 2036514
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"77b92bb1f54d010df3fac86740be0cba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "enterprise_id":1159293697,
-            "instrument_id":1159292567,
-            "locality_id":85923691,
-            "region_id":85688637
-        }
+    "wof:country": "US",
+    "wof:created": 1619636889,
+    "wof:geomhash": "77b92bb1f54d010df3fac86740be0cba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "enterprise_id": 1159293697,
+        "instrument_id": 1159292567,
+        "locality_id": 85923691,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159292567,
-    "wof:lastmodified":1606835779,
-    "wof:name":"Lockheed 12 Electra Junior",
-    "wof:parent_id":85923691,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293697,
-        1159292915
+    "wof:id": 1159292567,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Lockheed 12 Electra Junior",
+    "wof:parent_id": 85923691,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293697,
+      1159292915
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.322584,
     34.185797,
     -118.322584,
     34.185797
-],
-  "geometry": {"coordinates":[-118.32258400000001,34.185797],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.322584,34.185797],"type":"Point"}
 }

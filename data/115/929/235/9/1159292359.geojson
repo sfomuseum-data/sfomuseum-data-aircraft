@@ -2,65 +2,67 @@
   "id": 1159292359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1367,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"Christen Industries Eagle",
-    "sfomuseum:aircraft_variant":"Eagle",
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293673,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        102191575,
-        1159293673,
-        85633793,
-        136253057
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1367,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "Christen Industries Eagle",
+    "sfomuseum:aircraft_variant": "Eagle",
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293673,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102191575,
+      1159293673,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159293673,
-            "instrument_id":1159292359
-        }
+    "wof:country": "US",
+    "wof:created": 1619636889,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159293673,
+        "instrument_id": 1159292359
+      }
     ],
-    "wof:id":1159292359,
-    "wof:lastmodified":1606835779,
-    "wof:name":"Christen Industries Eagle",
-    "wof:parent_id":85633793,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293673
+    "wof:id": 1159292359,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Christen Industries Eagle",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293673
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

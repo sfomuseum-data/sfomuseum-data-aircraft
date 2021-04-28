@@ -2,73 +2,75 @@
   "id": 1159291919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-96.999668,39.715956,-96.999668,39.715956",
-    "geom:latitude":39.715956,
-    "geom:longitude":-96.999668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1160,
-    "sfomuseum:aircraft_model":"E-4000",
-    "sfomuseum:aircraft_name":"Travel Air E-4000",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293671,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q11436"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1160,
+    "sfomuseum:aircraft_model": "E-4000",
+    "sfomuseum:aircraft_name": "Travel Air E-4000",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293671,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q11436"
     ],
-    "wof:belongsto":[
-        102191575,
-        1159293671,
-        85633793,
-        136253057
+    "wof:belongsto": [
+      102191575,
+      1159293671,
+      85633793,
+      136253057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q3538179",
-        "wk:page":"Travel Air 2000",
-        "wk:pageid":15027793
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q3538179",
+      "wk:page": "Travel Air 2000",
+      "wk:pageid": 15027793
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"bc8b3dbc9ab366336bc39cd9e4045ce1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "enterprise_id":1159293671,
-            "instrument_id":1159291919
-        }
+    "wof:country": "US",
+    "wof:created": 1619636889,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159293671,
+        "instrument_id": 1159291919
+      }
     ],
-    "wof:id":1159291919,
-    "wof:lastmodified":1606835777,
-    "wof:name":"Travel Air E-4000",
-    "wof:parent_id":85633793,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293671
+    "wof:id": 1159291919,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Travel Air E-4000",
+    "wof:parent_id": 85633793,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293671
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -96.999668,
     39.715956,
     -96.999668,
     39.715956
-],
+  ],
   "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
 }

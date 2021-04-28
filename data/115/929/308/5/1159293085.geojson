@@ -2,83 +2,85 @@
   "id": 1159293085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.264404,48.823024,2.264404,48.823024",
-    "geom:latitude":48.823024,
-    "geom:longitude":2.264404,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1721,
-    "sfomuseum:aircraft_model":"C.450",
-    "sfomuseum:aircraft_name":"Caudron C.450",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294227,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056995"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.264404,48.823024,2.264404,48.823024",
+    "geom:latitude": 48.823024,
+    "geom:longitude": 2.264404,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1721,
+    "sfomuseum:aircraft_model": "C.450",
+    "sfomuseum:aircraft_name": "Caudron C.450",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294227,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056995"
     ],
-    "wof:belongsto":[
-        85683157,
-        102191581,
-        404228185,
-        1159322471,
-        85633147,
-        404227465,
-        101749789,
-        102071993,
-        1159294227
+    "wof:belongsto": [
+      85683157,
+      102191581,
+      404228185,
+      1159322471,
+      85633147,
+      404227465,
+      101749789,
+      102071993,
+      1159294227
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q1051484",
-        "wk:page":"Caudron C.460",
-        "wk:pageid":14694724
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q1051484",
+      "wk:page": "Caudron C.460",
+      "wk:pageid": 14694724
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"a365f640417e3009cfdd0dca66335cb1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102071993,
-            "enterprise_id":1159294227,
-            "instrument_id":1159293085,
-            "localadmin_id":1159322471,
-            "locality_id":101749789,
-            "macrocounty_id":404228185,
-            "macroregion_id":404227465,
-            "region_id":85683157
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636889,
+    "wof:geomhash": "a365f640417e3009cfdd0dca66335cb1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102071993,
+        "enterprise_id": 1159294227,
+        "instrument_id": 1159293085,
+        "localadmin_id": 1159322471,
+        "locality_id": 101749789,
+        "macrocounty_id": 404228185,
+        "macroregion_id": 404227465,
+        "region_id": 85683157
+      }
     ],
-    "wof:id":1159293085,
-    "wof:lastmodified":1606835781,
-    "wof:name":"Caudron C.450",
-    "wof:parent_id":101749789,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294227
+    "wof:id": 1159293085,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Caudron C.450",
+    "wof:parent_id": 101749789,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294227
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.264404,
     48.823024,
     2.264404,
     48.823024
-],
+  ],
   "geometry": {"coordinates":[2.264404,48.823024],"type":"Point"}
 }

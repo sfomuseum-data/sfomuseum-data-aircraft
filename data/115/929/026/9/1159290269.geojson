@@ -2,71 +2,73 @@
   "id": 1159290269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-78.852901,42.890831,-78.852901,42.890831",
-    "geom:latitude":42.890831,
-    "geom:longitude":-78.852901,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":416,
-    "sfomuseum:aircraft_model":"1A",
-    "sfomuseum:aircraft_name":"Curtiss 1A Gulfhawk",
-    "sfomuseum:aircraft_variant":"Gulfhawk",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293889,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85688543,
-        102191575,
-        404522329,
-        85633793,
-        85978023,
-        102082387,
-        1159293889
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-78.852901,42.890831,-78.852901,42.890831",
+    "geom:latitude": 42.890831,
+    "geom:longitude": -78.852901,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 416,
+    "sfomuseum:aircraft_model": "1A",
+    "sfomuseum:aircraft_name": "Curtiss 1A Gulfhawk",
+    "sfomuseum:aircraft_variant": "Gulfhawk",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293889,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688543,
+      102191575,
+      404522329,
+      85633793,
+      85978023,
+      102082387,
+      1159293889
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"c347f4d4c8bf3f084230c4328316377f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082387,
-            "enterprise_id":1159293889,
-            "instrument_id":1159290269,
-            "localadmin_id":404522329,
-            "locality_id":85978023,
-            "region_id":85688543
-        }
+    "wof:country": "US",
+    "wof:created": 1619636890,
+    "wof:geomhash": "c347f4d4c8bf3f084230c4328316377f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082387,
+        "enterprise_id": 1159293889,
+        "instrument_id": 1159290269,
+        "localadmin_id": 404522329,
+        "locality_id": 85978023,
+        "region_id": 85688543
+      }
     ],
-    "wof:id":1159290269,
-    "wof:lastmodified":1606835771,
-    "wof:name":"Curtiss 1A Gulfhawk",
-    "wof:parent_id":85978023,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293889
+    "wof:id": 1159290269,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Curtiss 1A Gulfhawk",
+    "wof:parent_id": 85978023,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293889
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -78.852901,
     42.890831,
     -78.852901,
     42.890831
-],
+  ],
   "geometry": {"coordinates":[-78.852901,42.890831],"type":"Point"}
 }

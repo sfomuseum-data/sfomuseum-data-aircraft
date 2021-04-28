@@ -2,66 +2,69 @@
   "id": 1377649091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"open",
-    "edtf:inception":"2002",
-    "geom:area":0.0,
-    "geom:bbox":"-45.859225,-23.236577,-45.859225,-23.236577",
-    "geom:latitude":-23.236577,
-    "geom:longitude":-45.859225,
-    "iso:country":"BR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":1,
-    "sfomuseum:aircraft_id":-1,
-    "sfomuseum:is_sfo":0,
-    "sfomuseum:manufacturer_id":"1159294367",
-    "sfomuseum:placetype":"aircraft",
-    "wd:country":"Q155",
-    "wd:instance_of":[
-        "Q15056993"
+    "date:inception_lower": "2002-01-01",
+    "date:inception_upper": "2002-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2002",
+    "geom:area": 0,
+    "geom:bbox": "-45.859225,-23.236577,-45.859225,-23.236577",
+    "geom:latitude": -23.236577,
+    "geom:longitude": -45.859225,
+    "iso:country": "BR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": -1,
+    "sfomuseum:is_sfo": 0,
+    "sfomuseum:manufacturer_id": "1159294367",
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:country": "Q155",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85682041,
-        102191577,
-        404567239,
-        85633009,
-        101965823,
-        102062245
+    "wof:belongsto": [
+      85682041,
+      102191577,
+      404567239,
+      85633009,
+      101965823,
+      102062245
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "icao:designator":"E75S",
-        "wd:id":"Q3495319"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "icao:designator": "E75S",
+      "wd:id": "Q3495319"
     },
-    "wof:country":"BR",
-    "wof:created":1557531329,
-    "wof:geomhash":"87d0fabc08e9163f37f05484551a84a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191577,
-            "country_id":85633009,
-            "county_id":102062245,
-            "instrument_id":1377649091,
-            "localadmin_id":404567239,
-            "locality_id":101965823,
-            "region_id":85682041
-        }
+    "wof:country": "BR",
+    "wof:created": 1557531329,
+    "wof:geomhash": "87d0fabc08e9163f37f05484551a84a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191577,
+        "country_id": 85633009,
+        "county_id": 102062245,
+        "instrument_id": 1377649091,
+        "localadmin_id": 404567239,
+        "locality_id": 101965823,
+        "region_id": 85682041
+      }
     ],
-    "wof:id":1377649091,
-    "wof:lastmodified":1557531329,
-    "wof:name":"Embraer 175",
-    "wof:parent_id":101965823,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1377649091,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Embraer 175",
+    "wof:parent_id": 101965823,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -45.859225,
     -23.236577,
     -45.859225,
     -23.236577
-],
+  ],
   "geometry": {"coordinates":[-45.859225,-23.236577],"type":"Point"}
 }

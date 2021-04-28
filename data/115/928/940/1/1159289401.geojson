@@ -2,87 +2,88 @@
   "id": 1159289401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"1.382665,43.634465,1.382665,43.634465",
-    "geom:latitude":43.634465,
-    "geom:longitude":1.382665,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":21,
-    "sfomuseum:aircraft_model":"A310",
-    "sfomuseum:aircraft_name":"Airbus A310",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":4,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293829,
-    "sfomuseum:placetype":"aircraft",
-    "src:geom":"unknown",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.382665,43.634465,1.382665,43.634465",
+    "geom:latitude": 43.634465,
+    "geom:longitude": 1.382665,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 21,
+    "sfomuseum:aircraft_model": "A310",
+    "sfomuseum:aircraft_name": "Airbus A310",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 4,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293829,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85683397,
-        102191581,
-        404228067,
-        404421307,
-        85633147,
-        1108826387,
-        101748953,
-        136253037,
-        102071607,
-        1159293829
+    "wof:belongsto": [
+      85683397,
+      102191581,
+      404228067,
+      404421307,
+      85633147,
+      1108826387,
+      101748953,
+      136253037,
+      102071607,
+      1159293829
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "icao:designator":"A310",
-        "wd:id":"Q6471",
-        "wk:page":"Airbus A310",
-        "wk:pageid":162896
+    "wof:breaches": [],
+    "wof:concordances": {
+      "icao:designator": "A310",
+      "wd:id": "Q6471",
+      "wk:page": "Airbus A310",
+      "wk:pageid": 162896
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"82b186aac2b5862decc2c12d01c07d05",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102071607,
-            "empire_id":136253037,
-            "enterprise_id":1159293829,
-            "instrument_id":1159289401,
-            "localadmin_id":404421307,
-            "locality_id":101748953,
-            "macrocounty_id":404228067,
-            "macroregion_id":1108826387,
-            "region_id":85683397
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636889,
+    "wof:geomhash": "82b186aac2b5862decc2c12d01c07d05",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102071607,
+        "empire_id": 136253037,
+        "enterprise_id": 1159293829,
+        "instrument_id": 1159289401,
+        "localadmin_id": 404421307,
+        "locality_id": 101748953,
+        "macrocounty_id": 404228067,
+        "macroregion_id": 1108826387,
+        "region_id": 85683397
+      }
     ],
-    "wof:id":1159289401,
-    "wof:lastmodified":1606835768,
-    "wof:name":"Airbus A310",
-    "wof:parent_id":101748953,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293829
+    "wof:id": 1159289401,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Airbus A310",
+    "wof:parent_id": 101748953,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293829
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     1.382665,
     43.634465,
     1.382665,
     43.634465
-],
+  ],
   "geometry": {"coordinates":[1.382665,43.634465],"type":"Point"}
 }

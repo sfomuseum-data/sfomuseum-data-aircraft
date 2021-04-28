@@ -2,71 +2,73 @@
   "id": 1159293163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.342865,48.858705,2.342865,48.858705",
-    "geom:latitude":48.858705,
-    "geom:longitude":2.342865,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1760,
-    "sfomuseum:aircraft_model":"Bre.76-3 ",
-    "sfomuseum:aircraft_name":"Breguet Bre.76-3  Deux-Ponts/Provence",
-    "sfomuseum:aircraft_variant":"Deux-Ponts/Provence",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293905,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85683497,
-        102191581,
-        1159322569,
-        85633147,
-        404227465,
-        101751119,
-        1159293905
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.342865,48.858705,2.342865,48.858705",
+    "geom:latitude": 48.858705,
+    "geom:longitude": 2.342865,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1760,
+    "sfomuseum:aircraft_model": "Bre.76-3 ",
+    "sfomuseum:aircraft_name": "Breguet Bre.76-3  Deux-Ponts/Provence",
+    "sfomuseum:aircraft_variant": "Deux-Ponts/Provence",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293905,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85683497,
+      102191581,
+      1159322569,
+      85633147,
+      404227465,
+      101751119,
+      1159293905
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"f18598ac3fb6aeba7a3b0cf798abd973",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "enterprise_id":1159293905,
-            "instrument_id":1159293163,
-            "localadmin_id":1159322569,
-            "locality_id":101751119,
-            "macroregion_id":404227465,
-            "region_id":85683497
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636889,
+    "wof:geomhash": "f18598ac3fb6aeba7a3b0cf798abd973",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "enterprise_id": 1159293905,
+        "instrument_id": 1159293163,
+        "localadmin_id": 1159322569,
+        "locality_id": 101751119,
+        "macroregion_id": 404227465,
+        "region_id": 85683497
+      }
     ],
-    "wof:id":1159293163,
-    "wof:lastmodified":1606835781,
-    "wof:name":"Breguet Bre.76-3  Deux-Ponts/Provence",
-    "wof:parent_id":101751119,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293905
+    "wof:id": 1159293163,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Breguet Bre.76-3  Deux-Ponts/Provence",
+    "wof:parent_id": 101751119,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293905
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.342865,
     48.858705,
     2.342865,
     48.858705
-],
+  ],
   "geometry": {"coordinates":[2.342865,48.858705],"type":"Point"}
 }

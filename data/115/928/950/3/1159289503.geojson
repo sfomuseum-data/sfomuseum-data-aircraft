@@ -2,73 +2,75 @@
   "id": 1159289503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-1.247349,52.418788,-1.247349,52.418788",
-    "geom:latitude":52.418788,
-    "geom:longitude":-1.247349,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":67,
-    "sfomuseum:aircraft_model":"594",
-    "sfomuseum:aircraft_name":"Avro 594 Avian",
-    "sfomuseum:aircraft_variant":"Avian",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293981,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q11436"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.247349,52.418788,-1.247349,52.418788",
+    "geom:latitude": 52.418788,
+    "geom:longitude": -1.247349,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 67,
+    "sfomuseum:aircraft_model": "594",
+    "sfomuseum:aircraft_name": "Avro 594 Avian",
+    "sfomuseum:aircraft_variant": "Avian",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293981,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q11436"
     ],
-    "wof:belongsto":[
-        102191581,
-        1159293981,
-        85633159,
-        136253055
+    "wof:belongsto": [
+      102191581,
+      1159293981,
+      85633159,
+      136253055
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q791440",
-        "wk:page":"Avro Avian",
-        "wk:pageid":11306950
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q791440",
+      "wk:page": "Avro Avian",
+      "wk:pageid": 11306950
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"3d2af4a89e1d55e1d68276122807ee9b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "empire_id":136253055,
-            "enterprise_id":1159293981,
-            "instrument_id":1159289503
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636890,
+    "wof:geomhash": "3d2af4a89e1d55e1d68276122807ee9b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "empire_id": 136253055,
+        "enterprise_id": 1159293981,
+        "instrument_id": 1159289503
+      }
     ],
-    "wof:id":1159289503,
-    "wof:lastmodified":1606835768,
-    "wof:name":"Avro 594 Avian",
-    "wof:parent_id":85633159,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293981
+    "wof:id": 1159289503,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Avro 594 Avian",
+    "wof:parent_id": 85633159,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293981
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -1.247349,
     52.418788,
     -1.247349,
     52.418788
-],
+  ],
   "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
 }

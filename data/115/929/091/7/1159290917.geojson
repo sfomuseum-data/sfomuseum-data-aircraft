@@ -2,63 +2,65 @@
   "id": 1159290917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-3.464618,40.09095,-3.464618,40.09095",
-    "geom:latitude":40.09095,
-    "geom:longitude":-3.464618,
-    "iso:country":"ES",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":711,
-    "sfomuseum:aircraft_model":"HA-100",
-    "sfomuseum:aircraft_name":"Hispano Aviaci\u00f3n HA-100",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294001,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        102191581,
-        1159294001,
-        85633129
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.464618,40.090950,-3.464618,40.090950",
+    "geom:latitude": 40.09095,
+    "geom:longitude": -3.464618,
+    "iso:country": "ES",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 711,
+    "sfomuseum:aircraft_model": "HA-100",
+    "sfomuseum:aircraft_name": "Hispano Aviación HA-100",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294001,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102191581,
+      1159294001,
+      85633129
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"ES",
-    "wof:geomhash":"92f8bed2128be1c9d197ed975c7975d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
-            "enterprise_id":1159294001,
-            "instrument_id":1159290917
-        }
+    "wof:country": "ES",
+    "wof:created": 1619636891,
+    "wof:geomhash": "92f8bed2128be1c9d197ed975c7975d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633129,
+        "enterprise_id": 1159294001,
+        "instrument_id": 1159290917
+      }
     ],
-    "wof:id":1159290917,
-    "wof:lastmodified":1606835773,
-    "wof:name":"Hispano Aviaci\u00f3n HA-100",
-    "wof:parent_id":85633129,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294001
+    "wof:id": 1159290917,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Hispano Aviación HA-100",
+    "wof:parent_id": 85633129,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294001
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -3.464618,
     40.09095,
     -3.464618,
     40.09095
-],
+  ],
   "geometry": {"coordinates":[-3.464618,40.09095],"type":"Point"}
 }

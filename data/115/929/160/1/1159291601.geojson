@@ -2,71 +2,73 @@
   "id": 1159291601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-4.61667,55.48333,-4.61667,55.48333",
-    "geom:latitude":55.48333,
-    "geom:longitude":-4.61667,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1019,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"Scottish Aviation Twin Pioneer 3",
-    "sfomuseum:aircraft_variant":"Twin Pioneer 3",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293835,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85684245,
-        102191581,
-        404430343,
-        85633159,
-        404227471,
-        1126022253,
-        1159293835
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.616670,55.483330,-4.616670,55.483330",
+    "geom:latitude": 55.48333,
+    "geom:longitude": -4.61667,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1019,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "Scottish Aviation Twin Pioneer 3",
+    "sfomuseum:aircraft_variant": "Twin Pioneer 3",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293835,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85684245,
+      102191581,
+      404430343,
+      85633159,
+      404227471,
+      1126022253,
+      1159293835
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"f0710b94083e6701511a6f5077f3d262",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159293835,
-            "instrument_id":1159291601,
-            "localadmin_id":404430343,
-            "locality_id":1126022253,
-            "macroregion_id":404227471,
-            "region_id":85684245
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636891,
+    "wof:geomhash": "f0710b94083e6701511a6f5077f3d262",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293835,
+        "instrument_id": 1159291601,
+        "localadmin_id": 404430343,
+        "locality_id": 1126022253,
+        "macroregion_id": 404227471,
+        "region_id": 85684245
+      }
     ],
-    "wof:id":1159291601,
-    "wof:lastmodified":1606835776,
-    "wof:name":"Scottish Aviation Twin Pioneer 3",
-    "wof:parent_id":1126022253,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293835
+    "wof:id": 1159291601,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Scottish Aviation Twin Pioneer 3",
+    "wof:parent_id": 1126022253,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293835
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -4.61667,
     55.48333,
     -4.61667,
     55.48333
-],
+  ],
   "geometry": {"coordinates":[-4.61667,55.48333],"type":"Point"}
 }

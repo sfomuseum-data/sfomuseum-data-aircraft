@@ -2,65 +2,67 @@
   "id": 1159291501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-98.380429,38.500327,-98.380429,38.500327",
-    "geom:latitude":38.500327,
-    "geom:longitude":-98.380429,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":974,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"Rearwin Speedster 6000",
-    "sfomuseum:aircraft_variant":"Speedster 6000",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294081,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        102191575,
-        1159294081,
-        85633793,
-        85688555
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-98.380429,38.500327,-98.380429,38.500327",
+    "geom:latitude": 38.500327,
+    "geom:longitude": -98.380429,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 974,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "Rearwin Speedster 6000",
+    "sfomuseum:aircraft_variant": "Speedster 6000",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294081,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102191575,
+      1159294081,
+      85633793,
+      85688555
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"5cd0ded9d2d4138eeb758ae842a418a3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "enterprise_id":1159294081,
-            "instrument_id":1159291501,
-            "region_id":85688555
-        }
+    "wof:country": "US",
+    "wof:created": 1619636891,
+    "wof:geomhash": "5cd0ded9d2d4138eeb758ae842a418a3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "enterprise_id": 1159294081,
+        "instrument_id": 1159291501,
+        "region_id": 85688555
+      }
     ],
-    "wof:id":1159291501,
-    "wof:lastmodified":1606835776,
-    "wof:name":"Rearwin Speedster 6000",
-    "wof:parent_id":85688555,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294081
+    "wof:id": 1159291501,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Rearwin Speedster 6000",
+    "wof:parent_id": 85688555,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294081
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -98.380429,
     38.500327,
     -98.380429,
     38.500327
-],
-  "geometry": {"coordinates":[-98.38042900000001,38.500327],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-98.380429,38.500327],"type":"Point"}
 }

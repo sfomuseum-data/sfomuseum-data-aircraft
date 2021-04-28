@@ -2,80 +2,82 @@
   "id": 1159292551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-0.220332,51.559312,-0.220332,51.559312",
-    "geom:latitude":51.559312,
-    "geom:longitude":-0.220332,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1455,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"Handley Page Jetstream",
-    "sfomuseum:aircraft_variant":"Jetstream",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294127,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056993"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.220332,51.559312,-0.220332,51.559312",
+    "geom:latitude": 51.559312,
+    "geom:longitude": -0.220332,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1455,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "Handley Page Jetstream",
+    "sfomuseum:aircraft_variant": "Jetstream",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294127,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056993"
     ],
-    "wof:belongsto":[
-        85786881,
-        102191581,
-        85633159,
-        404227469,
-        101750367,
-        1158857267,
-        1159294127
+    "wof:belongsto": [
+      85786881,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857267,
+      1159294127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q1358946",
-        "wk:page":"Handley Page Jetstream",
-        "wk:pageid":665192
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q1358946",
+      "wk:page": "Handley Page Jetstream",
+      "wk:pageid": 665192
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"f3c332c642d6892ed43d268890da3a24",
-    "wof:hierarchy":[
-        {
-            "borough_id":1158857267,
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159294127,
-            "instrument_id":1159292551,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85786881,
-            "region_id":-1
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636891,
+    "wof:geomhash": "f3c332c642d6892ed43d268890da3a24",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857267,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159294127,
+        "instrument_id": 1159292551,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85786881,
+        "region_id": -1
+      }
     ],
-    "wof:id":1159292551,
-    "wof:lastmodified":1606835779,
-    "wof:name":"Handley Page Jetstream",
-    "wof:parent_id":85786881,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294127
+    "wof:id": 1159292551,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Handley Page Jetstream",
+    "wof:parent_id": 85786881,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294127
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -0.220332,
     51.559312,
     -0.220332,
     51.559312
-],
+  ],
   "geometry": {"coordinates":[-0.220332,51.559312],"type":"Point"}
 }

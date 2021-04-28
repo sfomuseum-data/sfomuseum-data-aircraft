@@ -2,75 +2,77 @@
   "id": 1159291563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.239832,48.836534,2.239832,48.836534",
-    "geom:latitude":48.836534,
-    "geom:longitude":2.239832,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1002,
-    "sfomuseum:aircraft_model":"7",
-    "sfomuseum:aircraft_name":"Salmson 7",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293601,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85683157,
-        102191581,
-        404228185,
-        1159322495,
-        85633147,
-        404227465,
-        101749067,
-        102071913,
-        1159293601
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.239832,48.836534,2.239832,48.836534",
+    "geom:latitude": 48.836534,
+    "geom:longitude": 2.239832,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1002,
+    "sfomuseum:aircraft_model": "7",
+    "sfomuseum:aircraft_name": "Salmson 7",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293601,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85683157,
+      102191581,
+      404228185,
+      1159322495,
+      85633147,
+      404227465,
+      101749067,
+      102071913,
+      1159293601
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"b82e616bc501f5710c5dfd13d9d596f6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102071913,
-            "enterprise_id":1159293601,
-            "instrument_id":1159291563,
-            "localadmin_id":1159322495,
-            "locality_id":101749067,
-            "macrocounty_id":404228185,
-            "macroregion_id":404227465,
-            "region_id":85683157
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636891,
+    "wof:geomhash": "b82e616bc501f5710c5dfd13d9d596f6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102071913,
+        "enterprise_id": 1159293601,
+        "instrument_id": 1159291563,
+        "localadmin_id": 1159322495,
+        "locality_id": 101749067,
+        "macrocounty_id": 404228185,
+        "macroregion_id": 404227465,
+        "region_id": 85683157
+      }
     ],
-    "wof:id":1159291563,
-    "wof:lastmodified":1606835776,
-    "wof:name":"Salmson 7",
-    "wof:parent_id":101749067,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293601
+    "wof:id": 1159291563,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Salmson 7",
+    "wof:parent_id": 101749067,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293601
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.239832,
     48.836534,
     2.239832,
     48.836534
-],
+  ],
   "geometry": {"coordinates":[2.239832,48.836534],"type":"Point"}
 }

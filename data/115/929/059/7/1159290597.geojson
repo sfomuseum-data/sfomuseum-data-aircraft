@@ -2,71 +2,73 @@
   "id": 1159290597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-74.852746,40.102869,-74.852746,40.102869",
-    "geom:latitude":40.102869,
-    "geom:longitude":-74.852746,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":569,
-    "sfomuseum:aircraft_model":"F5",
-    "sfomuseum:aircraft_name":"Fleetwings F5 Sea Bird",
-    "sfomuseum:aircraft_variant":"Sea Bird",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294055,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85688481,
-        102191575,
-        404484799,
-        85633793,
-        101716861,
-        102080987,
-        1159294055
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-74.852746,40.102869,-74.852746,40.102869",
+    "geom:latitude": 40.102869,
+    "geom:longitude": -74.852746,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 569,
+    "sfomuseum:aircraft_model": "F5",
+    "sfomuseum:aircraft_name": "Fleetwings F5 Sea Bird",
+    "sfomuseum:aircraft_variant": "Sea Bird",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294055,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688481,
+      102191575,
+      404484799,
+      85633793,
+      101716861,
+      102080987,
+      1159294055
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"cb2ad8ed9ef30511072f62405a473f73",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080987,
-            "enterprise_id":1159294055,
-            "instrument_id":1159290597,
-            "localadmin_id":404484799,
-            "locality_id":101716861,
-            "region_id":85688481
-        }
+    "wof:country": "US",
+    "wof:created": 1619636890,
+    "wof:geomhash": "cb2ad8ed9ef30511072f62405a473f73",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080987,
+        "enterprise_id": 1159294055,
+        "instrument_id": 1159290597,
+        "localadmin_id": 404484799,
+        "locality_id": 101716861,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159290597,
-    "wof:lastmodified":1606835772,
-    "wof:name":"Fleetwings F5 Sea Bird",
-    "wof:parent_id":101716861,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294055
+    "wof:id": 1159290597,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Fleetwings F5 Sea Bird",
+    "wof:parent_id": 101716861,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294055
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -74.852746,
     40.102869,
     -74.852746,
     40.102869
-],
+  ],
   "geometry": {"coordinates":[-74.852746,40.102869],"type":"Point"}
 }

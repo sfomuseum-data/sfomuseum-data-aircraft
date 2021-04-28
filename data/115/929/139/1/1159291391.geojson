@@ -2,69 +2,71 @@
   "id": 1159291391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.25703,34.05513,-118.25703,34.05513",
-    "geom:latitude":34.05513,
-    "geom:longitude":-118.25703,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":923,
-    "sfomuseum:aircraft_model":"P-51B",
-    "sfomuseum:aircraft_name":"North American Aviation P-51B Mustang",
-    "sfomuseum:aircraft_variant":"Mustang",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293761,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        1159293761
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.257030,34.055130,-118.257030,34.055130",
+    "geom:latitude": 34.05513,
+    "geom:longitude": -118.25703,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 923,
+    "sfomuseum:aircraft_model": "P-51B",
+    "sfomuseum:aircraft_name": "North American Aviation P-51B Mustang",
+    "sfomuseum:aircraft_variant": "Mustang",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293761,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      1159293761
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"2196c5789f776f4bf2d9c7983408b4bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "enterprise_id":1159293761,
-            "instrument_id":1159291391,
-            "locality_id":85923517,
-            "region_id":85688637
-        }
+    "wof:country": "US",
+    "wof:created": 1619636891,
+    "wof:geomhash": "2196c5789f776f4bf2d9c7983408b4bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "enterprise_id": 1159293761,
+        "instrument_id": 1159291391,
+        "locality_id": 85923517,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159291391,
-    "wof:lastmodified":1606835775,
-    "wof:name":"North American Aviation P-51B Mustang",
-    "wof:parent_id":85923517,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293761
+    "wof:id": 1159291391,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "North American Aviation P-51B Mustang",
+    "wof:parent_id": 85923517,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293761
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.25703,
     34.05513,
     -118.25703,
     34.05513
-],
+  ],
   "geometry": {"coordinates":[-118.25703,34.05513],"type":"Point"}
 }

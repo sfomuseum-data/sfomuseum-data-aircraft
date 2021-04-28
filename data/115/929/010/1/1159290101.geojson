@@ -2,79 +2,81 @@
   "id": 1159290101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"0.068077,51.360473,0.068077,51.360473",
-    "geom:latitude":51.360473,
-    "geom:longitude":0.068077,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":332,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"British Aerospace Jetstream 41",
-    "sfomuseum:aircraft_variant":"Jetstream 41",
-    "sfomuseum:count_objects_public":2,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294331,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q11436"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.068077,51.360473,0.068077,51.360473",
+    "geom:latitude": 51.360473,
+    "geom:longitude": 0.068077,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 332,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "British Aerospace Jetstream 41",
+    "sfomuseum:aircraft_variant": "Jetstream 41",
+    "sfomuseum:count_objects_public": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294331,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q11436"
     ],
-    "wof:belongsto":[
-        85684375,
-        102191581,
-        404440045,
-        85633159,
-        404227469,
-        101750357,
-        1159294331
+    "wof:belongsto": [
+      85684375,
+      102191581,
+      404440045,
+      85633159,
+      404227469,
+      101750357,
+      1159294331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q2441974",
-        "wk:page":"British Aerospace Jetstream 41",
-        "wk:pageid":873200
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q2441974",
+      "wk:page": "British Aerospace Jetstream 41",
+      "wk:pageid": 873200
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"34c59f19049121e23f1c302eff566028",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159294331,
-            "instrument_id":1159290101,
-            "localadmin_id":404440045,
-            "locality_id":101750357,
-            "macroregion_id":404227469,
-            "region_id":85684375
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636890,
+    "wof:geomhash": "34c59f19049121e23f1c302eff566028",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159294331,
+        "instrument_id": 1159290101,
+        "localadmin_id": 404440045,
+        "locality_id": 101750357,
+        "macroregion_id": 404227469,
+        "region_id": 85684375
+      }
     ],
-    "wof:id":1159290101,
-    "wof:lastmodified":1606835770,
-    "wof:name":"British Aerospace Jetstream 41",
-    "wof:parent_id":101750357,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294331
+    "wof:id": 1159290101,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "British Aerospace Jetstream 41",
+    "wof:parent_id": 101750357,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294331
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     0.068077,
     51.360473,
     0.068077,
     51.360473
-],
+  ],
   "geometry": {"coordinates":[0.068077,51.360473],"type":"Point"}
 }

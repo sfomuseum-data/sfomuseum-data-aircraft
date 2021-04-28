@@ -2,83 +2,85 @@
   "id": 1159293531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"2.219949,48.870189,2.219949,48.870189",
-    "geom:latitude":48.870189,
-    "geom:longitude":2.219949,
-    "iso:country":"FR",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1930,
-    "sfomuseum:aircraft_model":"28",
-    "sfomuseum:aircraft_name":"Nieuport 28",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294179,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056995"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "2.219949,48.870189,2.219949,48.870189",
+    "geom:latitude": 48.870189,
+    "geom:longitude": 2.219949,
+    "iso:country": "FR",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1930,
+    "sfomuseum:aircraft_model": "28",
+    "sfomuseum:aircraft_name": "Nieuport 28",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294179,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056995"
     ],
-    "wof:belongsto":[
-        85683157,
-        102191581,
-        404227997,
-        1159322497,
-        85633147,
-        404227465,
-        101751133,
-        102070871,
-        1159294179
+    "wof:belongsto": [
+      85683157,
+      102191581,
+      404227997,
+      1159322497,
+      85633147,
+      404227465,
+      101751133,
+      102070871,
+      1159294179
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q385072",
-        "wk:page":"Nieuport 28",
-        "wk:pageid":4229701
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q385072",
+      "wk:page": "Nieuport 28",
+      "wk:pageid": 4229701
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"FR",
-    "wof:geomhash":"f8667a6faa18ed15b07e6e901397ce1b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102070871,
-            "enterprise_id":1159294179,
-            "instrument_id":1159293531,
-            "localadmin_id":1159322497,
-            "locality_id":101751133,
-            "macrocounty_id":404227997,
-            "macroregion_id":404227465,
-            "region_id":85683157
-        }
+    "wof:country": "FR",
+    "wof:created": 1619636891,
+    "wof:geomhash": "f8667a6faa18ed15b07e6e901397ce1b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102070871,
+        "enterprise_id": 1159294179,
+        "instrument_id": 1159293531,
+        "localadmin_id": 1159322497,
+        "locality_id": 101751133,
+        "macrocounty_id": 404227997,
+        "macroregion_id": 404227465,
+        "region_id": 85683157
+      }
     ],
-    "wof:id":1159293531,
-    "wof:lastmodified":1606835784,
-    "wof:name":"Nieuport 28",
-    "wof:parent_id":101751133,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294179
+    "wof:id": 1159293531,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Nieuport 28",
+    "wof:parent_id": 101751133,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294179
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     2.219949,
     48.870189,
     2.219949,
     48.870189
-],
+  ],
   "geometry": {"coordinates":[2.219949,48.870189],"type":"Point"}
 }

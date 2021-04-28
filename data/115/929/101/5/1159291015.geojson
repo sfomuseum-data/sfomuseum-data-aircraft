@@ -2,71 +2,73 @@
   "id": 1159291015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.168428,39.990821,-75.168428,39.990821",
-    "geom:latitude":39.990821,
-    "geom:longitude":-75.168428,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":756,
-    "sfomuseum:aircraft_model":"K-78",
-    "sfomuseum:aircraft_name":"Keystone K-78 Patrician",
-    "sfomuseum:aircraft_variant":"Patrician",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294287,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85688481,
-        102191575,
-        404483701,
-        85633793,
-        101718083,
-        102081353,
-        1159294287
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.168428,39.990821,-75.168428,39.990821",
+    "geom:latitude": 39.990821,
+    "geom:longitude": -75.168428,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 756,
+    "sfomuseum:aircraft_model": "K-78",
+    "sfomuseum:aircraft_name": "Keystone K-78 Patrician",
+    "sfomuseum:aircraft_variant": "Patrician",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294287,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688481,
+      102191575,
+      404483701,
+      85633793,
+      101718083,
+      102081353,
+      1159294287
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"8b656b8b35b6a01adfbb7870785eefbd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "enterprise_id":1159294287,
-            "instrument_id":1159291015,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "region_id":85688481
-        }
+    "wof:country": "US",
+    "wof:created": 1619636891,
+    "wof:geomhash": "8b656b8b35b6a01adfbb7870785eefbd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081353,
+        "enterprise_id": 1159294287,
+        "instrument_id": 1159291015,
+        "localadmin_id": 404483701,
+        "locality_id": 101718083,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159291015,
-    "wof:lastmodified":1606835774,
-    "wof:name":"Keystone K-78 Patrician",
-    "wof:parent_id":101718083,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294287
+    "wof:id": 1159291015,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Keystone K-78 Patrician",
+    "wof:parent_id": 101718083,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294287
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.168428,
     39.990821,
     -75.168428,
     39.990821
-],
-  "geometry": {"coordinates":[-75.16842800000001,39.990821],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-75.168428,39.990821],"type":"Point"}
 }

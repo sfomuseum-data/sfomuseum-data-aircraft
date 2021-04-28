@@ -2,79 +2,81 @@
   "id": 1159289369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-74.201332,40.43142,-74.201332,40.43142",
-    "geom:latitude":40.43142,
-    "geom:longitude":-74.201332,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":6,
-    "sfomuseum:aircraft_model":"75",
-    "sfomuseum:aircraft_name":"Aeromarine 75",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293955,
-    "sfomuseum:placetype":"aircraft",
-    "wd:instance_of":[
-        "Q15056995"
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-74.201332,40.431420,-74.201332,40.431420",
+    "geom:latitude": 40.43142,
+    "geom:longitude": -74.201332,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 6,
+    "sfomuseum:aircraft_model": "75",
+    "sfomuseum:aircraft_name": "Aeromarine 75",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293955,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wd:instance_of": [
+      "Q15056995"
     ],
-    "wof:belongsto":[
-        85688607,
-        102191575,
-        404478357,
-        85633793,
-        85975431,
-        102085049,
-        1159293955
+    "wof:belongsto": [
+      85688607,
+      102191575,
+      404478357,
+      85633793,
+      85975431,
+      102085049,
+      1159293955
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "wd:id":"Q3940675",
-        "wk:page":"Felixstowe F5L",
-        "wk:pageid":5596581
+    "wof:breaches": [],
+    "wof:concordances": {
+      "wd:id": "Q3940675",
+      "wk:page": "Felixstowe F5L",
+      "wk:pageid": 5596581
     },
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"f54618805503aa0a0c6a218f13df69c8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085049,
-            "enterprise_id":1159293955,
-            "instrument_id":1159289369,
-            "localadmin_id":404478357,
-            "locality_id":85975431,
-            "region_id":85688607
-        }
+    "wof:country": "US",
+    "wof:created": 1619636889,
+    "wof:geomhash": "f54618805503aa0a0c6a218f13df69c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085049,
+        "enterprise_id": 1159293955,
+        "instrument_id": 1159289369,
+        "localadmin_id": 404478357,
+        "locality_id": 85975431,
+        "region_id": 85688607
+      }
     ],
-    "wof:id":1159289369,
-    "wof:lastmodified":1606835768,
-    "wof:name":"Aeromarine 75",
-    "wof:parent_id":85975431,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293955
+    "wof:id": 1159289369,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Aeromarine 75",
+    "wof:parent_id": 85975431,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293955
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -74.201332,
     40.43142,
     -74.201332,
     40.43142
-],
-  "geometry": {"coordinates":[-74.20133199999999,40.43142],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-74.201332,40.43142],"type":"Point"}
 }

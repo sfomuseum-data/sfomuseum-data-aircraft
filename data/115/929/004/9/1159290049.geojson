@@ -2,71 +2,73 @@
   "id": 1159290049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"1.294508,52.650229,1.294508,52.650229",
-    "geom:latitude":52.650229,
-    "geom:longitude":1.294508,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":309,
-    "sfomuseum:aircraft_model":"",
-    "sfomuseum:aircraft_name":"Boulton Paul Defiant MK.I",
-    "sfomuseum:aircraft_variant":"Defiant MK.I",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159294051,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85683947,
-        102191581,
-        404432969,
-        85633159,
-        404227469,
-        101750483,
-        1159294051
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.294508,52.650229,1.294508,52.650229",
+    "geom:latitude": 52.650229,
+    "geom:longitude": 1.294508,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 309,
+    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_name": "Boulton Paul Defiant MK.I",
+    "sfomuseum:aircraft_variant": "Defiant MK.I",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159294051,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85683947,
+      102191581,
+      404432969,
+      85633159,
+      404227469,
+      101750483,
+      1159294051
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"GB",
-    "wof:geomhash":"9b008349c3345df55867474fc461e1a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "enterprise_id":1159294051,
-            "instrument_id":1159290049,
-            "localadmin_id":404432969,
-            "locality_id":101750483,
-            "macroregion_id":404227469,
-            "region_id":85683947
-        }
+    "wof:country": "GB",
+    "wof:created": 1619636890,
+    "wof:geomhash": "9b008349c3345df55867474fc461e1a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159294051,
+        "instrument_id": 1159290049,
+        "localadmin_id": 404432969,
+        "locality_id": 101750483,
+        "macroregion_id": 404227469,
+        "region_id": 85683947
+      }
     ],
-    "wof:id":1159290049,
-    "wof:lastmodified":1606835770,
-    "wof:name":"Boulton Paul Defiant MK.I",
-    "wof:parent_id":101750483,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159294051
+    "wof:id": 1159290049,
+    "wof:lastmodified": 1619636890,
+    "wof:name": "Boulton Paul Defiant MK.I",
+    "wof:parent_id": 101750483,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159294051
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     1.294508,
     52.650229,
     1.294508,
     52.650229
-],
+  ],
   "geometry": {"coordinates":[1.294508,52.650229],"type":"Point"}
 }

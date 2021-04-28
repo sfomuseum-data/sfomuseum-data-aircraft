@@ -2,57 +2,57 @@
   "id": 1729554277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "iso:country":"XN",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1944,
-    "sfomuseum:count_objects_public":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer":"Santos-Dumont",
-    "sfomuseum:manufacturer_id":1159293935,
-    "sfomuseum:model":"14 bis",
-    "sfomuseum:name":"Santos-Dumont 14 bis",
-    "sfomuseum:placetype":"aircraft",
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        1159293935,
-        1
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iso:country": "XN",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1944,
+    "sfomuseum:count_objects_public": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Santos-Dumont",
+    "sfomuseum:manufacturer_id": 1159293935,
+    "sfomuseum:model": "14 bis",
+    "sfomuseum:name": "Santos-Dumont 14 bis",
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1159293935,
+      1
     ],
-    "wof:breaches":[],
-    "wof:country":"XN",
-    "wof:created":1606835789,
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
-    "wof:hierarchy":[
-        {
-            "country_id":1,
-            "enterprise_id":1159293935,
-            "instrument_id":1729554277
-        }
+    "wof:breaches": [],
+    "wof:country": "XN",
+    "wof:created": 1606835789,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "country_id": 1,
+        "enterprise_id": 1159293935,
+        "instrument_id": 1729554277
+      }
     ],
-    "wof:id":1729554277,
-    "wof:lastmodified":1606835789,
-    "wof:name":"Santos-Dumont 14 bis",
-    "wof:parent_id":1,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293935
+    "wof:id": 1729554277,
+    "wof:lastmodified": 1619636889,
+    "wof:name": "Santos-Dumont 14 bis",
+    "wof:parent_id": 1,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293935
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

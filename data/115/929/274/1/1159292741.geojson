@@ -2,71 +2,73 @@
   "id": 1159292741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.652445,45.720676,8.652445,45.720676",
-    "geom:latitude":45.720676,
-    "geom:longitude":8.652445,
-    "iso:country":"IT",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1544,
-    "sfomuseum:aircraft_model":"SM.55X",
-    "sfomuseum:aircraft_name":"Savoia-Marchetti SM.55X",
-    "sfomuseum:aircraft_variant":"",
-    "sfomuseum:count_objects_public":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:manufacturer_id":1159293973,
-    "sfomuseum:placetype":"aircraft",
-    "wof:belongsto":[
-        85685231,
-        102191581,
-        404467881,
-        85633253,
-        404227497,
-        101830197,
-        1159293973
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "8.652445,45.720676,8.652445,45.720676",
+    "geom:latitude": 45.720676,
+    "geom:longitude": 8.652445,
+    "iso:country": "IT",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1544,
+    "sfomuseum:aircraft_model": "SM.55X",
+    "sfomuseum:aircraft_name": "Savoia-Marchetti SM.55X",
+    "sfomuseum:aircraft_variant": "",
+    "sfomuseum:count_objects_public": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer_id": 1159293973,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85685231,
+      102191581,
+      404467881,
+      85633253,
+      404227497,
+      101830197,
+      1159293973
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy",
-        "wof:parent_id"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy",
+      "wof:parent_id"
     ],
-    "wof:country":"IT",
-    "wof:geomhash":"30b8735697f686e69aaf4506685a5fea",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633253,
-            "enterprise_id":1159293973,
-            "instrument_id":1159292741,
-            "localadmin_id":404467881,
-            "locality_id":101830197,
-            "macroregion_id":404227497,
-            "region_id":85685231
-        }
+    "wof:country": "IT",
+    "wof:created": 1619636891,
+    "wof:geomhash": "30b8735697f686e69aaf4506685a5fea",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633253,
+        "enterprise_id": 1159293973,
+        "instrument_id": 1159292741,
+        "localadmin_id": 404467881,
+        "locality_id": 101830197,
+        "macroregion_id": 404227497,
+        "region_id": 85685231
+      }
     ],
-    "wof:id":1159292741,
-    "wof:lastmodified":1606835780,
-    "wof:name":"Savoia-Marchetti SM.55X",
-    "wof:parent_id":101830197,
-    "wof:placetype":"instrument",
-    "wof:repo":"sfomuseum-data-aircraft",
-    "wof:subordinate_of":[
-        1159293973
+    "wof:id": 1159292741,
+    "wof:lastmodified": 1619636891,
+    "wof:name": "Savoia-Marchetti SM.55X",
+    "wof:parent_id": 101830197,
+    "wof:placetype": "instrument",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:subordinate_of": [
+      1159293973
     ],
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     8.652445,
     45.720676,
     8.652445,
     45.720676
-],
+  ],
   "geometry": {"coordinates":[8.652445,45.720676],"type":"Point"}
 }
