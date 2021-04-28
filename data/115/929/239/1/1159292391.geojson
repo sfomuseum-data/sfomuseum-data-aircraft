@@ -37,15 +37,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292391,
         "enterprise_id": 1159294105,
         "instrument_id": 1159292391
       }
     ],
     "wof:id": 1159292391,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Fairchild (Swearingen) Metro",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294105

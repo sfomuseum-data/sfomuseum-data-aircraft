@@ -44,6 +44,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080987,
+        "custom_id": 1159290595,
         "enterprise_id": 1159294055,
         "instrument_id": 1159290595,
         "localadmin_id": 404484799,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159290595,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Fleetwings F4 Sea Bird",
     "wof:parent_id": 101716861,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294055

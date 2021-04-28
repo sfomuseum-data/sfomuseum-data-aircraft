@@ -44,6 +44,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081819,
+        "custom_id": 1159291591,
         "enterprise_id": 1159294093,
         "instrument_id": 1159291591,
         "localadmin_id": 404522117,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159291591,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Schweizer SGS 1-26B",
     "wof:parent_id": 85977529,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294093

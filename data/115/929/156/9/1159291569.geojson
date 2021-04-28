@@ -45,15 +45,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159291569,
         "enterprise_id": 1159293935,
         "instrument_id": 1159291569
       }
     ],
     "wof:id": 1159291569,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Santos-Dumont 21 Demoiselle",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293935

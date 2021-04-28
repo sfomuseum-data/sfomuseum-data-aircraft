@@ -46,6 +46,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102069753,
+        "custom_id": 1159290583,
         "enterprise_id": 1159293691,
         "instrument_id": 1159290583,
         "localadmin_id": 404413665,
@@ -56,10 +57,10 @@
       }
     ],
     "wof:id": 1159290583,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Farman Biplane",
     "wof:parent_id": 101753455,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293691

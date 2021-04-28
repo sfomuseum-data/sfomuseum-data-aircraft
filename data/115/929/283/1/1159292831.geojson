@@ -44,6 +44,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082387,
+        "custom_id": 1159292831,
         "enterprise_id": 1159293889,
         "instrument_id": 1159292831,
         "localadmin_id": 404522329,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159292831,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Curtiss  Robin (Highly modified)",
     "wof:parent_id": 85978023,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293889

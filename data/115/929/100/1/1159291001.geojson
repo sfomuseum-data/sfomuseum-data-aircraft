@@ -52,6 +52,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080987,
+        "custom_id": 1159291001,
         "enterprise_id": 1159293683,
         "instrument_id": 1159291001,
         "localadmin_id": 404484799,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159291001,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Kaiser-Fleetwings XBTK-1",
     "wof:parent_id": 101716861,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293683

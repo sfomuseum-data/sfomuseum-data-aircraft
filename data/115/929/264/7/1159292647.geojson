@@ -41,6 +41,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159292647,
         "enterprise_id": 1159293995,
         "instrument_id": 1159292647,
         "macroregion_id": 404227469,
@@ -48,10 +49,10 @@
       }
     ],
     "wof:id": 1159292647,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "de Havilland DHC-6 300 Twin Otter",
     "wof:parent_id": 85684331,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293995

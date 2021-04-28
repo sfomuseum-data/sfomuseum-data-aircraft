@@ -43,6 +43,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102064115,
+        "custom_id": 1159292739,
         "enterprise_id": 1159294047,
         "instrument_id": 1159292739,
         "locality_id": 101748865,
@@ -50,10 +51,10 @@
       }
     ],
     "wof:id": 1159292739,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Heinkel He 70 G-1 Blitz",
     "wof:parent_id": 101748865,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294047

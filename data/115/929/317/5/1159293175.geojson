@@ -45,15 +45,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159293175,
         "enterprise_id": 1159293623,
         "instrument_id": 1159293175
       }
     ],
     "wof:id": 1159293175,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Short S.30 Empire",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293623

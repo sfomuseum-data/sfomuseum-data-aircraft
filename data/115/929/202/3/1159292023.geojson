@@ -43,6 +43,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159292023,
         "enterprise_id": 1159293845,
         "instrument_id": 1159292023,
         "localadmin_id": 404434131,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159292023,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Westland 30-100",
     "wof:parent_id": 101852529,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293845

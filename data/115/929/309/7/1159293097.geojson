@@ -47,6 +47,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102072513,
+        "custom_id": 1159293097,
         "empire_id": 136253037,
         "enterprise_id": 1159293827,
         "instrument_id": 1159293097,
@@ -58,10 +59,10 @@
       }
     ],
     "wof:id": 1159293097,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Latécoère LAT 521",
     "wof:parent_id": 101750691,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293827

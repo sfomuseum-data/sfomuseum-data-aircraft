@@ -48,16 +48,17 @@
       {
         "continent_id": 102191581,
         "country_id": 85633147,
+        "custom_id": 1159291743,
         "empire_id": 136253037,
         "enterprise_id": 1159294039,
         "instrument_id": 1159291743
       }
     ],
     "wof:id": 1159291743,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "SPAD XIII",
     "wof:parent_id": 85633147,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294039

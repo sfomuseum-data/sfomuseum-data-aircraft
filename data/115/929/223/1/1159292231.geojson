@@ -42,14 +42,15 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292231,
         "instrument_id": 1159292231
       }
     ],
     "wof:id": 1159292231,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Martin B-10",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

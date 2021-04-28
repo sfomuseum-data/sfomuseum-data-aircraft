@@ -45,15 +45,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292661,
         "enterprise_id": 1159293705,
         "instrument_id": 1159292661
       }
     ],
     "wof:id": 1159292661,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Bede BD-5J",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293705,

@@ -46,6 +46,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071949,
+        "custom_id": 1159291493,
         "enterprise_id": 1159293803,
         "instrument_id": 1159291493,
         "localadmin_id": 1159321961,
@@ -56,10 +57,10 @@
       }
     ],
     "wof:id": 1159291493,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Potez 631",
     "wof:parent_id": 101749071,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293803,

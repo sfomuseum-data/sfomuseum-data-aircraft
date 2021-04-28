@@ -37,6 +37,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1729554289,
         "enterprise_id": 1159293973,
         "instrument_id": 1729554289,
         "localadmin_id": 404467881,
@@ -46,10 +47,10 @@
       }
     ],
     "wof:id": 1729554289,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Savoia-Marchetti S-55",
     "wof:parent_id": 101830197,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293973

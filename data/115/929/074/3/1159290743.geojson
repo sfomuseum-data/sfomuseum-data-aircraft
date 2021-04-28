@@ -32,14 +32,15 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159290743,
         "instrument_id": 1159290743
       }
     ],
     "wof:id": 1159290743,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Goodyear ZRS-4 U.S.S. Akron",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

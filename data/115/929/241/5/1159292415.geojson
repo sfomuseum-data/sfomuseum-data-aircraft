@@ -52,6 +52,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159292415,
         "enterprise_id": 1159293547,
         "instrument_id": 1159292415,
         "localadmin_id": 404435563,
@@ -62,10 +63,10 @@
       }
     ],
     "wof:id": 1159292415,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Sopwith Pup",
     "wof:parent_id": 85788611,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293547

@@ -43,6 +43,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159290727,
         "enterprise_id": 1159293579,
         "instrument_id": 1159290727,
         "localadmin_id": 404442035,
@@ -53,10 +54,10 @@
       }
     ],
     "wof:id": 1159290727,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Gloster Meteor NF.11",
     "wof:parent_id": 85788357,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293579

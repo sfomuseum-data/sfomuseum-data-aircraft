@@ -38,6 +38,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063911,
+        "custom_id": 1729554267,
         "enterprise_id": 1159293665,
         "instrument_id": 1729554267,
         "locality_id": 101819585,
@@ -45,10 +46,10 @@
       }
     ],
     "wof:id": 1729554267,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Bücker Bü 133B Jungmeister ",
     "wof:parent_id": 101819585,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293665

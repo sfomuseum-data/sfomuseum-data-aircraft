@@ -43,6 +43,7 @@
         "continent_id": 102191575,
         "country_id": 85633041,
         "county_id": 890458661,
+        "custom_id": 1159290131,
         "enterprise_id": 1159294259,
         "instrument_id": 1159290131,
         "locality_id": 101736545,
@@ -50,10 +51,10 @@
       }
     ],
     "wof:id": 1159290131,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Canadair CL-65",
     "wof:parent_id": 101736545,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294259

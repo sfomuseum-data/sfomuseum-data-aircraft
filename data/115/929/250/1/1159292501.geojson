@@ -43,6 +43,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
+        "custom_id": 1159292501,
         "enterprise_id": 1159293761,
         "instrument_id": 1159292501,
         "locality_id": 85923517,
@@ -50,10 +51,10 @@
       }
     ],
     "wof:id": 1159292501,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "North American Aviation AJ-1 Savage",
     "wof:parent_id": 85923517,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293761

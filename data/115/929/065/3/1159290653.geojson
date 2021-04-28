@@ -38,15 +38,16 @@
       {
         "continent_id": -1,
         "country_id": 85632727,
+        "custom_id": 1159290653,
         "enterprise_id": 1159293619,
         "instrument_id": 1159290653
       }
     ],
     "wof:id": 1159290653,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Fokker F.28-4000 Fellowship",
     "wof:parent_id": 85632727,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293619

@@ -34,14 +34,15 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292879,
         "instrument_id": 1159292879
       }
     ],
     "wof:id": 1159292879,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Ford TriMotor 4-ATB Byrd South Pole",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

@@ -40,16 +40,17 @@
       {
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159292411,
         "empire_id": 136253057,
         "enterprise_id": 1159294161,
         "instrument_id": 1159292411
       }
     ],
     "wof:id": 1159292411,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Stearman PT-13 Kaydet",
     "wof:parent_id": 85633793,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294161

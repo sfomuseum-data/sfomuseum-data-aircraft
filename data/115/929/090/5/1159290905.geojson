@@ -51,6 +51,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102064115,
+        "custom_id": 1159290905,
         "enterprise_id": 1159294047,
         "instrument_id": 1159290905,
         "locality_id": 101748865,
@@ -58,10 +59,10 @@
       }
     ],
     "wof:id": 1159290905,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Heinkel He 51",
     "wof:parent_id": 101748865,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294047

@@ -40,16 +40,17 @@
       {
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159292777,
         "empire_id": 136253057,
         "enterprise_id": 1159294017,
         "instrument_id": 1159292777
       }
     ],
     "wof:id": 1159292777,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Atlantic-Fokker C-2 America",
     "wof:parent_id": 85633793,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294017

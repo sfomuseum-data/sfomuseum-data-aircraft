@@ -54,6 +54,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071993,
+        "custom_id": 1159292651,
         "enterprise_id": 1159294227,
         "instrument_id": 1159292651,
         "localadmin_id": 1159322471,
@@ -64,10 +65,10 @@
       }
     ],
     "wof:id": 1159292651,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Caudron C.635 Simoun",
     "wof:parent_id": 101749789,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294227

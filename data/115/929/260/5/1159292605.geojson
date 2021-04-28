@@ -43,15 +43,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292605,
         "enterprise_id": 1159293855,
         "instrument_id": 1159292605
       }
     ],
     "wof:id": 1159292605,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Ryan NYP",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293855

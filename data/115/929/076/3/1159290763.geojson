@@ -40,16 +40,17 @@
       {
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159290763,
         "empire_id": 136253057,
         "enterprise_id": 1159294349,
         "instrument_id": 1159290763
       }
     ],
     "wof:id": 1159290763,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Great Lakes 2T",
     "wof:parent_id": 85633793,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294349

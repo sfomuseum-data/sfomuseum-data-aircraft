@@ -46,6 +46,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102070871,
+        "custom_id": 1159291355,
         "enterprise_id": 1159294179,
         "instrument_id": 1159291355,
         "localadmin_id": 1159322497,
@@ -56,10 +57,10 @@
       }
     ],
     "wof:id": 1159291355,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Nieuport NiD 622",
     "wof:parent_id": 101751133,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294179

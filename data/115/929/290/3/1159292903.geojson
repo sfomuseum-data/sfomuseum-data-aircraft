@@ -45,15 +45,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292903,
         "enterprise_id": 1159293657,
         "instrument_id": 1159292903
       }
     ],
     "wof:id": 1159292903,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Cant Z.506",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293657

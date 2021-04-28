@@ -37,15 +37,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292667,
         "enterprise_id": 1159293719,
         "instrument_id": 1159292667
       }
     ],
     "wof:id": 1159292667,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Caudon C.445 Goeland",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293719

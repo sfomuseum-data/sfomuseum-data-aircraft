@@ -44,6 +44,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082387,
+        "custom_id": 1159290249,
         "enterprise_id": 1159293889,
         "instrument_id": 1159290249,
         "localadmin_id": 404522329,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159290249,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Curtiss Carrier Pigeon II",
     "wof:parent_id": 85978023,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293889

@@ -52,6 +52,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102084203,
+        "custom_id": 1159293443,
         "enterprise_id": 1159294115,
         "instrument_id": 1159293443,
         "localadmin_id": 404504929,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159293443,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Cessna CR-3",
     "wof:parent_id": 85945871,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294115

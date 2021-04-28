@@ -40,16 +40,17 @@
       {
         "continent_id": 102191569,
         "country_id": 85632429,
+        "custom_id": 1159292867,
         "enterprise_id": 1159294053,
         "instrument_id": 1159292867,
         "region_id": 85672817
       }
     ],
     "wof:id": 1159292867,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Mitsubishi 94 Kamikaze",
     "wof:parent_id": 85672817,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294053

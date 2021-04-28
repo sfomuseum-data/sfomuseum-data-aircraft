@@ -42,14 +42,15 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159290421,
         "instrument_id": 1159290421
       }
     ],
     "wof:id": 1159290421,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Douglas DC-4",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

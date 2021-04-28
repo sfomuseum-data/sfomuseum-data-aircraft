@@ -55,6 +55,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102072513,
+        "custom_id": 1159289493,
         "empire_id": 136253037,
         "enterprise_id": 1159293891,
         "instrument_id": 1159289493,
@@ -66,10 +67,10 @@
       }
     ],
     "wof:id": 1159289493,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "ATR 72",
     "wof:parent_id": 101750691,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293891

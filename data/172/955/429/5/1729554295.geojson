@@ -32,15 +32,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1729554295,
         "enterprise_id": 1159294323,
         "instrument_id": 1729554295
       }
     ],
     "wof:id": 1729554295,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Consolidated PBY Catalina",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294323

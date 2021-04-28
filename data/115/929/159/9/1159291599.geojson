@@ -43,6 +43,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159291599,
         "enterprise_id": 1159293835,
         "instrument_id": 1159291599,
         "localadmin_id": 404430343,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159291599,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Scottish Aviation Twin Pioneer",
     "wof:parent_id": 1126022253,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293835

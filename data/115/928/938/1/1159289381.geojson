@@ -43,6 +43,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633147,
+        "custom_id": 1159289381,
         "enterprise_id": 1159293785,
         "instrument_id": 1159289381,
         "localadmin_id": 1159322569,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159289381,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Aérospatiale N262",
     "wof:parent_id": 101751119,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293785

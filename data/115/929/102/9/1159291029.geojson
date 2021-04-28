@@ -39,15 +39,16 @@
       {
         "continent_id": 102191581,
         "country_id": 85633111,
+        "custom_id": 1159291029,
         "enterprise_id": 1159294301,
         "instrument_id": 1159291029
       }
     ],
     "wof:id": 1159291029,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Klemm L 21",
     "wof:parent_id": 85633111,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294301

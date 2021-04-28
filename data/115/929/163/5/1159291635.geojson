@@ -43,6 +43,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1159291635,
         "enterprise_id": 1159294319,
         "instrument_id": 1159291635,
         "localadmin_id": 404467881,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159291635,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "SIAI-Marchetti SF.260 Minerva",
     "wof:parent_id": 101830197,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294319

@@ -51,6 +51,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159292793,
         "enterprise_id": 1159293749,
         "instrument_id": 1159292793,
         "localadmin_id": 404440045,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159292793,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636928,
     "wof:name": "BAe 146",
     "wof:parent_id": 101750357,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293749

@@ -52,6 +52,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085381,
+        "custom_id": 1159293523,
         "enterprise_id": 1159293945,
         "instrument_id": 1159293523,
         "localadmin_id": 404495871,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159293523,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Kaman K-16",
     "wof:parent_id": 1125956861,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293945

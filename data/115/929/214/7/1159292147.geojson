@@ -37,15 +37,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292147,
         "enterprise_id": 1159293909,
         "instrument_id": 1159292147
       }
     ],
     "wof:id": 1159292147,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Beech 18S",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293909

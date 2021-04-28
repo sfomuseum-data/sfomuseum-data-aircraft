@@ -43,6 +43,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159290049,
         "enterprise_id": 1159294051,
         "instrument_id": 1159290049,
         "localadmin_id": 404432969,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159290049,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Boulton Paul Defiant MK.I",
     "wof:parent_id": 101750483,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294051

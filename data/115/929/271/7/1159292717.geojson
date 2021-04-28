@@ -47,15 +47,16 @@
       {
         "continent_id": 102191581,
         "country_id": 85633111,
+        "custom_id": 1159292717,
         "enterprise_id": 1159294241,
         "instrument_id": 1159292717
       }
     ],
     "wof:id": 1159292717,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Zeppelin-Staaken E-4/20",
     "wof:parent_id": 85633111,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294241

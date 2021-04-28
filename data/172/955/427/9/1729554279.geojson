@@ -27,14 +27,15 @@
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
+        "custom_id": 1729554279,
         "instrument_id": 1729554279
       }
     ],
     "wof:id": 1729554279,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Voisin-Farman 1",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": [],

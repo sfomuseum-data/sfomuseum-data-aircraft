@@ -48,16 +48,17 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159292617,
         "empire_id": 136253055,
         "enterprise_id": 1159294175,
         "instrument_id": 1159292617
       }
     ],
     "wof:id": 1159292617,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Bristol 170 Freighter",
     "wof:parent_id": 85633159,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294175

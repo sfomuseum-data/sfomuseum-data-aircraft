@@ -37,15 +37,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159291531,
         "enterprise_id": 1159293855,
         "instrument_id": 1159291531
       }
     ],
     "wof:id": 1159291531,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Ryan Monoplane",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293855

@@ -37,15 +37,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159293049,
         "enterprise_id": 1159293989,
         "instrument_id": 1159293049
       }
     ],
     "wof:id": 1159293049,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Ryan  B.5 Brougham",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293989

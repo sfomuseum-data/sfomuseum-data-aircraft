@@ -53,6 +53,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080791,
+        "custom_id": 1159291299,
         "enterprise_id": 1159293561,
         "instrument_id": 1159291299,
         "localadmin_id": 404518053,
@@ -61,10 +62,10 @@
       }
     ],
     "wof:id": 1159291299,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "McDonnell Douglas MD-90",
     "wof:parent_id": 85971343,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293561

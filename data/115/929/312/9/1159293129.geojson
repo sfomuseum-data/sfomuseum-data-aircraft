@@ -49,6 +49,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159293129,
         "enterprise_id": 1159293995,
         "instrument_id": 1159293129,
         "macroregion_id": 404227469,
@@ -56,10 +57,10 @@
       }
     ],
     "wof:id": 1159293129,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636929,
     "wof:name": "de Havilland D.H.86",
     "wof:parent_id": 85684331,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293995

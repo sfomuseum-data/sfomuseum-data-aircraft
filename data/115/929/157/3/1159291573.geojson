@@ -51,6 +51,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159291573,
         "enterprise_id": 1159293651,
         "instrument_id": 1159291573,
         "localadmin_id": 404438457,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159291573,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Saunders-Roe SR.45 Princess",
     "wof:parent_id": 101852313,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293651

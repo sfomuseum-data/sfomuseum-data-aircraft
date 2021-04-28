@@ -39,15 +39,16 @@
       {
         "continent_id": 102191569,
         "country_id": 85632429,
+        "custom_id": 1159292965,
         "enterprise_id": 1159294139,
         "instrument_id": 1159292965
       }
     ],
     "wof:id": 1159292965,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "NAMCO (Nihon Aircraft Manufacturing Corporation) Nihon YS-11",
     "wof:parent_id": 85632429,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294139

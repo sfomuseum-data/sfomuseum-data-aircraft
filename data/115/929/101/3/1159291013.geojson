@@ -52,6 +52,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081353,
+        "custom_id": 1159291013,
         "enterprise_id": 1159294287,
         "instrument_id": 1159291013,
         "localadmin_id": 404483701,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159291013,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Keystone K-47 Pathfinder",
     "wof:parent_id": 101718083,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294287

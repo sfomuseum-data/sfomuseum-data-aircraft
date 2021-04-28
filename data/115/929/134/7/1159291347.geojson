@@ -40,16 +40,17 @@
       {
         "continent_id": 102191581,
         "country_id": 85633147,
+        "custom_id": 1159291347,
         "empire_id": 136253037,
         "enterprise_id": 1159294283,
         "instrument_id": 1159291347
       }
     ],
     "wof:id": 1159291347,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Mureaux 117 R2",
     "wof:parent_id": 85633147,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294283

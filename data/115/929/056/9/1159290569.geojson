@@ -52,6 +52,7 @@
         "borough_id": 1158857297,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159290569,
         "enterprise_id": 1159293873,
         "instrument_id": 1159290569,
         "locality_id": 101750367,
@@ -61,10 +62,10 @@
       }
     ],
     "wof:id": 1159290569,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Fairey Firefly",
     "wof:parent_id": 85788025,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293873

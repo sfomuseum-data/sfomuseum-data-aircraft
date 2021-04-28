@@ -51,6 +51,7 @@
         "continent_id": 102191577,
         "country_id": 85633009,
         "county_id": 102062245,
+        "custom_id": 1377564287,
         "enterprise_id": 1159294367,
         "instrument_id": 1377564287,
         "localadmin_id": 404567239,
@@ -59,10 +60,10 @@
       }
     ],
     "wof:id": 1377564287,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Embraer ERJ-175 (long wing)",
     "wof:parent_id": 101965823,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294367,

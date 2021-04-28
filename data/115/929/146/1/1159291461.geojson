@@ -55,6 +55,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085837,
+        "custom_id": 1159291461,
         "enterprise_id": 1159294133,
         "instrument_id": 1159291461,
         "locality_id": 85932725,
@@ -66,6 +67,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085837,
+        "custom_id": 1159291461,
         "enterprise_id": 1159294133,
         "instrument_id": 1159291461,
         "locality_id": 85932725,
@@ -74,10 +76,10 @@
       }
     ],
     "wof:id": 1159291461,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Piper PA-42 Cheyenne",
     "wof:parent_id": 102527921,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294133

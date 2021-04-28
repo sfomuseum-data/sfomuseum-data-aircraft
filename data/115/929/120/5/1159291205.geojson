@@ -51,6 +51,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159291205,
         "enterprise_id": 1159294191,
         "instrument_id": 1159291205,
         "localadmin_id": 404435057,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159291205,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Martinsyde F.4 Buzzard",
     "wof:parent_id": 101751589,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294191

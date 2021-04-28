@@ -42,14 +42,15 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159290687,
         "instrument_id": 1159290687
       }
     ],
     "wof:id": 1159290687,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Ford 5-AT Tri-Motor",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

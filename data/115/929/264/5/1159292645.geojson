@@ -43,6 +43,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063851,
+        "custom_id": 1159292645,
         "enterprise_id": 1159294171,
         "instrument_id": 1159292645,
         "locality_id": 101748765,
@@ -50,10 +51,10 @@
       }
     ],
     "wof:id": 1159292645,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Junkers Ju 86B",
     "wof:parent_id": 101748765,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294171

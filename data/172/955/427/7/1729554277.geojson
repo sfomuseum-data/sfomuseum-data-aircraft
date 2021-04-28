@@ -31,15 +31,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1729554277,
         "enterprise_id": 1159293935,
         "instrument_id": 1729554277
       }
     ],
     "wof:id": 1729554277,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Santos-Dumont 14 bis",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293935

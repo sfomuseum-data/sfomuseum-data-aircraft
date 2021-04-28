@@ -39,15 +39,16 @@
       {
         "continent_id": 102191569,
         "country_id": 85632429,
+        "custom_id": 1159292057,
         "enterprise_id": 1159294135,
         "instrument_id": 1159292057
       }
     ],
     "wof:id": 1159292057,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Yokosuka K5Y Willow",
     "wof:parent_id": 85632429,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294135

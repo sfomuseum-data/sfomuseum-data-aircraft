@@ -40,6 +40,7 @@
         "borough_id": 1158857285,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1729554269,
         "enterprise_id": 1159293569,
         "instrument_id": 1729554269,
         "locality_id": 101750367,
@@ -49,10 +50,10 @@
       }
     ],
     "wof:id": 1729554269,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Airco DH.4",
     "wof:parent_id": 85790969,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293569

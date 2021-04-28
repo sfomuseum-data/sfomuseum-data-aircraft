@@ -52,6 +52,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063533,
+        "custom_id": 1159293207,
         "enterprise_id": 1159293731,
         "instrument_id": 1159293207,
         "locality_id": 101748561,
@@ -60,10 +61,10 @@
       }
     ],
     "wof:id": 1159293207,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Messerschmitt Bf 108 Taifun",
     "wof:parent_id": 101748561,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293731

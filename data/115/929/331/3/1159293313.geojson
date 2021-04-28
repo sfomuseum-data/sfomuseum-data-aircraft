@@ -44,6 +44,7 @@
         "borough_id": 1158857267,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159293313,
         "enterprise_id": 1159294127,
         "instrument_id": 1159293313,
         "locality_id": 101750367,
@@ -53,10 +54,10 @@
       }
     ],
     "wof:id": 1159293313,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Handley Page HP.81 Hermes",
     "wof:parent_id": 85786881,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294127

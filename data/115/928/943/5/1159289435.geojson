@@ -59,6 +59,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071607,
+        "custom_id": 1159289435,
         "empire_id": 136253037,
         "enterprise_id": 1159293829,
         "instrument_id": 1159289435,
@@ -70,10 +71,10 @@
       }
     ],
     "wof:id": 1159289435,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Airbus A380",
     "wof:parent_id": 101748953,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293829

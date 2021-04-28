@@ -51,6 +51,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063851,
+        "custom_id": 1159290995,
         "enterprise_id": 1159294171,
         "instrument_id": 1159290995,
         "locality_id": 101748765,
@@ -58,10 +59,10 @@
       }
     ],
     "wof:id": 1159290995,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Junkers Ju 88A-4",
     "wof:parent_id": 101748765,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294171

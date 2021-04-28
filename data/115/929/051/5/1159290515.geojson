@@ -55,6 +55,7 @@
         "continent_id": 102191577,
         "country_id": 85633009,
         "county_id": 102062245,
+        "custom_id": 1159290515,
         "enterprise_id": 1159294367,
         "instrument_id": 1159290515,
         "localadmin_id": 404567239,
@@ -63,10 +64,10 @@
       }
     ],
     "wof:id": 1159290515,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Embraer EMB-120 Brasilia",
     "wof:parent_id": 101965823,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294367

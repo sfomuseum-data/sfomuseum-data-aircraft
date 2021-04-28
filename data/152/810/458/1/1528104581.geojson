@@ -36,6 +36,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1528104581,
         "enterprise_id": 1159294331,
         "instrument_id": 1528104581,
         "localadmin_id": 404440045,
@@ -45,10 +46,10 @@
       }
     ],
     "wof:id": 1528104581,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "British Aerospace BAC-111",
     "wof:parent_id": 1159294331,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": [],

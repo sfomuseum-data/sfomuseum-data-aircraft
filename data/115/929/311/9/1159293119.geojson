@@ -48,16 +48,17 @@
       {
         "continent_id": 102191569,
         "country_id": 85632429,
+        "custom_id": 1159293119,
         "enterprise_id": 1159294053,
         "instrument_id": 1159293119,
         "region_id": 85672817
       }
     ],
     "wof:id": 1159293119,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Mitsubishi Ki-15",
     "wof:parent_id": 85672817,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294053

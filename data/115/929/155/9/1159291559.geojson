@@ -46,6 +46,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071913,
+        "custom_id": 1159291559,
         "enterprise_id": 1159293601,
         "instrument_id": 1159291559,
         "localadmin_id": 1159322495,
@@ -56,10 +57,10 @@
       }
     ],
     "wof:id": 1159291559,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Salmson 4",
     "wof:parent_id": 101749067,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293601

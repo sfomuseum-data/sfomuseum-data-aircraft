@@ -45,15 +45,16 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292595,
         "enterprise_id": 1159294323,
         "instrument_id": 1159292595
       }
     ],
     "wof:id": 1159292595,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Consolidated PB2Y Coronado",
     "wof:parent_id": 1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294323

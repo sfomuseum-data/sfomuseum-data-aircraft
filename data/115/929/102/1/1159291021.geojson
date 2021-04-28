@@ -43,6 +43,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
+        "custom_id": 1159291021,
         "enterprise_id": 1159294099,
         "instrument_id": 1159291021,
         "locality_id": 85923615,
@@ -50,10 +51,10 @@
       }
     ],
     "wof:id": 1159291021,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Kinner Playboy",
     "wof:parent_id": 85923615,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294099

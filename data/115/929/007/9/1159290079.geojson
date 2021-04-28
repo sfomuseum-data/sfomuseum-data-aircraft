@@ -43,6 +43,7 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159290079,
         "enterprise_id": 1159294331,
         "instrument_id": 1159290079,
         "localadmin_id": 404440045,
@@ -52,10 +53,10 @@
       }
     ],
     "wof:id": 1159290079,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "British Aerospace BAe-143",
     "wof:parent_id": 101750357,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294331

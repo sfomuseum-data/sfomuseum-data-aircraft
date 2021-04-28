@@ -48,16 +48,17 @@
       {
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159293505,
         "empire_id": 136253057,
         "enterprise_id": 1159294209,
         "instrument_id": 1159293505
       }
     ],
     "wof:id": 1159293505,
-    "wof:lastmodified": 1619636890,
+    "wof:lastmodified": 1619636929,
     "wof:name": "Stout 2-AT Pullman",
     "wof:parent_id": 85633793,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294209

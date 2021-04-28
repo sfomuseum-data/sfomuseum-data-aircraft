@@ -42,14 +42,15 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292833,
         "instrument_id": 1159292833
       }
     ],
     "wof:id": 1159292833,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Martin  JRM Mars",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

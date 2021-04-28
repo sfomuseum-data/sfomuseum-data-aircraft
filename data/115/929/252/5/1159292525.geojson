@@ -34,14 +34,15 @@
     "wof:hierarchy": [
       {
         "country_id": 1,
+        "custom_id": 1159292525,
         "instrument_id": 1159292525
       }
     ],
     "wof:id": 1159292525,
-    "wof:lastmodified": 1619636889,
+    "wof:lastmodified": 1619636928,
     "wof:name": "Douglas DC-9 Series 20",
     "wof:parent_id": -1,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159291223

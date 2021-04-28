@@ -45,6 +45,7 @@
         "continent_id": 102191581,
         "country_id": 85632997,
         "county_id": 102050005,
+        "custom_id": 1159291763,
         "enterprise_id": 1159294357,
         "instrument_id": 1159291763,
         "localadmin_id": 1108830423,
@@ -54,10 +55,10 @@
       }
     ],
     "wof:id": 1159291763,
-    "wof:lastmodified": 1619636891,
+    "wof:lastmodified": 1619636930,
     "wof:name": "Stampe et Vertongen SV.4a",
     "wof:parent_id": 101748099,
-    "wof:placetype": "instrument",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294357,
