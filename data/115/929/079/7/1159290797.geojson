@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Halifax III",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Handley Page",
     "sfomuseum:manufacturer_id": 1159294127,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290797,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Handley Page Halifax III",
     "wof:parent_id": 85786881,
     "wof:placetype": "custom",

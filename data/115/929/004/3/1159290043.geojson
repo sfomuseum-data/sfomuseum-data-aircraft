@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 13,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Bombardier",
     "sfomuseum:manufacturer_id": 1159293567,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -59,7 +60,7 @@
       }
     ],
     "wof:id": 1159290043,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Bombardier CRJ",
     "wof:parent_id": 101736545,
     "wof:placetype": "custom",

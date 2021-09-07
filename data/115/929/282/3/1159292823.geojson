@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Consolidated ",
     "sfomuseum:manufacturer_id": 1159293703,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -43,7 +44,7 @@
       }
     ],
     "wof:id": 1159292823,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Consolidated  Fleetster20",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

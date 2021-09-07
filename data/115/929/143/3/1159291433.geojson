@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_variant": "Gull",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Percival",
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
     "wd:instance_of": [
@@ -47,7 +48,7 @@
       }
     ],
     "wof:id": 1159291433,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Percival Gull",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

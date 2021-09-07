@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 5,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Boeing",
     "sfomuseum:manufacturer_id": 1159293593,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -59,7 +60,7 @@
       }
     ],
     "wof:id": 1159289611,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Boeing 247",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

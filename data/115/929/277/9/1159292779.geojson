@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Virgin Atlantic GlobalFlyer",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Scaled Composites",
     "sfomuseum:manufacturer_id": 1159294243,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -59,7 +60,7 @@
       }
     ],
     "wof:id": 1159292779,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Scaled Composites Model 311 Virgin Atlantic GlobalFlyer",
     "wof:parent_id": 85927903,
     "wof:placetype": "custom",

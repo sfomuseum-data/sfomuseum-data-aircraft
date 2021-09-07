@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_variant": "Series 50",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Douglas",
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -51,7 +52,7 @@
       }
     ],
     "wof:id": 1159291227,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Douglas DC-9 Series 50",
     "wof:parent_id": 1159290395,
     "wof:placetype": "custom",

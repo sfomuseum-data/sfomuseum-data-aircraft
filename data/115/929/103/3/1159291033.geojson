@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Air Coach",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Kreutzer",
     "sfomuseum:manufacturer_id": 1159294271,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -43,7 +44,7 @@
       }
     ],
     "wof:id": 1159291033,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Kreutzer K-5 Air Coach",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

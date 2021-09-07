@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Buzzard",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Martinsyde",
     "sfomuseum:manufacturer_id": 1159294191,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1159291205,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Martinsyde F.4 Buzzard",
     "wof:parent_id": 101751589,
     "wof:placetype": "custom",

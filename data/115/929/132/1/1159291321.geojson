@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Magister",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Miles",
     "sfomuseum:manufacturer_id": 1159293921,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -43,7 +44,7 @@
       }
     ],
     "wof:id": 1159291321,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Miles M.14A Magister",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

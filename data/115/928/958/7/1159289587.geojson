@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Skua MK.II",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Blackburn",
     "sfomuseum:manufacturer_id": 1159294057,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -47,7 +48,7 @@
       }
     ],
     "wof:id": 1159289587,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Blackburn Skua MK.II",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

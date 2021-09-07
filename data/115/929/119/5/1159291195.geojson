@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_variant": "Hawaii Clipper",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Martin",
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -39,7 +40,7 @@
       }
     ],
     "wof:id": 1159291195,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Martin M-130 Hawaii Clipper",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

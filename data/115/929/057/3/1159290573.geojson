@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Gannet AS.4",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Fairey",
     "sfomuseum:manufacturer_id": 1159293873,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290573,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Fairey Gannet AS.4",
     "wof:parent_id": 85788025,
     "wof:placetype": "custom",

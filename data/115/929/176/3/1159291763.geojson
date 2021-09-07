@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Stampe et Vertongen",
     "sfomuseum:manufacturer_id": 1159294357,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1159291763,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Stampe et Vertongen SV.4a",
     "wof:parent_id": 101748099,
     "wof:placetype": "custom",

@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Samaritan",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Convair",
     "sfomuseum:manufacturer_id": 1159293605,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -51,7 +52,7 @@
       }
     ],
     "wof:id": 1159293371,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Convair YC-131C Samaritan",
     "wof:parent_id": 85922227,
     "wof:placetype": "custom",

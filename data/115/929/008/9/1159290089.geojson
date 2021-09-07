@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "British Aerospace",
     "sfomuseum:manufacturer_id": 1159294331,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159290089,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043476,
     "wof:name": "British Aerospace BAe-146-100A",
     "wof:parent_id": 101750357,
     "wof:placetype": "custom",

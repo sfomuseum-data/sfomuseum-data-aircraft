@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Heath",
     "sfomuseum:manufacturer_id": 1159293965,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -51,7 +52,7 @@
       }
     ],
     "wof:id": 1159293019,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Heath Baby Bullet",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

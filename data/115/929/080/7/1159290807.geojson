@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Hannoversche",
     "sfomuseum:manufacturer_id": 1159293779,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159290807,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Hannoversche CL.IIIa",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

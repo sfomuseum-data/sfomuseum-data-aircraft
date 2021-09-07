@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Valkyrie",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "de Havilland",
     "sfomuseum:manufacturer_id": 1159293995,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1159292339,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043474,
     "wof:name": "de Havilland DH-89 Valkyrie",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",

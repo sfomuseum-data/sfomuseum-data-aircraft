@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Electra II",
     "sfomuseum:count_objects_public": 4,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Lockheed",
     "sfomuseum:manufacturer_id": 1159293697,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -51,7 +52,7 @@
       }
     ],
     "wof:id": 1159291115,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Lockheed L-188 Electra II",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

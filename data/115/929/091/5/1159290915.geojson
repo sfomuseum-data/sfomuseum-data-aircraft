@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Henschel",
     "sfomuseum:manufacturer_id": 1159293721,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159290915,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Henschel Hs 123A",
     "wof:parent_id": 101748659,
     "wof:placetype": "custom",

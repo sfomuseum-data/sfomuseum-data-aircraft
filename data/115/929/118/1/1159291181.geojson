@@ -18,6 +18,7 @@
     "sfomuseum:aircraft_variant": "Baltimore Mk IV",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Martin",
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -39,7 +40,7 @@
       }
     ],
     "wof:id": 1159291181,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Martin Baltimore Mk IV",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

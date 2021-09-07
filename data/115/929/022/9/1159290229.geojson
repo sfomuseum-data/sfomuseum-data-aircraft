@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Convair",
     "sfomuseum:manufacturer_id": 1159293605,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -59,7 +60,7 @@
       }
     ],
     "wof:id": 1159290229,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Convair XC-99",
     "wof:parent_id": 85922227,
     "wof:placetype": "custom",

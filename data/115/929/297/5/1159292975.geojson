@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Carvair",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Aviation Traders",
     "sfomuseum:manufacturer_id": 1159293929,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1159292975,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Aviation Traders ATL.98 Carvair",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

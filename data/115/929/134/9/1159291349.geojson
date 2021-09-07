@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Hayabusa Oscar",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Nakajima",
     "sfomuseum:manufacturer_id": 1159294007,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159291349,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Nakajima Ki-43 Hayabusa Oscar",
     "wof:parent_id": 85632429,
     "wof:placetype": "custom",

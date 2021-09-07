@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Valkyrie",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "North American Aviation",
     "sfomuseum:manufacturer_id": 1159293761,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -59,7 +60,7 @@
       }
     ],
     "wof:id": 1159291397,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043475,
     "wof:name": "North American Aviation XB-70 Valkyrie",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

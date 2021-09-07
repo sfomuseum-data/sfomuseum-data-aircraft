@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Nieuport",
     "sfomuseum:manufacturer_id": 1159294179,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1159293531,
-    "wof:lastmodified": 1619636968,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Nieuport 28",
     "wof:parent_id": 101751133,
     "wof:placetype": "custom",

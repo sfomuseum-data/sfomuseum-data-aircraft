@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Speedster 6000",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Rearwin",
     "sfomuseum:manufacturer_id": 1159294081,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -47,7 +48,7 @@
       }
     ],
     "wof:id": 1159291501,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Rearwin Speedster 6000",
     "wof:parent_id": 85688555,
     "wof:placetype": "custom",

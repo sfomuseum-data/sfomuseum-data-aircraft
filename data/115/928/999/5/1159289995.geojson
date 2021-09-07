@@ -24,6 +24,7 @@
     ],
     "sfomuseum:instance_of": 1159292849,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Boeing",
     "sfomuseum:manufacturer_id": 1159293593,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -66,7 +67,7 @@
       }
     ],
     "wof:id": 1159289995,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Boeing 787 Dreamliner",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

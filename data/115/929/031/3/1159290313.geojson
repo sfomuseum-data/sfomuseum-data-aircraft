@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Tiger Moth",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "de Havilland",
     "sfomuseum:manufacturer_id": 1159293995,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -57,7 +58,7 @@
       }
     ],
     "wof:id": 1159290313,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "de Havilland DH-82 Tiger Moth",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",

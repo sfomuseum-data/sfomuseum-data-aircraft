@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Mureaux",
     "sfomuseum:manufacturer_id": 1159294283,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -47,7 +48,7 @@
       }
     ],
     "wof:id": 1159291347,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Mureaux 117 R2",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",

@@ -19,6 +19,7 @@
     "sfomuseum:aircraft_variant": "Demoiselle",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Santos-Dumont",
     "sfomuseum:manufacturer_id": 1159293935,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -51,7 +52,7 @@
       }
     ],
     "wof:id": 1159291571,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043475,
     "wof:name": "Santos-Dumont 22 Demoiselle",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

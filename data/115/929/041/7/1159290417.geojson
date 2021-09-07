@@ -21,6 +21,7 @@
       "dc3"
     ],
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Douglas",
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
     "wd:instance_of": [
@@ -50,7 +51,7 @@
       }
     ],
     "wof:id": 1159290417,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "Douglas DC-3",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

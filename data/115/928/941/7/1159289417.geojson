@@ -20,6 +20,7 @@
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:instance_of": 1159289411,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Airbus",
     "sfomuseum:manufacturer_id": 1159293829,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -69,7 +70,7 @@
       }
     ],
     "wof:id": 1159289417,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Airbus A321-200",
     "wof:parent_id": 101748953,
     "wof:placetype": "custom",

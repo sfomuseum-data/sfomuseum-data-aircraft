@@ -12,6 +12,8 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1939,
+    "sfomuseum:aircraft_model": "Bü 133B",
+    "sfomuseum:aircraft_name": "Jungmeister ",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Bücker",
@@ -46,7 +48,7 @@
       }
     ],
     "wof:id": 1729554267,
-    "wof:lastmodified": 1619636965,
+    "wof:lastmodified": 1631043474,
     "wof:name": "Bücker Bü 133B Jungmeister ",
     "wof:parent_id": 101819585,
     "wof:placetype": "custom",

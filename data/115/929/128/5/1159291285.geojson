@@ -22,6 +22,7 @@
       "md80s"
     ],
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "McDonnell Douglas",
     "sfomuseum:manufacturer_id": 1159293561,
     "sfomuseum:placetype": "aircraft",
     "src:geom": "unknown",
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1159291285,
-    "wof:lastmodified": 1619636967,
+    "wof:lastmodified": 1631043476,
     "wof:name": "McDonnell Douglas MD-80",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",
