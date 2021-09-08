@@ -11,6 +11,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2004,
     "sfomuseum:aircraft_model": "L21",
     "sfomuseum:aircraft_name": "",
     "sfomuseum:manufacturer": "Daimler-Klemm",
