@@ -1,0 +1,62 @@
+{
+  "id": 1746312179,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1933-01-01",
+    "date:inception_upper": "1933-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1933",
+    "geom:area": 0,
+    "geom:bbox": "-2.637901,50.941720,-2.637901,50.941720",
+    "geom:latitude": 50.94172,
+    "geom:longitude": -2.637901,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "PV-6",
+    "sfomuseum:aircraft_name": "Wallace",
+    "sfomuseum:manufacturer": "Westland",
+    "sfomuseum:manufacturer_id": 1159293845,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293845,
+      102191581,
+      85633159,
+      404434131,
+      101852529,
+      404227469,
+      85684013
+    ],
+    "wof:country": "GB",
+    "wof:created": 1631124011,
+    "wof:geomhash": "e2ba438be7f52acc8120440bc5b8733f",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312179,
+        "company_id": 1159293845,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293845,
+        "localadmin_id": 404434131,
+        "locality_id": 101852529,
+        "macroregion_id": 404227469,
+        "region_id": 85684013
+      }
+    ],
+    "wof:id": 1746312179,
+    "wof:lastmodified": 1631124011,
+    "wof:name": "Westland PV-6 Wallace",
+    "wof:parent_id": 1159293845,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -2.637901,
+    50.94172,
+    -2.637901,
+    50.94172
+  ],
+  "geometry": {"coordinates":[-2.637901,50.94172],"type":"Point"}
+}

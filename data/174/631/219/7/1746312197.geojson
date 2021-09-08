@@ -1,0 +1,77 @@
+{
+  "id": 1746312197,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1938-01-01",
+    "date:inception_upper": "1938-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1938",
+    "geom:area": 0,
+    "geom:bbox": "-80.424730,27.644430,-80.424730,27.644430",
+    "geom:latitude": 27.64443,
+    "geom:longitude": -80.42473,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "J-3",
+    "sfomuseum:aircraft_name": "Cub",
+    "sfomuseum:manufacturer": "Piper",
+    "sfomuseum:manufacturer_id": 1159294133,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "woedb",
+    "wof:belongsto": [
+      102527921,
+      1159294133,
+      102191575,
+      85633793,
+      102085837,
+      85932725,
+      85889873,
+      85688651,
+      420514039
+    ],
+    "wof:country": "US",
+    "wof:created": 1631124018,
+    "wof:geomhash": "435bb9441b920680a87c090f2423f23e",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312197,
+        "campus_id": 102527921,
+        "company_id": 1159294133,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085837,
+        "enterprise_id": 1159294133,
+        "locality_id": 85932725,
+        "neighbourhood_id": 85889873,
+        "region_id": 85688651
+      },
+      {
+        "aircraft_id": 1746312197,
+        "campus_id": 102527921,
+        "company_id": 1159294133,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085837,
+        "enterprise_id": 1159294133,
+        "locality_id": 85932725,
+        "neighbourhood_id": 420514039,
+        "region_id": 85688651
+      }
+    ],
+    "wof:id": 1746312197,
+    "wof:lastmodified": 1631124018,
+    "wof:name": "Piper J-3 Cub",
+    "wof:parent_id": 1159294133,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -80.42473,
+    27.64443,
+    -80.42473,
+    27.64443
+  ],
+  "geometry": {"coordinates":[-80.42473,27.64443],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1746312199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-117.155290,32.727930,-117.155290,32.727930",
+    "geom:latitude": 32.72793,
+    "geom:longitude": -117.15529,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "CV-440",
+    "sfomuseum:aircraft_name": "",
+    "sfomuseum:manufacturer": "Convair",
+    "sfomuseum:manufacturer_id": 1159293605,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "mz",
+    "wof:belongsto": [
+      1159293605,
+      102191575,
+      85633793,
+      102083569,
+      85922227,
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1631124019,
+    "wof:geomhash": "dc4103d2ee97613d0cf6695911c799ca",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312199,
+        "company_id": 1159293605,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "enterprise_id": 1159293605,
+        "locality_id": 85922227,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1746312199,
+    "wof:lastmodified": 1631124019,
+    "wof:name": "Convair CV-440",
+    "wof:parent_id": 1159293605,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -117.15529,
+    32.72793,
+    -117.15529,
+    32.72793
+  ],
+  "geometry": {"coordinates":[-117.15529,32.72793],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1746312223,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1940-01-01",
+    "date:inception_upper": "1940-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1940",
+    "geom:area": 0,
+    "geom:bbox": "-73.485889,40.751775,-73.485889,40.751775",
+    "geom:latitude": 40.751775,
+    "geom:longitude": -73.485889,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "Martlet",
+    "sfomuseum:aircraft_name": "",
+    "sfomuseum:manufacturer": "Grumman",
+    "sfomuseum:manufacturer_id": 1159293563,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293563,
+      102191575,
+      85633793,
+      102082371,
+      404521475,
+      85979165,
+      85688543
+    ],
+    "wof:country": "US",
+    "wof:created": 1631124027,
+    "wof:geomhash": "d0f02ff7247f6651d20282150c808959",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312223,
+        "company_id": 1159293563,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082371,
+        "enterprise_id": 1159293563,
+        "localadmin_id": 404521475,
+        "locality_id": 85979165,
+        "region_id": 85688543
+      }
+    ],
+    "wof:id": 1746312223,
+    "wof:lastmodified": 1631124027,
+    "wof:name": "Grumman Martlet",
+    "wof:parent_id": 1159293563,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -73.485889,
+    40.751775,
+    -73.485889,
+    40.751775
+  ],
+  "geometry": {"coordinates":[-73.485889,40.751775],"type":"Point"}
+}

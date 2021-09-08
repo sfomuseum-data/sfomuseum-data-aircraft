@@ -1,0 +1,50 @@
+{
+  "id": 1746312213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "M.9",
+    "sfomuseum:aircraft_name": "Kestrel",
+    "sfomuseum:manufacturer": "Miles",
+    "sfomuseum:manufacturer_id": 1159293921,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "nullisland",
+    "wof:belongsto": [
+      1159293921,
+      1
+    ],
+    "wof:country": "XN",
+    "wof:created": 1631124024,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312213,
+        "company_id": 1159293921,
+        "country_id": 1,
+        "enterprise_id": 1159293921
+      }
+    ],
+    "wof:id": 1746312213,
+    "wof:lastmodified": 1631124024,
+    "wof:name": "Miles M.9 Kestrel",
+    "wof:parent_id": 1159293921,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

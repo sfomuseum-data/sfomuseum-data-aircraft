@@ -1,0 +1,47 @@
+{
+  "id": 1746312171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "DH-60",
+    "sfomuseum:aircraft_name": "Gypsy Moth",
+    "sfomuseum:manufacturer": "de havilland",
+    "sfomuseum:manufacturer_id": 1746312079,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1746312079
+    ],
+    "wof:country": "XY",
+    "wof:created": 1631124008,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312171,
+        "company_id": 1746312079
+      }
+    ],
+    "wof:id": 1746312171,
+    "wof:lastmodified": 1631124008,
+    "wof:name": "de havilland DH-60 Gypsy Moth",
+    "wof:parent_id": 1746312079,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

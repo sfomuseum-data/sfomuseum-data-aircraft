@@ -1,0 +1,60 @@
+{
+  "id": 1746312173,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1915-01-01",
+    "date:inception_upper": "1915-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1915",
+    "geom:area": 0,
+    "geom:bbox": "-67.595830,10.246940,-67.595830,10.246940",
+    "geom:latitude": 10.24694,
+    "geom:longitude": -67.59583,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "C.I",
+    "sfomuseum:aircraft_name": "",
+    "sfomuseum:manufacturer": "Albatros",
+    "sfomuseum:manufacturer_id": 1159293773,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293773,
+      102191577,
+      85632317,
+      421171995,
+      421181395,
+      85680525
+    ],
+    "wof:country": "VE",
+    "wof:created": 1631124009,
+    "wof:geomhash": "52bfa7979048e1cbea529bcb8f637fce",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312173,
+        "company_id": 1159293773,
+        "continent_id": 102191577,
+        "country_id": 85632317,
+        "county_id": 421171995,
+        "enterprise_id": 1159293773,
+        "locality_id": 421181395,
+        "region_id": 85680525
+      }
+    ],
+    "wof:id": 1746312173,
+    "wof:lastmodified": 1631124009,
+    "wof:name": "Albatros C.I",
+    "wof:parent_id": 1159293773,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -67.59583,
+    10.24694,
+    -67.59583,
+    10.24694
+  ],
+  "geometry": {"coordinates":[-67.59583,10.24694],"type":"Point"}
+}

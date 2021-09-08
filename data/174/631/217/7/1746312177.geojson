@@ -1,0 +1,56 @@
+{
+  "id": 1746312177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-0.145641,51.846273,-0.145641,51.846273",
+    "geom:latitude": 51.846273,
+    "geom:longitude": -0.145641,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_model": "DH.94",
+    "sfomuseum:aircraft_name": "Moth Minor",
+    "sfomuseum:manufacturer": "de Havilland",
+    "sfomuseum:manufacturer_id": 1159293995,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293995,
+      102191581,
+      85633159,
+      404227469,
+      85684331
+    ],
+    "wof:country": "GB",
+    "wof:created": 1631124010,
+    "wof:geomhash": "95e993cee0e6fe2d42920af14041b551",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1746312177,
+        "company_id": 1159293995,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293995,
+        "macroregion_id": 404227469,
+        "region_id": 85684331
+      }
+    ],
+    "wof:id": 1746312177,
+    "wof:lastmodified": 1631124010,
+    "wof:name": "de Havilland DH.94 Moth Minor",
+    "wof:parent_id": 1159293995,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -0.145641,
+    51.846273,
+    -0.145641,
+    51.846273
+  ],
+  "geometry": {"coordinates":[-0.145641,51.846273],"type":"Point"}
+}
