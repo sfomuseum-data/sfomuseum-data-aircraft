@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1207,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Wyvern",
     "sfomuseum:aircraft_name": "Westland Wyvern",
     "sfomuseum:aircraft_variant": "Wyvern",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159292021,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Westland Wyvern",
     "wof:parent_id": 101852529,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1661,
     "sfomuseum:aircraft_model": "VC2",
+    "sfomuseum:aircraft_modelname": "Viscount 806",
     "sfomuseum:aircraft_name": "Vickers VC2 Viscount 806",
     "sfomuseum:aircraft_variant": "Viscount 806",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292969,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Vickers VC2 Viscount 806",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",

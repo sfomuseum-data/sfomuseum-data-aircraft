@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 118,
     "sfomuseum:aircraft_model": "314",
+    "sfomuseum:aircraft_modelname": "Clipper",
     "sfomuseum:aircraft_name": "Boeing 314 Clipper",
     "sfomuseum:aircraft_variant": "Clipper",
     "sfomuseum:count_objects_public": 89,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289619,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing 314 Clipper",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

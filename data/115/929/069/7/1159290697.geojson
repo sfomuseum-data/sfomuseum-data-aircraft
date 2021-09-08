@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 613,
     "sfomuseum:aircraft_model": "CM.175",
+    "sfomuseum:aircraft_modelname": "Zéphyr",
     "sfomuseum:aircraft_name": "Fouga et Cie CM.175 Zéphyr",
     "sfomuseum:aircraft_variant": "Zéphyr",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290697,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fouga et Cie CM.175 Zéphyr",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

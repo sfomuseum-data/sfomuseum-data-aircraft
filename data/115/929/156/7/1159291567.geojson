@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1004,
     "sfomuseum:aircraft_model": "20",
+    "sfomuseum:aircraft_modelname": "Demoiselle",
     "sfomuseum:aircraft_name": "Santos-Dumont 20 Demoiselle",
     "sfomuseum:aircraft_variant": "Demoiselle",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291567,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Santos-Dumont 20 Demoiselle",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

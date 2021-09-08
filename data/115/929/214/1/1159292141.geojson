@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1263,
     "sfomuseum:aircraft_model": "YT-34",
+    "sfomuseum:aircraft_modelname": "Mentor",
     "sfomuseum:aircraft_name": "Beech YT-34 Mentor",
     "sfomuseum:aircraft_variant": "Mentor",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292141,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Beech YT-34 Mentor",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

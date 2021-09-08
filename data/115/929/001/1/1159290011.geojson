@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 292,
     "sfomuseum:aircraft_model": "C-97A",
+    "sfomuseum:aircraft_modelname": "Stratofreighter",
     "sfomuseum:aircraft_name": "Boeing C-97A Stratofreighter",
     "sfomuseum:aircraft_variant": "Stratofreighter",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290011,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing C-97A Stratofreighter",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

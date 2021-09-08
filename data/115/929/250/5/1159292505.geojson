@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1434,
     "sfomuseum:aircraft_model": "FJ-1",
+    "sfomuseum:aircraft_modelname": "Fury",
     "sfomuseum:aircraft_name": "North American Aviation FJ-1 Fury",
     "sfomuseum:aircraft_variant": "Fury",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292505,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "North American Aviation FJ-1 Fury",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

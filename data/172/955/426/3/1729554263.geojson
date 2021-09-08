@@ -13,7 +13,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1935,
     "sfomuseum:aircraft_model": "ZRS-4",
-    "sfomuseum:aircraft_name": "USS Akron",
+    "sfomuseum:aircraft_modelname": "USS Akron",
+    "sfomuseum:aircraft_name": "Goodyear-Zeppelin Corp. ZRS-4 USS Akron",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Goodyear-Zeppelin Corp.",
@@ -35,7 +36,7 @@
       }
     ],
     "wof:id": 1729554263,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Goodyear-Zeppelin Corp. ZRS-4 USS Akron",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

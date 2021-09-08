@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 372,
     "sfomuseum:aircraft_model": "B-24",
+    "sfomuseum:aircraft_modelname": "Liberator",
     "sfomuseum:aircraft_name": "Consolidated B-24 Liberator",
     "sfomuseum:aircraft_variant": "Liberator",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290185,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Consolidated B-24 Liberator",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

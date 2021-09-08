@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 668,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Eindecker",
     "sfomuseum:aircraft_name": "Hans Grade Eindecker",
     "sfomuseum:aircraft_variant": "Eindecker",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290821,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hans Grade Eindecker",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 577,
     "sfomuseum:aircraft_model": "Fw 200",
+    "sfomuseum:aircraft_modelname": "Condor",
     "sfomuseum:aircraft_name": "Focke-Wulf Fw 200 Condor",
     "sfomuseum:aircraft_variant": "Condor",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290615,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Focke-Wulf Fw 200 Condor",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

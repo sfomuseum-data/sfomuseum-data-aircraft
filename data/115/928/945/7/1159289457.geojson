@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 46,
     "sfomuseum:aircraft_model": "201",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "American Eagle 201",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289457,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "American Eagle 201",
     "wof:parent_id": 101724443,
     "wof:placetype": "custom",

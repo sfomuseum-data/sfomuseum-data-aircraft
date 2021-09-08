@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1925,
     "sfomuseum:aircraft_model": "F9F",
+    "sfomuseum:aircraft_modelname": "Panther",
     "sfomuseum:aircraft_name": "Grumman F9F Panther",
     "sfomuseum:aircraft_variant": "Panther",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293521,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Grumman F9F Panther",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

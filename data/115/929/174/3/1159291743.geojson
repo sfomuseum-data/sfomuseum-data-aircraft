@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1082,
     "sfomuseum:aircraft_model": "XIII",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "SPAD XIII",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291743,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "SPAD XIII",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",

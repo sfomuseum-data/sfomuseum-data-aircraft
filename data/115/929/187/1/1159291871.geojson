@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1139,
     "sfomuseum:aircraft_model": "F-19",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Taylorcraft F-19",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291871,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Taylorcraft F-19",
     "wof:parent_id": 101724157,
     "wof:placetype": "custom",

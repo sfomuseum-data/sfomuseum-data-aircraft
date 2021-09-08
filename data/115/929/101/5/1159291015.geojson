@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 756,
     "sfomuseum:aircraft_model": "K-78",
+    "sfomuseum:aircraft_modelname": "Patrician",
     "sfomuseum:aircraft_name": "Keystone K-78 Patrician",
     "sfomuseum:aircraft_variant": "Patrician",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291015,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Keystone K-78 Patrician",
     "wof:parent_id": 101718083,
     "wof:placetype": "custom",

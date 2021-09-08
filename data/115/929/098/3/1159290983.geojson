@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 740,
     "sfomuseum:aircraft_model": "1912",
+    "sfomuseum:aircraft_modelname": "Stahltaube",
     "sfomuseum:aircraft_name": "Jeannin 1912 Stahltaube",
     "sfomuseum:aircraft_variant": "Stahltaube",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290983,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Jeannin 1912 Stahltaube",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

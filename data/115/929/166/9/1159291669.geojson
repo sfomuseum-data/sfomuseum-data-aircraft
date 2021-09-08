@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1049,
     "sfomuseum:aircraft_model": "S-42",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Sikorsky (USA) S-42",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 39,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291669,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sikorsky (USA) S-42",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

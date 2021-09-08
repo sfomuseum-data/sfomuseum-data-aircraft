@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1811,
     "sfomuseum:aircraft_model": "G-22",
+    "sfomuseum:aircraft_modelname": "Gulfhawk II",
     "sfomuseum:aircraft_name": "Grumman G-22 Gulfhawk II",
     "sfomuseum:aircraft_variant": "Gulfhawk II",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293271,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Grumman G-22 Gulfhawk II",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

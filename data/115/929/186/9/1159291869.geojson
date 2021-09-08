@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1138,
     "sfomuseum:aircraft_model": "BC-12D",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Taylorcraft BC-12D",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291869,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Taylorcraft BC-12D",
     "wof:parent_id": 101724157,
     "wof:placetype": "custom",

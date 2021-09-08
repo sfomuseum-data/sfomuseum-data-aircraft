@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 826,
     "sfomuseum:aircraft_model": "PA-1",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Loening PA-1",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291173,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Loening PA-1",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

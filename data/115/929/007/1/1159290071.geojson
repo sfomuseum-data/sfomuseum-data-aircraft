@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 319,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Blenheim Mk IV",
     "sfomuseum:aircraft_name": "Bristol Blenheim Mk IV",
     "sfomuseum:aircraft_variant": "Blenheim Mk IV",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290071,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bristol Blenheim Mk IV",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

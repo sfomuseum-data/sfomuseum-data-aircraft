@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1788,
     "sfomuseum:aircraft_model": "Ro V",
+    "sfomuseum:aircraft_modelname": "Rocco",
     "sfomuseum:aircraft_name": "Rohrbach Ro V Rocco",
     "sfomuseum:aircraft_variant": "Rocco",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159293221,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Rohrbach Ro V Rocco",
     "wof:parent_id": 101748799,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1092,
     "sfomuseum:aircraft_model": "SV.4b",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Stampe et Vertongen SV.4b",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291765,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Stampe et Vertongen SV.4b",
     "wof:parent_id": 101748099,
     "wof:placetype": "custom",

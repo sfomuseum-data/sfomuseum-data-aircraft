@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 645,
     "sfomuseum:aircraft_model": "E-2A (W2F-1)",
+    "sfomuseum:aircraft_modelname": "Hawkeye",
     "sfomuseum:aircraft_name": "Grumman E-2A (W2F-1) Hawkeye",
     "sfomuseum:aircraft_variant": "Hawkeye",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290769,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Grumman E-2A (W2F-1) Hawkeye",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

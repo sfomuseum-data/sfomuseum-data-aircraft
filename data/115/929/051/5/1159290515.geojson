@@ -17,6 +17,7 @@
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 532,
     "sfomuseum:aircraft_model": "EMB-120",
+    "sfomuseum:aircraft_modelname": "Brasilia",
     "sfomuseum:aircraft_name": "Embraer EMB-120 Brasilia",
     "sfomuseum:aircraft_variant": "Brasilia",
     "sfomuseum:count_objects_public": 5,
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1159290515,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Embraer EMB-120 Brasilia",
     "wof:parent_id": 101965823,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1874,
     "sfomuseum:aircraft_model": "C-34/145/165",
+    "sfomuseum:aircraft_modelname": "Airmaster",
     "sfomuseum:aircraft_name": "Cessna C-34/145/165 Airmaster",
     "sfomuseum:aircraft_variant": "Airmaster",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159293409,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Cessna C-34/145/165 Airmaster",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

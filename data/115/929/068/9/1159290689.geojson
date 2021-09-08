@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 610,
     "sfomuseum:aircraft_model": "5-AT-D",
+    "sfomuseum:aircraft_modelname": "Tri-Motor",
     "sfomuseum:aircraft_name": "Ford 5-AT-D Tri-Motor",
     "sfomuseum:aircraft_variant": "Tri-Motor",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159290689,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Ford 5-AT-D Tri-Motor",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

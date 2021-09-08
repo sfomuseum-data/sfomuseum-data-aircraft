@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 97,
     "sfomuseum:aircraft_model": "206",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Bell 206",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289571,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bell 206",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

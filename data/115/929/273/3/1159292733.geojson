@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1540,
     "sfomuseum:aircraft_model": "Bü 131A",
+    "sfomuseum:aircraft_modelname": "Jungmann",
     "sfomuseum:aircraft_name": "Bücker Bü 131A Jungmann",
     "sfomuseum:aircraft_variant": "Jungmann",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292733,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bücker Bü 131A Jungmann",
     "wof:parent_id": 101819585,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1311,
     "sfomuseum:aircraft_model": "P2V",
+    "sfomuseum:aircraft_modelname": "Neptune",
     "sfomuseum:aircraft_name": "Lockheed P2V Neptune",
     "sfomuseum:aircraft_variant": "Neptune",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159292243,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed P2V Neptune",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

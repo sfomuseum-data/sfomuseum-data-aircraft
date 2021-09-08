@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 436,
     "sfomuseum:aircraft_model": "DH-60",
+    "sfomuseum:aircraft_modelname": "Moth",
     "sfomuseum:aircraft_name": "de Havilland DH-60 Moth",
     "sfomuseum:aircraft_variant": "Moth",
     "sfomuseum:count_objects_public": 1,
@@ -50,7 +51,7 @@
       }
     ],
     "wof:id": 1159290309,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "de Havilland DH-60 Moth",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",

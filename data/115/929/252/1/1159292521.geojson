@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1442,
     "sfomuseum:aircraft_model": "F7F",
+    "sfomuseum:aircraft_modelname": "Tigercat",
     "sfomuseum:aircraft_name": "Grumman F7F Tigercat",
     "sfomuseum:aircraft_variant": "Tigercat",
     "sfomuseum:count_objects_public": 1,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292521,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Grumman F7F Tigercat",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

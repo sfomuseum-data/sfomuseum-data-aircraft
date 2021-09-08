@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 448,
     "sfomuseum:aircraft_model": "DH-114",
+    "sfomuseum:aircraft_modelname": "Heron",
     "sfomuseum:aircraft_name": "de Havilland DH-114 Heron",
     "sfomuseum:aircraft_variant": "Heron",
     "sfomuseum:count_objects_public": 0,
@@ -50,7 +51,7 @@
       }
     ],
     "wof:id": 1159290337,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "de Havilland DH-114 Heron",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",

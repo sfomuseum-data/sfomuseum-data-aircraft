@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 418,
     "sfomuseum:aircraft_model": "JN-4D",
+    "sfomuseum:aircraft_modelname": "Jenny",
     "sfomuseum:aircraft_name": "Curtiss JN-4D Jenny",
     "sfomuseum:aircraft_variant": "Jenny",
     "sfomuseum:count_objects_public": 4,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290273,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Curtiss JN-4D Jenny",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 952,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Arrow",
     "sfomuseum:aircraft_name": "Piper Arrow",
     "sfomuseum:aircraft_variant": "Arrow",
     "sfomuseum:count_objects_public": 0,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1159291453,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Piper Arrow",
     "wof:parent_id": 102527921,
     "wof:placetype": "custom",

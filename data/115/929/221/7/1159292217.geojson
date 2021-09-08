@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1298,
     "sfomuseum:aircraft_model": "Gamma 2A",
+    "sfomuseum:aircraft_modelname": "Sky Chief",
     "sfomuseum:aircraft_name": "Northrop Gamma 2A Sky Chief",
     "sfomuseum:aircraft_variant": "Sky Chief",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292217,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Northrop Gamma 2A Sky Chief",
     "wof:parent_id": 85923599,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 174,
     "sfomuseum:aircraft_model": "720",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Boeing 720",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 3,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159289745,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing 720",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

@@ -13,7 +13,8 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 944,
-    "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_model": "Jet Provost",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Percival Jet Provost",
     "sfomuseum:aircraft_variant": "Jet Provost",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159291435,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Percival Jet Provost",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

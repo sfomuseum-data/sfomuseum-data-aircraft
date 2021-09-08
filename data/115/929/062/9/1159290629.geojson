@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 583,
     "sfomuseum:aircraft_model": "Dr.I",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fokker Dr.I",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159290629,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fokker Dr.I",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

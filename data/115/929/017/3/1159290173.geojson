@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 366,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Concorde",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 52,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159290173,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Concorde",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

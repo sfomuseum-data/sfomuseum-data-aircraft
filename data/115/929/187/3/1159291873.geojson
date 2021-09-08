@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1140,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Piccolo B",
     "sfomuseum:aircraft_name": "Technoflug Piccolo B",
     "sfomuseum:aircraft_variant": "Piccolo B",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291873,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Technoflug Piccolo B",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

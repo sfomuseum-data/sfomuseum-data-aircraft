@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 371,
     "sfomuseum:aircraft_model": "(Model 39)",
+    "sfomuseum:aircraft_modelname": "Liberator-Liner",
     "sfomuseum:aircraft_name": "Consolidated (Model 39) Liberator-Liner",
     "sfomuseum:aircraft_variant": "Liberator-Liner",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290183,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Consolidated (Model 39) Liberator-Liner",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

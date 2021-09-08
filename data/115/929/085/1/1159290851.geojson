@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 682,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Sea Fury FB.11",
     "sfomuseum:aircraft_name": "Hawker Sea Fury FB.11",
     "sfomuseum:aircraft_variant": "Sea Fury FB.11",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159290851,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hawker Sea Fury FB.11",
     "wof:parent_id": 85684387,
     "wof:placetype": "custom",

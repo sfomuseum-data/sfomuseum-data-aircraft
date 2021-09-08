@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 301,
     "sfomuseum:aircraft_model": "VC-137B",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Boeing VC-137B",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159290031,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing VC-137B",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

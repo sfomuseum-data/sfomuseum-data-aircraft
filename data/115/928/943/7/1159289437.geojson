@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 37,
     "sfomuseum:aircraft_model": "A380-800",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Airbus A380-800",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -71,7 +72,7 @@
       }
     ],
     "wof:id": 1159289437,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Airbus A380-800",
     "wof:parent_id": 101748953,
     "wof:placetype": "custom",

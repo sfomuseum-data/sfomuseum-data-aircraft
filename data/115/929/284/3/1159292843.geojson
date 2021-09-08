@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1603,
     "sfomuseum:aircraft_model": "P-3",
+    "sfomuseum:aircraft_modelname": "Oriaon",
     "sfomuseum:aircraft_name": "Lockheed P-3 Oriaon",
     "sfomuseum:aircraft_variant": "Oriaon",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292843,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Lockheed P-3 Oriaon",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

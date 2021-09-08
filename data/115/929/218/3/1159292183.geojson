@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1282,
     "sfomuseum:aircraft_model": "P-63",
+    "sfomuseum:aircraft_modelname": "Kingcobra",
     "sfomuseum:aircraft_name": "Bell P-63 Kingcobra",
     "sfomuseum:aircraft_variant": "Kingcobra",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292183,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bell P-63 Kingcobra",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

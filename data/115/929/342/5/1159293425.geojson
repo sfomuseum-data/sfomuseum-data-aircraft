@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1881,
     "sfomuseum:aircraft_model": "180/185",
+    "sfomuseum:aircraft_modelname": "Skywagon",
     "sfomuseum:aircraft_name": "Cessna 180/185 Skywagon",
     "sfomuseum:aircraft_variant": "Skywagon",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159293425,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cessna 180/185 Skywagon",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

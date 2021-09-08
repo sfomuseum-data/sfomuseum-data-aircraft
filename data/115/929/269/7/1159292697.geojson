@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1523,
     "sfomuseum:aircraft_model": "Fw-44",
+    "sfomuseum:aircraft_modelname": "Stieglitz (Goldfinch)",
     "sfomuseum:aircraft_name": "Focke-Wulf Fw-44 Stieglitz (Goldfinch)",
     "sfomuseum:aircraft_variant": "Stieglitz (Goldfinch)",
     "sfomuseum:count_objects_public": 0,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159292697,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Focke-Wulf Fw-44 Stieglitz (Goldfinch)",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 664,
     "sfomuseum:aircraft_model": "HD.1",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Hanriot HD.1",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -68,7 +69,7 @@
       }
     ],
     "wof:id": 1159290811,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Hanriot HD.1",
     "wof:parent_id": 101750089,
     "wof:placetype": "custom",

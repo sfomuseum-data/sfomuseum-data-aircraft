@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 122,
     "sfomuseum:aircraft_model": "314",
+    "sfomuseum:aircraft_modelname": "Dixie Clipper",
     "sfomuseum:aircraft_name": "Boeing 314 Dixie Clipper",
     "sfomuseum:aircraft_variant": "Dixie Clipper",
     "sfomuseum:count_objects_public": 2,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289627,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing 314 Dixie Clipper",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

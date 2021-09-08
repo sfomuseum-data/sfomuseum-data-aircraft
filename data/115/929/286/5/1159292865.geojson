@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1614,
     "sfomuseum:aircraft_model": "S.8",
+    "sfomuseum:aircraft_modelname": "Calcutta",
     "sfomuseum:aircraft_name": "Short  S.8 Calcutta",
     "sfomuseum:aircraft_variant": "Calcutta",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292865,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Short  S.8 Calcutta",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

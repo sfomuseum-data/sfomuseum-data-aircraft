@@ -13,7 +13,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1934,
     "sfomuseum:aircraft_model": "LZ-129",
-    "sfomuseum:aircraft_name": "Hindenburg",
+    "sfomuseum:aircraft_modelname": "Hindenburg",
+    "sfomuseum:aircraft_name": "Luftschiffbau Zeppelin LZ-129 Hindenburg",
     "sfomuseum:count_objects_public": 2,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Luftschiffbau Zeppelin",
@@ -35,7 +36,7 @@
       }
     ],
     "wof:id": 1729554261,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Luftschiffbau Zeppelin LZ-129 Hindenburg",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

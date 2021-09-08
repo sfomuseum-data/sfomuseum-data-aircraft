@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1892,
     "sfomuseum:aircraft_model": "177",
+    "sfomuseum:aircraft_modelname": "Cardinal",
     "sfomuseum:aircraft_name": "Cessna 177 Cardinal",
     "sfomuseum:aircraft_variant": "Cardinal",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293449,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cessna 177 Cardinal",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

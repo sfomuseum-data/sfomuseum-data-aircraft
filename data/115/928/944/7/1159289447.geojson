@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 42,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Oxford",
     "sfomuseum:aircraft_name": "Airspeed Oxford",
     "sfomuseum:aircraft_variant": "Oxford",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159289447,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Airspeed Oxford",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",

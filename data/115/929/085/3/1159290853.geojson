@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 683,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Sea Hawk",
     "sfomuseum:aircraft_name": "Hawker Sea Hawk",
     "sfomuseum:aircraft_variant": "Sea Hawk",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159290853,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Hawker Sea Hawk",
     "wof:parent_id": 85684387,
     "wof:placetype": "custom",

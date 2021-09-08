@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 309,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Defiant MK.I",
     "sfomuseum:aircraft_name": "Boulton Paul Defiant MK.I",
     "sfomuseum:aircraft_variant": "Defiant MK.I",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290049,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boulton Paul Defiant MK.I",
     "wof:parent_id": 101750483,
     "wof:placetype": "custom",

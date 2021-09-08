@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 287,
     "sfomuseum:aircraft_model": "B-17",
+    "sfomuseum:aircraft_modelname": "Flying Fortress",
     "sfomuseum:aircraft_name": "Boeing B-17 Flying Fortress",
     "sfomuseum:aircraft_variant": "Flying Fortress",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159289999,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing B-17 Flying Fortress",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1898,
     "sfomuseum:aircraft_model": "D-1",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Davis D-1",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159293461,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Davis D-1",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

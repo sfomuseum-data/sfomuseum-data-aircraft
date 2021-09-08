@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1896,
     "sfomuseum:aircraft_model": "Fleet",
+    "sfomuseum:aircraft_modelname": "Trainer",
     "sfomuseum:aircraft_name": "Consolidated Fleet Trainer",
     "sfomuseum:aircraft_variant": "Trainer",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159293457,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Consolidated Fleet Trainer",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

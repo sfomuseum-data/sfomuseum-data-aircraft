@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 298,
     "sfomuseum:aircraft_model": "SA-307B-1",
+    "sfomuseum:aircraft_modelname": "Stratoliner",
     "sfomuseum:aircraft_name": "Boeing SA-307B-1 Stratoliner",
     "sfomuseum:aircraft_variant": "Stratoliner",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290023,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing SA-307B-1 Stratoliner",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

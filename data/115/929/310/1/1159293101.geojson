@@ -14,7 +14,8 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1728,
-    "sfomuseum:aircraft_model": "Model 9 Orion",
+    "sfomuseum:aircraft_model": "Model 9",
+    "sfomuseum:aircraft_modelname": "Orion",
     "sfomuseum:aircraft_name": "Lockheed Model 9 Orion",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159293101,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed Model 9 Orion",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

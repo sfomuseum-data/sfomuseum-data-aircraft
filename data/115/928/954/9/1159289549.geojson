@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 87,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Bonanza",
     "sfomuseum:aircraft_name": "Beech Bonanza",
     "sfomuseum:aircraft_variant": "Bonanza",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289549,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Beech Bonanza",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

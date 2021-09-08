@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 640,
     "sfomuseum:aircraft_model": "R-1",
+    "sfomuseum:aircraft_modelname": "Super Sportster",
     "sfomuseum:aircraft_name": "Granville Brothers R-1 Super Sportster",
     "sfomuseum:aircraft_variant": "Super Sportster",
     "sfomuseum:count_objects_public": 1,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290757,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Granville Brothers R-1 Super Sportster",
     "wof:parent_id": 85950393,
     "wof:placetype": "custom",

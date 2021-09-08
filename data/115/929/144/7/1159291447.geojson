@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 950,
     "sfomuseum:aircraft_model": "PC-7",
+    "sfomuseum:aircraft_modelname": "Turbo-Trainer",
     "sfomuseum:aircraft_name": "Pilatus PC-7 Turbo-Trainer",
     "sfomuseum:aircraft_variant": "Turbo-Trainer",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159291447,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Pilatus PC-7 Turbo-Trainer",
     "wof:parent_id": 101853915,
     "wof:placetype": "custom",

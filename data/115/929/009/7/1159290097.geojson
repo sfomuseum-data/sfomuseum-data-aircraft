@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 331,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Jetstream 31",
     "sfomuseum:aircraft_name": "British Aerospace Jetstream 31",
     "sfomuseum:aircraft_variant": "Jetstream 31",
     "sfomuseum:count_objects_public": 2,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290097,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "British Aerospace Jetstream 31",
     "wof:parent_id": 101750357,
     "wof:placetype": "custom",

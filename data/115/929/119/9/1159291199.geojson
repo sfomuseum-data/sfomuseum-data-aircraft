@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 837,
     "sfomuseum:aircraft_model": "M-130",
+    "sfomuseum:aircraft_modelname": "Philippine Clipper",
     "sfomuseum:aircraft_name": "Martin M-130 Philippine Clipper",
     "sfomuseum:aircraft_variant": "Philippine Clipper",
     "sfomuseum:count_objects_public": 1,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159291199,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Martin M-130 Philippine Clipper",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

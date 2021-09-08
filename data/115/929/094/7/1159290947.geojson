@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 724,
     "sfomuseum:aircraft_model": "H-4",
+    "sfomuseum:aircraft_modelname": "Hercules \"Spruce Goose\"",
     "sfomuseum:aircraft_name": "Hughes H-4 Hercules \"Spruce Goose\"",
     "sfomuseum:aircraft_variant": "Hercules \"Spruce Goose\"",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290947,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hughes H-4 Hercules \"Spruce Goose\"",
     "wof:parent_id": 85923649,
     "wof:placetype": "custom",

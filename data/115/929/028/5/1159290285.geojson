@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 423,
     "sfomuseum:aircraft_model": "P-40",
+    "sfomuseum:aircraft_modelname": "Kittyhawk",
     "sfomuseum:aircraft_name": "Curtiss P-40 Kittyhawk",
     "sfomuseum:aircraft_variant": "Kittyhawk",
     "sfomuseum:count_objects_public": 1,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290285,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Curtiss P-40 Kittyhawk",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

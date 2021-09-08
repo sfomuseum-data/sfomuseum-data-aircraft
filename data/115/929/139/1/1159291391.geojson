@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 923,
     "sfomuseum:aircraft_model": "P-51B",
+    "sfomuseum:aircraft_modelname": "Mustang",
     "sfomuseum:aircraft_name": "North American Aviation P-51B Mustang",
     "sfomuseum:aircraft_variant": "Mustang",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291391,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "North American Aviation P-51B Mustang",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

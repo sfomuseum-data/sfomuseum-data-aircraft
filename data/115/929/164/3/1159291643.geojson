@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1038,
     "sfomuseum:aircraft_model": "S-22",
+    "sfomuseum:aircraft_modelname": "Il'ya Muromets",
     "sfomuseum:aircraft_name": "Sikorsky (Russia) S-22 Il'ya Muromets",
     "sfomuseum:aircraft_variant": "Il'ya Muromets",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291643,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sikorsky (Russia) S-22 Il'ya Muromets",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

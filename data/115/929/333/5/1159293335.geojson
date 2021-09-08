@@ -2,7 +2,9 @@
   "id": 1159293335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-12-31",
+    "edtf:cessation": "1970",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -14,6 +16,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1841,
     "sfomuseum:aircraft_model": "F5D",
+    "sfomuseum:aircraft_modelname": "Skylancer",
     "sfomuseum:aircraft_name": "Douglas F5D Skylancer",
     "sfomuseum:aircraft_variant": "Skylancer",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +43,7 @@
       }
     ],
     "wof:id": 1159293335,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Douglas F5D Skylancer",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

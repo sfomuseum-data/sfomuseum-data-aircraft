@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1499,
     "sfomuseum:aircraft_model": "Ju 86B",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Junkers Ju 86B",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292645,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Junkers Ju 86B",
     "wof:parent_id": 101748765,
     "wof:placetype": "custom",

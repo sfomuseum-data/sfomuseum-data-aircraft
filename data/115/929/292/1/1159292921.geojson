@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1639,
     "sfomuseum:aircraft_model": "S-4",
+    "sfomuseum:aircraft_modelname": "Postjager",
     "sfomuseum:aircraft_name": "Pander S-4 Postjager",
     "sfomuseum:aircraft_variant": "Postjager",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292921,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Pander S-4 Postjager",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

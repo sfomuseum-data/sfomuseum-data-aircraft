@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 489,
     "sfomuseum:aircraft_model": "DC-4",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Douglas DC-4",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 29,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290421,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas DC-4",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

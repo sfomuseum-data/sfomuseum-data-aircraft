@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1030,
     "sfomuseum:aircraft_model": "S.C.5",
+    "sfomuseum:aircraft_modelname": "Belfast",
     "sfomuseum:aircraft_name": "Shorts S.C.5 Belfast",
     "sfomuseum:aircraft_variant": "Belfast",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291625,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Shorts S.C.5 Belfast",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

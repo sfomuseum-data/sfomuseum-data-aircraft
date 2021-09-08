@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 362,
     "sfomuseum:aircraft_model": "YC-122C",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Chase YC-122C",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159290165,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Chase YC-122C",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

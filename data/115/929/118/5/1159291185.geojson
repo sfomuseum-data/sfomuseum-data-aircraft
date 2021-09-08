@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 831,
     "sfomuseum:aircraft_model": "4-0-4",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Martin 4-0-4",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 4,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291185,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Martin 4-0-4",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 890,
     "sfomuseum:aircraft_model": "MiG-21",
+    "sfomuseum:aircraft_modelname": "Fishbed",
     "sfomuseum:aircraft_name": "MiG MiG-21 Fishbed",
     "sfomuseum:aircraft_variant": "Fishbed",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291317,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "MiG MiG-21 Fishbed",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",

@@ -2,8 +2,10 @@
   "id": 1159293297,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1966-01-01",
+    "date:inception_upper": "1966-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1966",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
@@ -14,6 +16,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1823,
     "sfomuseum:aircraft_model": "DC-8",
+    "sfomuseum:aircraft_modelname": "Series 60",
     "sfomuseum:aircraft_name": "Douglas DC-8 Series 60",
     "sfomuseum:aircraft_variant": "Series 60",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1159293297,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Douglas DC-8 Series 60",
     "wof:parent_id": 1159290395,
     "wof:placetype": "custom",

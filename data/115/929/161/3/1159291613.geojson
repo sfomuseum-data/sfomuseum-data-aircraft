@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1024,
     "sfomuseum:aircraft_model": "360 (SD3-60) ADV",
+    "sfomuseum:aircraft_modelname": "Advanced",
     "sfomuseum:aircraft_name": "Shorts 360 (SD3-60) ADV Advanced",
     "sfomuseum:aircraft_variant": "Advanced",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291613,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Shorts 360 (SD3-60) ADV Advanced",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 335,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Sea Harrier",
     "sfomuseum:aircraft_name": "British Aerospace Sea Harrier",
     "sfomuseum:aircraft_variant": "Sea Harrier",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290107,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "British Aerospace Sea Harrier",
     "wof:parent_id": 101750357,
     "wof:placetype": "custom",

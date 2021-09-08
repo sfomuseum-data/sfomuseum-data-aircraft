@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 181,
     "sfomuseum:aircraft_model": "727",
+    "sfomuseum:aircraft_modelname": "Trijet",
     "sfomuseum:aircraft_name": "Boeing 727 Trijet",
     "sfomuseum:aircraft_variant": "Trijet",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159289761,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing 727 Trijet",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

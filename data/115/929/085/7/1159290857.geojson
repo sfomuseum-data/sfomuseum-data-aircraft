@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 684,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Tempest V",
     "sfomuseum:aircraft_name": "Hawker Tempest V",
     "sfomuseum:aircraft_variant": "Tempest V",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159290857,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hawker Tempest V",
     "wof:parent_id": 85684387,
     "wof:placetype": "custom",

@@ -2,7 +2,9 @@
   "id": 1159293343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "1926-01-01",
+    "date:cessation_upper": "1926-12-31",
+    "edtf:cessation": "1926",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -14,6 +16,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1844,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Cloudster",
     "sfomuseum:aircraft_name": "Douglas Cloudster",
     "sfomuseum:aircraft_variant": "Cloudster",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +51,7 @@
       }
     ],
     "wof:id": 1159293343,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Douglas Cloudster",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

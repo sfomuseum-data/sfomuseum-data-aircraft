@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 847,
     "sfomuseum:aircraft_model": "B-2",
+    "sfomuseum:aircraft_modelname": "Spirit (Stealth Bomber)",
     "sfomuseum:aircraft_name": "McDonnell Douglas B-2 Spirit (Stealth Bomber)",
     "sfomuseum:aircraft_variant": "Spirit (Stealth Bomber)",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291221,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "McDonnell Douglas B-2 Spirit (Stealth Bomber)",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

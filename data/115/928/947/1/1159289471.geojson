@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 52,
     "sfomuseum:aircraft_model": "An-12",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Antonov An-12",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159289471,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Antonov An-12",
     "wof:parent_id": 101752489,
     "wof:placetype": "custom",

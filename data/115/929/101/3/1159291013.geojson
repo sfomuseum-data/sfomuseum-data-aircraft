@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 755,
     "sfomuseum:aircraft_model": "K-47",
+    "sfomuseum:aircraft_modelname": "Pathfinder",
     "sfomuseum:aircraft_name": "Keystone K-47 Pathfinder",
     "sfomuseum:aircraft_variant": "Pathfinder",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159291013,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Keystone K-47 Pathfinder",
     "wof:parent_id": 101718083,
     "wof:placetype": "custom",

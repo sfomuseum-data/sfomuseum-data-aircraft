@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1654,
     "sfomuseum:aircraft_model": "S.74",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Savoia-Marchetti S.74",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159292955,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Savoia-Marchetti S.74",
     "wof:parent_id": 101830197,
     "wof:placetype": "custom",

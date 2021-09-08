@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 893,
     "sfomuseum:aircraft_model": "A6M",
+    "sfomuseum:aircraft_modelname": "Zero",
     "sfomuseum:aircraft_name": "Mitsubishi A6M Zero",
     "sfomuseum:aircraft_variant": "Zero",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291325,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Mitsubishi A6M Zero",
     "wof:parent_id": 85672817,
     "wof:placetype": "custom",

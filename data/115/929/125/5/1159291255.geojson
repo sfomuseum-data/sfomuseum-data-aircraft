@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 862,
     "sfomuseum:aircraft_model": "DC-9-81",
+    "sfomuseum:aircraft_modelname": "(MD-81)",
     "sfomuseum:aircraft_name": "Douglas DC-9-81 (MD-81)",
     "sfomuseum:aircraft_variant": "(MD-81)",
     "sfomuseum:count_objects_public": 1,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159291255,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas DC-9-81 (MD-81)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

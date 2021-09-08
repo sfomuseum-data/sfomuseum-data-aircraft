@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1102,
     "sfomuseum:aircraft_model": "M-2",
+    "sfomuseum:aircraft_modelname": "Speedmail",
     "sfomuseum:aircraft_name": "Stearman M-2 Speedmail",
     "sfomuseum:aircraft_variant": "Speedmail",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291787,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Stearman M-2 Speedmail",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

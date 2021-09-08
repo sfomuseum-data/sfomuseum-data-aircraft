@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 100,
     "sfomuseum:aircraft_model": "P-39Q",
+    "sfomuseum:aircraft_modelname": "Airacobra",
     "sfomuseum:aircraft_name": "Bell P-39Q Airacobra",
     "sfomuseum:aircraft_variant": "Airacobra",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289579,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bell P-39Q Airacobra",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

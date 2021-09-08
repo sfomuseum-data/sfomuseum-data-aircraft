@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1526,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Norseman IV",
     "sfomuseum:aircraft_name": "Noorduyn Norseman IV",
     "sfomuseum:aircraft_variant": "Norseman IV",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292703,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Noorduyn Norseman IV",
     "wof:parent_id": 101736545,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1629,
     "sfomuseum:aircraft_model": "62-1",
+    "sfomuseum:aircraft_modelname": "Alycon",
     "sfomuseum:aircraft_name": "Potez 62-1 Alycon",
     "sfomuseum:aircraft_variant": "Alycon",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159292899,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Potez 62-1 Alycon",
     "wof:parent_id": 101749071,
     "wof:placetype": "custom",

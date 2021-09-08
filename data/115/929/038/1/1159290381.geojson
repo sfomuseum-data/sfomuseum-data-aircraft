@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 470,
     "sfomuseum:aircraft_model": "DO 228",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Dornier DO 228",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290381,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Dornier DO 228",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

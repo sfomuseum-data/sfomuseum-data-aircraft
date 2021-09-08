@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1612,
     "sfomuseum:aircraft_model": "V-1A",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Vultee V-1A",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159292861,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Vultee V-1A",
     "wof:parent_id": 85923637,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1390,
     "sfomuseum:aircraft_model": "PT-13",
+    "sfomuseum:aircraft_modelname": "Kaydet",
     "sfomuseum:aircraft_name": "Stearman PT-13 Kaydet",
     "sfomuseum:aircraft_variant": "Kaydet",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159292411,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Stearman PT-13 Kaydet",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

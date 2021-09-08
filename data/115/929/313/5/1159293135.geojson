@@ -2,8 +2,10 @@
   "id": 1159293135,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1937-01-01",
+    "date:inception_upper": "1937-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1937",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "11.976793,51.488623,11.976793,51.488623",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1743,
     "sfomuseum:aircraft_model": "Fh 104",
+    "sfomuseum:aircraft_modelname": "Hallore",
     "sfomuseum:aircraft_name": "Siebel Fh 104 Hallore",
     "sfomuseum:aircraft_variant": "Hallore",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +63,7 @@
       }
     ],
     "wof:id": 1159293135,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Siebel Fh 104 Hallore",
     "wof:parent_id": 101748705,
     "wof:placetype": "custom",

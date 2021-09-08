@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 91,
     "sfomuseum:aircraft_model": "1900C",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Beech 1900C",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159289557,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Beech 1900C",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1876,
     "sfomuseum:aircraft_model": "421",
+    "sfomuseum:aircraft_modelname": "Golden Eagle",
     "sfomuseum:aircraft_name": "Cessna 421 Golden Eagle",
     "sfomuseum:aircraft_variant": "Golden Eagle",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293415,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cessna 421 Golden Eagle",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

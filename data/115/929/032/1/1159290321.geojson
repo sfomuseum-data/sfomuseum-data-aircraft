@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 441,
     "sfomuseum:aircraft_model": "DH-106",
+    "sfomuseum:aircraft_modelname": "Comet 1",
     "sfomuseum:aircraft_name": "de Havilland DH-106 Comet 1",
     "sfomuseum:aircraft_variant": "Comet 1",
     "sfomuseum:count_objects_public": 1,
@@ -50,7 +51,7 @@
       }
     ],
     "wof:id": 1159290321,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "de Havilland DH-106 Comet 1",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",

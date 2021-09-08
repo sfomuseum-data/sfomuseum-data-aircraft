@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1424,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Pippart-Noll",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292485,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Pippart-Noll",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

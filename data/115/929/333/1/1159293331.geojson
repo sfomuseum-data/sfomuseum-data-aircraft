@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1839,
     "sfomuseum:aircraft_model": "A4D",
+    "sfomuseum:aircraft_modelname": "Skyhawk",
     "sfomuseum:aircraft_name": "Douglas A4D Skyhawk",
     "sfomuseum:aircraft_variant": "Skyhawk",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159293331,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas A4D Skyhawk",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

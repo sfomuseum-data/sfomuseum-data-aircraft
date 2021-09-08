@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 28,
     "sfomuseum:aircraft_model": "A321-200",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Airbus A321-200",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -70,7 +71,7 @@
       }
     ],
     "wof:id": 1159289417,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Airbus A321-200",
     "wof:parent_id": 101748953,
     "wof:placetype": "custom",

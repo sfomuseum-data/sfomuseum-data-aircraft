@@ -17,7 +17,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1838,
     "sfomuseum:aircraft_model": "Nike Missile",
-    "sfomuseum:aircraft_name": "",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": " Nike Missile",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "",
@@ -37,7 +38,7 @@
       }
     ],
     "wof:id": 1729554259,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": " Nike Missile",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

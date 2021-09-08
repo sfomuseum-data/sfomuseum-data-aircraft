@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1509,
     "sfomuseum:aircraft_model": "C.445",
+    "sfomuseum:aircraft_modelname": "Goeland",
     "sfomuseum:aircraft_name": "Caudon C.445 Goeland",
     "sfomuseum:aircraft_variant": "Goeland",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292667,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Caudon C.445 Goeland",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 790,
     "sfomuseum:aircraft_model": "F-104G",
+    "sfomuseum:aircraft_modelname": "Starfighter",
     "sfomuseum:aircraft_name": "Lockheed F-104G Starfighter",
     "sfomuseum:aircraft_variant": "Starfighter",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291093,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Lockheed F-104G Starfighter",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

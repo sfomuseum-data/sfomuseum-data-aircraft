@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1060,
     "sfomuseum:aircraft_model": "S-42B",
+    "sfomuseum:aircraft_modelname": "Alaska Clipper",
     "sfomuseum:aircraft_name": "Sikorsky (USA) S-42B Alaska Clipper",
     "sfomuseum:aircraft_variant": "Alaska Clipper",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291693,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sikorsky (USA) S-42B Alaska Clipper",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

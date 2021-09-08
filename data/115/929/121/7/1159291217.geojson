@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 845,
     "sfomuseum:aircraft_model": "F-4K",
+    "sfomuseum:aircraft_modelname": "Phantom FG.1",
     "sfomuseum:aircraft_name": "McDonnell F-4K Phantom FG.1",
     "sfomuseum:aircraft_variant": "Phantom FG.1",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291217,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "McDonnell F-4K Phantom FG.1",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

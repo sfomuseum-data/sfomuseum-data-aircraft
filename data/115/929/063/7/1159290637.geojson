@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 587,
     "sfomuseum:aircraft_model": "F-14",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fokker F-14",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159290637,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fokker F-14",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 337,
     "sfomuseum:aircraft_model": "BN-2A",
+    "sfomuseum:aircraft_modelname": "Islander",
     "sfomuseum:aircraft_name": "Britten-Norman BN-2A Islander",
     "sfomuseum:aircraft_variant": "Islander",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290111,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Britten-Norman BN-2A Islander",
     "wof:parent_id": 101852317,
     "wof:placetype": "custom",

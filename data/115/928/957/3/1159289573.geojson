@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 98,
     "sfomuseum:aircraft_model": "AH-1",
+    "sfomuseum:aircraft_modelname": "Cobra",
     "sfomuseum:aircraft_name": "Bell AH-1 Cobra",
     "sfomuseum:aircraft_variant": "Cobra",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289573,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bell AH-1 Cobra",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

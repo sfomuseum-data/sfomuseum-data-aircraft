@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1281,
     "sfomuseum:aircraft_model": "XP-77",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Bell XP-77",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292181,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bell XP-77",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

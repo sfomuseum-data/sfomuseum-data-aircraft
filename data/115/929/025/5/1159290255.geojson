@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 404,
     "sfomuseum:aircraft_model": "18-T",
+    "sfomuseum:aircraft_modelname": "Wasp",
     "sfomuseum:aircraft_name": "Curtiss 18-T Wasp",
     "sfomuseum:aircraft_variant": "Wasp",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290255,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Curtiss 18-T Wasp",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 863,
     "sfomuseum:aircraft_model": "DC-9-82",
+    "sfomuseum:aircraft_modelname": "(MD-82)",
     "sfomuseum:aircraft_name": "Douglas DC-9-82 (MD-82)",
     "sfomuseum:aircraft_variant": "(MD-82)",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159291257,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas DC-9-82 (MD-82)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

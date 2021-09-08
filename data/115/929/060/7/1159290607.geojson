@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 573,
     "sfomuseum:aircraft_model": "Fw-189",
+    "sfomuseum:aircraft_modelname": "Uhu",
     "sfomuseum:aircraft_name": "Focke-Wulf Fw-189 Uhu",
     "sfomuseum:aircraft_variant": "Uhu",
     "sfomuseum:count_objects_public": 0,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159290607,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Focke-Wulf Fw-189 Uhu",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 497,
     "sfomuseum:aircraft_model": "DC-7C",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Douglas DC-7C",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 2,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290439,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas DC-7C",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

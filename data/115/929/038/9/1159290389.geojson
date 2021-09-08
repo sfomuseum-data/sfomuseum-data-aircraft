@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 474,
     "sfomuseum:aircraft_model": "DO R",
+    "sfomuseum:aircraft_modelname": "Super Wal",
     "sfomuseum:aircraft_name": "Dornier DO R Super Wal",
     "sfomuseum:aircraft_variant": "Super Wal",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290389,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Dornier DO R Super Wal",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

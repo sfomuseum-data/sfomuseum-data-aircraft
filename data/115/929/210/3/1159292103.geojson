@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1245,
     "sfomuseum:aircraft_model": "720",
+    "sfomuseum:aircraft_modelname": "Alti Cruiser",
     "sfomuseum:aircraft_name": "Aero Commander 720 Alti Cruiser",
     "sfomuseum:aircraft_variant": "Alti Cruiser",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292103,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Aero Commander 720 Alti Cruiser",
     "wof:parent_id": 85923649,
     "wof:placetype": "custom",

@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1444,
     "sfomuseum:aircraft_model": "DC-9",
+    "sfomuseum:aircraft_modelname": "Series 20",
     "sfomuseum:aircraft_name": "Douglas DC-9 Series 20",
     "sfomuseum:aircraft_variant": "Series 20",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159292525,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas DC-9 Series 20",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

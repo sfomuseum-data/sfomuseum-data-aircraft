@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 905,
     "sfomuseum:aircraft_model": "PN-9",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Naval Aircraft Factory PN-9",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291351,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Naval Aircraft Factory PN-9",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

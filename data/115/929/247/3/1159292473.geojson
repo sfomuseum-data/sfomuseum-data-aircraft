@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1419,
     "sfomuseum:aircraft_model": "F-105",
+    "sfomuseum:aircraft_modelname": "Thunderchief",
     "sfomuseum:aircraft_name": "Republic F-105 Thunderchief",
     "sfomuseum:aircraft_variant": "Thunderchief",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292473,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Republic F-105 Thunderchief",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

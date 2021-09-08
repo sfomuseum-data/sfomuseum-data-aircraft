@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1520,
     "sfomuseum:aircraft_model": "V-35",
+    "sfomuseum:aircraft_modelname": "Bonanza",
     "sfomuseum:aircraft_name": "Beechcraft V-35 Bonanza",
     "sfomuseum:aircraft_variant": "Bonanza",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292693,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Beechcraft V-35 Bonanza",
     "wof:parent_id": 101748481,
     "wof:placetype": "custom",

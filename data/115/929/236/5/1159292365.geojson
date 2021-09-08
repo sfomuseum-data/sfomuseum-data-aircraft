@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1370,
     "sfomuseum:aircraft_model": "VE-7",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Vought VE-7",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159292365,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Vought VE-7",
     "wof:parent_id": 101724385,
     "wof:placetype": "custom",

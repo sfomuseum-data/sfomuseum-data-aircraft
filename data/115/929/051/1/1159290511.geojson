@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 531,
     "sfomuseum:aircraft_model": "EMB-110P1",
+    "sfomuseum:aircraft_modelname": "Bandeirante",
     "sfomuseum:aircraft_name": "Embraer EMB-110P1 Bandeirante",
     "sfomuseum:aircraft_variant": "Bandeirante",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290511,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Embraer EMB-110P1 Bandeirante",
     "wof:parent_id": 101965823,
     "wof:placetype": "custom",

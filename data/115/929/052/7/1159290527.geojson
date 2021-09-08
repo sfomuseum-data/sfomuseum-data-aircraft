@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 538,
     "sfomuseum:aircraft_model": "Taube",
+    "sfomuseum:aircraft_modelname": "Dove",
     "sfomuseum:aircraft_name": "Etrich Taube Dove",
     "sfomuseum:aircraft_variant": "Dove",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290527,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Etrich Taube Dove",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

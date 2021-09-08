@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1495,
     "sfomuseum:aircraft_model": "Do 28 ",
+    "sfomuseum:aircraft_modelname": "Skyservant",
     "sfomuseum:aircraft_name": "Dornier Do 28  Skyservant",
     "sfomuseum:aircraft_variant": "Skyservant",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292635,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Dornier Do 28  Skyservant",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

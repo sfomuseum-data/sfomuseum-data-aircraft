@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1268,
     "sfomuseum:aircraft_model": "T-34",
+    "sfomuseum:aircraft_modelname": "Mentor",
     "sfomuseum:aircraft_name": "Beech T-34 Mentor",
     "sfomuseum:aircraft_variant": "Mentor",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292153,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Beech T-34 Mentor",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

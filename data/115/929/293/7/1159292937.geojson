@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1646,
     "sfomuseum:aircraft_model": "ANT-25",
+    "sfomuseum:aircraft_modelname": "Soviet Transpolar",
     "sfomuseum:aircraft_name": "Tupolev ANT-25 Soviet Transpolar",
     "sfomuseum:aircraft_variant": "Soviet Transpolar",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292937,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Tupolev ANT-25 Soviet Transpolar",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",

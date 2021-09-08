@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1503,
     "sfomuseum:aircraft_model": "Vimy Commercial",
+    "sfomuseum:aircraft_modelname": "City of London",
     "sfomuseum:aircraft_name": "Vickers Vimy Commercial City of London",
     "sfomuseum:aircraft_variant": "City of London",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292653,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Vickers Vimy Commercial City of London",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",

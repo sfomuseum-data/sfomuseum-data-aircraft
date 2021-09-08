@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 4,
     "sfomuseum:aircraft_model": "1121 ",
+    "sfomuseum:aircraft_modelname": "Jet Commander",
     "sfomuseum:aircraft_name": "Aero Commander 1121  Jet Commander",
     "sfomuseum:aircraft_variant": "Jet Commander",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159289365,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Aero Commander 1121  Jet Commander",
     "wof:parent_id": 85923649,
     "wof:placetype": "custom",

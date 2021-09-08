@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 569,
     "sfomuseum:aircraft_model": "F5",
+    "sfomuseum:aircraft_modelname": "Sea Bird",
     "sfomuseum:aircraft_name": "Fleetwings F5 Sea Bird",
     "sfomuseum:aircraft_variant": "Sea Bird",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290597,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fleetwings F5 Sea Bird",
     "wof:parent_id": 101716861,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1871,
     "sfomuseum:aircraft_model": "7GCBC",
+    "sfomuseum:aircraft_modelname": "Citabria Explorer",
     "sfomuseum:aircraft_name": "American Champion 7GCBC Citabria Explorer",
     "sfomuseum:aircraft_variant": "Citabria Explorer",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293403,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "American Champion 7GCBC Citabria Explorer",
     "wof:parent_id": 101732343,
     "wof:placetype": "custom",

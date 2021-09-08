@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1502,
     "sfomuseum:aircraft_model": "C.635",
+    "sfomuseum:aircraft_modelname": "Simoun",
     "sfomuseum:aircraft_name": "Caudron C.635 Simoun",
     "sfomuseum:aircraft_variant": "Simoun",
     "sfomuseum:count_objects_public": 0,
@@ -66,7 +67,7 @@
       }
     ],
     "wof:id": 1159292651,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Caudron C.635 Simoun",
     "wof:parent_id": 101749789,
     "wof:placetype": "custom",

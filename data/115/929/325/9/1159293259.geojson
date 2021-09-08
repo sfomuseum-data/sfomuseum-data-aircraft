@@ -2,7 +2,9 @@
   "id": 1159293259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "1964-01-01",
+    "date:cessation_upper": "1964-12-31",
+    "edtf:cessation": "1964",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1806,
     "sfomuseum:aircraft_model": "SE.161",
+    "sfomuseum:aircraft_modelname": "Languedoc",
     "sfomuseum:aircraft_name": "SNCASE SE.161 Languedoc",
     "sfomuseum:aircraft_variant": "Languedoc",
     "sfomuseum:count_objects_public": 0,
@@ -68,7 +71,7 @@
       }
     ],
     "wof:id": 1159293259,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "SNCASE SE.161 Languedoc",
     "wof:parent_id": 101750691,
     "wof:placetype": "custom",

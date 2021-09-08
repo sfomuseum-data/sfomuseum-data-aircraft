@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1079,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Camel F.1",
     "sfomuseum:aircraft_name": "Sopwith Camel F.1",
     "sfomuseum:aircraft_variant": "Camel F.1",
     "sfomuseum:count_objects_public": 1,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1159291735,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sopwith Camel F.1",
     "wof:parent_id": 85788611,
     "wof:placetype": "custom",

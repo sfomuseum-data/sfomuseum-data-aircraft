@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 892,
     "sfomuseum:aircraft_model": "M.14A",
+    "sfomuseum:aircraft_modelname": "Magister",
     "sfomuseum:aircraft_name": "Miles M.14A Magister",
     "sfomuseum:aircraft_variant": "Magister",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291321,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Miles M.14A Magister",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

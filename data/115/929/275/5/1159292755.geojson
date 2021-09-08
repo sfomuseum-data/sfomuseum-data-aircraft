@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1551,
     "sfomuseum:aircraft_model": "Br.19",
+    "sfomuseum:aircraft_modelname": "Super Bidon",
     "sfomuseum:aircraft_name": "Breguet Br.19 Super Bidon",
     "sfomuseum:aircraft_variant": "Super Bidon",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292755,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Breguet Br.19 Super Bidon",
     "wof:parent_id": 101751119,
     "wof:placetype": "custom",

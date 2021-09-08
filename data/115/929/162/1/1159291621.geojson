@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1028,
     "sfomuseum:aircraft_model": "S.29",
+    "sfomuseum:aircraft_modelname": "Stirling",
     "sfomuseum:aircraft_name": "Short S.29 Stirling",
     "sfomuseum:aircraft_variant": "Stirling",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291621,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Short S.29 Stirling",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

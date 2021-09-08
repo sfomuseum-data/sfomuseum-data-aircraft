@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1631,
     "sfomuseum:aircraft_model": "Z.506",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Cant Z.506",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292903,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cant Z.506",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

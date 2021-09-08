@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 425,
     "sfomuseum:aircraft_model": "P-40F",
+    "sfomuseum:aircraft_modelname": "Warhawk",
     "sfomuseum:aircraft_name": "Curtiss P-40F Warhawk",
     "sfomuseum:aircraft_variant": "Warhawk",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290289,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Curtiss P-40F Warhawk",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 565,
     "sfomuseum:aircraft_model": "G.91",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fiat G.91",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290589,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fiat G.91",
     "wof:parent_id": 101752697,
     "wof:placetype": "custom",

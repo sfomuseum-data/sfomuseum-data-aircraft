@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 68,
     "sfomuseum:aircraft_model": "652A",
+    "sfomuseum:aircraft_modelname": "Anson",
     "sfomuseum:aircraft_name": "Avro 652A Anson",
     "sfomuseum:aircraft_variant": "Anson",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159289507,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Avro 652A Anson",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

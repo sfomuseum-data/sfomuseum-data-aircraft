@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1880,
     "sfomuseum:aircraft_model": "T-41",
+    "sfomuseum:aircraft_modelname": "Mescalero",
     "sfomuseum:aircraft_name": "Cessna T-41 Mescalero",
     "sfomuseum:aircraft_variant": "Mescalero",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293423,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Cessna T-41 Mescalero",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

@@ -2,8 +2,10 @@
   "id": 1159293455,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1947-01-01",
+    "date:inception_upper": "1947-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1947",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1895,
     "sfomuseum:aircraft_model": "L-13",
+    "sfomuseum:aircraft_modelname": "Grasshopper",
     "sfomuseum:aircraft_name": "Stinson/Convair L-13 Grasshopper",
     "sfomuseum:aircraft_variant": "Grasshopper",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +47,7 @@
       }
     ],
     "wof:id": 1159293455,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Stinson/Convair L-13 Grasshopper",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

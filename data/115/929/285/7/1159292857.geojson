@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1610,
     "sfomuseum:aircraft_model": "PA-28",
+    "sfomuseum:aircraft_modelname": "Cherokee",
     "sfomuseum:aircraft_name": "Piper PA-28 Cherokee",
     "sfomuseum:aircraft_variant": "Cherokee",
     "sfomuseum:count_objects_public": 0,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1159292857,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Piper PA-28 Cherokee",
     "wof:parent_id": 102527921,
     "wof:placetype": "custom",

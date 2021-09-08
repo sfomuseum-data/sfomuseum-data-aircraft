@@ -2,8 +2,10 @@
   "id": 1159293313,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1950-01-01",
+    "date:inception_upper": "1950-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1950",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-0.220332,51.559312,-0.220332,51.559312",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1830,
     "sfomuseum:aircraft_model": "HP.81",
+    "sfomuseum:aircraft_modelname": "Hermes",
     "sfomuseum:aircraft_name": "Handley Page HP.81 Hermes",
     "sfomuseum:aircraft_variant": "Hermes",
     "sfomuseum:count_objects_public": 0,
@@ -55,7 +58,7 @@
       }
     ],
     "wof:id": 1159293313,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Handley Page HP.81 Hermes",
     "wof:parent_id": 85786881,
     "wof:placetype": "custom",

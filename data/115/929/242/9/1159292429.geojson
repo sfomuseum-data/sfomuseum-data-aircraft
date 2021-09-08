@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1398,
     "sfomuseum:aircraft_model": "R4Q",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fairchild R4Q",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292429,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fairchild R4Q",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

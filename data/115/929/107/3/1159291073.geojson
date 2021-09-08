@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 781,
     "sfomuseum:aircraft_model": "5",
+    "sfomuseum:aircraft_modelname": "Vega \"Winnie Mae\"",
     "sfomuseum:aircraft_name": "Lockheed 5 Vega \"Winnie Mae\"",
     "sfomuseum:aircraft_variant": "Vega \"Winnie Mae\"",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291073,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed 5 Vega \"Winnie Mae\"",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

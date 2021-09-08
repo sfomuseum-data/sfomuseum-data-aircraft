@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1932,
     "sfomuseum:aircraft_model": "Hydravion",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fabre Hydravion",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159293535,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fabre Hydravion",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

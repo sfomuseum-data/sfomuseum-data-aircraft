@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 347,
     "sfomuseum:aircraft_model": "CL-600",
+    "sfomuseum:aircraft_modelname": "Challenger Family",
     "sfomuseum:aircraft_name": "Canadair CL-600 Challenger Family",
     "sfomuseum:aircraft_variant": "Challenger Family",
     "sfomuseum:count_objects_public": 0,
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1159290133,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Canadair CL-600 Challenger Family",
     "wof:parent_id": 101736545,
     "wof:placetype": "custom",

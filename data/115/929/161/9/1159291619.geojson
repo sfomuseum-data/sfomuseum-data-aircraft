@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1027,
     "sfomuseum:aircraft_model": "S.25",
+    "sfomuseum:aircraft_modelname": "Sunderland",
     "sfomuseum:aircraft_name": "Short S.25 Sunderland",
     "sfomuseum:aircraft_variant": "Sunderland",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291619,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Short S.25 Sunderland",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

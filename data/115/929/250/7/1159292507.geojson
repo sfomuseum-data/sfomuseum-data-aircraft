@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1435,
     "sfomuseum:aircraft_model": "M18L",
+    "sfomuseum:aircraft_modelname": "Mite",
     "sfomuseum:aircraft_name": "Mooney M18L Mite",
     "sfomuseum:aircraft_variant": "Mite",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292507,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Mooney M18L Mite",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 58,
     "sfomuseum:aircraft_model": "A.W.27",
+    "sfomuseum:aircraft_modelname": "Ensign",
     "sfomuseum:aircraft_name": "Armstrong Whitworth A.W.27 Ensign",
     "sfomuseum:aircraft_variant": "Ensign",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159289483,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Armstrong Whitworth A.W.27 Ensign",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

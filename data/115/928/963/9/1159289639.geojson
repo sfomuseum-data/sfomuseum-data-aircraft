@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 127,
     "sfomuseum:aircraft_model": "314A",
+    "sfomuseum:aircraft_modelname": "Bangor",
     "sfomuseum:aircraft_name": "Boeing 314A Bangor",
     "sfomuseum:aircraft_variant": "Bangor",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289639,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing 314A Bangor",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

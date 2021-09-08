@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 932,
     "sfomuseum:aircraft_model": "Gamma 2D",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Northrop Gamma 2D",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291407,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Northrop Gamma 2D",
     "wof:parent_id": 85923599,
     "wof:placetype": "custom",

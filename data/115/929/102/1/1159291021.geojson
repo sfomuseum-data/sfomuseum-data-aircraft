@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 758,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Playboy",
     "sfomuseum:aircraft_name": "Kinner Playboy",
     "sfomuseum:aircraft_variant": "Playboy",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291021,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Kinner Playboy",
     "wof:parent_id": 85923615,
     "wof:placetype": "custom",

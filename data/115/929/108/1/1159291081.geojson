@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 785,
     "sfomuseum:aircraft_model": "C-121",
+    "sfomuseum:aircraft_modelname": "Constellation",
     "sfomuseum:aircraft_name": "Lockheed C-121 Constellation",
     "sfomuseum:aircraft_variant": "Constellation",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291081,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Lockheed C-121 Constellation",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

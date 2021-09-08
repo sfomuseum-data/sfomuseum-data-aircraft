@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1564,
     "sfomuseum:aircraft_model": "C-2",
+    "sfomuseum:aircraft_modelname": "America",
     "sfomuseum:aircraft_name": "Atlantic-Fokker C-2 America",
     "sfomuseum:aircraft_variant": "America",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159292777,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Atlantic-Fokker C-2 America",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1365,
     "sfomuseum:aircraft_model": "YC-122B",
+    "sfomuseum:aircraft_modelname": "Avitruc",
     "sfomuseum:aircraft_name": "Chase YC-122B Avitruc",
     "sfomuseum:aircraft_variant": "Avitruc",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159292355,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Chase YC-122B Avitruc",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

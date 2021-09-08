@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 650,
     "sfomuseum:aircraft_model": "G-73",
+    "sfomuseum:aircraft_modelname": "Mallard",
     "sfomuseum:aircraft_name": "Grumman G-73 Mallard",
     "sfomuseum:aircraft_variant": "Mallard",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290779,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Grumman G-73 Mallard",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

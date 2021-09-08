@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 914,
     "sfomuseum:aircraft_model": "AT-6",
+    "sfomuseum:aircraft_modelname": "Texan",
     "sfomuseum:aircraft_name": "North American Aviation AT-6 Texan",
     "sfomuseum:aircraft_variant": "Texan",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291371,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "North American Aviation AT-6 Texan",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

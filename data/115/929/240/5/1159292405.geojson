@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1387,
     "sfomuseum:aircraft_model": "VII",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "SPAD VII",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159292405,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "SPAD VII",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",

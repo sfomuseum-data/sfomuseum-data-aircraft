@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 588,
     "sfomuseum:aircraft_model": "F.27",
+    "sfomuseum:aircraft_modelname": "Friendship",
     "sfomuseum:aircraft_name": "Fokker F.27 Friendship",
     "sfomuseum:aircraft_variant": "Friendship",
     "sfomuseum:count_objects_public": 1,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159290641,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fokker F.27 Friendship",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

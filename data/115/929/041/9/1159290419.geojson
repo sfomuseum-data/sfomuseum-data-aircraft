@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 488,
     "sfomuseum:aircraft_model": "DC-3S",
+    "sfomuseum:aircraft_modelname": "Super DC-3",
     "sfomuseum:aircraft_name": "Douglas DC-3S Super DC-3",
     "sfomuseum:aircraft_variant": "Super DC-3",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159290419,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Douglas DC-3S Super DC-3",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

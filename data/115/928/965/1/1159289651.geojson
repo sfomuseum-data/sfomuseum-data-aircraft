@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 132,
     "sfomuseum:aircraft_model": "377",
+    "sfomuseum:aircraft_modelname": "Stratocruiser",
     "sfomuseum:aircraft_name": "Boeing 377 Stratocruiser",
     "sfomuseum:aircraft_variant": "Stratocruiser",
     "sfomuseum:count_objects_public": 55,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159289651,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing 377 Stratocruiser",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

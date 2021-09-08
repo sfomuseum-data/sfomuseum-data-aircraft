@@ -2,8 +2,10 @@
   "id": 1159293353,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1971-01-01",
+    "date:inception_upper": "1971-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1971",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-95.370488,45.868571,-95.370488,45.868571",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1849,
     "sfomuseum:aircraft_model": "7ACA",
+    "sfomuseum:aircraft_modelname": "Champ",
     "sfomuseum:aircraft_name": "Bellanca 7ACA Champ",
     "sfomuseum:aircraft_variant": "Champ",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +57,7 @@
       }
     ],
     "wof:id": 1159293353,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bellanca 7ACA Champ",
     "wof:parent_id": 85953541,
     "wof:placetype": "custom",

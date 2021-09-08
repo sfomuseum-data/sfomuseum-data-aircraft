@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1184,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Viscount 745D",
     "sfomuseum:aircraft_name": "Vickers Viscount 745D",
     "sfomuseum:aircraft_variant": "Viscount 745D",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291969,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Vickers Viscount 745D",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",

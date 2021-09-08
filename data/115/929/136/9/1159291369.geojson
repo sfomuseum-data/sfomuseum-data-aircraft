@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 913,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Harvard",
     "sfomuseum:aircraft_name": "North American Aviation Harvard",
     "sfomuseum:aircraft_variant": "Harvard",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291369,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "North American Aviation Harvard",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

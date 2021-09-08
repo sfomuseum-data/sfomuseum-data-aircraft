@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1297,
     "sfomuseum:aircraft_model": "F-84F",
+    "sfomuseum:aircraft_modelname": "Thunderstreak",
     "sfomuseum:aircraft_name": "Republic F-84F Thunderstreak",
     "sfomuseum:aircraft_variant": "Thunderstreak",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292215,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Republic F-84F Thunderstreak",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

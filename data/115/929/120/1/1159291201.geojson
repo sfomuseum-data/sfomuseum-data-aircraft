@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 838,
     "sfomuseum:aircraft_model": "M-156",
+    "sfomuseum:aircraft_modelname": "Russian Clipper",
     "sfomuseum:aircraft_name": "Martin M-156 Russian Clipper",
     "sfomuseum:aircraft_variant": "Russian Clipper",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159291201,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Martin M-156 Russian Clipper",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

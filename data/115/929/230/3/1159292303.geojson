@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1340,
     "sfomuseum:aircraft_model": "F.VII-3m",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fokker F.VII-3m",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159292303,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fokker F.VII-3m",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

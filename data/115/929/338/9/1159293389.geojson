@@ -2,7 +2,9 @@
   "id": 1159293389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "1933-01-01",
+    "date:cessation_upper": "1933-12-31",
+    "edtf:cessation": "1933",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1865,
     "sfomuseum:aircraft_model": "Model 200",
+    "sfomuseum:aircraft_modelname": "Monomail",
     "sfomuseum:aircraft_name": "Boeing Model 200 Monomail",
     "sfomuseum:aircraft_variant": "Monomail",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1159293389,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing Model 200 Monomail",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

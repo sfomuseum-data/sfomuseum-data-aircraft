@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 751,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Wilhelmshaven 947",
     "sfomuseum:aircraft_name": "Kaiserliche Wilhelmshaven 947",
     "sfomuseum:aircraft_variant": "Wilhelmshaven 947",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291005,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Kaiserliche Wilhelmshaven 947",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

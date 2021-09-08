@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 455,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Monocoque",
     "sfomuseum:aircraft_name": "Deperdussin Monocoque",
     "sfomuseum:aircraft_variant": "Monocoque",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159290353,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Deperdussin Monocoque",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",

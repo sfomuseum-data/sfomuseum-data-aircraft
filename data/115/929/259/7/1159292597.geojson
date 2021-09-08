@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1477,
     "sfomuseum:aircraft_model": "C.19 Mk IV",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Cierva C.19 Mk IV",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159292597,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cierva C.19 Mk IV",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1473,
     "sfomuseum:aircraft_model": "AM-1",
+    "sfomuseum:aircraft_modelname": "Mauler",
     "sfomuseum:aircraft_name": "Martin AM-1 Mauler",
     "sfomuseum:aircraft_variant": "Mauler",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159292591,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Martin AM-1 Mauler",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

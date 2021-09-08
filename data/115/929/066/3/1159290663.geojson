@@ -2,8 +2,10 @@
   "id": 1159290663,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1924-01-01",
+    "date:inception_upper": "1924-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1924",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-68.249092,12.194274,-68.249092,12.194274",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 598,
     "sfomuseum:aircraft_model": "F.VII",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fokker F.VII",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 2,
@@ -53,7 +56,7 @@
       }
     ],
     "wof:id": 1159290663,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fokker F.VII",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

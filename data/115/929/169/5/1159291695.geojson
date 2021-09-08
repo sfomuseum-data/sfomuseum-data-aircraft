@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1061,
     "sfomuseum:aircraft_model": "S-42B",
+    "sfomuseum:aircraft_modelname": "Bermuda Clipper",
     "sfomuseum:aircraft_name": "Sikorsky (USA) S-42B Bermuda Clipper",
     "sfomuseum:aircraft_variant": "Bermuda Clipper",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291695,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Sikorsky (USA) S-42B Bermuda Clipper",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 651,
     "sfomuseum:aircraft_model": "G-73T",
+    "sfomuseum:aircraft_modelname": "TurboMallard",
     "sfomuseum:aircraft_name": "Grumman G-73T TurboMallard",
     "sfomuseum:aircraft_variant": "TurboMallard",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290781,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Grumman G-73T TurboMallard",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 572,
     "sfomuseum:aircraft_model": "Fw-58",
+    "sfomuseum:aircraft_modelname": "Weihe",
     "sfomuseum:aircraft_name": "Focke-Wulf Fw-58 Weihe",
     "sfomuseum:aircraft_variant": "Weihe",
     "sfomuseum:count_objects_public": 0,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159290605,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Focke-Wulf Fw-58 Weihe",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

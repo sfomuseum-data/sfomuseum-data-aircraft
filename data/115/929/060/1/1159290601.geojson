@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 571,
     "sfomuseum:aircraft_model": "Fw-56A-1",
+    "sfomuseum:aircraft_modelname": "Stösser",
     "sfomuseum:aircraft_name": "Focke-Wulf Fw-56A-1 Stösser",
     "sfomuseum:aircraft_variant": "Stösser",
     "sfomuseum:count_objects_public": 0,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159290601,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Focke-Wulf Fw-56A-1 Stösser",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

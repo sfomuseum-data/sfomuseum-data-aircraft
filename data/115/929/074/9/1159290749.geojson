@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 636,
     "sfomuseum:aircraft_model": "G.V",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Gotha G.V",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290749,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Gotha G.V",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

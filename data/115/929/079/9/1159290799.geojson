@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 659,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Hampden",
     "sfomuseum:aircraft_name": "Handley Page Hampden",
     "sfomuseum:aircraft_variant": "Hampden",
     "sfomuseum:count_objects_public": 0,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1159290799,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Handley Page Hampden",
     "wof:parent_id": 85786881,
     "wof:placetype": "custom",

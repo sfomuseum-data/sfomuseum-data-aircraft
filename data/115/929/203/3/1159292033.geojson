@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1212,
     "sfomuseum:aircraft_model": "W-8 ",
+    "sfomuseum:aircraft_modelname": "Tailwind",
     "sfomuseum:aircraft_name": "Wittman W-8  Tailwind",
     "sfomuseum:aircraft_variant": "Tailwind",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292033,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Wittman W-8  Tailwind",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1052,
     "sfomuseum:aircraft_model": "S-42",
+    "sfomuseum:aircraft_modelname": "Pan American Clipper",
     "sfomuseum:aircraft_name": "Sikorsky (USA) S-42 Pan American Clipper",
     "sfomuseum:aircraft_variant": "Pan American Clipper",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291675,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sikorsky (USA) S-42 Pan American Clipper",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

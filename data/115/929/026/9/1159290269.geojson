@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 416,
     "sfomuseum:aircraft_model": "1A",
+    "sfomuseum:aircraft_modelname": "Gulfhawk",
     "sfomuseum:aircraft_name": "Curtiss 1A Gulfhawk",
     "sfomuseum:aircraft_variant": "Gulfhawk",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290269,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Curtiss 1A Gulfhawk",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

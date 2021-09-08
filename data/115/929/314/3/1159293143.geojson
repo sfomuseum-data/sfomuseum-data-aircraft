@@ -2,7 +2,9 @@
   "id": 1159293143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "1939-01-01",
+    "date:cessation_upper": "1939-12-31",
+    "edtf:cessation": "1939",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -14,6 +16,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1749,
     "sfomuseum:aircraft_model": "DC-4E",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Douglas DC-4E",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -48,7 +51,7 @@
       }
     ],
     "wof:id": 1159293143,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas DC-4E",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

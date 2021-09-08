@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 421,
     "sfomuseum:aircraft_model": "P-1",
+    "sfomuseum:aircraft_modelname": "Hawk",
     "sfomuseum:aircraft_name": "Curtiss P-1 Hawk",
     "sfomuseum:aircraft_variant": "Hawk",
     "sfomuseum:count_objects_public": 1,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290281,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Curtiss P-1 Hawk",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

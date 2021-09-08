@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 340,
     "sfomuseum:aircraft_model": "Bü 133A",
+    "sfomuseum:aircraft_modelname": "Jungmeister",
     "sfomuseum:aircraft_name": "Bücker Bü 133A Jungmeister",
     "sfomuseum:aircraft_variant": "Jungmeister",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290119,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bücker Bü 133A Jungmeister",
     "wof:parent_id": 101819585,
     "wof:placetype": "custom",

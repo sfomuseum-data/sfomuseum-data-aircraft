@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 479,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "World Cruiser",
     "sfomuseum:aircraft_name": "Douglas World Cruiser",
     "sfomuseum:aircraft_variant": "World Cruiser",
     "sfomuseum:count_objects_public": 1,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290399,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas World Cruiser",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

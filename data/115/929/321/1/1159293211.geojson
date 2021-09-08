@@ -2,7 +2,9 @@
   "id": 1159293211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "1952-01-01",
+    "date:cessation_upper": "1952-12-31",
+    "edtf:cessation": "1952",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1784,
     "sfomuseum:aircraft_model": "XF-12",
+    "sfomuseum:aircraft_modelname": "Rainbow",
     "sfomuseum:aircraft_name": "Republic XF-12 Rainbow",
     "sfomuseum:aircraft_variant": "Rainbow",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +47,7 @@
       }
     ],
     "wof:id": 1159293211,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Republic XF-12 Rainbow",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

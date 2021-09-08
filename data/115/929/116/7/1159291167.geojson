@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 823,
     "sfomuseum:aircraft_model": "C-2",
+    "sfomuseum:aircraft_modelname": "Air Yacht",
     "sfomuseum:aircraft_name": "Loening C-2 Air Yacht",
     "sfomuseum:aircraft_variant": "Air Yacht",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291167,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Loening C-2 Air Yacht",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

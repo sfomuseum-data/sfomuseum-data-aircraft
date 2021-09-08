@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 646,
     "sfomuseum:aircraft_model": "F-14",
+    "sfomuseum:aircraft_modelname": "Tomcat",
     "sfomuseum:aircraft_name": "Grumman F-14 Tomcat",
     "sfomuseum:aircraft_variant": "Tomcat",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290771,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Grumman F-14 Tomcat",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

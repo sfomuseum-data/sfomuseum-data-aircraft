@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 673,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Hardy",
     "sfomuseum:aircraft_name": "Hawker Hardy",
     "sfomuseum:aircraft_variant": "Hardy",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159290831,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hawker Hardy",
     "wof:parent_id": 85684387,
     "wof:placetype": "custom",

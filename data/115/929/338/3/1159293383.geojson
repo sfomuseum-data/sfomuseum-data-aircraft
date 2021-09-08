@@ -2,8 +2,10 @@
   "id": 1159293383,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1926-01-01",
+    "date:inception_upper": "1926-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1926",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1862,
     "sfomuseum:aircraft_model": "Model 69 (F2B)",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Boeing Model 69 (F2B)",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1159293383,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing Model 69 (F2B)",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

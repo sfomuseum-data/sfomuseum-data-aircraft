@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1069,
     "sfomuseum:aircraft_model": "S-61",
+    "sfomuseum:aircraft_modelname": "Sea King",
     "sfomuseum:aircraft_name": "Sikorsky (USA) S-61 Sea King",
     "sfomuseum:aircraft_variant": "Sea King",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291713,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sikorsky (USA) S-61 Sea King",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

@@ -13,7 +13,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1943,
     "sfomuseum:aircraft_model": "LZ-1",
-    "sfomuseum:aircraft_name": "",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Zeppelin LZ-1",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Zeppelin",
@@ -41,7 +42,7 @@
       }
     ],
     "wof:id": 1729554275,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Zeppelin LZ-1",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

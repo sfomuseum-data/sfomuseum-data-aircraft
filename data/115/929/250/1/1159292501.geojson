@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1432,
     "sfomuseum:aircraft_model": "AJ-1",
+    "sfomuseum:aircraft_modelname": "Savage",
     "sfomuseum:aircraft_name": "North American Aviation AJ-1 Savage",
     "sfomuseum:aircraft_variant": "Savage",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292501,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "North American Aviation AJ-1 Savage",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",

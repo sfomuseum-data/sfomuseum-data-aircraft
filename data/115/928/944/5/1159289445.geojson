@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 41,
     "sfomuseum:aircraft_model": "DH.2",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Airco DH.2",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1159289445,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Airco DH.2",
     "wof:parent_id": 85790969,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 451,
     "sfomuseum:aircraft_model": "DHC-8",
+    "sfomuseum:aircraft_modelname": "Dash 8",
     "sfomuseum:aircraft_name": "de Havilland (Canada) DHC-8 Dash 8",
     "sfomuseum:aircraft_variant": "Dash 8",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290343,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "de Havilland (Canada) DHC-8 Dash 8",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

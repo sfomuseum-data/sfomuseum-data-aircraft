@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1410,
     "sfomuseum:aircraft_model": "29",
+    "sfomuseum:aircraft_modelname": "Tunnan (Barrel)",
     "sfomuseum:aircraft_name": "Saab 29 Tunnan (Barrel)",
     "sfomuseum:aircraft_variant": "Tunnan (Barrel)",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292453,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Saab 29 Tunnan (Barrel)",
     "wof:parent_id": 101752307,
     "wof:placetype": "custom",

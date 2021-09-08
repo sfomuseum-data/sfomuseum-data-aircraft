@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1907,
     "sfomuseum:aircraft_model": "M-62",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fairchild M-62",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159293481,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fairchild M-62",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

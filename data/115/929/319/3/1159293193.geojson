@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1776,
     "sfomuseum:aircraft_model": "C-102",
+    "sfomuseum:aircraft_modelname": "Jetliner",
     "sfomuseum:aircraft_name": "Avro (Canada) C-102 Jetliner",
     "sfomuseum:aircraft_variant": "Jetliner",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159293193,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Avro (Canada) C-102 Jetliner",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

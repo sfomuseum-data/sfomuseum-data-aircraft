@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1284,
     "sfomuseum:aircraft_model": "B-37",
+    "sfomuseum:aircraft_modelname": "Firebrand",
     "sfomuseum:aircraft_name": "Blackburn B-37 Firebrand",
     "sfomuseum:aircraft_variant": "Firebrand",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159292189,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Blackburn B-37 Firebrand",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

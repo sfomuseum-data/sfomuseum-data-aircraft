@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1548,
     "sfomuseum:aircraft_model": "SC.7",
+    "sfomuseum:aircraft_modelname": "Skyvan",
     "sfomuseum:aircraft_name": "Short SC.7 Skyvan",
     "sfomuseum:aircraft_variant": "Skyvan",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292749,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Short SC.7 Skyvan",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

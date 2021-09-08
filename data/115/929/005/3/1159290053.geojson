@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 311,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Fly Baby",
     "sfomuseum:aircraft_name": "Bowers Fly Baby",
     "sfomuseum:aircraft_variant": "Fly Baby",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290053,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bowers Fly Baby",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

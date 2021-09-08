@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1488,
     "sfomuseum:aircraft_model": "Gamma",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Northrop Gamma",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159292623,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Northrop Gamma",
     "wof:parent_id": 85923599,
     "wof:placetype": "custom",

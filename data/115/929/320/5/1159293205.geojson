@@ -2,8 +2,10 @@
   "id": 1159293205,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1933-01-01",
+    "date:inception_upper": "1933-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1933",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1781,
     "sfomuseum:aircraft_model": "HM. 14",
+    "sfomuseum:aircraft_modelname": "Pou du Ciel",
     "sfomuseum:aircraft_name": "Mignet HM. 14 Pou du Ciel",
     "sfomuseum:aircraft_variant": "Pou du Ciel",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +47,7 @@
       }
     ],
     "wof:id": 1159293205,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Mignet HM. 14 Pou du Ciel",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

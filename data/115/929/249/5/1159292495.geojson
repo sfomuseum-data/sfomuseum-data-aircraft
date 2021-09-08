@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1429,
     "sfomuseum:aircraft_model": "X-4",
+    "sfomuseum:aircraft_modelname": "Bantam",
     "sfomuseum:aircraft_name": "Northrop X-4 Bantam",
     "sfomuseum:aircraft_variant": "Bantam",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159292495,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Northrop X-4 Bantam",
     "wof:parent_id": 85923599,
     "wof:placetype": "custom",

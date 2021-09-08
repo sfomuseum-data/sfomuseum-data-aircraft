@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 10,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Alouette Helicopter",
     "sfomuseum:aircraft_name": "Aérospatiale Alouette Helicopter",
     "sfomuseum:aircraft_variant": "Alouette Helicopter",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159289375,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Aérospatiale Alouette Helicopter",
     "wof:parent_id": 101751119,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 672,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Demon",
     "sfomuseum:aircraft_name": "Hawker Demon",
     "sfomuseum:aircraft_variant": "Demon",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159290829,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hawker Demon",
     "wof:parent_id": 85684387,
     "wof:placetype": "custom",

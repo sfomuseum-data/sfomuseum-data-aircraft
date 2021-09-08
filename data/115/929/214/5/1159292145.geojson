@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1265,
     "sfomuseum:aircraft_model": "Model 17",
+    "sfomuseum:aircraft_modelname": "Staggerwing",
     "sfomuseum:aircraft_name": "Beech Model 17 Staggerwing",
     "sfomuseum:aircraft_variant": "Staggerwing",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292145,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Beech Model 17 Staggerwing",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1668,
     "sfomuseum:aircraft_model": "A340-313",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Airbus A340-313",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -70,7 +71,7 @@
       }
     ],
     "wof:id": 1159292985,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Airbus A340-313",
     "wof:parent_id": 101748953,
     "wof:placetype": "custom",

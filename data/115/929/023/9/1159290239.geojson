@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 396,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Cadet",
     "sfomuseum:aircraft_name": "Culver Cadet",
     "sfomuseum:aircraft_variant": "Cadet",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290239,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Culver Cadet",
     "wof:parent_id": 101712381,
     "wof:placetype": "custom",

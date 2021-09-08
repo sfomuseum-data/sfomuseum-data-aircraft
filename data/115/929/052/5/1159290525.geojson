@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 537,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Ercoupe 415",
     "sfomuseum:aircraft_name": "Erco Ercoupe 415",
     "sfomuseum:aircraft_variant": "Ercoupe 415",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290525,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Erco Ercoupe 415",
     "wof:parent_id": 85949293,
     "wof:placetype": "custom",

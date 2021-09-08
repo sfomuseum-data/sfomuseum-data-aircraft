@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1627,
     "sfomuseum:aircraft_model": "F.60",
+    "sfomuseum:aircraft_modelname": "Goliath",
     "sfomuseum:aircraft_name": "Farman F.60 Goliath",
     "sfomuseum:aircraft_variant": "Goliath",
     "sfomuseum:count_objects_public": 0,
@@ -66,7 +67,7 @@
       }
     ],
     "wof:id": 1159292895,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Farman F.60 Goliath",
     "wof:parent_id": 101753455,
     "wof:placetype": "custom",

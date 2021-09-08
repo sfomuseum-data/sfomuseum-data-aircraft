@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 960,
     "sfomuseum:aircraft_model": "PA-18",
+    "sfomuseum:aircraft_modelname": "Autogiro",
     "sfomuseum:aircraft_name": "Pitcairn PA-18 Autogiro",
     "sfomuseum:aircraft_variant": "Autogiro",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291471,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Pitcairn PA-18 Autogiro",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

@@ -13,7 +13,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 743,
     "sfomuseum:aircraft_model": "3-CT-8",
-    "sfomuseum:aircraft_name": "Air Yacht",
+    "sfomuseum:aircraft_modelname": "Air Yacht",
+    "sfomuseum:aircraft_name": "Bach Aircraft 3-CT-8 Air Yacht",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Bach Aircraft",
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1729554253,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bach Aircraft 3-CT-8 Air Yacht",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

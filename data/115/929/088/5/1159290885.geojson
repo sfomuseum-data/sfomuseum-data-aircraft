@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 697,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Harrier T.2A",
     "sfomuseum:aircraft_name": "Hawker Siddeley Harrier T.2A",
     "sfomuseum:aircraft_variant": "Harrier T.2A",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290885,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hawker Siddeley Harrier T.2A",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

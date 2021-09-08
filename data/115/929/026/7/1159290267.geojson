@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 415,
     "sfomuseum:aircraft_model": "F11C",
+    "sfomuseum:aircraft_modelname": "Goshawk",
     "sfomuseum:aircraft_name": "Curtiss F11C Goshawk",
     "sfomuseum:aircraft_variant": "Goshawk",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290267,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Curtiss F11C Goshawk",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

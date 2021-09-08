@@ -13,7 +13,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1944,
     "sfomuseum:aircraft_model": "14 bis",
-    "sfomuseum:aircraft_name": "",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Santos-Dumont 14 bis",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Santos-Dumont",
@@ -39,7 +40,7 @@
       }
     ],
     "wof:id": 1729554277,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Santos-Dumont 14 bis",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

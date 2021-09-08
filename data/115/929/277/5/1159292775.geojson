@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1563,
     "sfomuseum:aircraft_model": "C-2A",
+    "sfomuseum:aircraft_modelname": "Question Mark",
     "sfomuseum:aircraft_name": "Atlantic-Fokker C-2A Question Mark",
     "sfomuseum:aircraft_variant": "Question Mark",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159292775,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Atlantic-Fokker C-2A Question Mark",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

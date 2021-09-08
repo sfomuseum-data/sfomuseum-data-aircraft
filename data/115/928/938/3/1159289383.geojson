@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 13,
     "sfomuseum:aircraft_model": "SN 601",
+    "sfomuseum:aircraft_modelname": "Corvette",
     "sfomuseum:aircraft_name": "Aérospatiale SN 601 Corvette",
     "sfomuseum:aircraft_variant": "Corvette",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159289383,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Aérospatiale SN 601 Corvette",
     "wof:parent_id": 101751119,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1357,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Brabazon",
     "sfomuseum:aircraft_name": "Bristol Brabazon",
     "sfomuseum:aircraft_variant": "Brabazon",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159292337,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bristol Brabazon",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

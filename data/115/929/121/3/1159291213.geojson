@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 844,
     "sfomuseum:aircraft_model": "F-4F",
+    "sfomuseum:aircraft_modelname": "Phantom II",
     "sfomuseum:aircraft_name": "McDonnell F-4F Phantom II",
     "sfomuseum:aircraft_variant": "Phantom II",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291213,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "McDonnell F-4F Phantom II",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

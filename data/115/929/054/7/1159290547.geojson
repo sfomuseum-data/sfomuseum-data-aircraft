@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 547,
     "sfomuseum:aircraft_model": "A-10A",
+    "sfomuseum:aircraft_modelname": "Thunderbolt II",
     "sfomuseum:aircraft_name": "Fairchild A-10A Thunderbolt II",
     "sfomuseum:aircraft_variant": "Thunderbolt II",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290547,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fairchild A-10A Thunderbolt II",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

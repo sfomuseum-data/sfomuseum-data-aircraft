@@ -15,7 +15,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1966,
     "sfomuseum:aircraft_model": "SM-6000",
-    "sfomuseum:aircraft_name": "Airliner",
+    "sfomuseum:aircraft_modelname": "Airliner",
+    "sfomuseum:aircraft_name": "Stinson SM-6000 Airliner",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Stinson",
@@ -42,7 +43,7 @@
       }
     ],
     "wof:id": 1729554315,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Stinson SM-6000 Airliner",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

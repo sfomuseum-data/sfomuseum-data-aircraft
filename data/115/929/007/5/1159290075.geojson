@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 321,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Bulldog Mk IIA",
     "sfomuseum:aircraft_name": "Bristol Bulldog Mk IIA",
     "sfomuseum:aircraft_variant": "Bulldog Mk IIA",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290075,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bristol Bulldog Mk IIA",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

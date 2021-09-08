@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1888,
     "sfomuseum:aircraft_model": "310",
+    "sfomuseum:aircraft_modelname": "Skyknight",
     "sfomuseum:aircraft_name": "Cessna 310 Skyknight",
     "sfomuseum:aircraft_variant": "Skyknight",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159293439,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cessna 310 Skyknight",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1879,
     "sfomuseum:aircraft_model": "150",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Cessna 150",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293421,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cessna 150",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

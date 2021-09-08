@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 472,
     "sfomuseum:aircraft_model": "DO 328",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Dornier DO 328",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290383,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Dornier DO 328",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

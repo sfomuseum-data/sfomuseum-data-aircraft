@@ -2,8 +2,10 @@
   "id": 1159292155,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1933-01-01",
+    "date:inception_upper": "1933-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1933",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1269,
     "sfomuseum:aircraft_model": "A17F",
+    "sfomuseum:aircraft_modelname": "Staggerwing",
     "sfomuseum:aircraft_name": "Beech A17F Staggerwing",
     "sfomuseum:aircraft_variant": "Staggerwing",
     "sfomuseum:count_objects_public": 1,
@@ -44,7 +47,7 @@
       }
     ],
     "wof:id": 1159292155,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Beech A17F Staggerwing",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

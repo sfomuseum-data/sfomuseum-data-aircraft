@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 989,
     "sfomuseum:aircraft_model": "NYP",
+    "sfomuseum:aircraft_modelname": "Spirit of St. Louis",
     "sfomuseum:aircraft_name": "Ryan NYP Spirit of St. Louis",
     "sfomuseum:aircraft_variant": "Spirit of St. Louis",
     "sfomuseum:count_objects_public": 17,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291535,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Ryan NYP Spirit of St. Louis",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

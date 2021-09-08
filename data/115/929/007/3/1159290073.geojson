@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 320,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Bulldog",
     "sfomuseum:aircraft_name": "Bristol Bulldog",
     "sfomuseum:aircraft_variant": "Bulldog",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159290073,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bristol Bulldog",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

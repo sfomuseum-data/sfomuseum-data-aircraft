@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 873,
     "sfomuseum:aircraft_model": "KC-10",
+    "sfomuseum:aircraft_modelname": "Extender",
     "sfomuseum:aircraft_name": "McDonnell Douglas KC-10 Extender",
     "sfomuseum:aircraft_variant": "Extender",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159291279,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "McDonnell Douglas KC-10 Extender",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

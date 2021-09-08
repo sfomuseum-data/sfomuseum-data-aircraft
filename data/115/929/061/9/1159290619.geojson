@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 579,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Universal",
     "sfomuseum:aircraft_name": "Fokker Universal",
     "sfomuseum:aircraft_variant": "Universal",
     "sfomuseum:count_objects_public": 0,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159290619,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fokker Universal",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 953,
     "sfomuseum:aircraft_model": "PA-23",
+    "sfomuseum:aircraft_modelname": "Apache",
     "sfomuseum:aircraft_name": "Piper PA-23 Apache",
     "sfomuseum:aircraft_variant": "Apache",
     "sfomuseum:count_objects_public": 0,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1159291455,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Piper PA-23 Apache",
     "wof:parent_id": 102527921,
     "wof:placetype": "custom",

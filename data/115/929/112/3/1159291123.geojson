@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 804,
     "sfomuseum:aircraft_model": "L-749",
+    "sfomuseum:aircraft_modelname": "Constellation",
     "sfomuseum:aircraft_name": "Lockheed L-749 Constellation",
     "sfomuseum:aircraft_variant": "Constellation",
     "sfomuseum:count_objects_public": 8,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291123,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed L-749 Constellation",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

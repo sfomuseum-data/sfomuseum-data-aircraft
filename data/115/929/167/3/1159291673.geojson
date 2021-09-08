@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1051,
     "sfomuseum:aircraft_model": "S-42",
+    "sfomuseum:aircraft_modelname": "Hong Kong Clipper",
     "sfomuseum:aircraft_name": "Sikorsky (USA) S-42 Hong Kong Clipper",
     "sfomuseum:aircraft_variant": "Hong Kong Clipper",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291673,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sikorsky (USA) S-42 Hong Kong Clipper",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

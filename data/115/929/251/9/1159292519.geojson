@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1441,
     "sfomuseum:aircraft_model": "F6F",
+    "sfomuseum:aircraft_modelname": "Hellcat",
     "sfomuseum:aircraft_name": "Grumman F6F Hellcat",
     "sfomuseum:aircraft_variant": "Hellcat",
     "sfomuseum:count_objects_public": 1,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159292519,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Grumman F6F Hellcat",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

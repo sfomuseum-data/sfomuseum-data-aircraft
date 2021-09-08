@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1279,
     "sfomuseum:aircraft_model": "P-59",
+    "sfomuseum:aircraft_modelname": "Airacomet",
     "sfomuseum:aircraft_name": "Bell P-59 Airacomet",
     "sfomuseum:aircraft_variant": "Airacomet",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292177,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Bell P-59 Airacomet",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

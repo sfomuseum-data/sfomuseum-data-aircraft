@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 784,
     "sfomuseum:aircraft_model": "C-5A",
+    "sfomuseum:aircraft_modelname": "Galaxy",
     "sfomuseum:aircraft_name": "Lockheed C-5A Galaxy",
     "sfomuseum:aircraft_variant": "Galaxy",
     "sfomuseum:count_objects_public": 1,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291079,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed C-5A Galaxy",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

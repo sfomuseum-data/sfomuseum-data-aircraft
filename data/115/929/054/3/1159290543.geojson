@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 545,
     "sfomuseum:aircraft_model": "328JET",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fairchild 328JET",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290543,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fairchild 328JET",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

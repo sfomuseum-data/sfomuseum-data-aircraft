@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 676,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Hurricane",
     "sfomuseum:aircraft_name": "Hawker Hurricane",
     "sfomuseum:aircraft_variant": "Hurricane",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159290839,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hawker Hurricane",
     "wof:parent_id": 85684387,
     "wof:placetype": "custom",

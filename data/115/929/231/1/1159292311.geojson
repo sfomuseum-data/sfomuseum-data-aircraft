@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1344,
     "sfomuseum:aircraft_model": "FB-1",
+    "sfomuseum:aircraft_modelname": "Gyrodyne",
     "sfomuseum:aircraft_name": "Fairey FB-1 Gyrodyne",
     "sfomuseum:aircraft_variant": "Gyrodyne",
     "sfomuseum:count_objects_public": 0,
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1159292311,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fairey FB-1 Gyrodyne",
     "wof:parent_id": 85788025,
     "wof:placetype": "custom",

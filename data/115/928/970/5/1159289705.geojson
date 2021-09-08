@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 156,
     "sfomuseum:aircraft_model": "707-324C",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Boeing 707-324C",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159289705,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing 707-324C",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

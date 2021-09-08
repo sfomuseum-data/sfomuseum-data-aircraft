@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 209,
     "sfomuseum:aircraft_model": "737",
+    "sfomuseum:aircraft_modelname": "Pacemaker",
     "sfomuseum:aircraft_name": "Boeing 737 Pacemaker",
     "sfomuseum:aircraft_variant": "Pacemaker",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159289823,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing 737 Pacemaker",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

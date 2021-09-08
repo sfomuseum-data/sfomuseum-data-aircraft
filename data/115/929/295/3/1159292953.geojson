@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1653,
     "sfomuseum:aircraft_model": "Laté 28.3",
+    "sfomuseum:aircraft_modelname": "Comte-de-La Vaulx",
     "sfomuseum:aircraft_name": "Latécoère Laté 28.3 Comte-de-La Vaulx",
     "sfomuseum:aircraft_variant": "Comte-de-La Vaulx",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159292953,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Latécoère Laté 28.3 Comte-de-La Vaulx",
     "wof:parent_id": 101750691,
     "wof:placetype": "custom",

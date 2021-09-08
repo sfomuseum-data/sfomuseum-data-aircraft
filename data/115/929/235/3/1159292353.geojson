@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1364,
     "sfomuseum:aircraft_model": "Model 44",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Wedell-Williams Model 44",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292353,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Wedell-Williams Model 44",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

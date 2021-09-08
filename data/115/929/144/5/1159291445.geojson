@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 949,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Air Camper",
     "sfomuseum:aircraft_name": "Pietenpol Air Camper",
     "sfomuseum:aircraft_variant": "Air Camper",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291445,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Pietenpol Air Camper",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

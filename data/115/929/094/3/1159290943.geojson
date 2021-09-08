@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 723,
     "sfomuseum:aircraft_model": "H-4",
+    "sfomuseum:aircraft_modelname": "Hercules",
     "sfomuseum:aircraft_name": "Hughes H-4 Hercules",
     "sfomuseum:aircraft_variant": "Hercules",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159290943,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hughes H-4 Hercules",
     "wof:parent_id": 85923649,
     "wof:placetype": "custom",

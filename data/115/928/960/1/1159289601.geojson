@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 110,
     "sfomuseum:aircraft_model": "40",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Boeing 40",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159289601,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing 40",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

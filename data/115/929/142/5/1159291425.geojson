@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 940,
     "sfomuseum:aircraft_model": "1912",
+    "sfomuseum:aircraft_modelname": "Monoplane",
     "sfomuseum:aircraft_name": "Otto 1912 Monoplane",
     "sfomuseum:aircraft_variant": "Monoplane",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291425,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Otto 1912 Monoplane",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

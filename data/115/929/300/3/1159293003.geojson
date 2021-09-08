@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1679,
     "sfomuseum:aircraft_model": "Triplane I",
+    "sfomuseum:aircraft_modelname": "Bull’s Eye",
     "sfomuseum:aircraft_name": "Avro Roe Triplane I Bull’s Eye",
     "sfomuseum:aircraft_variant": "Bull’s Eye",
     "sfomuseum:count_objects_public": 0,
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1159293003,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Avro Roe Triplane I Bull’s Eye",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",

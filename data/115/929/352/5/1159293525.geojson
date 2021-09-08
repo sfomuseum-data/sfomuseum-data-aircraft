@@ -2,8 +2,10 @@
   "id": 1159293525,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1931-01-01",
+    "date:inception_upper": "1931-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1931",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-97.339044,37.687692,-97.339044,37.687692",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1927,
     "sfomuseum:aircraft_model": "GC-2",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Cessna GC-2",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +57,7 @@
       }
     ],
     "wof:id": 1159293525,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cessna GC-2",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

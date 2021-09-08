@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1261,
     "sfomuseum:aircraft_model": "706",
+    "sfomuseum:aircraft_modelname": "Ashton",
     "sfomuseum:aircraft_name": "Avro 706 Ashton",
     "sfomuseum:aircraft_variant": "Ashton",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159292137,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Avro 706 Ashton",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

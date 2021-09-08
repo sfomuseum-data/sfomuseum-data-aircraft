@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1519,
     "sfomuseum:aircraft_model": "FA-200",
+    "sfomuseum:aircraft_modelname": "Aero Subaru",
     "sfomuseum:aircraft_name": "Fuji FA-200 Aero Subaru",
     "sfomuseum:aircraft_variant": "Aero Subaru",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292689,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fuji FA-200 Aero Subaru",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 955,
     "sfomuseum:aircraft_model": "PA-31",
+    "sfomuseum:aircraft_modelname": "Navajo",
     "sfomuseum:aircraft_name": "Piper PA-31 Navajo",
     "sfomuseum:aircraft_variant": "Navajo",
     "sfomuseum:count_objects_public": 0,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1159291459,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Piper PA-31 Navajo",
     "wof:parent_id": 102527921,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1666,
     "sfomuseum:aircraft_model": "Constellation",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Lockheed Constellation",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 28,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159292981,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed Constellation",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

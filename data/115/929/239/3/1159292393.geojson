@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1382,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Merlin",
     "sfomuseum:aircraft_name": "Swearingen Merlin",
     "sfomuseum:aircraft_variant": "Merlin",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292393,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Swearingen Merlin",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

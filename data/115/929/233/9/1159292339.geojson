@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1358,
     "sfomuseum:aircraft_model": "DH-89",
+    "sfomuseum:aircraft_modelname": "Valkyrie",
     "sfomuseum:aircraft_name": "de Havilland DH-89 Valkyrie",
     "sfomuseum:aircraft_variant": "Valkyrie",
     "sfomuseum:count_objects_public": 0,
@@ -50,7 +51,7 @@
       }
     ],
     "wof:id": 1159292339,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "de Havilland DH-89 Valkyrie",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",

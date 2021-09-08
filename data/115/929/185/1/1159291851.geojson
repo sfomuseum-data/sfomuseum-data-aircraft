@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1130,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Spitfire PR.Mk.XIII",
     "sfomuseum:aircraft_name": "Supermarine Spitfire PR.Mk.XIII",
     "sfomuseum:aircraft_variant": "Spitfire PR.Mk.XIII",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159291851,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Supermarine Spitfire PR.Mk.XIII",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

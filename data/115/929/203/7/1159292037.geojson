@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1214,
     "sfomuseum:aircraft_model": "2A",
+    "sfomuseum:aircraft_modelname": "Express",
     "sfomuseum:aircraft_name": "Woodson Engineering 2A Express",
     "sfomuseum:aircraft_variant": "Express",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159292037,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Woodson Engineering 2A Express",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

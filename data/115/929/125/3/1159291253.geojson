@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 861,
     "sfomuseum:aircraft_model": "DC-9-80",
+    "sfomuseum:aircraft_modelname": "Super 80",
     "sfomuseum:aircraft_name": "Douglas DC-9-80 Super 80",
     "sfomuseum:aircraft_variant": "Super 80",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159291253,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Douglas DC-9-80 Super 80",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

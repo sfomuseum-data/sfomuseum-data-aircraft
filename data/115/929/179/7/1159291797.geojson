@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1106,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Model A Tri-motor",
     "sfomuseum:aircraft_name": "Stinson Model A Tri-motor",
     "sfomuseum:aircraft_variant": "Model A Tri-motor",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291797,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Stinson Model A Tri-motor",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 819,
     "sfomuseum:aircraft_model": "R6V",
+    "sfomuseum:aircraft_modelname": "Constitution",
     "sfomuseum:aircraft_name": "Lockheed R6V Constitution",
     "sfomuseum:aircraft_variant": "Constitution",
     "sfomuseum:count_objects_public": 5,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291157,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Lockheed R6V Constitution",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

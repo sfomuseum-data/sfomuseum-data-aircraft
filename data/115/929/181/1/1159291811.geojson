@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1112,
     "sfomuseum:aircraft_model": "SA-300",
+    "sfomuseum:aircraft_modelname": "Starduster Too (Modified)",
     "sfomuseum:aircraft_name": "Stolp Starduster SA-300 Starduster Too (Modified)",
     "sfomuseum:aircraft_variant": "Starduster Too (Modified)",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291811,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Stolp Starduster SA-300 Starduster Too (Modified)",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

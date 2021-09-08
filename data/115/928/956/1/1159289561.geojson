@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 92,
     "sfomuseum:aircraft_model": "1900D",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Beech 1900D",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159289561,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Beech 1900D",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

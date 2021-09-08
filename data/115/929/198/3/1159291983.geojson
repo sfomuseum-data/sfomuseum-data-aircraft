@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1190,
     "sfomuseum:aircraft_model": "VC10",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Vickers VC10",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291983,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Vickers VC10",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",

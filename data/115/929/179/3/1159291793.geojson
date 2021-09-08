@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1104,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Akro",
     "sfomuseum:aircraft_name": "Stephens Akro",
     "sfomuseum:aircraft_variant": "Akro",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291793,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Stephens Akro",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

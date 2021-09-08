@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 420,
     "sfomuseum:aircraft_model": "O-1",
+    "sfomuseum:aircraft_modelname": "Falcon",
     "sfomuseum:aircraft_name": "Curtiss O-1 Falcon",
     "sfomuseum:aircraft_variant": "Falcon",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159290277,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Curtiss O-1 Falcon",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",

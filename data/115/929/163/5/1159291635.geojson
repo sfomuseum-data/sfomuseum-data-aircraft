@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1034,
     "sfomuseum:aircraft_model": "SF.260",
+    "sfomuseum:aircraft_modelname": "Minerva",
     "sfomuseum:aircraft_name": "SIAI-Marchetti SF.260 Minerva",
     "sfomuseum:aircraft_variant": "Minerva",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291635,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "SIAI-Marchetti SF.260 Minerva",
     "wof:parent_id": 101830197,
     "wof:placetype": "custom",

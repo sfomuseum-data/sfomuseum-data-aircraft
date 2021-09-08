@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1321,
     "sfomuseum:aircraft_model": "L-329",
+    "sfomuseum:aircraft_modelname": "Jet Star",
     "sfomuseum:aircraft_name": "Lockheed L-329 Jet Star",
     "sfomuseum:aircraft_variant": "Jet Star",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159292265,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed L-329 Jet Star",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 606,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Gnat T1",
     "sfomuseum:aircraft_name": "Folland Gnat T1",
     "sfomuseum:aircraft_variant": "Gnat T1",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290681,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Folland Gnat T1",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

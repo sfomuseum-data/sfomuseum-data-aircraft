@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 641,
     "sfomuseum:aircraft_model": "Y",
+    "sfomuseum:aircraft_modelname": "Senior Sportster",
     "sfomuseum:aircraft_name": "Granville Brothers Y Senior Sportster",
     "sfomuseum:aircraft_variant": "Senior Sportster",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290759,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Granville Brothers Y Senior Sportster",
     "wof:parent_id": 85950393,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 364,
     "sfomuseum:aircraft_model": "1915",
+    "sfomuseum:aircraft_modelname": "Flying Boat",
     "sfomuseum:aircraft_name": "Christofferson 1915 Flying Boat",
     "sfomuseum:aircraft_variant": "Flying Boat",
     "sfomuseum:count_objects_public": 7,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290167,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Christofferson 1915 Flying Boat",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

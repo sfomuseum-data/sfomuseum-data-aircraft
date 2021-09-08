@@ -2,8 +2,10 @@
   "id": 1159293369,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1967-01-01",
+    "date:inception_upper": "1967-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1967",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-95.370488,45.868571,-95.370488,45.868571",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1856,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Viking",
     "sfomuseum:aircraft_name": "Bellanca Viking",
     "sfomuseum:aircraft_variant": "Viking",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +65,7 @@
       }
     ],
     "wof:id": 1159293369,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bellanca Viking",
     "wof:parent_id": 85953541,
     "wof:placetype": "custom",

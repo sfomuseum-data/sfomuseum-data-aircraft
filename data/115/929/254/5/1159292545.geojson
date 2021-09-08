@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1453,
     "sfomuseum:aircraft_model": "DC-10",
+    "sfomuseum:aircraft_modelname": "Series 40D",
     "sfomuseum:aircraft_name": "McDonnell Douglas DC-10 Series 40D",
     "sfomuseum:aircraft_variant": "Series 40D",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292545,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "McDonnell Douglas DC-10 Series 40D",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

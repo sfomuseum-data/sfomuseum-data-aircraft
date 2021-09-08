@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1206,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Wessex",
     "sfomuseum:aircraft_name": "Westland Wessex",
     "sfomuseum:aircraft_variant": "Wessex",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292019,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Westland Wessex",
     "wof:parent_id": 101852529,
     "wof:placetype": "custom",

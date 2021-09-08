@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1693,
     "sfomuseum:aircraft_model": "C-2A",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fokker C-2A",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159293035,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Fokker C-2A",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

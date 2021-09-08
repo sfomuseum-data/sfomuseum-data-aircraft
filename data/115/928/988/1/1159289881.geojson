@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 235,
     "sfomuseum:aircraft_model": "747-8",
+    "sfomuseum:aircraft_modelname": "Intercontinental",
     "sfomuseum:aircraft_name": "Boeing 747-8 Intercontinental",
     "sfomuseum:aircraft_variant": "Intercontinental",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159289881,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing 747-8 Intercontinental",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

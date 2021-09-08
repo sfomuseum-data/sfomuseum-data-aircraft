@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1919,
     "sfomuseum:aircraft_model": "G-32",
+    "sfomuseum:aircraft_modelname": "Gulfhawk III",
     "sfomuseum:aircraft_name": "Grumman G-32 Gulfhawk III",
     "sfomuseum:aircraft_variant": "Gulfhawk III",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159293507,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Grumman G-32 Gulfhawk III",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",

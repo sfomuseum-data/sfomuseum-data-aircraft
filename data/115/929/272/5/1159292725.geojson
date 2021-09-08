@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1536,
     "sfomuseum:aircraft_model": "DHC-3",
+    "sfomuseum:aircraft_modelname": "Otter",
     "sfomuseum:aircraft_name": "de Havilland (Canada) DHC-3 Otter",
     "sfomuseum:aircraft_variant": "Otter",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159292725,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "de Havilland (Canada) DHC-3 Otter",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

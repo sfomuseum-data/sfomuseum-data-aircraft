@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1459,
     "sfomuseum:aircraft_model": "XF-88",
+    "sfomuseum:aircraft_modelname": "Voodoo",
     "sfomuseum:aircraft_name": "McDonnell XF-88 Voodoo",
     "sfomuseum:aircraft_variant": "Voodoo",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292559,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "McDonnell XF-88 Voodoo",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

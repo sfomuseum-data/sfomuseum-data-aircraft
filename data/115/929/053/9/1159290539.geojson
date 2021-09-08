@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 543,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "(Swearingen) Metro 23",
     "sfomuseum:aircraft_name": "Fairchild (Swearingen) Metro 23",
     "sfomuseum:aircraft_variant": "(Swearingen) Metro 23",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290539,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fairchild (Swearingen) Metro 23",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

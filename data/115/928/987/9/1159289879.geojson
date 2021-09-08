@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 234,
     "sfomuseum:aircraft_model": "747-8",
+    "sfomuseum:aircraft_modelname": "Freighter",
     "sfomuseum:aircraft_name": "Boeing 747-8 Freighter",
     "sfomuseum:aircraft_variant": "Freighter",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159289879,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing 747-8 Freighter",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

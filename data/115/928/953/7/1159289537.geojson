@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 82,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Duce",
     "sfomuseum:aircraft_name": "Bakeng Duce",
     "sfomuseum:aircraft_variant": "Duce",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159289537,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Bakeng Duce",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

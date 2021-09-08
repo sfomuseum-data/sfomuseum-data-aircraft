@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 511,
     "sfomuseum:aircraft_model": "DC-8-62",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Douglas DC-8-62",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 2,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290471,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Douglas DC-8-62",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

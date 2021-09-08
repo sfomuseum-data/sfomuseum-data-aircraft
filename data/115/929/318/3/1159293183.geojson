@@ -2,8 +2,10 @@
   "id": 1159293183,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1977-01-01",
+    "date:inception_upper": "1977-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "1977",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
@@ -15,6 +17,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1770,
     "sfomuseum:aircraft_model": "Eagle II",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Christen Eagle II",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1159293183,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Christen Eagle II",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

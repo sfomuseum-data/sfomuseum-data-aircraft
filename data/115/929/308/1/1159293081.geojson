@@ -14,7 +14,8 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1719,
-    "sfomuseum:aircraft_model": "Model 5C Vega",
+    "sfomuseum:aircraft_model": "Model 5C",
+    "sfomuseum:aircraft_modelname": "Vega",
     "sfomuseum:aircraft_name": "Lockheed Model 5C Vega",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159293081,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed Model 5C Vega",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

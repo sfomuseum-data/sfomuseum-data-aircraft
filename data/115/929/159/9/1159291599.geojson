@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1018,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Twin Pioneer",
     "sfomuseum:aircraft_name": "Scottish Aviation Twin Pioneer",
     "sfomuseum:aircraft_variant": "Twin Pioneer",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291599,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Scottish Aviation Twin Pioneer",
     "wof:parent_id": 1126022253,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1119,
     "sfomuseum:aircraft_model": "12",
+    "sfomuseum:aircraft_modelname": "Caravelle",
     "sfomuseum:aircraft_name": "Sud Aviation 12 Caravelle",
     "sfomuseum:aircraft_variant": "Caravelle",
     "sfomuseum:count_objects_public": 1,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291825,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Sud Aviation 12 Caravelle",
     "wof:parent_id": 101750691,
     "wof:placetype": "custom",

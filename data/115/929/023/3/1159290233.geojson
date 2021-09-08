@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 393,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Tractor Flying Boat",
     "sfomuseum:aircraft_name": "Cooke Tractor Flying Boat",
     "sfomuseum:aircraft_variant": "Tractor Flying Boat",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290233,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cooke Tractor Flying Boat",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

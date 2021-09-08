@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1349,
     "sfomuseum:aircraft_model": "RJ145",
+    "sfomuseum:aircraft_modelname": "Rheintalflug",
     "sfomuseum:aircraft_name": "Embraer RJ145 Rheintalflug",
     "sfomuseum:aircraft_variant": "Rheintalflug",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292321,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Embraer RJ145 Rheintalflug",
     "wof:parent_id": 101965823,
     "wof:placetype": "custom",

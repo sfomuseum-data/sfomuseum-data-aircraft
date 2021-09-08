@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1193,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Biplane",
     "sfomuseum:aircraft_name": "Voisin Biplane",
     "sfomuseum:aircraft_variant": "Biplane",
     "sfomuseum:count_objects_public": 0,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159291991,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Voisin Biplane",
     "wof:parent_id": 101749789,
     "wof:placetype": "custom",

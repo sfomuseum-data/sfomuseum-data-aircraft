@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 700,
     "sfomuseum:aircraft_model": "HS.121",
+    "sfomuseum:aircraft_modelname": "Trident",
     "sfomuseum:aircraft_name": "Hawker Siddeley HS.121 Trident",
     "sfomuseum:aircraft_variant": "Trident",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159290893,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Hawker Siddeley HS.121 Trident",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

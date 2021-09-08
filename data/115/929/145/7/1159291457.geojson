@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 954,
     "sfomuseum:aircraft_model": "PA-25",
+    "sfomuseum:aircraft_modelname": "Pawnee",
     "sfomuseum:aircraft_name": "Piper PA-25 Pawnee",
     "sfomuseum:aircraft_variant": "Pawnee",
     "sfomuseum:count_objects_public": 0,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1159291457,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Piper PA-25 Pawnee",
     "wof:parent_id": 102527921,
     "wof:placetype": "custom",

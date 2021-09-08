@@ -13,7 +13,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1963,
     "sfomuseum:aircraft_model": "787-8",
-    "sfomuseum:aircraft_name": "",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Boeing  787-8",
     "sfomuseum:count_objects_public": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Boeing ",
@@ -47,7 +48,7 @@
       }
     ],
     "wof:id": 1729554311,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Boeing  787-8",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

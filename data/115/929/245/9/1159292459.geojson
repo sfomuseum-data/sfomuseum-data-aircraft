@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1412,
     "sfomuseum:aircraft_model": "90A-2",
+    "sfomuseum:aircraft_modelname": "Scandia",
     "sfomuseum:aircraft_name": "Saab 90A-2 Scandia",
     "sfomuseum:aircraft_variant": "Scandia",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292459,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Saab 90A-2 Scandia",
     "wof:parent_id": 101752307,
     "wof:placetype": "custom",

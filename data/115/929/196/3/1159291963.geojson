@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1181,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Viscount",
     "sfomuseum:aircraft_name": "Vickers Viscount",
     "sfomuseum:aircraft_variant": "Viscount",
     "sfomuseum:count_objects_public": 5,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1159291963,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Vickers Viscount",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",

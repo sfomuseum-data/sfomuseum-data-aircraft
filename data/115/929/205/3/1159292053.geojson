@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1221,
     "sfomuseum:aircraft_model": "Yak-42",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Yakovlev Yak-42",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 3,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159292053,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Yakovlev Yak-42",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",

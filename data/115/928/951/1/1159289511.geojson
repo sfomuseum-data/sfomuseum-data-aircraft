@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 70,
     "sfomuseum:aircraft_model": "683",
+    "sfomuseum:aircraft_modelname": "Lancaster MK.1",
     "sfomuseum:aircraft_name": "Avro 683 Lancaster MK.1",
     "sfomuseum:aircraft_variant": "Lancaster MK.1",
     "sfomuseum:count_objects_public": 0,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1159289511,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Avro 683 Lancaster MK.1",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

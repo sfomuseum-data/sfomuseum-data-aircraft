@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 584,
     "sfomuseum:aircraft_model": "E.III",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Fokker E.III",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159290631,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fokker E.III",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

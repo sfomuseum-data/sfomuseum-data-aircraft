@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1518,
     "sfomuseum:aircraft_model": "172",
+    "sfomuseum:aircraft_modelname": "Skyhawk",
     "sfomuseum:aircraft_name": "Cessna 172 Skyhawk",
     "sfomuseum:aircraft_variant": "Skyhawk",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159292687,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cessna 172 Skyhawk",
     "wof:parent_id": 85945871,
     "wof:placetype": "custom",

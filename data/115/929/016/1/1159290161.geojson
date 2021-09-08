@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 360,
     "sfomuseum:aircraft_model": "F4U",
+    "sfomuseum:aircraft_modelname": "Corsair",
     "sfomuseum:aircraft_name": "Chance Vought F4U Corsair",
     "sfomuseum:aircraft_variant": "Corsair",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290161,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Chance Vought F4U Corsair",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

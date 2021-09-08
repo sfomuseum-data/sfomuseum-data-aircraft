@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 871,
     "sfomuseum:aircraft_model": "DC-10-30F",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "McDonnell Douglas DC-10-30F",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 1,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159291275,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "McDonnell Douglas DC-10-30F",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1446,
     "sfomuseum:aircraft_model": "DC-10",
+    "sfomuseum:aircraft_modelname": "Series 10CF",
     "sfomuseum:aircraft_name": "McDonnell Douglas DC-10 Series 10CF",
     "sfomuseum:aircraft_variant": "Series 10CF",
     "sfomuseum:count_objects_public": 0,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159292531,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "McDonnell Douglas DC-10 Series 10CF",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

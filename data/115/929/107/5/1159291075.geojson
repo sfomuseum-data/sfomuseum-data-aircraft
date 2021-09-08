@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 782,
     "sfomuseum:aircraft_model": "8",
+    "sfomuseum:aircraft_modelname": "Sirius Tingmissartoq",
     "sfomuseum:aircraft_name": "Lockheed 8 Sirius Tingmissartoq",
     "sfomuseum:aircraft_variant": "Sirius Tingmissartoq",
     "sfomuseum:count_objects_public": 1,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291075,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Lockheed 8 Sirius Tingmissartoq",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

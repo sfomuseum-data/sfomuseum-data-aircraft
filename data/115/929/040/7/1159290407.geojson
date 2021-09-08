@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 482,
     "sfomuseum:aircraft_model": "B-23",
+    "sfomuseum:aircraft_modelname": "Dragon",
     "sfomuseum:aircraft_name": "Douglas B-23 Dragon",
     "sfomuseum:aircraft_variant": "Dragon",
     "sfomuseum:count_objects_public": 0,
@@ -40,7 +41,7 @@
       }
     ],
     "wof:id": 1159290407,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Douglas B-23 Dragon",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

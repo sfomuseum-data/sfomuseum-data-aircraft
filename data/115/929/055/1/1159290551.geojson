@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 548,
     "sfomuseum:aircraft_model": "C-82",
+    "sfomuseum:aircraft_modelname": "Packet",
     "sfomuseum:aircraft_name": "Fairchild C-82 Packet",
     "sfomuseum:aircraft_variant": "Packet",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159290551,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Fairchild C-82 Packet",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

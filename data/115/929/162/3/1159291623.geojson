@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1029,
     "sfomuseum:aircraft_model": "S.45A",
+    "sfomuseum:aircraft_modelname": "Solent",
     "sfomuseum:aircraft_name": "Short S.45A Solent",
     "sfomuseum:aircraft_variant": "Solent",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159291623,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Short S.45A Solent",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

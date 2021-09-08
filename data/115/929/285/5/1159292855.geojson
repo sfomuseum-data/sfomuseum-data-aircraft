@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1609,
     "sfomuseum:aircraft_model": "Tu-154B",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Tupolev Tu-154B",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1159292855,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Tupolev Tu-154B",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",

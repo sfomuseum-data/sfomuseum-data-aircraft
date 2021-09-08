@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 251,
     "sfomuseum:aircraft_model": "747-400",
+    "sfomuseum:aircraft_modelname": "Megatop",
     "sfomuseum:aircraft_name": "Boeing 747-400 Megatop",
     "sfomuseum:aircraft_variant": "Megatop",
     "sfomuseum:count_objects_public": 1,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159289917,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Boeing 747-400 Megatop",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

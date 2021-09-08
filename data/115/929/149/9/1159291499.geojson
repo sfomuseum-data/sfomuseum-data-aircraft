@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 973,
     "sfomuseum:aircraft_model": "F.15",
+    "sfomuseum:aircraft_modelname": "Picchio",
     "sfomuseum:aircraft_name": "Procaer F.15 Picchio",
     "sfomuseum:aircraft_variant": "Picchio",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291499,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Procaer F.15 Picchio",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

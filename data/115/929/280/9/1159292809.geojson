@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1580,
     "sfomuseum:aircraft_model": "3000",
+    "sfomuseum:aircraft_modelname": "",
     "sfomuseum:aircraft_name": "Travel Air 3000",
     "sfomuseum:aircraft_variant": "",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159292809,
-    "wof:lastmodified": 1631043476,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Travel Air 3000",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",

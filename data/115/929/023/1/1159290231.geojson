@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 392,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Tractor Airboat",
     "sfomuseum:aircraft_name": "Cooke Tractor Airboat",
     "sfomuseum:aircraft_variant": "Tractor Airboat",
     "sfomuseum:count_objects_public": 0,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1159290231,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Cooke Tractor Airboat",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

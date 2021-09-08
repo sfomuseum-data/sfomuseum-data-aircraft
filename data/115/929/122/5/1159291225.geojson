@@ -14,6 +14,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 849,
     "sfomuseum:aircraft_model": "DC-9",
+    "sfomuseum:aircraft_modelname": "Series 30",
     "sfomuseum:aircraft_name": "Douglas DC-9 Series 30",
     "sfomuseum:aircraft_variant": "Series 30",
     "sfomuseum:count_objects_public": 5,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291225,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Douglas DC-9 Series 30",
     "wof:parent_id": 1159290395,
     "wof:placetype": "custom",

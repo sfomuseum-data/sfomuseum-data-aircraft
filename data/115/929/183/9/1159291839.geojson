@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1125,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Spitfire Mk.I",
     "sfomuseum:aircraft_name": "Supermarine Spitfire Mk.I",
     "sfomuseum:aircraft_variant": "Spitfire Mk.I",
     "sfomuseum:count_objects_public": 0,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159291839,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Supermarine Spitfire Mk.I",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",

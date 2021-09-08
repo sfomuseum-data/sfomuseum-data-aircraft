@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 965,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Special",
     "sfomuseum:aircraft_name": "Pitts Special",
     "sfomuseum:aircraft_variant": "Special",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291481,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Pitts Special",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

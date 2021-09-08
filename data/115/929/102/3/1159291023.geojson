@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 759,
     "sfomuseum:aircraft_model": "",
+    "sfomuseum:aircraft_modelname": "Sportster",
     "sfomuseum:aircraft_name": "Kinner Sportster",
     "sfomuseum:aircraft_variant": "Sportster",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291023,
-    "wof:lastmodified": 1631043474,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Kinner Sportster",
     "wof:parent_id": 85923615,
     "wof:placetype": "custom",

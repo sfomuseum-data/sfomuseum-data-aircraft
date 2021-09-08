@@ -15,6 +15,7 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 936,
     "sfomuseum:aircraft_model": "F-5F",
+    "sfomuseum:aircraft_modelname": "Tiger II",
     "sfomuseum:aircraft_name": "Northrop F-5F Tiger II",
     "sfomuseum:aircraft_variant": "Tiger II",
     "sfomuseum:count_objects_public": 0,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1159291417,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136928,
     "wof:name": "Northrop F-5F Tiger II",
     "wof:parent_id": 85923599,
     "wof:placetype": "custom",

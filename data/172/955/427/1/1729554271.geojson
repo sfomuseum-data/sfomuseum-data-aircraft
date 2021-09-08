@@ -13,7 +13,8 @@
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1941,
     "sfomuseum:aircraft_model": "P2Y",
-    "sfomuseum:aircraft_name": "",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Consolidated P2Y",
     "sfomuseum:count_objects_public": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Consolidated",
@@ -39,7 +40,7 @@
       }
     ],
     "wof:id": 1729554271,
-    "wof:lastmodified": 1631043475,
+    "wof:lastmodified": 1631136929,
     "wof:name": "Consolidated P2Y",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
