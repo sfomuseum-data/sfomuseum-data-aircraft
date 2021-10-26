@@ -10,6 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1339,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1159292301,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1635207850,
     "wof:name": "Ford 5-AT-C Tri-Motor",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

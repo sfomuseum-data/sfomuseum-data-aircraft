@@ -10,6 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_objects": 7,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1159290167,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1635207850,
     "wof:name": "Christofferson 1915 Flying Boat",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

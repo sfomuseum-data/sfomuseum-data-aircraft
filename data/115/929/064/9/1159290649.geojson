@@ -10,6 +10,7 @@
     "geom:latitude": 12.194274,
     "geom:longitude": -68.249092,
     "iso:country": "AN",
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159290649,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1635207850,
     "wof:name": "Fokker F.28 Fellowship",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",

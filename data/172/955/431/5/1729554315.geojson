@@ -11,6 +11,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 1966,
@@ -43,7 +44,7 @@
       }
     ],
     "wof:id": 1729554315,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1635207850,
     "wof:name": "Stinson SM-6000 Airliner",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

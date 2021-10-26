@@ -10,6 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 837,
@@ -41,7 +42,7 @@
       }
     ],
     "wof:id": 1159291199,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1635207850,
     "wof:name": "Martin M-130 Philippine Clipper",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
