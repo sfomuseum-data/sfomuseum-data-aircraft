@@ -10,6 +10,7 @@
     "geom:latitude": 42.118202,
     "geom:longitude": -72.539522,
     "iso:country": "US",
+    "millsfield:count_images": 4,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159290757,
-    "wof:lastmodified": 1635207850,
+    "wof:lastmodified": 1635209156,
     "wof:name": "Granville Brothers R-1 Super Sportster",
     "wof:parent_id": 85950393,
     "wof:placetype": "custom",

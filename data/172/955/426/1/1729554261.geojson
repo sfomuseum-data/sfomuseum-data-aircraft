@@ -9,6 +9,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XY",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -37,7 +38,7 @@
       }
     ],
     "wof:id": 1729554261,
-    "wof:lastmodified": 1635207850,
+    "wof:lastmodified": 1635209156,
     "wof:name": "Luftschiffbau Zeppelin LZ-129 Hindenburg",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
