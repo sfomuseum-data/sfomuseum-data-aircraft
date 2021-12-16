@@ -10,6 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 610,
@@ -41,7 +43,7 @@
       }
     ],
     "wof:id": 1159290689,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1639617871,
     "wof:name": "Ford 5-AT-D Tri-Motor",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
