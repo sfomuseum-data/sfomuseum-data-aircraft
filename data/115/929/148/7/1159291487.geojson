@@ -10,6 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1159291487,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1640128306,
     "wof:name": "Polikarpov I-16",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

@@ -10,6 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 943,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1159291433,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1640128306,
     "wof:name": "Percival Gull",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

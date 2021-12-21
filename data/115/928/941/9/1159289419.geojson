@@ -12,6 +12,7 @@
     "geom:latitude": 43.634465,
     "geom:longitude": 1.382665,
     "iso:country": "FR",
+    "millsfield:count_objects": 5,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1159289419,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1640128307,
     "wof:name": "Airbus A330",
     "wof:parent_id": 101748953,
     "wof:placetype": "custom",

@@ -10,6 +10,7 @@
     "geom:latitude": 58.33747,
     "geom:longitude": -112.384858,
     "iso:country": "CA",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1159292117,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1640128307,
     "wof:name": "Airspeed Ambassador",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",

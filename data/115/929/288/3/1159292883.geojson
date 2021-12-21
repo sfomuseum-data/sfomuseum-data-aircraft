@@ -10,6 +10,7 @@
     "geom:latitude": 54.109117,
     "geom:longitude": -3.21349,
     "iso:country": "GB",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1159292883,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1640128306,
     "wof:name": "Vickers Vimy",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",

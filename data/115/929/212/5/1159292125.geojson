@@ -10,6 +10,7 @@
     "geom:latitude": 10.24694,
     "geom:longitude": -67.59583,
     "iso:country": "VE",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1159292125,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1640128306,
     "wof:name": "Albatros D.I",
     "wof:parent_id": 421181395,
     "wof:placetype": "custom",

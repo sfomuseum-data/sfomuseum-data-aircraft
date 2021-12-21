@@ -10,6 +10,7 @@
     "geom:latitude": 46.698481,
     "geom:longitude": 2.549047,
     "iso:country": "FR",
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -57,7 +58,7 @@
       }
     ],
     "wof:id": 1159291743,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1640128307,
     "wof:name": "SPAD XIII",
     "wof:parent_id": 85633147,
     "wof:placetype": "custom",
