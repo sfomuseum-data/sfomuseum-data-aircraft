@@ -11,7 +11,7 @@
     "geom:longitude": -0.145641,
     "iso:country": "GB",
     "millsfield:count_images": 4,
-    "millsfield:count_objects": 2,
+    "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1159290321,
-    "wof:lastmodified": 1637706978,
+    "wof:lastmodified": 1641361374,
     "wof:name": "de Havilland DH-106 Comet 1",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",

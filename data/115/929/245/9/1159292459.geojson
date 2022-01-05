@@ -10,6 +10,8 @@
     "geom:latitude": 59.275254,
     "geom:longitude": 18.035164,
     "iso:country": "SE",
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1159292459,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1641361418,
     "wof:name": "Saab 90A-2 Scandia",
     "wof:parent_id": 101752307,
     "wof:placetype": "custom",

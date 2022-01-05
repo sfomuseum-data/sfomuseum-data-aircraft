@@ -10,7 +10,8 @@
     "geom:latitude": 34.185797,
     "geom:longitude": -118.322584,
     "iso:country": "US",
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1159291099,
-    "wof:lastmodified": 1635207850,
+    "wof:lastmodified": 1641361418,
     "wof:name": "Lockheed L-1049H Super H Constellation",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",

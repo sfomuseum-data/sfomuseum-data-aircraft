@@ -10,6 +10,8 @@
     "geom:latitude": 52.52045,
     "geom:longitude": 13.40732,
     "iso:country": "DE",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1159293217,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1641361418,
     "wof:name": "Rohrbach Ro VIII Roland",
     "wof:parent_id": 101748799,
     "wof:placetype": "custom",

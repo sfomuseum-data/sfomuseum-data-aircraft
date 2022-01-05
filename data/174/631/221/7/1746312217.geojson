@@ -8,6 +8,8 @@
     "geom:bbox": "-118.322584,34.185797,-118.322584,34.185797",
     "geom:latitude": 34.185797,
     "geom:longitude": -118.322584,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 1996,
     "sfomuseum:aircraft_model": "Model 12A",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1746312217,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1641361418,
     "wof:name": "Lockheed Model 12A Electra Junior",
     "wof:parent_id": 1159293697,
     "wof:placetype": "custom",
