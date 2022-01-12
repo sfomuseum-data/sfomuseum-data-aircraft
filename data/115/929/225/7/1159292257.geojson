@@ -11,7 +11,7 @@
     "geom:longitude": -118.322584,
     "iso:country": "US",
     "millsfield:count_images": 1,
-    "millsfield:count_objects": 3,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159292257,
-    "wof:lastmodified": 1637706978,
+    "wof:lastmodified": 1641942105,
     "wof:name": "Lockheed 5 Vega Winnie Mae",
     "wof:parent_id": 85923691,
     "wof:placetype": "custom",
