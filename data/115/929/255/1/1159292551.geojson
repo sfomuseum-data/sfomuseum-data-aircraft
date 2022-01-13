@@ -10,6 +10,7 @@
     "geom:latitude": 51.559312,
     "geom:longitude": -0.220332,
     "iso:country": "GB",
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1159292551,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1641942105,
     "wof:name": "Handley Page Jetstream",
     "wof:parent_id": 85786881,
     "wof:placetype": "custom",
