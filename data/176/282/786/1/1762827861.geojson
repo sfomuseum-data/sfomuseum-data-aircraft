@@ -1,0 +1,54 @@
+{
+  "id": 1762827861,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "1989-01-01",
+    "date:cessation_upper": "1989-12-31",
+    "date:inception_lower": "1953-01-01",
+    "date:inception_upper": "1953-12-31",
+    "edtf:cessation": "1989",
+    "edtf:inception": "1953",
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2009,
+    "sfomuseum:aircraft_model": "N 2501",
+    "sfomuseum:aircraft_modelname": "Noratlas",
+    "sfomuseum:aircraft_name": "Nord N 2501 Noratlas",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Nord",
+    "sfomuseum:manufacturer_id": 1762827859,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1762827859
+    ],
+    "wof:country": "XY",
+    "wof:created": 1642728009,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1762827861,
+        "company_id": 1762827859
+      }
+    ],
+    "wof:id": 1762827861,
+    "wof:lastmodified": 1642728009,
+    "wof:name": "Nord N 2501 Noratlas",
+    "wof:parent_id": 1762827859,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}
