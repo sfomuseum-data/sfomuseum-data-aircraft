@@ -1,0 +1,63 @@
+{
+  "id": 1763109755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "10.897137,49.895431,10.897137,49.895431",
+    "geom:latitude": 49.895431,
+    "geom:longitude": 10.897137,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2010,
+    "sfomuseum:aircraft_model": "Bf-110",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Messerschmitt Bf-110",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Messerschmitt",
+    "sfomuseum:manufacturer_id": 1159293731,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293731,
+      102191581,
+      85633111,
+      102063533,
+      101748561,
+      404227583,
+      85682571
+    ],
+    "wof:country": "DE",
+    "wof:created": 1645219415,
+    "wof:geomhash": "e9f21ec30b5f2e2f40fa2484e1449e1b",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1763109755,
+        "company_id": 1159293731,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063533,
+        "enterprise_id": 1159293731,
+        "locality_id": 101748561,
+        "macrocounty_id": 404227583,
+        "region_id": 85682571
+      }
+    ],
+    "wof:id": 1763109755,
+    "wof:lastmodified": 1645219415,
+    "wof:name": "Messerschmitt Bf-110",
+    "wof:parent_id": 1159293731,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    10.897137,
+    49.895431,
+    10.897137,
+    49.895431
+  ],
+  "geometry": {"coordinates":[10.897137,49.895431],"type":"Point"}
+}
