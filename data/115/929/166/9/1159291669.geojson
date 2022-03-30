@@ -10,7 +10,7 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
-    "millsfield:count_images": 66,
+    "millsfield:count_images": 68,
     "millsfield:count_objects": 31,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1159291669,
-    "wof:lastmodified": 1641942160,
+    "wof:lastmodified": 1648626344,
     "wof:name": "Sikorsky (USA) S-42",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
