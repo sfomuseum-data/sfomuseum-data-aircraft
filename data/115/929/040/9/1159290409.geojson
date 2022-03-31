@@ -10,6 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 483,
@@ -49,7 +51,7 @@
       }
     ],
     "wof:id": 1159290409,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1648683816,
     "wof:name": "Douglas C-47 Skytrain",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

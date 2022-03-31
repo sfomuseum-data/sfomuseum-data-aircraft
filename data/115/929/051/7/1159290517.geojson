@@ -10,7 +10,8 @@
     "geom:latitude": -23.236577,
     "geom:longitude": -45.859225,
     "iso:country": "BR",
-    "millsfield:count_objects": 4,
+    "millsfield:count_images": 10,
+    "millsfield:count_objects": 8,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1159290517,
-    "wof:lastmodified": 1641942105,
+    "wof:lastmodified": 1648683816,
     "wof:name": "Embraer EMB-145 ERJ-145",
     "wof:parent_id": 101965823,
     "wof:placetype": "custom",
