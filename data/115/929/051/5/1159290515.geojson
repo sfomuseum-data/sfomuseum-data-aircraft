@@ -12,7 +12,7 @@
     "geom:latitude": -23.236577,
     "geom:longitude": -45.859225,
     "iso:country": "BR",
-    "millsfield:count_images": 11,
+    "millsfield:count_images": 12,
     "millsfield:count_objects": 14,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1159290515,
-    "wof:lastmodified": 1642731944,
+    "wof:lastmodified": 1648799217,
     "wof:name": "Embraer EMB-120 Brasilia",
     "wof:parent_id": 101965823,
     "wof:placetype": "custom",

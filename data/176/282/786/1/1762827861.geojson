@@ -12,6 +12,7 @@
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
     "geom:longitude": 0,
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2009,
@@ -36,7 +37,7 @@
       }
     ],
     "wof:id": 1762827861,
-    "wof:lastmodified": 1648683789,
+    "wof:lastmodified": 1648799217,
     "wof:name": "Nord N 2501 Noratlas",
     "wof:parent_id": 1762827859,
     "wof:placetype": "custom",
