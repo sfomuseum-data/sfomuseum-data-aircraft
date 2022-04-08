@@ -9,6 +9,7 @@
     "geom:latitude": 51.196755,
     "geom:longitude": 9.62743,
     "iso:country": "DE",
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -43,7 +44,7 @@
       }
     ],
     "wof:id": 1729554275,
-    "wof:lastmodified": 1640128306,
+    "wof:lastmodified": 1649405549,
     "wof:name": "Zeppelin LZ-1",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

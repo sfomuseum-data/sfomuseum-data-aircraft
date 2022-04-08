@@ -10,7 +10,7 @@
     "geom:latitude": 43.603902,
     "geom:longitude": 1.440694,
     "iso:country": "FR",
-    "millsfield:count_images": 8,
+    "millsfield:count_images": 10,
     "millsfield:count_objects": 6,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1159291829,
-    "wof:lastmodified": 1641942105,
+    "wof:lastmodified": 1649405549,
     "wof:name": "Sud Aviation SE 210 Caravelle",
     "wof:parent_id": 101750691,
     "wof:placetype": "custom",

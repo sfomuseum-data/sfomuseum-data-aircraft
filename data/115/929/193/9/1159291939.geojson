@@ -10,7 +10,7 @@
     "geom:latitude": 55.741469,
     "geom:longitude": 37.615561,
     "iso:country": "RU",
-    "millsfield:count_images": 1,
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1159291939,
-    "wof:lastmodified": 1648626344,
+    "wof:lastmodified": 1649405549,
     "wof:name": "Tupolev Tu-154",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",

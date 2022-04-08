@@ -10,6 +10,7 @@
     "geom:latitude": 38.635957,
     "geom:longitude": -90.239861,
     "iso:country": "US",
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1159291275,
-    "wof:lastmodified": 1640128307,
+    "wof:lastmodified": 1649405549,
     "wof:name": "McDonnell Douglas DC-10-30F",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",

@@ -10,6 +10,7 @@
     "geom:latitude": 55.741469,
     "geom:longitude": 37.615561,
     "iso:country": "RU",
+    "millsfield:count_images": 3,
     "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1159290965,
-    "wof:lastmodified": 1640128306,
+    "wof:lastmodified": 1649405549,
     "wof:name": "Ilyushin Il-76",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",
