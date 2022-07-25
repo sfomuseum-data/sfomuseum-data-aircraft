@@ -1,0 +1,61 @@
+{
+  "id": 1779960859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
+    "geom:latitude": 47.673455,
+    "geom:longitude": -122.331537,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2021,
+    "sfomuseum:aircraft_model": "707-323",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Boeing 707-323",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Boeing",
+    "sfomuseum:manufacturer_id": 1159293593,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "mz",
+    "wof:belongsto": [
+      1159293593,
+      102191575,
+      85633793,
+      102086191,
+      101730401,
+      85688623
+    ],
+    "wof:country": "US",
+    "wof:created": 1658733961,
+    "wof:geomhash": "edbb74d99b044b4b44a64e901c4475a3",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1779960859,
+        "company_id": 1159293593,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "enterprise_id": 1159293593,
+        "locality_id": 101730401,
+        "region_id": 85688623
+      }
+    ],
+    "wof:id": 1779960859,
+    "wof:lastmodified": 1658733961,
+    "wof:name": "Boeing 707-323",
+    "wof:parent_id": 1159293593,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.331537,
+    47.673455,
+    -122.331537,
+    47.673455
+  ],
+  "geometry": {"coordinates":[-122.331537,47.673455],"type":"Point"}
+}
