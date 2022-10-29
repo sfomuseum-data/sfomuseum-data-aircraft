@@ -1,0 +1,63 @@
+{
+  "id": 1796509221,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "1942-01-01",
+    "date:cessation_upper": "1942-12-31",
+    "date:inception_lower": "1923-01-01",
+    "date:inception_upper": "1923-12-31",
+    "edtf:cessation": "1942",
+    "edtf:inception": "1923",
+    "geom:area": 0,
+    "geom:bbox": "-0.145641,51.846273,-0.145641,51.846273",
+    "geom:latitude": 51.846273,
+    "geom:longitude": -0.145641,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2032,
+    "sfomuseum:aircraft_model": "DH-50",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "de Havilland DH-50",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "de Havilland",
+    "sfomuseum:manufacturer_id": 1159293995,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293995,
+      102191581,
+      85633159,
+      404227469,
+      85684331
+    ],
+    "wof:country": "GB",
+    "wof:created": 1667028422,
+    "wof:geomhash": "95e993cee0e6fe2d42920af14041b551",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1796509221,
+        "company_id": 1159293995,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293995,
+        "macroregion_id": 404227469,
+        "region_id": 85684331
+      }
+    ],
+    "wof:id": 1796509221,
+    "wof:lastmodified": 1667028422,
+    "wof:name": "de Havilland DH-50",
+    "wof:parent_id": 1159293995,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -0.145641,
+    51.846273,
+    -0.145641,
+    51.846273
+  ],
+  "geometry": {"coordinates":[-0.145641,51.846273],"type":"Point"}
+}
