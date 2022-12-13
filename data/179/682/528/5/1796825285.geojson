@@ -1,0 +1,54 @@
+{
+  "id": 1796825285,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "1942-01-01",
+    "date:cessation_upper": "1942-12-31",
+    "date:inception_lower": "1933-01-01",
+    "date:inception_upper": "1933-12-31",
+    "edtf:cessation": "1942",
+    "edtf:inception": "1933",
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2036,
+    "sfomuseum:aircraft_model": "H-242",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Loire et Olivier H-242",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Loire et Olivier",
+    "sfomuseum:manufacturer_id": 1796825281,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1796825281
+    ],
+    "wof:country": "XY",
+    "wof:created": 1670920750,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1796825285,
+        "company_id": 1796825281
+      }
+    ],
+    "wof:id": 1796825285,
+    "wof:lastmodified": 1670920750,
+    "wof:name": "Loire et Olivier H-242",
+    "wof:parent_id": 1796825281,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}
