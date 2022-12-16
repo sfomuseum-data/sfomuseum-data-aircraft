@@ -1,0 +1,63 @@
+{
+  "id": 1796846865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-74.201332,40.431420,-74.201332,40.431420",
+    "geom:latitude": 40.43142,
+    "geom:longitude": -74.201332,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2042,
+    "sfomuseum:aircraft_model": "85",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Aeromarine 85",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Aeromarine",
+    "sfomuseum:manufacturer_id": 1159293955,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293955,
+      102191575,
+      85633793,
+      102085049,
+      404478357,
+      85975431,
+      85688607
+    ],
+    "wof:country": "US",
+    "wof:created": 1671179818,
+    "wof:geomhash": "f54618805503aa0a0c6a218f13df69c8",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1796846865,
+        "company_id": 1159293955,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085049,
+        "enterprise_id": 1159293955,
+        "localadmin_id": 404478357,
+        "locality_id": 85975431,
+        "region_id": 85688607
+      }
+    ],
+    "wof:id": 1796846865,
+    "wof:lastmodified": 1671179818,
+    "wof:name": "Aeromarine 85",
+    "wof:parent_id": 1159293955,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -74.201332,
+    40.43142,
+    -74.201332,
+    40.43142
+  ],
+  "geometry": {"coordinates":[-74.201332,40.43142],"type":"Point"}
+}
