@@ -1,0 +1,68 @@
+{
+  "id": 1813375783,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2016-01-01",
+    "date:inception_upper": "2016-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2016",
+    "geom:area": 0,
+    "geom:bbox": "1.382665,43.634465,1.382665,43.634465",
+    "geom:latitude": 43.634465,
+    "geom:longitude": 1.382665,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": -1,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293829,
+      102191581,
+      85633147,
+      102071607,
+      136253037,
+      404421307,
+      101748953,
+      404228067,
+      1108826387,
+      85683397
+    ],
+    "wof:concordances": {
+      "icao:designator": "BCS3"
+    },
+    "wof:country": "XY",
+    "wof:created": 1677704703,
+    "wof:geomhash": "82b186aac2b5862decc2c12d01c07d05",
+    "wof:hierarchy": [
+      {
+        "company_id": 1159293829,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102071607,
+        "custom_id": 1813375783,
+        "empire_id": 136253037,
+        "enterprise_id": 1159293829,
+        "localadmin_id": 404421307,
+        "locality_id": 101748953,
+        "macrocounty_id": 404228067,
+        "macroregion_id": 1108826387,
+        "region_id": 85683397
+      }
+    ],
+    "wof:id": 1813375783,
+    "wof:lastmodified": 1677704703,
+    "wof:name": "Airbus A220-300",
+    "wof:parent_id": 1159293829,
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    1.382665,
+    43.634465,
+    1.382665,
+    43.634465
+  ],
+  "geometry": {"coordinates":[1.382665,43.634465],"type":"Point"}
+}
