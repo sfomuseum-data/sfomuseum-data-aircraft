@@ -1,0 +1,63 @@
+{
+  "id": 1813515999,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1926-01-01",
+    "date:inception_upper": "1926-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1926",
+    "geom:area": 0,
+    "geom:bbox": "12.223600,51.829379,12.223600,51.829379",
+    "geom:latitude": 51.829379,
+    "geom:longitude": 12.2236,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2048,
+    "sfomuseum:aircraft_model": "W34",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Junkers W34",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Junkers",
+    "sfomuseum:manufacturer_id": 1159294171,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159294171,
+      102191581,
+      85633111,
+      102063851,
+      101748765,
+      85682519
+    ],
+    "wof:country": "DE",
+    "wof:created": 1678302534,
+    "wof:geomhash": "ac971058eea33226b04a55cbb0537115",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1813515999,
+        "company_id": 1159294171,
+        "continent_id": 102191581,
+        "country_id": 85633111,
+        "county_id": 102063851,
+        "enterprise_id": 1159294171,
+        "locality_id": 101748765,
+        "region_id": 85682519
+      }
+    ],
+    "wof:id": 1813515999,
+    "wof:lastmodified": 1678302534,
+    "wof:name": "Junkers W34",
+    "wof:parent_id": 1159294171,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    12.2236,
+    51.829379,
+    12.2236,
+    51.829379
+  ],
+  "geometry": {"coordinates":[12.2236,51.829379],"type":"Point"}
+}
