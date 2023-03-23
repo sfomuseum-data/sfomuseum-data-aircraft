@@ -8,6 +8,8 @@
     "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2033,
     "sfomuseum:aircraft_model": "314",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1796798071,
-    "wof:lastmodified": 1670575020,
+    "wof:lastmodified": 1679559414,
     "wof:name": "Boeing 314 Anzac Clipper",
     "wof:parent_id": 1159293593,
     "wof:placetype": "custom",
