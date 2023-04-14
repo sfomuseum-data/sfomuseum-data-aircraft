@@ -1,0 +1,65 @@
+{
+  "id": 1847582529,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1936-01-01",
+    "date:inception_upper": "1936-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1936",
+    "geom:area": 0,
+    "geom:bbox": "-84.371092,39.501880,-84.371092,39.501880",
+    "geom:latitude": 39.50188,
+    "geom:longitude": -84.371092,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2057,
+    "sfomuseum:aircraft_model": "PC-3",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Aeronca PC-3",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Aeronca",
+    "sfomuseum:manufacturer_id": 1159293617,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293617,
+      102191575,
+      85633793,
+      102084743,
+      404524795,
+      101712653,
+      85688485
+    ],
+    "wof:country": "US",
+    "wof:created": 1681457310,
+    "wof:geomhash": "a22289ff9032666364385ce7dafd629c",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1847582529,
+        "company_id": 1159293617,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084743,
+        "enterprise_id": 1159293617,
+        "localadmin_id": 404524795,
+        "locality_id": 101712653,
+        "region_id": 85688485
+      }
+    ],
+    "wof:id": 1847582529,
+    "wof:lastmodified": 1681457310,
+    "wof:name": "Aeronca PC-3",
+    "wof:parent_id": 1159293617,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -84.371092,
+    39.50188,
+    -84.371092,
+    39.50188
+  ],
+  "geometry": {"coordinates":[-84.371092,39.50188],"type":"Point"}
+}
