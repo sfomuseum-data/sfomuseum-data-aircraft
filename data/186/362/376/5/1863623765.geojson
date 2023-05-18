@@ -1,0 +1,63 @@
+{
+  "id": 1863623765,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2017-05-22",
+    "date:inception_upper": "2017-05-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2017-05-22",
+    "geom:area": 0,
+    "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
+    "geom:latitude": 47.673455,
+    "geom:longitude": -122.331537,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2058,
+    "sfomuseum:aircraft_model": "737",
+    "sfomuseum:aircraft_modelname": "MAX",
+    "sfomuseum:aircraft_name": "Boeing 737 MAX",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Boeing",
+    "sfomuseum:manufacturer_id": 1159293593,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "mz",
+    "wof:belongsto": [
+      1159293593,
+      102191575,
+      85633793,
+      102086191,
+      101730401,
+      85688623
+    ],
+    "wof:country": "US",
+    "wof:created": 1684395064,
+    "wof:geomhash": "edbb74d99b044b4b44a64e901c4475a3",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1863623765,
+        "company_id": 1159293593,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "enterprise_id": 1159293593,
+        "locality_id": 101730401,
+        "region_id": 85688623
+      }
+    ],
+    "wof:id": 1863623765,
+    "wof:lastmodified": 1684395064,
+    "wof:name": "Boeing 737 MAX",
+    "wof:parent_id": 1159293593,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.331537,
+    47.673455,
+    -122.331537,
+    47.673455
+  ],
+  "geometry": {"coordinates":[-122.331537,47.673455],"type":"Point"}
+}
