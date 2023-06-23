@@ -8,6 +8,8 @@
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
     "geom:longitude": 0,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2024,
     "sfomuseum:aircraft_model": "One-Eleven",
@@ -34,7 +36,7 @@
       }
     ],
     "wof:id": 1780261445,
-    "wof:lastmodified": 1660548618,
+    "wof:lastmodified": 1687508648,
     "wof:name": "BAC One-Eleven Series 200",
     "wof:parent_id": 1159293741,
     "wof:placetype": "custom",
