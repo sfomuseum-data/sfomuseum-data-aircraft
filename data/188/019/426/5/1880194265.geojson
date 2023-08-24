@@ -1,0 +1,57 @@
+{
+  "id": 1880194265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
+    "geom:latitude": 39.715956,
+    "geom:longitude": -96.999668,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2060,
+    "sfomuseum:aircraft_model": "4-C",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Stearman 4-C",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Stearman",
+    "sfomuseum:manufacturer_id": 1159294161,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159294161,
+      102191575,
+      85633793,
+      136253057
+    ],
+    "wof:country": "US",
+    "wof:created": 1692862305,
+    "wof:geomhash": "bc8b3dbc9ab366336bc39cd9e4045ce1",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1880194265,
+        "company_id": 1159294161,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "empire_id": 136253057,
+        "enterprise_id": 1159294161
+      }
+    ],
+    "wof:id": 1880194265,
+    "wof:lastmodified": 1692862305,
+    "wof:name": "Stearman 4-C",
+    "wof:parent_id": 1159294161,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -96.999668,
+    39.715956,
+    -96.999668,
+    39.715956
+  ],
+  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+}
