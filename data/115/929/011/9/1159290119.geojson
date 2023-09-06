@@ -10,6 +10,8 @@
     "geom:latitude": 52.287696,
     "geom:longitude": 13.442033,
     "iso:country": "DE",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -53,7 +55,7 @@
       }
     ],
     "wof:id": 1159290119,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1694023369,
     "wof:name": "Bücker Bü 133A Jungmeister",
     "wof:parent_id": 101819585,
     "wof:placetype": "custom",

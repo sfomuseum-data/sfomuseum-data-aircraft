@@ -1,0 +1,71 @@
+{
+  "id": 1880318395,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1914-01-01",
+    "date:inception_upper": "1914-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1914",
+    "geom:area": 0,
+    "geom:bbox": "2.104872,48.750889,2.104872,48.750889",
+    "geom:latitude": 48.750889,
+    "geom:longitude": 2.104872,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2066,
+    "sfomuseum:aircraft_model": "MF.11",
+    "sfomuseum:aircraft_modelname": "Shorthorn",
+    "sfomuseum:aircraft_name": "Farman MF.11 Shorthorn",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Farman",
+    "sfomuseum:manufacturer_id": 1159293691,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293691,
+      102191581,
+      85633147,
+      102069753,
+      404413665,
+      101753455,
+      404228265,
+      404227465,
+      85683367
+    ],
+    "wof:country": "FR",
+    "wof:created": 1694019747,
+    "wof:geomhash": "1c5364f53e3cc57c85276d4feab01211",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1880318395,
+        "company_id": 1159293691,
+        "continent_id": 102191581,
+        "country_id": 85633147,
+        "county_id": 102069753,
+        "enterprise_id": 1159293691,
+        "localadmin_id": 404413665,
+        "locality_id": 101753455,
+        "macrocounty_id": 404228265,
+        "macroregion_id": 404227465,
+        "region_id": 85683367
+      }
+    ],
+    "wof:id": 1880318395,
+    "wof:lastmodified": 1694023369,
+    "wof:name": "Farman MF.11 Shorthorn",
+    "wof:parent_id": 1159293691,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    2.104872,
+    48.750889,
+    2.104872,
+    48.750889
+  ],
+  "geometry": {"coordinates":[2.104872,48.750889],"type":"Point"}
+}

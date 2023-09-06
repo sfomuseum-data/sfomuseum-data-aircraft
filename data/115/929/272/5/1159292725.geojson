@@ -10,6 +10,8 @@
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
     "iso:country": "GB",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -49,7 +51,7 @@
       }
     ],
     "wof:id": 1159292725,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1694023369,
     "wof:name": "de Havilland (Canada) DHC-3 Otter",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
