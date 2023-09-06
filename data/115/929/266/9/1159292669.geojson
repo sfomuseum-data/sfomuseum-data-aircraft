@@ -10,6 +10,8 @@
     "geom:latitude": 48.823024,
     "geom:longitude": 2.264404,
     "iso:country": "FR",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1159292669,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1694023369,
     "wof:name": "Caudron C.445 Goeland",
     "wof:parent_id": 101749789,
     "wof:placetype": "custom",

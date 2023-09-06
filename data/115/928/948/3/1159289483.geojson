@@ -10,6 +10,8 @@
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
     "iso:country": "GB",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1159289483,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1694023369,
     "wof:name": "Armstrong Whitworth A.W.27 Ensign",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
