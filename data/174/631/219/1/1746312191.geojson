@@ -10,7 +10,7 @@
     "geom:bbox": "-118.322584,34.185797,-118.322584,34.185797",
     "geom:latitude": 34.185797,
     "geom:longitude": -118.322584,
-    "millsfield:count_images": 1,
+    "millsfield:count_images": 4,
     "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 1976,
@@ -46,7 +46,7 @@
       }
     ],
     "wof:id": 1746312191,
-    "wof:lastmodified": 1648799217,
+    "wof:lastmodified": 1695198086,
     "wof:name": "Lockheed C-5 Galaxy",
     "wof:parent_id": 1159293697,
     "wof:placetype": "custom",
