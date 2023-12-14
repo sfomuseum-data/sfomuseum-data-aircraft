@@ -10,7 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 121,
+    "millsfield:count_images": 124,
     "millsfield:count_objects": 54,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -54,7 +54,7 @@
       }
     ],
     "wof:id": 1159290417,
-    "wof:lastmodified": 1649405549,
+    "wof:lastmodified": 1702543101,
     "wof:name": "Douglas DC-3",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
