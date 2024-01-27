@@ -8,6 +8,8 @@
     "geom:bbox": "-118.322584,34.185797,-118.322584,34.185797",
     "geom:latitude": 34.185797,
     "geom:longitude": -118.322584,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2068,
     "sfomuseum:aircraft_model": "1649 ",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1880745253,
-    "wof:lastmodified": 1698132732,
+    "wof:lastmodified": 1706344591,
     "wof:name": "Lockheed 1649  Starliner",
     "wof:parent_id": 1159293697,
     "wof:placetype": "custom",
