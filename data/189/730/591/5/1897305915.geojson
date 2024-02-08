@@ -1,0 +1,54 @@
+{
+  "id": 1897305915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 633,
+    "sfomuseum:aircraft_model": "Zeppelin",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Goodyear Zeppelin",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Goodyear",
+    "sfomuseum:manufacturer_id": 1159290739,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159290739,
+      1
+    ],
+    "wof:country": "XN",
+    "wof:created": 1707380964,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "actor_id": 1159290739,
+        "aircraft_id": 1897305915,
+        "company_id": 1159290739,
+        "country_id": 1,
+        "enterprise_id": 1159290739
+      }
+    ],
+    "wof:id": 1897305915,
+    "wof:lastmodified": 1707380964,
+    "wof:name": "Goodyear Zeppelin",
+    "wof:parent_id": 1159290739,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

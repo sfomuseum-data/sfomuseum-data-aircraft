@@ -1,0 +1,50 @@
+{
+  "id": 1897305929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2005,
+    "sfomuseum:aircraft_model": "Canard",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Drzewiecki Canard",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Drzewiecki",
+    "sfomuseum:manufacturer_id": 1746308317,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1746308317
+    ],
+    "wof:country": "XY",
+    "wof:created": 1707380967,
+    "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1897305929,
+        "company_id": 1746308317
+      }
+    ],
+    "wof:id": 1897305929,
+    "wof:lastmodified": 1707380967,
+    "wof:name": "Drzewiecki Canard",
+    "wof:parent_id": 1746308317,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

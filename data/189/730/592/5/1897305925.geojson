@@ -1,0 +1,67 @@
+{
+  "id": 1897305925,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1915-01-01",
+    "date:inception_upper": "1915-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1915",
+    "geom:area": 0,
+    "geom:bbox": "-0.310941,51.409565,-0.310941,51.409565",
+    "geom:latitude": 51.409565,
+    "geom:longitude": -0.310941,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 1990,
+    "sfomuseum:aircraft_model": "Baby",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Sopwith Baby",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Sopwith",
+    "sfomuseum:manufacturer_id": 1159293547,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293547,
+      102191581,
+      85633159,
+      404435563,
+      101750367,
+      404227469,
+      85788611,
+      85684061
+    ],
+    "wof:country": "GB",
+    "wof:created": 1707380966,
+    "wof:geomhash": "690ee2decb95424477ae570697390940",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1897305925,
+        "company_id": 1159293547,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293547,
+        "localadmin_id": 404435563,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85788611,
+        "region_id": 85684061
+      }
+    ],
+    "wof:id": 1897305925,
+    "wof:lastmodified": 1707380966,
+    "wof:name": "Sopwith Baby",
+    "wof:parent_id": 1159293547,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -0.310941,
+    51.409565,
+    -0.310941,
+    51.409565
+  ],
+  "geometry": {"coordinates":[-0.310941,51.409565],"type":"Point"}
+}
