@@ -1,0 +1,63 @@
+{
+  "id": 1897305919,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1937-01-01",
+    "date:inception_upper": "1937-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1937",
+    "geom:area": 0,
+    "geom:bbox": "-3.213490,54.109117,-3.213490,54.109117",
+    "geom:latitude": 54.109117,
+    "geom:longitude": -3.21349,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 1983,
+    "sfomuseum:aircraft_model": "Wellesley",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Vickers Wellesley",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Vickers",
+    "sfomuseum:manufacturer_id": 1159293777,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293777,
+      102191581,
+      85633159,
+      404450105,
+      101872343,
+      85683641
+    ],
+    "wof:country": "GB",
+    "wof:created": 1707380965,
+    "wof:geomhash": "556494fc494b2879fdb1e1ff525fca96",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1897305919,
+        "company_id": 1159293777,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293777,
+        "localadmin_id": 404450105,
+        "locality_id": 101872343,
+        "region_id": 85683641
+      }
+    ],
+    "wof:id": 1897305919,
+    "wof:lastmodified": 1707380965,
+    "wof:name": "Vickers Wellesley",
+    "wof:parent_id": 1159293777,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -3.21349,
+    54.109117,
+    -3.21349,
+    54.109117
+  ],
+  "geometry": {"coordinates":[-3.21349,54.109117],"type":"Point"}
+}
