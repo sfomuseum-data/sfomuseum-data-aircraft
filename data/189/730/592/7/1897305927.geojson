@@ -8,6 +8,8 @@
     "geom:bbox": "-1.247349,52.418788,-1.247349,52.418788",
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
+    "millsfield:count_images": 5,
+    "millsfield:count_objects": 3,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2011,
     "sfomuseum:aircraft_model": "Britannia",
@@ -38,7 +40,7 @@
       }
     ],
     "wof:id": 1897305927,
-    "wof:lastmodified": 1707380966,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Bristol Britannia",
     "wof:parent_id": 1159294175,
     "wof:placetype": "custom",

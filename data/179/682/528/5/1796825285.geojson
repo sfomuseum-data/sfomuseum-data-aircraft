@@ -12,6 +12,8 @@
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
     "geom:longitude": 0,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2036,
     "sfomuseum:aircraft_model": "H-242",
@@ -35,7 +37,7 @@
       }
     ],
     "wof:id": 1796825285,
-    "wof:lastmodified": 1670920750,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Loire et Olivier H-242",
     "wof:parent_id": 1796825281,
     "wof:placetype": "custom",

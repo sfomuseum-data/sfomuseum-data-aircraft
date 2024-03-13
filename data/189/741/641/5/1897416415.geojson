@@ -8,6 +8,8 @@
     "geom:bbox": "-68.249092,12.194274,-68.249092,12.194274",
     "geom:latitude": 12.194274,
     "geom:longitude": -68.249092,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2073,
     "sfomuseum:aircraft_model": "F.29",
@@ -35,7 +37,7 @@
       }
     ],
     "wof:id": 1897416415,
-    "wof:lastmodified": 1708504188,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Fokker F.29",
     "wof:parent_id": 1159293619,
     "wof:placetype": "custom",

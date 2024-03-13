@@ -10,6 +10,8 @@
     "geom:latitude": 33.93656,
     "geom:longitude": -118.13387,
     "iso:country": "US",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1159292861,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Vultee V-1A",
     "wof:parent_id": 85923637,
     "wof:placetype": "custom",

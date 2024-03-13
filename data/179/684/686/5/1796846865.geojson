@@ -8,6 +8,8 @@
     "geom:bbox": "-74.201332,40.431420,-74.201332,40.431420",
     "geom:latitude": 40.43142,
     "geom:longitude": -74.201332,
+    "millsfield:count_images": 8,
+    "millsfield:count_objects": 4,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2042,
     "sfomuseum:aircraft_model": "85",
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1796846865,
-    "wof:lastmodified": 1671179818,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Aeromarine 85",
     "wof:parent_id": 1159293955,
     "wof:placetype": "custom",

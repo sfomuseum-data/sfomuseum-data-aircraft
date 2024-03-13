@@ -8,6 +8,8 @@
     "geom:bbox": "-117.155290,32.727930,-117.155290,32.727930",
     "geom:latitude": 32.72793,
     "geom:longitude": -117.15529,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2008,
     "sfomuseum:aircraft_model": "CV-240",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1762758959,
-    "wof:lastmodified": 1641940731,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Convair CV-240",
     "wof:parent_id": 1159293605,
     "wof:placetype": "custom",

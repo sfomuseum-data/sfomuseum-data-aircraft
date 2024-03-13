@@ -8,6 +8,8 @@
     "geom:bbox": "-45.859225,-23.236577,-45.859225,-23.236577",
     "geom:latitude": -23.236577,
     "geom:longitude": -45.859225,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 1402,
     "sfomuseum:aircraft_model": "175",
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1796314375,
-    "wof:lastmodified": 1663614800,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Embraer 175",
     "wof:parent_id": 1159294367,
     "wof:placetype": "custom",

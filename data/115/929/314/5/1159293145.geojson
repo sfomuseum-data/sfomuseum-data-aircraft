@@ -14,6 +14,8 @@
     "geom:latitude": 51.829379,
     "geom:longitude": 12.2236,
     "iso:country": "DE",
+    "millsfield:count_images": 10,
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1159293145,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Junkers Ju 90",
     "wof:parent_id": 101748765,
     "wof:placetype": "custom",

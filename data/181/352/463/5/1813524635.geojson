@@ -8,6 +8,8 @@
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
     "geom:longitude": 0,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2050,
     "sfomuseum:aircraft_model": "76 Amphibian",
@@ -31,7 +33,7 @@
       }
     ],
     "wof:id": 1813524635,
-    "wof:lastmodified": 1678391997,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Penaud 76 Amphibian",
     "wof:parent_id": 1813524631,
     "wof:placetype": "custom",

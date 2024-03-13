@@ -10,6 +10,8 @@
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
     "geom:longitude": 0,
+    "millsfield:count_images": 7,
+    "millsfield:count_objects": 7,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2055,
     "sfomuseum:aircraft_model": "Reliant",
@@ -36,7 +38,7 @@
       }
     ],
     "wof:id": 1897305923,
-    "wof:lastmodified": 1707380965,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Stinson Reliant",
     "wof:parent_id": 1159293557,
     "wof:placetype": "custom",

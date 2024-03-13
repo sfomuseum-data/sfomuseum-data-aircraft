@@ -10,6 +10,8 @@
     "geom:latitude": 50.469863,
     "geom:longitude": 30.431971,
     "iso:country": "UA",
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 4,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1159289473,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Antonov An-24",
     "wof:parent_id": 101752489,
     "wof:placetype": "custom",

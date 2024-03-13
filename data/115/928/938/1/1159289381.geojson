@@ -10,6 +10,8 @@
     "geom:latitude": 48.858705,
     "geom:longitude": 2.342865,
     "iso:country": "FR",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1159289381,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Aérospatiale N262",
     "wof:parent_id": 101751119,
     "wof:placetype": "custom",

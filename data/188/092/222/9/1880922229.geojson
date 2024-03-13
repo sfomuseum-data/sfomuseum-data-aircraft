@@ -8,6 +8,8 @@
     "geom:bbox": "-118.479052,34.021711,-118.479052,34.021711",
     "geom:latitude": 34.021711,
     "geom:longitude": -118.479052,
+    "millsfield:count_images": 8,
+    "millsfield:count_objects": 2,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2069,
     "sfomuseum:aircraft_model": "DC-8-53",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1880922229,
-    "wof:lastmodified": 1700037119,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Douglas DC-8-53",
     "wof:parent_id": 1159290395,
     "wof:placetype": "custom",

@@ -8,6 +8,8 @@
     "geom:bbox": "-74.201332,40.431420,-74.201332,40.431420",
     "geom:latitude": 40.43142,
     "geom:longitude": -74.201332,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 2,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2041,
     "sfomuseum:aircraft_model": "50",
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1796846867,
-    "wof:lastmodified": 1671179819,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Aeromarine 50",
     "wof:parent_id": 1159293955,
     "wof:placetype": "custom",

@@ -8,6 +8,8 @@
     "geom:bbox": "-73.587778,45.508889,-73.587778,45.508889",
     "geom:latitude": 45.508889,
     "geom:longitude": -73.587778,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 2,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2022,
     "sfomuseum:aircraft_model": "CRJ-700",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1779960857,
-    "wof:lastmodified": 1658733960,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Bombardier CRJ-700",
     "wof:parent_id": 1159293567,
     "wof:placetype": "custom",
