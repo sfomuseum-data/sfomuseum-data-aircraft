@@ -8,6 +8,8 @@
     "geom:bbox": "-74.201332,40.431420,-74.201332,40.431420",
     "geom:latitude": 40.43142,
     "geom:longitude": -74.201332,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 2,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2040,
     "sfomuseum:aircraft_model": "40F",
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1796846873,
-    "wof:lastmodified": 1671179820,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Aeromarine 40F",
     "wof:parent_id": 1159293955,
     "wof:placetype": "custom",

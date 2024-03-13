@@ -8,6 +8,8 @@
     "geom:bbox": "-78.852901,42.890831,-78.852901,42.890831",
     "geom:latitude": 42.890831,
     "geom:longitude": -78.852901,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2063,
     "sfomuseum:aircraft_model": "Little Looper",
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1897305933,
-    "wof:lastmodified": 1707380968,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Curtiss Little Looper",
     "wof:parent_id": 1159293889,
     "wof:placetype": "custom",

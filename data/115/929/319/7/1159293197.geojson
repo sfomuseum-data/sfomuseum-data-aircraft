@@ -10,6 +10,8 @@
     "geom:latitude": 34.011946,
     "geom:longitude": -118.396248,
     "iso:country": "US",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1159293197,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Hughes D-2",
     "wof:parent_id": 85923649,
     "wof:placetype": "custom",

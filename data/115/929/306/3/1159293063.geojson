@@ -10,6 +10,8 @@
     "geom:latitude": 52.237695,
     "geom:longitude": 21.005427,
     "iso:country": "PL",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -53,7 +55,7 @@
       }
     ],
     "wof:id": 1159293063,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Warsaw University of Technology RWD-6",
     "wof:parent_id": 101752777,
     "wof:placetype": "custom",

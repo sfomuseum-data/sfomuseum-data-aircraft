@@ -10,6 +10,8 @@
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
     "iso:country": "US",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1159289841,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Boeing 737-247",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

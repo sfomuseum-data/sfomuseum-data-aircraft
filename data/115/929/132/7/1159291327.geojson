@@ -10,6 +10,8 @@
     "geom:latitude": 35.675099,
     "geom:longitude": 139.393288,
     "iso:country": "JP",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1159291327,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Mitsubishi MU-2",
     "wof:parent_id": 85672817,
     "wof:placetype": "custom",

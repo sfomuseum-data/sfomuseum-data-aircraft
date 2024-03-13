@@ -12,6 +12,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1159293183,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Christen Eagle II",
     "wof:parent_id": 1,
     "wof:placetype": "custom",

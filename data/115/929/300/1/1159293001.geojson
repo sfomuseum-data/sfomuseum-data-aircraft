@@ -10,6 +10,8 @@
     "geom:latitude": 48.870189,
     "geom:longitude": 2.219949,
     "iso:country": "FR",
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1159293001,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Nieuport MonoplaneII",
     "wof:parent_id": 101751133,
     "wof:placetype": "custom",

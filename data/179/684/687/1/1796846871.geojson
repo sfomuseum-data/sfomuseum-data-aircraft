@@ -10,6 +10,8 @@
     "geom:bbox": "-78.852901,42.890831,-78.852901,42.890831",
     "geom:latitude": 42.890831,
     "geom:longitude": -78.852901,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2039,
     "sfomuseum:aircraft_model": "HS Flying Boat",
@@ -46,7 +48,7 @@
       }
     ],
     "wof:id": 1796846871,
-    "wof:lastmodified": 1671179820,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Curtiss HS Flying Boat",
     "wof:parent_id": 1159293889,
     "wof:placetype": "custom",

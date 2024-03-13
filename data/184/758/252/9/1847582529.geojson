@@ -10,6 +10,8 @@
     "geom:bbox": "-84.371092,39.501880,-84.371092,39.501880",
     "geom:latitude": 39.50188,
     "geom:longitude": -84.371092,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2057,
     "sfomuseum:aircraft_model": "PC-3",
@@ -46,7 +48,7 @@
       }
     ],
     "wof:id": 1847582529,
-    "wof:lastmodified": 1681457310,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Aeronca PC-3",
     "wof:parent_id": 1159293617,
     "wof:placetype": "custom",

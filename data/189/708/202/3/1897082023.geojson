@@ -8,6 +8,8 @@
     "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 4,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2072,
     "sfomuseum:aircraft_model": "Model F",
@@ -38,7 +40,7 @@
       }
     ],
     "wof:id": 1897082023,
-    "wof:lastmodified": 1704875340,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Waco Model F",
     "wof:parent_id": 1159293607,
     "wof:placetype": "custom",

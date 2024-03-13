@@ -8,6 +8,8 @@
     "geom:bbox": "-73.587778,45.508889,-73.587778,45.508889",
     "geom:latitude": 45.508889,
     "geom:longitude": -73.587778,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2027,
     "sfomuseum:aircraft_model": "CRJ-900",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1780261441,
-    "wof:lastmodified": 1660548617,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Bombardier CRJ-900",
     "wof:parent_id": 1159293567,
     "wof:placetype": "custom",

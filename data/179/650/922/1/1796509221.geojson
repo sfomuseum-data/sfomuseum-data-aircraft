@@ -12,6 +12,8 @@
     "geom:bbox": "-0.145641,51.846273,-0.145641,51.846273",
     "geom:latitude": 51.846273,
     "geom:longitude": -0.145641,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2032,
     "sfomuseum:aircraft_model": "DH-50",
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1796509221,
-    "wof:lastmodified": 1667028422,
+    "wof:lastmodified": 1710355995,
     "wof:name": "de Havilland DH-50",
     "wof:parent_id": 1159293995,
     "wof:placetype": "custom",

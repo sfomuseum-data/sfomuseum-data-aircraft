@@ -8,6 +8,8 @@
     "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2059,
     "sfomuseum:aircraft_model": "727-228",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1863768009,
-    "wof:lastmodified": 1686555122,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Boeing 727-228",
     "wof:parent_id": 1159293593,
     "wof:placetype": "custom",

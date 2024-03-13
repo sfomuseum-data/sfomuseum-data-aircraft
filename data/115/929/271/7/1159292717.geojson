@@ -10,6 +10,8 @@
     "geom:latitude": 51.196755,
     "geom:longitude": 9.62743,
     "iso:country": "DE",
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1159292717,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Zeppelin-Staaken E-4/20",
     "wof:parent_id": 85633111,
     "wof:placetype": "custom",

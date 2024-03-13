@@ -10,6 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 504,
@@ -49,7 +51,7 @@
       }
     ],
     "wof:id": 1159290455,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1710355994,
     "wof:name": "Douglas DC-8-33",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

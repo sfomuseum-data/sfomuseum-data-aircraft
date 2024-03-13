@@ -10,6 +10,8 @@
     "geom:bbox": "12.223600,51.829379,12.223600,51.829379",
     "geom:latitude": 51.829379,
     "geom:longitude": 12.2236,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2048,
     "sfomuseum:aircraft_model": "W34",
@@ -44,7 +46,7 @@
       }
     ],
     "wof:id": 1813515999,
-    "wof:lastmodified": 1678302534,
+    "wof:lastmodified": 1710355995,
     "wof:name": "Junkers W34",
     "wof:parent_id": 1159294171,
     "wof:placetype": "custom",
