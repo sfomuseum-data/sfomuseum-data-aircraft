@@ -1,5 +1,5 @@
 {
-  "id": 1880201373,
+  "id": 1897746989,
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
@@ -8,12 +8,12 @@
     "geom:bbox": "-78.852901,42.890831,-78.852901,42.890831",
     "geom:latitude": 42.890831,
     "geom:longitude": -78.852901,
-    "millsfield:count_objects": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
-    "sfomuseum:aircraft_id": 2062,
-    "sfomuseum:aircraft_model": "Model 17",
-    "sfomuseum:aircraft_modelname": "Oriole",
-    "sfomuseum:aircraft_name": "Curtiss Model 17 Oriole",
+    "sfomuseum:aircraft_id": 2087,
+    "sfomuseum:aircraft_model": "R2C-1",
+    "sfomuseum:aircraft_modelname": "",
+    "sfomuseum:aircraft_name": "Curtiss R2C-1",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Curtiss",
     "sfomuseum:manufacturer_id": 1159293889,
@@ -29,11 +29,11 @@
       85688543
     ],
     "wof:country": "US",
-    "wof:created": 1692949351,
+    "wof:created": 1711437881,
     "wof:geomhash": "c347f4d4c8bf3f084230c4328316377f",
     "wof:hierarchy": [
       {
-        "aircraft_id": 1880201373,
+        "aircraft_id": 1897746989,
         "company_id": 1159293889,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -44,9 +44,9 @@
         "region_id": 85688543
       }
     ],
-    "wof:id": 1880201373,
-    "wof:lastmodified": 1711438241,
-    "wof:name": "Curtiss Model 17 Oriole",
+    "wof:id": 1897746989,
+    "wof:lastmodified": 1711438242,
+    "wof:name": "Curtiss R2C-1",
     "wof:parent_id": 1159293889,
     "wof:placetype": "custom",
     "wof:placetype_alt": "aircraft",
