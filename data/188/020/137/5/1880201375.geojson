@@ -8,6 +8,7 @@
     "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2061,
@@ -39,7 +40,7 @@
       }
     ],
     "wof:id": 1880201375,
-    "wof:lastmodified": 1710355899,
+    "wof:lastmodified": 1711611841,
     "wof:name": "Wright F2-W",
     "wof:parent_id": 1159294035,
     "wof:placetype": "custom",

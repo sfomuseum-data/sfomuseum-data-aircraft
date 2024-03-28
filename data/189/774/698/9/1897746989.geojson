@@ -8,6 +8,7 @@
     "geom:bbox": "-78.852901,42.890831,-78.852901,42.890831",
     "geom:latitude": 42.890831,
     "geom:longitude": -78.852901,
+    "millsfield:count_images": 1,
     "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2087,
@@ -45,7 +46,7 @@
       }
     ],
     "wof:id": 1897746989,
-    "wof:lastmodified": 1711438242,
+    "wof:lastmodified": 1711611841,
     "wof:name": "Curtiss R2C-1",
     "wof:parent_id": 1159293889,
     "wof:placetype": "custom",
