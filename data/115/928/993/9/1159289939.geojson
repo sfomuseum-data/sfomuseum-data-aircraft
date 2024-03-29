@@ -10,7 +10,7 @@
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
     "iso:country": "US",
-    "millsfield:count_images": 93,
+    "millsfield:count_images": 101,
     "millsfield:count_objects": 82,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1159289939,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1711697732,
     "wof:name": "Boeing 757-200",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",
