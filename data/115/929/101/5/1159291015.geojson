@@ -10,6 +10,8 @@
     "geom:latitude": 39.990821,
     "geom:longitude": -75.168428,
     "iso:country": "US",
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1159291015,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1713858014,
     "wof:name": "Keystone K-78 Patrician",
     "wof:parent_id": 101718083,
     "wof:placetype": "custom",
