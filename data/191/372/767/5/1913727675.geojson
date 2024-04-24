@@ -1,5 +1,5 @@
 {
-  "id": 1797085855,
+  "id": 1913727675,
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
@@ -8,34 +8,37 @@
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 0,
     "geom:longitude": 0,
-    "millsfield:count_images": 2,
-    "millsfield:count_objects": 2,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
-    "sfomuseum:aircraft_id": 2044,
-    "sfomuseum:aircraft_model": "CW-1",
-    "sfomuseum:aircraft_modelname": "Junior",
-    "sfomuseum:aircraft_name": "Curtiss Wright CW-1 Junior",
+    "sfomuseum:aircraft_id": 2089,
+    "sfomuseum:aircraft_model": "DGA-3",
+    "sfomuseum:aircraft_modelname": "Pete",
+    "sfomuseum:aircraft_name": "Howard DGA-3 Pete",
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:manufacturer": "Curtiss Wright",
-    "sfomuseum:manufacturer_id": 1797085851,
+    "sfomuseum:manufacturer": "Howard",
+    "sfomuseum:manufacturer_id": 1159293611,
     "sfomuseum:placetype": "aircraft",
-    "src:geom": "sfomuseum",
+    "src:geom": "nullisland",
     "wof:belongsto": [
-      1797085851
+      1159293611,
+      1
     ],
-    "wof:country": "XY",
-    "wof:created": 1674030687,
+    "wof:country": "XN",
+    "wof:created": 1713943877,
     "wof:geomhash": "83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy": [
       {
-        "aircraft_id": 1797085855,
-        "company_id": 1797085851
+        "aircraft_id": 1913727675,
+        "company_id": 1159293611,
+        "country_id": 1,
+        "enterprise_id": 1159293611
       }
     ],
-    "wof:id": 1797085855,
+    "wof:id": 1913727675,
     "wof:lastmodified": 1713944542,
-    "wof:name": "Curtiss Wright CW-1 Junior",
-    "wof:parent_id": 1797085851,
+    "wof:name": "Howard DGA-3 Pete",
+    "wof:parent_id": 1159293611,
     "wof:placetype": "custom",
     "wof:placetype_alt": "aircraft",
     "wof:repo": "sfomuseum-data-aircraft",
