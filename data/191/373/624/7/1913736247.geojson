@@ -1,0 +1,63 @@
+{
+  "id": 1913736247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-3.213490,54.109117,-3.213490,54.109117",
+    "geom:latitude": 54.109117,
+    "geom:longitude": -3.21349,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2091,
+    "sfomuseum:aircraft_model": "Vimy",
+    "sfomuseum:aircraft_modelname": "Commercial",
+    "sfomuseum:aircraft_name": "Vickers Vimy Commercial",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:manufacturer": "Vickers",
+    "sfomuseum:manufacturer_id": 1159293777,
+    "sfomuseum:placetype": "aircraft",
+    "src:geom": "quattroshapes",
+    "wof:belongsto": [
+      1159293777,
+      102191581,
+      85633159,
+      404450105,
+      101872343,
+      85683641
+    ],
+    "wof:country": "GB",
+    "wof:created": 1714116662,
+    "wof:geomhash": "556494fc494b2879fdb1e1ff525fca96",
+    "wof:hierarchy": [
+      {
+        "aircraft_id": 1913736247,
+        "company_id": 1159293777,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "enterprise_id": 1159293777,
+        "localadmin_id": 404450105,
+        "locality_id": 101872343,
+        "region_id": 85683641
+      }
+    ],
+    "wof:id": 1913736247,
+    "wof:lastmodified": 1714117418,
+    "wof:name": "Vickers Vimy Commercial",
+    "wof:parent_id": 1159293777,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "aircraft",
+    "wof:repo": "sfomuseum-data-aircraft",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -3.21349,
+    54.109117,
+    -3.21349,
+    54.109117
+  ],
+  "geometry": {"coordinates":[-3.21349,54.109117],"type":"Point"}
+}
