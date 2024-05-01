@@ -10,6 +10,7 @@
     "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2058,
     "sfomuseum:aircraft_model": "737",
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1863623765,
-    "wof:lastmodified": 1684395064,
+    "wof:lastmodified": 1714552349,
     "wof:name": "Boeing 737 MAX",
     "wof:parent_id": 1159293593,
     "wof:placetype": "custom",
