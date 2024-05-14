@@ -8,6 +8,8 @@
     "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2021,
     "sfomuseum:aircraft_model": "707-323",
@@ -42,7 +44,7 @@
       }
     ],
     "wof:id": 1779960859,
-    "wof:lastmodified": 1658733961,
+    "wof:lastmodified": 1715650664,
     "wof:name": "Boeing 707-323",
     "wof:parent_id": 1159293593,
     "wof:placetype": "custom",
