@@ -41,16 +41,19 @@
         "aircraft_id": 1159292803,
         "continent_id": -1,
         "country_id": 85632727,
+        "custom_id": 1159292803,
         "enterprise_id": 1159293619,
         "instrument_id": 1159292803
       }
     ],
     "wof:id": 1159292803,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Fokker AF-IXTrimotor",
     "wof:parent_id": 85632727,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293619

@@ -58,6 +58,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063785,
+        "custom_id": 1159293135,
         "enterprise_id": 1159294223,
         "instrument_id": 1159293135,
         "locality_id": 101748705,
@@ -65,11 +66,13 @@
       }
     ],
     "wof:id": 1159293135,
-    "wof:lastmodified": 1694023369,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Siebel Fh 104 Hallore",
     "wof:parent_id": 101748705,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294223

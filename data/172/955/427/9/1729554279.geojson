@@ -33,15 +33,18 @@
     "wof:hierarchy": [
       {
         "aircraft_id": 1729554279,
+        "custom_id": 1729554279,
         "instrument_id": 1729554279
       }
     ],
     "wof:id": 1729554279,
-    "wof:lastmodified": 1649405549,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Voisin-Farman 1",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": [],

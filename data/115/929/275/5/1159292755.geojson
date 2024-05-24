@@ -48,6 +48,7 @@
         "aircraft_id": 1159292755,
         "continent_id": 102191581,
         "country_id": 85633147,
+        "custom_id": 1159292755,
         "enterprise_id": 1159293905,
         "instrument_id": 1159292755,
         "localadmin_id": 1159322569,
@@ -57,11 +58,13 @@
       }
     ],
     "wof:id": 1159292755,
-    "wof:lastmodified": 1694023369,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Breguet Br.19 Super Bidon",
     "wof:parent_id": 101751119,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293905

@@ -29,15 +29,18 @@
     "wof:hierarchy": [
       {
         "aircraft_id": 1813515991,
-        "company_id": 1813515989
+        "company_id": 1813515989,
+        "custom_id": 1813515991
       }
     ],
     "wof:id": 1813515991,
-    "wof:lastmodified": 1681805806,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Keystone Loening K-84 Commuter",
     "wof:parent_id": 1813515989,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

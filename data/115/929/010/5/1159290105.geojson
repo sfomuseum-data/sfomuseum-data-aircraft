@@ -48,6 +48,7 @@
         "aircraft_id": 1159290105,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159290105,
         "enterprise_id": 1159294331,
         "instrument_id": 1159290105,
         "localadmin_id": 404440045,
@@ -57,11 +58,13 @@
       }
     ],
     "wof:id": 1159290105,
-    "wof:lastmodified": 1658733957,
+    "wof:lastmodified": 1716594175,
     "wof:name": "British Aerospace Jetstream Super 41",
     "wof:parent_id": 101750357,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294331

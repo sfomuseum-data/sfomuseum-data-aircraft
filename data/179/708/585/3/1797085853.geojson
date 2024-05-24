@@ -35,16 +35,19 @@
         "company_id": 1159293671,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1797085853,
         "empire_id": 136253057,
         "enterprise_id": 1159293671
       }
     ],
     "wof:id": 1797085853,
-    "wof:lastmodified": 1713944542,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Travel Air 2000",
     "wof:parent_id": 1159293671,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

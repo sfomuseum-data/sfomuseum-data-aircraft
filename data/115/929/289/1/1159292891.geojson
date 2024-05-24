@@ -46,6 +46,7 @@
         "aircraft_id": 1159292891,
         "continent_id": 102191581,
         "country_id": 85633105,
+        "custom_id": 1159292891,
         "enterprise_id": 1159294125,
         "instrument_id": 1159292891,
         "locality_id": 101748111,
@@ -53,11 +54,13 @@
       }
     ],
     "wof:id": 1159292891,
-    "wof:lastmodified": 1710355994,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Skoda D1",
     "wof:parent_id": 101748111,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294125

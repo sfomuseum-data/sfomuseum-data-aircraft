@@ -42,16 +42,19 @@
       {
         "aircraft_id": 1159291607,
         "country_id": 1,
+        "custom_id": 1159291607,
         "enterprise_id": 1159294345,
         "instrument_id": 1159291607
       }
     ],
     "wof:id": 1159291607,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Short 330-200",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294345,

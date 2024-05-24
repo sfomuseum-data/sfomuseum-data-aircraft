@@ -45,15 +45,18 @@
       {
         "aircraft_id": 1159292589,
         "country_id": 1,
+        "custom_id": 1159292589,
         "instrument_id": 1159292589
       }
     ],
     "wof:id": 1159292589,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Martin XB-51",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [],
     "wof:superseded_by": [],

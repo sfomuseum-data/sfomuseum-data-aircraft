@@ -55,6 +55,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082371,
+        "custom_id": 1159293515,
         "enterprise_id": 1159293563,
         "instrument_id": 1159293515,
         "localadmin_id": 404521475,
@@ -63,11 +64,13 @@
       }
     ],
     "wof:id": 1159293515,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Grumman F8F Bearcat",
     "wof:parent_id": 85979165,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293563

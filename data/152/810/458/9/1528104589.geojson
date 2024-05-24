@@ -40,6 +40,7 @@
         "continent_id": 102191577,
         "country_id": 85633009,
         "county_id": 102062245,
+        "custom_id": 1528104589,
         "enterprise_id": 1159294367,
         "instrument_id": 1528104589,
         "localadmin_id": 404567239,
@@ -48,11 +49,13 @@
       }
     ],
     "wof:id": 1528104589,
-    "wof:lastmodified": 1619636965,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Embraer Legacy 500",
     "wof:parent_id": 1159294367,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": [],

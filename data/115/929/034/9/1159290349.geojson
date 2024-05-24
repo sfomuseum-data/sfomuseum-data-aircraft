@@ -45,17 +45,20 @@
         "aircraft_id": 1159290349,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159290349,
         "empire_id": 136253055,
         "enterprise_id": 1159293743,
         "instrument_id": 1159290349
       }
     ],
     "wof:id": 1159290349,
-    "wof:lastmodified": 1649405549,
+    "wof:lastmodified": 1716594175,
     "wof:name": "de Havilland (Canada) DHC-8-300 Dash 8",
     "wof:parent_id": 85633159,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293743,

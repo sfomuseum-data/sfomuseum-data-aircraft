@@ -39,6 +39,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082387,
+        "custom_id": 1897305933,
         "enterprise_id": 1159293889,
         "localadmin_id": 404522329,
         "locality_id": 85978023,
@@ -46,11 +47,13 @@
       }
     ],
     "wof:id": 1897305933,
-    "wof:lastmodified": 1710355994,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Curtiss Little Looper",
     "wof:parent_id": 1159293889,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

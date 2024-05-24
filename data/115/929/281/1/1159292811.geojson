@@ -50,16 +50,19 @@
       {
         "aircraft_id": 1159292811,
         "country_id": 1,
+        "custom_id": 1159292811,
         "enterprise_id": 1159293851,
         "instrument_id": 1159292811
       }
     ],
     "wof:id": 1159292811,
-    "wof:lastmodified": 1713512061,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Fairchild F-27A",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293851

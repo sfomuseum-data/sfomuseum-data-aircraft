@@ -47,6 +47,7 @@
         "continent_id": 102191581,
         "country_id": 85632685,
         "county_id": 1108736095,
+        "custom_id": 1159292937,
         "empire_id": 874393555,
         "enterprise_id": 1159294153,
         "instrument_id": 1159292937,
@@ -55,11 +56,13 @@
       }
     ],
     "wof:id": 1159292937,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Tupolev ANT-25 Soviet Transpolar",
     "wof:parent_id": 102003033,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294153,

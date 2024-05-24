@@ -47,6 +47,7 @@
         "aircraft_id": 1159291977,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159291977,
         "enterprise_id": 1159293777,
         "instrument_id": 1159291977,
         "localadmin_id": 404450105,
@@ -55,11 +56,13 @@
       }
     ],
     "wof:id": 1159291977,
-    "wof:lastmodified": 1710355994,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Vickers Viscount 810",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293777

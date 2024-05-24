@@ -27,15 +27,18 @@
     "wof:hierarchy": [
       {
         "aircraft_id": 1880906619,
-        "company_id": 1880906617
+        "company_id": 1880906617,
+        "custom_id": 1880906619
       }
     ],
     "wof:id": 1880906619,
-    "wof:lastmodified": 1699864705,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Let L-410 Turbolet",
     "wof:parent_id": 1880906617,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

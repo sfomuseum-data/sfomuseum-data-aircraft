@@ -46,6 +46,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
+        "custom_id": 1159291383,
         "enterprise_id": 1159293761,
         "instrument_id": 1159291383,
         "locality_id": 85923517,
@@ -53,11 +54,13 @@
       }
     ],
     "wof:id": 1159291383,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "North American Aviation NA-76TA",
     "wof:parent_id": 85923517,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293761

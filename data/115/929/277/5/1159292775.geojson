@@ -43,17 +43,20 @@
         "aircraft_id": 1159292775,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159292775,
         "empire_id": 136253057,
         "enterprise_id": 1159294017,
         "instrument_id": 1159292775
       }
     ],
     "wof:id": 1159292775,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Atlantic-Fokker C-2A Question Mark",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294017

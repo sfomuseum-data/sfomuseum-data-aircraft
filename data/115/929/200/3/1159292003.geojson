@@ -43,17 +43,20 @@
         "aircraft_id": 1159292003,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159292003,
         "empire_id": 136253057,
         "enterprise_id": 1159293607,
         "instrument_id": 1159292003
       }
     ],
     "wof:id": 1159292003,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Waco 10-T Taperwing",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293607

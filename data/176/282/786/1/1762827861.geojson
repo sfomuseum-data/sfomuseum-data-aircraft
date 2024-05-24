@@ -33,15 +33,18 @@
     "wof:hierarchy": [
       {
         "aircraft_id": 1762827861,
-        "company_id": 1762827859
+        "company_id": 1762827859,
+        "custom_id": 1762827861
       }
     ],
     "wof:id": 1762827861,
-    "wof:lastmodified": 1648799217,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Nord N 2501 Noratlas",
     "wof:parent_id": 1762827859,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

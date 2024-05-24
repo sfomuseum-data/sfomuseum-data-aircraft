@@ -39,6 +39,7 @@
         "company_id": 1159293547,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1897305925,
         "enterprise_id": 1159293547,
         "localadmin_id": 404435563,
         "locality_id": 101750367,
@@ -48,11 +49,13 @@
       }
     ],
     "wof:id": 1897305925,
-    "wof:lastmodified": 1707380966,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Sopwith Baby",
     "wof:parent_id": 1159293547,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

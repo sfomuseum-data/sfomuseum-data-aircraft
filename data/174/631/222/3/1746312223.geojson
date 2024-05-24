@@ -39,6 +39,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082371,
+        "custom_id": 1746312223,
         "enterprise_id": 1159293563,
         "localadmin_id": 404521475,
         "locality_id": 85979165,
@@ -46,11 +47,13 @@
       }
     ],
     "wof:id": 1746312223,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Grumman Martlet",
     "wof:parent_id": 1159293563,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

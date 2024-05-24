@@ -55,6 +55,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086191,
+        "custom_id": 1159290019,
         "enterprise_id": 1159293593,
         "instrument_id": 1159290019,
         "locality_id": 101730401,
@@ -62,11 +63,13 @@
       }
     ],
     "wof:id": 1159290019,
-    "wof:lastmodified": 1640128307,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Boeing P-26",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293593

@@ -37,16 +37,19 @@
       {
         "aircraft_id": 1729554277,
         "country_id": 1,
+        "custom_id": 1729554277,
         "enterprise_id": 1159293935,
         "instrument_id": 1729554277
       }
     ],
     "wof:id": 1729554277,
-    "wof:lastmodified": 1649405549,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Santos-Dumont 14 bis",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293935

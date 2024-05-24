@@ -55,6 +55,7 @@
         "continent_id": 102191581,
         "country_id": 85633051,
         "county_id": 102062973,
+        "custom_id": 1159291447,
         "enterprise_id": 1159294151,
         "instrument_id": 1159291447,
         "localadmin_id": 404328413,
@@ -63,11 +64,13 @@
       }
     ],
     "wof:id": 1159291447,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Pilatus PC-7 Turbo-Trainer",
     "wof:parent_id": 101853915,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294151

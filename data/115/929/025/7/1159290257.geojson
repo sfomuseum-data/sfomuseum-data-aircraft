@@ -59,6 +59,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102082387,
+        "custom_id": 1159290257,
         "enterprise_id": 1159293889,
         "instrument_id": 1159290257,
         "localadmin_id": 404522329,
@@ -67,11 +68,13 @@
       }
     ],
     "wof:id": 1159290257,
-    "wof:lastmodified": 1703147982,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Curtiss C-46 Commando",
     "wof:parent_id": 85978023,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293889

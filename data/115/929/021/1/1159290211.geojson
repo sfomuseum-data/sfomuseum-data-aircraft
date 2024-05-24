@@ -56,6 +56,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083569,
+        "custom_id": 1159290211,
         "enterprise_id": 1159293605,
         "instrument_id": 1159290211,
         "locality_id": 85922227,
@@ -63,11 +64,13 @@
       }
     ],
     "wof:id": 1159290211,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Convair 580",
     "wof:parent_id": 85922227,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293605

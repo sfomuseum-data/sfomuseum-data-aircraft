@@ -41,6 +41,7 @@
         "aircraft_id": 1159292747,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159292747,
         "enterprise_id": 1159293971,
         "instrument_id": 1159292747,
         "locality_id": 101751931,
@@ -49,11 +50,13 @@
       }
     ],
     "wof:id": 1159292747,
-    "wof:lastmodified": 1619636966,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Short Brothers Short-Bristol Crusader",
     "wof:parent_id": 101751931,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293971

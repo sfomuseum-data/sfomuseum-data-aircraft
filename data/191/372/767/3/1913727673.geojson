@@ -37,16 +37,19 @@
         "company_id": 1159294343,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1913727673,
         "empire_id": 136253057,
         "enterprise_id": 1159294343
       }
     ],
     "wof:id": 1913727673,
-    "wof:lastmodified": 1713944543,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Thomas-Morse O-19",
     "wof:parent_id": 1159294343,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -37,6 +37,7 @@
         "continent_id": 102191581,
         "country_id": 85633111,
         "county_id": 102063533,
+        "custom_id": 1763109755,
         "enterprise_id": 1159293731,
         "locality_id": 101748561,
         "macrocounty_id": 404227583,
@@ -44,11 +45,13 @@
       }
     ],
     "wof:id": 1763109755,
-    "wof:lastmodified": 1645219415,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Messerschmitt Bf-110",
     "wof:parent_id": 1159293731,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -36,17 +36,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086191,
+        "custom_id": 1880368315,
         "enterprise_id": 1159293593,
         "locality_id": 101730401,
         "region_id": 85688623
       }
     ],
     "wof:id": 1880368315,
-    "wof:lastmodified": 1694451349,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Boeing 727-2B7",
     "wof:parent_id": 1159293593,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

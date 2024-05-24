@@ -32,15 +32,18 @@
         "aircraft_id": 1897661797,
         "company_id": 1159293941,
         "country_id": 1,
+        "custom_id": 1897661797,
         "enterprise_id": 1159293941
       }
     ],
     "wof:id": 1897661797,
-    "wof:lastmodified": 1710833540,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Martin 139 WH-3",
     "wof:parent_id": 1159293941,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

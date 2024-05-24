@@ -47,15 +47,18 @@
       {
         "aircraft_id": 1159292815,
         "country_id": 1,
+        "custom_id": 1159292815,
         "instrument_id": 1159292815
       }
     ],
     "wof:id": 1159292815,
-    "wof:lastmodified": 1713253291,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Douglas DC-8-73",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159290443

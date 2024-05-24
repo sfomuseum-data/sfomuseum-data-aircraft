@@ -39,15 +39,18 @@
       {
         "aircraft_id": 1159291195,
         "country_id": 1,
+        "custom_id": 1159291195,
         "instrument_id": 1159291195
       }
     ],
     "wof:id": 1159291195,
-    "wof:lastmodified": 1695198086,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Martin M-130 Hawaii Clipper",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159291191

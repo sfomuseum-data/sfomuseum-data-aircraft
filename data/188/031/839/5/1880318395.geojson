@@ -43,6 +43,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102069753,
+        "custom_id": 1880318395,
         "enterprise_id": 1159293691,
         "localadmin_id": 404413665,
         "locality_id": 101753455,
@@ -52,11 +53,13 @@
       }
     ],
     "wof:id": 1880318395,
-    "wof:lastmodified": 1694023369,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Farman MF.11 Shorthorn",
     "wof:parent_id": 1159293691,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

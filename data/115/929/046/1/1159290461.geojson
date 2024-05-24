@@ -39,15 +39,18 @@
       {
         "aircraft_id": 1159290461,
         "country_id": 1,
+        "custom_id": 1159290461,
         "instrument_id": 1159290461
       }
     ],
     "wof:id": 1159290461,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Douglas DC-8-50",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159290443

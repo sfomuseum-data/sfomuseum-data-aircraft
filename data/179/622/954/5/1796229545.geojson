@@ -42,6 +42,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071607,
+        "custom_id": 1796229545,
         "empire_id": 136253037,
         "enterprise_id": 1159293829,
         "localadmin_id": 404421307,
@@ -52,11 +53,13 @@
       }
     ],
     "wof:id": 1796229545,
-    "wof:lastmodified": 1662621811,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Airbus A330-302",
     "wof:parent_id": 1159293829,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

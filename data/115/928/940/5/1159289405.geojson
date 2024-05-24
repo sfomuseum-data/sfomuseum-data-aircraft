@@ -62,6 +62,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071607,
+        "custom_id": 1159289405,
         "empire_id": 136253037,
         "enterprise_id": 1159293829,
         "instrument_id": 1159289405,
@@ -73,11 +74,13 @@
       }
     ],
     "wof:id": 1159289405,
-    "wof:lastmodified": 1711697732,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Airbus A310-300",
     "wof:parent_id": 101748953,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293829,

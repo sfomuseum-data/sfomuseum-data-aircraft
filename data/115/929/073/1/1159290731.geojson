@@ -54,6 +54,7 @@
         "aircraft_id": 1159290731,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1159290731,
         "enterprise_id": 1159293579,
         "instrument_id": 1159290731,
         "localadmin_id": 404442035,
@@ -64,11 +65,13 @@
       }
     ],
     "wof:id": 1159290731,
-    "wof:lastmodified": 1707380961,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Gloster Sea Gladiator",
     "wof:parent_id": 85788357,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293579

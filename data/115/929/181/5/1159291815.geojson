@@ -40,16 +40,19 @@
       {
         "aircraft_id": 1159291815,
         "country_id": 1,
+        "custom_id": 1159291815,
         "enterprise_id": 1159293983,
         "instrument_id": 1159291815
       }
     ],
     "wof:id": 1159291815,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Sturtevant S-4 Seaplane",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293983

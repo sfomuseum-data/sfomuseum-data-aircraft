@@ -43,6 +43,7 @@
         "continent_id": 102191581,
         "country_id": 85633147,
         "county_id": 102071607,
+        "custom_id": 1528104583,
         "empire_id": 136253037,
         "enterprise_id": 1159293829,
         "instrument_id": 1528104583,
@@ -54,11 +55,13 @@
       }
     ],
     "wof:id": 1528104583,
-    "wof:lastmodified": 1619636965,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Airbus A220-100",
     "wof:parent_id": 1159293829,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": [],

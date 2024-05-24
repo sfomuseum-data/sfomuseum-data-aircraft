@@ -27,15 +27,18 @@
     "wof:hierarchy": [
       {
         "aircraft_id": 1897305929,
-        "company_id": 1746308317
+        "company_id": 1746308317,
+        "custom_id": 1897305929
       }
     ],
     "wof:id": 1897305929,
-    "wof:lastmodified": 1707380967,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Drzewiecki Canard",
     "wof:parent_id": 1746308317,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

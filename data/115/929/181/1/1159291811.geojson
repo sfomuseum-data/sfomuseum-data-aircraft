@@ -40,16 +40,19 @@
       {
         "aircraft_id": 1159291811,
         "country_id": 1,
+        "custom_id": 1159291811,
         "enterprise_id": 1159293693,
         "instrument_id": 1159291811
       }
     ],
     "wof:id": 1159291811,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Stolp Starduster SA-300 Starduster Too (Modified)",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293693

@@ -46,6 +46,7 @@
         "aircraft_id": 1159292741,
         "continent_id": 102191581,
         "country_id": 85633253,
+        "custom_id": 1159292741,
         "enterprise_id": 1159293973,
         "instrument_id": 1159292741,
         "localadmin_id": 404467881,
@@ -55,11 +56,13 @@
       }
     ],
     "wof:id": 1159292741,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Savoia-Marchetti SM.55X",
     "wof:parent_id": 101830197,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293973

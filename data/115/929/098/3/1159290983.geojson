@@ -40,16 +40,19 @@
       {
         "aircraft_id": 1159290983,
         "country_id": 1,
+        "custom_id": 1159290983,
         "enterprise_id": 1159294305,
         "instrument_id": 1159290983
       }
     ],
     "wof:id": 1159290983,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Jeannin 1912 Stahltaube",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294305

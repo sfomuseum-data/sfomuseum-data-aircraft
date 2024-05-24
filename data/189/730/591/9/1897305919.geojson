@@ -37,6 +37,7 @@
         "company_id": 1159293777,
         "continent_id": 102191581,
         "country_id": 85633159,
+        "custom_id": 1897305919,
         "enterprise_id": 1159293777,
         "localadmin_id": 404450105,
         "locality_id": 101872343,
@@ -44,11 +45,13 @@
       }
     ],
     "wof:id": 1897305919,
-    "wof:lastmodified": 1707380965,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Vickers Wellesley",
     "wof:parent_id": 1159293777,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

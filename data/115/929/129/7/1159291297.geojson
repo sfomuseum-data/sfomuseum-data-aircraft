@@ -58,6 +58,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080791,
+        "custom_id": 1159291297,
         "enterprise_id": 1159293561,
         "instrument_id": 1159291297,
         "localadmin_id": 404518053,
@@ -66,11 +67,13 @@
       }
     ],
     "wof:id": 1159291297,
-    "wof:lastmodified": 1715154117,
+    "wof:lastmodified": 1716594175,
     "wof:name": "McDonnell Douglas MD-88",
     "wof:parent_id": 85971343,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293561

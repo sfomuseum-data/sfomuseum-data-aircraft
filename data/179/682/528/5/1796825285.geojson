@@ -33,15 +33,18 @@
     "wof:hierarchy": [
       {
         "aircraft_id": 1796825285,
-        "company_id": 1796825281
+        "company_id": 1796825281,
+        "custom_id": 1796825285
       }
     ],
     "wof:id": 1796825285,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Loire et Olivier H-242",
     "wof:parent_id": 1796825281,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

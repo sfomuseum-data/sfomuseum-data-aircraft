@@ -55,6 +55,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083115,
+        "custom_id": 1159289363,
         "enterprise_id": 1159293901,
         "instrument_id": 1159289363,
         "localadmin_id": 404522501,
@@ -63,11 +64,13 @@
       }
     ],
     "wof:id": 1159289363,
-    "wof:lastmodified": 1707380961,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Aerial Service Mercury Senior",
     "wof:parent_id": 85978643,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293901

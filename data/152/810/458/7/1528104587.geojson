@@ -39,6 +39,7 @@
         "continent_id": 102191575,
         "country_id": 85633041,
         "county_id": 890458661,
+        "custom_id": 1528104587,
         "enterprise_id": 1159293567,
         "instrument_id": 1528104587,
         "locality_id": 101736545,
@@ -46,11 +47,13 @@
       }
     ],
     "wof:id": 1528104587,
-    "wof:lastmodified": 1619636965,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Bombardier CRJ700 series",
     "wof:parent_id": 1159293567,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": [],

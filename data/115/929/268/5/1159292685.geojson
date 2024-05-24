@@ -60,6 +60,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085837,
+        "custom_id": 1159292685,
         "enterprise_id": 1159294133,
         "instrument_id": 1159292685,
         "locality_id": 85932725,
@@ -72,6 +73,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085837,
+        "custom_id": 1159292685,
         "enterprise_id": 1159294133,
         "instrument_id": 1159292685,
         "locality_id": 85932725,
@@ -80,11 +82,13 @@
       }
     ],
     "wof:id": 1159292685,
-    "wof:lastmodified": 1694023369,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Piper PA-18 Super Cub",
     "wof:parent_id": 102527921,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294133

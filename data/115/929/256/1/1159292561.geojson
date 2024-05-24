@@ -39,15 +39,18 @@
       {
         "aircraft_id": 1159292561,
         "country_id": 1,
+        "custom_id": 1159292561,
         "instrument_id": 1159292561
       }
     ],
     "wof:id": 1159292561,
-    "wof:lastmodified": 1640128331,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Martin 2-0-2A",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159292065

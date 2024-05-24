@@ -42,16 +42,19 @@
       {
         "aircraft_id": 1159291807,
         "country_id": 1,
+        "custom_id": 1159291807,
         "enterprise_id": 1159293557,
         "instrument_id": 1159291807
       }
     ],
     "wof:id": 1159291807,
-    "wof:lastmodified": 1710355994,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Stinson T",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293557

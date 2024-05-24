@@ -52,16 +52,19 @@
         "aircraft_id": 1159292117,
         "continent_id": 102191575,
         "country_id": 85633041,
+        "custom_id": 1159292117,
         "enterprise_id": 1159293667,
         "instrument_id": 1159292117
       }
     ],
     "wof:id": 1159292117,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Airspeed Ambassador",
     "wof:parent_id": 85633041,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293667

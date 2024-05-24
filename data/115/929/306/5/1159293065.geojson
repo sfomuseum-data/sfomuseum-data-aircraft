@@ -52,16 +52,19 @@
         "aircraft_id": 1159293065,
         "continent_id": 102191581,
         "country_id": 85633805,
+        "custom_id": 1159293065,
         "enterprise_id": 1159294215,
         "instrument_id": 1159293065
       }
     ],
     "wof:id": 1159293065,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Kharkov  KhAI-1",
     "wof:parent_id": 85633805,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294215

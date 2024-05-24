@@ -32,15 +32,18 @@
         "aircraft_id": 1880318399,
         "company_id": 1159293925,
         "country_id": 1,
+        "custom_id": 1880318399,
         "enterprise_id": 1159293925
       }
     ],
     "wof:id": 1880318399,
-    "wof:lastmodified": 1694023369,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Sikorsky (Russia) S-23 Ilya Muromets",
     "wof:parent_id": 1159293925,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -46,6 +46,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086761,
+        "custom_id": 1159291871,
         "enterprise_id": 1159294285,
         "instrument_id": 1159291871,
         "locality_id": 101724157,
@@ -53,11 +54,13 @@
       }
     ],
     "wof:id": 1159291871,
-    "wof:lastmodified": 1631136929,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Taylorcraft F-19",
     "wof:parent_id": 101724157,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159294285

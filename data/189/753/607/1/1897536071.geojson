@@ -36,17 +36,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
+        "custom_id": 1897536071,
         "enterprise_id": 1159290395,
         "locality_id": 85923817,
         "region_id": 85688637
       }
     ],
     "wof:id": 1897536071,
-    "wof:lastmodified": 1709627305,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Douglas DC-8-43",
     "wof:parent_id": 1159290395,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:superseded_by": [],
     "wof:supersedes": []

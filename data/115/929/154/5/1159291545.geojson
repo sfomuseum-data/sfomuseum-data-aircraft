@@ -57,6 +57,7 @@
         "continent_id": 102191581,
         "country_id": 85633789,
         "county_id": 1159303035,
+        "custom_id": 1159291545,
         "enterprise_id": 1159293893,
         "instrument_id": 1159291545,
         "localadmin_id": 1125362217,
@@ -65,11 +66,13 @@
       }
     ],
     "wof:id": 1159291545,
-    "wof:lastmodified": 1710355995,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Saab 2000",
     "wof:parent_id": 101752307,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293893

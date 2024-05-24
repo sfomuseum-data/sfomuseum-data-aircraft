@@ -51,17 +51,20 @@
         "aircraft_id": 1159290937,
         "continent_id": 102191575,
         "country_id": 85633793,
+        "custom_id": 1159290937,
         "empire_id": 136253057,
         "enterprise_id": 1159293809,
         "instrument_id": 1159290937
       }
     ],
     "wof:id": 1159290937,
-    "wof:lastmodified": 1631136928,
+    "wof:lastmodified": 1716594175,
     "wof:name": "Huff-Daland TA-2",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "aircraft",
+    "wof:placetype_alt": [
+      "aircraft"
+    ],
     "wof:repo": "sfomuseum-data-aircraft",
     "wof:subordinate_of": [
       1159293809
