@@ -10,7 +10,7 @@
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
     "iso:country": "US",
-    "millsfield:count_images": 8,
+    "millsfield:count_images": 9,
     "millsfield:count_objects": 3,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1159289917,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1718696427,
     "wof:name": "Boeing 747-400 Megatop",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",
