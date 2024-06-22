@@ -12,7 +12,7 @@
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
     "iso:country": "US",
-    "millsfield:count_images": 834,
+    "millsfield:count_images": 841,
     "millsfield:count_objects": 496,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -77,7 +77,7 @@
       }
     ],
     "wof:id": 1159289873,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1719042013,
     "wof:name": "Boeing 747",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",
