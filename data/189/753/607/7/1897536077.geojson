@@ -8,6 +8,8 @@
     "geom:bbox": "-118.479052,34.021711,-118.479052,34.021711",
     "geom:latitude": 34.021711,
     "geom:longitude": -118.479052,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2084,
     "sfomuseum:aircraft_model": "DC-9-15F",
@@ -43,7 +45,7 @@
       }
     ],
     "wof:id": 1897536077,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1720684015,
     "wof:name": "Douglas DC-9-15F",
     "wof:parent_id": 1159290395,
     "wof:placetype": "custom",
