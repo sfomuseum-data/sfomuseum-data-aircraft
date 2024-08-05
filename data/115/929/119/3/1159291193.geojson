@@ -10,7 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 258,
+    "millsfield:count_images": 261,
     "millsfield:count_objects": 161,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -47,7 +47,7 @@
       }
     ],
     "wof:id": 1159291193,
-    "wof:lastmodified": 1717141440,
+    "wof:lastmodified": 1722843544,
     "wof:name": "Martin M-130 China Clipper",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
