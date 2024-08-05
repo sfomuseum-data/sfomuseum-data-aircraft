@@ -10,7 +10,7 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 165,
+    "millsfield:count_images": 168,
     "millsfield:count_objects": 99,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159290435,
-    "wof:lastmodified": 1720460931,
+    "wof:lastmodified": 1722843544,
     "wof:name": "Douglas DC-7",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
