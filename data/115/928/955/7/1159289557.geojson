@@ -10,6 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -46,7 +48,7 @@
       }
     ],
     "wof:id": 1159289557,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1727198191,
     "wof:name": "Beechcraft 1900C",
     "wof:parent_id": 1,
     "wof:placetype": "custom",
