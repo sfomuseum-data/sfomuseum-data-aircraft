@@ -8,6 +8,8 @@
     "geom:bbox": "-73.587778,45.508889,-73.587778,45.508889",
     "geom:latitude": 45.508889,
     "geom:longitude": -73.587778,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 1476,
     "sfomuseum:aircraft_model": "CRJ700",
@@ -43,7 +45,7 @@
       }
     ],
     "wof:id": 1796314381,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1743579632,
     "wof:name": "Canadair CRJ700",
     "wof:parent_id": 1159294259,
     "wof:placetype": "custom",
