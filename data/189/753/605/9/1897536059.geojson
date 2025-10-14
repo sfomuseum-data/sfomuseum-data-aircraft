@@ -8,6 +8,8 @@
     "geom:bbox": "-118.479052,34.021711,-118.479052,34.021711",
     "geom:latitude": 34.021711,
     "geom:longitude": -118.479052,
+    "millsfield:count_images": 3,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2080,
     "sfomuseum:aircraft_model": "DC-8-71",
@@ -43,7 +45,7 @@
       }
     ],
     "wof:id": 1897536059,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1760427922,
     "wof:name": "Douglas DC-8-71",
     "wof:parent_id": 1159290395,
     "wof:placetype": "custom",
@@ -60,5 +62,5 @@
     -118.479052,
     34.021711
   ],
-  "geometry": {"coordinates":[-118.479052,34.021711],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-118.479052,34.021711]}
 }
