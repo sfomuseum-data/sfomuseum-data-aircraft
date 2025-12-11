@@ -10,8 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 850,
-    "millsfield:count_objects": 442,
+    "millsfield:count_images": 851,
+    "millsfield:count_objects": 443,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 487,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159290417,
-    "wof:lastmodified": 1753257025,
+    "wof:lastmodified": 1765442328,
     "wof:name": "Douglas DC-3",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -75,5 +75,5 @@
     0,
     0
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[0,0]}
 }

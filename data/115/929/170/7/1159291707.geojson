@@ -10,8 +10,8 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
-    "millsfield:count_images": 65,
-    "millsfield:count_objects": 29,
+    "millsfield:count_images": 66,
+    "millsfield:count_objects": 30,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1159291707,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1765442328,
     "wof:name": "Sikorsky (USA) S-43",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
@@ -73,5 +73,5 @@
     -96.999668,
     39.715956
   ],
-  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-96.999668,39.715956]}
 }

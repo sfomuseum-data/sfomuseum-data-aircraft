@@ -10,8 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 315,
-    "millsfield:count_objects": 172,
+    "millsfield:count_images": 316,
+    "millsfield:count_objects": 173,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 834,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1159291191,
-    "wof:lastmodified": 1717141439,
+    "wof:lastmodified": 1765442328,
     "wof:name": "Martin M-130",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -72,5 +72,5 @@
     0,
     0
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[0,0]}
 }
