@@ -10,8 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 323,
-    "millsfield:count_objects": 180,
+    "millsfield:count_images": 327,
+    "millsfield:count_objects": 184,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 491,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1159290427,
-    "wof:lastmodified": 1742974950,
+    "wof:lastmodified": 1765442328,
     "wof:name": "Douglas DC-6",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -75,5 +75,5 @@
     0,
     0
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[0,0]}
 }
