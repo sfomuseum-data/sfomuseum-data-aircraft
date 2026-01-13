@@ -10,8 +10,8 @@
     "geom:latitude": 32.72793,
     "geom:longitude": -117.15529,
     "iso:country": "US",
-    "millsfield:count_images": 90,
-    "millsfield:count_objects": 50,
+    "millsfield:count_images": 88,
+    "millsfield:count_objects": 49,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159290197,
-    "wof:lastmodified": 1742975050,
+    "wof:lastmodified": 1768293382,
     "wof:name": "Convair 240",
     "wof:parent_id": 85922227,
     "wof:placetype": "custom",
@@ -85,5 +85,5 @@
     -117.15529,
     32.72793
   ],
-  "geometry": {"coordinates":[-117.15529,32.72793],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-117.15529,32.72793]}
 }
