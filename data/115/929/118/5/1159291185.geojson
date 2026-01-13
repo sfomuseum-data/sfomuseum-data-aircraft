@@ -10,8 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 35,
-    "millsfield:count_objects": 19,
+    "millsfield:count_images": 37,
+    "millsfield:count_objects": 20,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 831,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1159291185,
-    "wof:lastmodified": 1720770165,
+    "wof:lastmodified": 1768293382,
     "wof:name": "Martin 4-0-4",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -72,5 +72,5 @@
     0,
     0
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[0,0]}
 }
