@@ -10,8 +10,8 @@
     "geom:latitude": 54.109117,
     "geom:longitude": -3.21349,
     "iso:country": "GB",
-    "millsfield:count_images": 117,
-    "millsfield:count_objects": 69,
+    "millsfield:count_images": 121,
+    "millsfield:count_objects": 73,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1159291963,
-    "wof:lastmodified": 1758008057,
+    "wof:lastmodified": 1771058291,
     "wof:name": "Vickers Viscount",
     "wof:parent_id": 101872343,
     "wof:placetype": "custom",
@@ -85,5 +85,5 @@
     -3.21349,
     54.109117
   ],
-  "geometry": {"coordinates":[-3.21349,54.109117],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-3.21349,54.109117]}
 }

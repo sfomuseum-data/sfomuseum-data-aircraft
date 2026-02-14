@@ -10,8 +10,8 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iso:country": "XN",
-    "millsfield:count_images": 1,
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:aircraft_id": 514,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1159290475,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1771058291,
     "wof:name": "Douglas DC-8-63CF",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -75,5 +75,5 @@
     0,
     0
   ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[0,0]}
 }
