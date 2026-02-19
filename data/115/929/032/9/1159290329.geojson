@@ -10,8 +10,8 @@
     "geom:latitude": 51.846273,
     "geom:longitude": -0.145641,
     "iso:country": "GB",
-    "millsfield:count_images": 13,
-    "millsfield:count_objects": 8,
+    "millsfield:count_images": 14,
+    "millsfield:count_objects": 9,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1159290329,
-    "wof:lastmodified": 1727198191,
+    "wof:lastmodified": 1771490302,
     "wof:name": "de Havilland DH-106 Comet 4",
     "wof:parent_id": 85684331,
     "wof:placetype": "custom",
@@ -83,5 +83,5 @@
     -0.145641,
     51.846273
   ],
-  "geometry": {"coordinates":[-0.145641,51.846273],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-0.145641,51.846273]}
 }
