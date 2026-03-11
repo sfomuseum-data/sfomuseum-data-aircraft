@@ -8,6 +8,8 @@
     "geom:bbox": "-96.999668,39.715956,-96.999668,39.715956",
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2060,
     "sfomuseum:aircraft_model": "4-C",
@@ -39,7 +41,7 @@
       }
     ],
     "wof:id": 1880194265,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1773268659,
     "wof:name": "Stearman 4-C",
     "wof:parent_id": 1159294161,
     "wof:placetype": "custom",
@@ -56,5 +58,5 @@
     -96.999668,
     39.715956
   ],
-  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-96.999668,39.715956]}
 }
