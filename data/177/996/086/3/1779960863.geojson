@@ -8,8 +8,8 @@
     "geom:bbox": "-73.587778,45.508889,-73.587778,45.508889",
     "geom:latitude": 45.508889,
     "geom:longitude": -73.587778,
-    "millsfield:count_images": 5,
-    "millsfield:count_objects": 3,
+    "millsfield:count_images": 6,
+    "millsfield:count_objects": 4,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2023,
     "sfomuseum:aircraft_model": "CRJ-200",
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1779960863,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1773945877,
     "wof:name": "Bombardier CRJ-200",
     "wof:parent_id": 1159293567,
     "wof:placetype": "custom",
@@ -62,5 +62,5 @@
     -73.587778,
     45.508889
   ],
-  "geometry": {"coordinates":[-73.587778,45.508889],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-73.587778,45.508889]}
 }
