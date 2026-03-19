@@ -8,8 +8,8 @@
     "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
-    "millsfield:count_images": 2,
-    "millsfield:count_objects": 2,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 4,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2025,
     "sfomuseum:aircraft_model": "737-900",
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1780261439,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1773945877,
     "wof:name": "Boeing 737-900",
     "wof:parent_id": 1159293593,
     "wof:placetype": "custom",
@@ -62,5 +62,5 @@
     -122.331537,
     47.673455
   ],
-  "geometry": {"coordinates":[-122.331537,47.673455],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.331537,47.673455]}
 }
