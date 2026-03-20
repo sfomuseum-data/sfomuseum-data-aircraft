@@ -8,6 +8,8 @@
     "geom:bbox": "-73.587778,45.508889,-73.587778,45.508889",
     "geom:latitude": 45.508889,
     "geom:longitude": -73.587778,
+    "millsfield:count_images": 1,
+    "millsfield:count_objects": 1,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 1438,
     "sfomuseum:aircraft_model": "CRJ200",
@@ -43,7 +45,7 @@
       }
     ],
     "wof:id": 1796314379,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1773997281,
     "wof:name": "Canadair CRJ200",
     "wof:parent_id": 1159294259,
     "wof:placetype": "custom",
@@ -60,5 +62,5 @@
     -73.587778,
     45.508889
   ],
-  "geometry": {"coordinates":[-73.587778,45.508889],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-73.587778,45.508889]}
 }

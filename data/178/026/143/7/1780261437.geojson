@@ -8,8 +8,8 @@
     "geom:bbox": "-1.247349,52.418788,-1.247349,52.418788",
     "geom:latitude": 52.418788,
     "geom:longitude": -1.247349,
-    "millsfield:count_images": 3,
-    "millsfield:count_objects": 1,
+    "millsfield:count_images": 4,
+    "millsfield:count_objects": 2,
     "mz:is_current": 1,
     "sfomuseum:aircraft_id": 2026,
     "sfomuseum:aircraft_model": "RJ85",
@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 1780261437,
-    "wof:lastmodified": 1721029696,
+    "wof:lastmodified": 1773997281,
     "wof:name": "Avro RJ85",
     "wof:parent_id": 1159293981,
     "wof:placetype": "custom",
@@ -58,5 +58,5 @@
     -1.247349,
     52.418788
   ],
-  "geometry": {"coordinates":[-1.247349,52.418788],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-1.247349,52.418788]}
 }
