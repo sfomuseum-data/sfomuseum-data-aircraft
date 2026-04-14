@@ -10,8 +10,8 @@
     "geom:latitude": 39.715956,
     "geom:longitude": -96.999668,
     "iso:country": "US",
-    "millsfield:count_images": 16,
-    "millsfield:count_objects": 16,
+    "millsfield:count_images": 17,
+    "millsfield:count_objects": 17,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1159291167,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1776156654,
     "wof:name": "Loening C-2 Air Yacht",
     "wof:parent_id": 85633793,
     "wof:placetype": "custom",
@@ -81,5 +81,5 @@
     -96.999668,
     39.715956
   ],
-  "geometry": {"coordinates":[-96.999668,39.715956],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-96.999668,39.715956]}
 }
