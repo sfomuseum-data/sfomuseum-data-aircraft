@@ -11,7 +11,7 @@
     "geom:longitude": -122.331537,
     "iso:country": "US",
     "millsfield:count_images": 748,
-    "millsfield:count_objects": 386,
+    "millsfield:count_objects": 387,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1159289653,
-    "wof:lastmodified": 1773268659,
+    "wof:lastmodified": 1787794326,
     "wof:name": "Boeing 707",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",

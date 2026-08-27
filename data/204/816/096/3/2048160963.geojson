@@ -1,5 +1,5 @@
 {
-  "id": 1729554311,
+  "id": 2048160963,
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
@@ -8,63 +8,53 @@
     "geom:bbox": "-122.331537,47.673455,-122.331537,47.673455",
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
-    "iso:country": "US",
-    "millsfield:count_images": 5,
-    "millsfield:count_objects": 4,
-    "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
-    "sfomuseum:aircraft_id": 1963,
-    "sfomuseum:aircraft_model": "787-8",
-    "sfomuseum:aircraft_modelname": "",
-    "sfomuseum:aircraft_name": "Boeing 787-8",
-    "sfomuseum:count_objects_public": 0,
+    "millsfield:count_images": 2,
+    "millsfield:count_objects": 1,
+    "mz:is_current": 1,
+    "sfomuseum:aircraft_id": 2103,
+    "sfomuseum:aircraft_model": "VC-25A",
+    "sfomuseum:aircraft_modelname": "Air Force One",
+    "sfomuseum:aircraft_name": "Boeing VC-25A Air Force One",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:manufacturer": "Boeing",
     "sfomuseum:manufacturer_id": 1159293593,
-    "sfomuseum:model": "787-8",
-    "sfomuseum:name": "Boeing  787-8",
     "sfomuseum:placetype": "aircraft",
-    "src:geom": "sfomuseum",
+    "src:geom": "mz",
     "wof:belongsto": [
-      85688623,
+      1159293593,
       102191575,
       85633793,
-      101730401,
       102086191,
-      1159293593
+      101730401,
+      85688623
     ],
-    "wof:breaches": [],
     "wof:country": "US",
-    "wof:created": 1606835799,
+    "wof:created": 1787791838,
     "wof:geomhash": "edbb74d99b044b4b44a64e901c4475a3",
     "wof:hierarchy": [
       {
-        "aircraft_id": 1729554311,
+        "aircraft_id": 2048160963,
+        "company_id": 1159293593,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086191,
-        "custom_id": 1729554311,
+        "custom_id": 2048160963,
         "enterprise_id": 1159293593,
-        "instrument_id": 1729554311,
         "locality_id": 101730401,
         "region_id": 85688623
       }
     ],
-    "wof:id": 1729554311,
+    "wof:id": 2048160963,
     "wof:lastmodified": 1787794433,
-    "wof:name": "Boeing 787-8",
-    "wof:parent_id": 101730401,
+    "wof:name": "Boeing VC-25A Air Force One",
+    "wof:parent_id": 1159293593,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "aircraft"
     ],
     "wof:repo": "sfomuseum-data-aircraft",
-    "wof:subordinate_of": [
-      1159293593
-    ],
     "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": []
+    "wof:supersedes": []
   },
   "bbox": [
     -122.331537,
