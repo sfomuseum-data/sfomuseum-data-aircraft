@@ -9,7 +9,7 @@
     "geom:latitude": 47.673455,
     "geom:longitude": -122.331537,
     "iso:country": "US",
-    "millsfield:count_images": 1,
+    "millsfield:count_images": 2,
     "millsfield:count_objects": 1,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1729554317,
-    "wof:lastmodified": 1716594175,
+    "wof:lastmodified": 1793258854,
     "wof:name": "Boeing 747-100 SUD",
     "wof:parent_id": 101730401,
     "wof:placetype": "custom",
@@ -73,5 +73,5 @@
     -122.331537,
     47.673455
   ],
-  "geometry": {"coordinates":[-122.331537,47.673455],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.331537,47.673455]}
 }
